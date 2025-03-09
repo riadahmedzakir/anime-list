@@ -3,17 +3,25 @@
   "version": "0.0.0",
   "private": true,
   "license": "MIT",
+  "homepage": "https://riadahmedzakir.github.io/",
   "scripts": {
     "start": "nx serve",
-    "build": "nx build",
+    "build": "nx build --base=scoreboard --prod && gulp",
     "test": "nx test"
   },
   "nx": {
     "includedScripts": []
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.7",
+    "@mui/lab": "^6.0.0-beta.30",
+    "@mui/material": "^6.4.7",
+    "@mui/x-data-grid": "^7.27.3",
     "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.0.0",
+    "react-router-dom": "^7.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",
@@ -42,6 +50,8 @@
     "eslint-plugin-jsx-a11y": "6.10.1",
     "eslint-plugin-react": "7.35.0",
     "eslint-plugin-react-hooks": "5.0.0",
+    "gulp": "^5.0.0",
+    "gulp-rename": "^2.0.0",
     "jsdom": "~22.1.0",
     "nx": "20.4.6",
     "prettier": "^2.6.2",

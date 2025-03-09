@@ -21,7 +21,7 @@ export default defineConfig({
   //  plugins: [ nxViteTsPaths() ],
   // },
   build: {
-    outDir: './dist/anime-list',
+    outDir: './docs',
     emptyOutDir: true,
     reportCompressedSize: true,
     commonjsOptions: {
