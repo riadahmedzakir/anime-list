@@ -61,7 +61,7 @@ const Details = (props: DetailstProps): JSX.Element => {
                                                             component="img"
                                                             height="100%"
                                                             width="100%"
-                                                            image={`${item.Cover}.jpg`}
+                                                            image={`./${import.meta.env.BASE_URL}/${item.Cover}.jpg`}
                                                         />
                                                     </CardActionArea>
                                                 </Card>
