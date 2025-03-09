@@ -5,13 +5,13 @@ import { EpisodesProps } from "./Episodes.props";
 import { EpisodeList } from "./../..//list-db/episode.list.db";
 
 const StyledDataGrid = styled(DataGrid)(() => ({
-    '& .scoreboard-table-row-last': {
+    '& .episode-list-table-row-last': {
         background: '#F2F1ED'
     },
-    '& .scoreboard-table-row': {
+    '& .episode-list-table-row': {
         background: '#F2F1ED'
     },
-    '& .scoreboard-header': {
+    '& .episode-list-header': {
         backgroundColor: '#000000',
         color: '#FFFFFF'
     },
@@ -93,7 +93,7 @@ const Episodes = (props: EpisodesProps): JSX.Element => {
         density={"compact"}
         isCellEditable={(params) => params.row.id !== rows.length}
         getRowClassName={(params) =>
-            params.row.id === rows.length ? 'scoreboard-table-row-last' : 'scoreboard-table-row'
+            params.row.id === rows.length ? 'episode-list-table-row-last' : 'episode-list-table-row'
         }
     />
 }
