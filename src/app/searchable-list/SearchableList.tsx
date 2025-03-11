@@ -3,9 +3,10 @@
 import SearchIcon from '@mui/icons-material/Search';
 import { Chip, FormControl, IconButton, InputAdornment, InputLabel, List, ListItem, ListItemButton, ListItemText, OutlinedInput } from "@mui/material";
 import { JSX, useState } from "react";
-import { AnimeList } from "./../../list-db/list.db";
 import { IAnimeList } from "../../list-db/db.model";
+import { AnimeList } from "./../../list-db/list.db";
 import { SearchableListProps } from './SearchableList.props';
+import PopOverFilter from './PopOverFilter';
 
 const SearchableList = (props: SearchableListProps): JSX.Element => {
     const { onSelect } = props;
@@ -30,8 +31,31 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
         onSelect(item);
     }
 
+    const handleFilter = (type: string, value: string) => {
+        console.log(value);
+        switch (type) {
+            case 'alphabet':
+                const alphabeticalResult = AnimeList.filter(x => x.Title.startsWith(value));
+                setList(alphabeticalResult);
+                break;
+            case 'genre':
+                const genreFilteredList = AnimeList.filter(x => x.Genre.some(g => g === value));
+                setList(genreFilteredList);
+                break;
+            case 'theme':
+                const themeFilteredList = AnimeList.filter(x => x.Theme.some(g => g === value));
+                setList(themeFilteredList);
+                break;
+            default:
+                setList(AnimeList);
+                break;
+        }
+    }
+
     return (
         <>
+            <PopOverFilter onFilter={handleFilter} />
+
             <FormControl sx={{ m: 1, width: '95%' }} variant="outlined">
                 <InputLabel htmlFor="anime-search">Search</InputLabel>
                 <OutlinedInput

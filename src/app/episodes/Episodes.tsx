@@ -43,7 +43,7 @@ const Episodes = (props: EpisodesProps): JSX.Element => {
                 field: x.name,
                 headerName: x.name,
                 width: x.width,
-                headerClassName: 'scoreboard-header',
+                headerClassName: 'episode-list-header',
                 headerAlign: 'center',
                 align: "center",
                 display: 'flex',
