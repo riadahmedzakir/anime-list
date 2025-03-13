@@ -1,5 +1,5 @@
-import { IAnimeList } from "src/list-db/db.model";
+import { IList } from "src/list-db/db.model";
 
 export interface SearchableListProps {
-    onSelect: (item: IAnimeList) => void;
+    onSelect: (item: IList, type: string) => void;
 }

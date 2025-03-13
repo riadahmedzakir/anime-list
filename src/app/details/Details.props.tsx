@@ -1,6 +1,7 @@
-import { IAnimeList } from "src/list-db/db.model";
+import { IList } from "src/list-db/db.model";
 
 export interface DetailstProps {
-    item?: IAnimeList;
+    item?: IList;
+    type: string;
     handleRelated: (title: string) => void
 }

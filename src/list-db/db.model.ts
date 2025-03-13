@@ -1,4 +1,4 @@
-export interface IAnimeList {
+export interface IList {
     Title: string;
     AlternateTitles: Array<string>;
     Descriptions: Array<string>;

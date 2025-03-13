@@ -1,8 +1,10 @@
 import { styled } from "@mui/material";
 import { DataGrid } from "@mui/x-data-grid";
 import { JSX, useEffect, useState } from "react";
+import { IEpisodeList } from "src/list-db/db.model";
+import { AnimeEpisodeList } from "../../list-db/anime-episode.list.db";
+import { HentaiEpisodeList } from "../../list-db/hentai-episode.list.db";
 import { EpisodesProps } from "./Episodes.props";
-import { EpisodeList } from "./../..//list-db/episode.list.db";
 
 const StyledDataGrid = styled(DataGrid)(() => ({
     '& .episode-list-table-row-last': {
@@ -27,10 +29,11 @@ const StyledDataGrid = styled(DataGrid)(() => ({
 }));
 
 const Episodes = (props: EpisodesProps): JSX.Element => {
-    const { title } = props;
+    const { title, type } = props;
 
     const [columns, setColumns] = useState<any>([]);
     const [rows, setRows] = useState<any>([]);
+    const [selectedList, setSelectedList] = useState<{ [key: string]: Array<IEpisodeList> }>();
 
     useEffect(() => {
         const headers = [
@@ -52,7 +55,7 @@ const Episodes = (props: EpisodesProps): JSX.Element => {
             }
         ));
 
-        const rows = EpisodeList[title]?.map((x, index) => (
+        const rows = selectedList?.[title]?.map((x, index) => (
             {
                 id: index,
                 ...x
@@ -61,7 +64,21 @@ const Episodes = (props: EpisodesProps): JSX.Element => {
 
         setColumns(columns);
         setRows(rows);
-    }, [title]);
+    }, [title, selectedList]);
+
+    useEffect(() => {
+        switch (type) {
+            case 'anime':
+                setSelectedList(AnimeEpisodeList);
+                break;
+            case 'hentai':
+                setSelectedList(HentaiEpisodeList);
+                break;
+            default:
+                setSelectedList(AnimeEpisodeList);
+                break;
+        }
+    }, [type])
 
     return <StyledDataGrid
         sx={{

@@ -4,7 +4,7 @@ import { Avatar, Card, CardActionArea, CardContent, CardMedia, Divider, Grid, Ty
 import Episodes from "../episodes/Episodes";
 
 const Details = (props: DetailstProps): JSX.Element => {
-    const { item, handleRelated } = props;
+    const { item, type, handleRelated } = props;
 
     return (
         <>
@@ -137,7 +137,7 @@ const Details = (props: DetailstProps): JSX.Element => {
                                     </Grid>
 
                                     <Grid item xs={8}>
-                                        <Episodes title={item.Title} />
+                                        <Episodes title={item.Title} type={type} />
                                     </Grid>
 
                                     {

@@ -5,14 +5,16 @@ import { JSX, useState } from "react";
 import SearchableList from "../searchable-list/SearchableList";
 import TopBar from "../top-bar/TopBar";
 import Details from "../details/Details";
-import { IAnimeList } from "../../list-db/db.model";
-import { AnimeList } from "./../..//list-db/list.db";
+import { IList } from "../../list-db/db.model";
+import { AnimeList } from "../../list-db/anime-list.db";
 
 const Home = (): JSX.Element => {
-  const [selected, setSelected] = useState<IAnimeList>();
+  const [selected, setSelected] = useState<IList>();
+  const [type, setType] = useState<string>('anime');
 
-  const handleSelect = (item: IAnimeList) => {
+  const handleSelect = (item: IList, type: string) => {
     setSelected(item);
+    setType(type);
   }
 
   const handleRelated = (title: string) => {
@@ -30,7 +32,7 @@ const Home = (): JSX.Element => {
           <SearchableList onSelect={handleSelect} />
         </Grid>
         <Grid item xs={10} sx={{ px: 2 }}>
-          <Details item={selected} handleRelated={handleRelated} />
+          <Details item={selected} type={type} handleRelated={handleRelated} />
         </Grid>
       </Grid>
     </>
