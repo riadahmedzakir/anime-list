@@ -293,7 +293,8 @@ export const HentaiList: Array<IList> = [
             "アラルガンド The Animation"
         ],
         "Descriptions": [
-            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+            "An-chan who works at a maid masseuse parlor pampers her crush and client Koide-kun exclusively. He might not be the coolest or the most confident like his friend Sataki-kun, but guess which one she loves?",
+            "School idol Aoyagi cheerfully sells sex tapes starring herself to a socially low-ranked student Nozaki. He wonders why she would sell such things to him and comes to a somewhat grim answer."
         ],
         "Episodes": 1,
         "Aired": "May 22, 2015",
@@ -1004,6 +1005,286 @@ export const HentaiList: Array<IList> = [
             "Space"
         ],
         "Cover": "112588l",
+        "Related": []
+    },
+    {
+        "Title": "15 Bishoujo Hyouryuuki",
+        "AlternateTitles": [
+            "The Story of 15 Beautiful Girls Adrift", "15美少女漂流記"
+        ],
+        "Descriptions": [
+            "After a heavy storm, Kazuma Shiraishi finds himself stranded on an uninhabited island somewhere in the Pacific. However, his situation may not be so unlucky, as 15 beautiful women are also marooned alongside him. Kazuma seizes the chance to have sex with these ladies, all while recording his raunchy deeds with three cameras he miraculously found lying on the shore."
+        ],
+        "Episodes": 3,
+        "Aired": "Aug 3, 2009 to May 2, 2011",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": [
+            `Anal`, `Harem`, `Teen`, `Tentacle`, `Young`
+        ],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "31333l",
+        "Related": []
+    },
+    {
+        "Title": "69: Itsuwari no Bishou",
+        "AlternateTitles": [
+            "69~偽りの微笑~"
+        ],
+        "Descriptions": [
+            "She is a girl with excellent grades, modest personality, reserved and smiling face. Midori Aoi is a smiling girl who has been making a desperate effort to produce a \"smiley face\". Today, Midori is enjoying a blissful moment of smiling and being loved not only by the opposite sex but also by the same sex. The result of the recent examination was an unexpected mistake, and she has fallen far from her position. Midori is in a hurry to find a way out of this situation, but her opponent is her homeroom teacher, Izumi Kuwabara, who is rumored to be a slacker. However, the opponent is much tougher than she had imagined, and she unintentionally uses the following method...... This is Ms. Yoshimura, the teacher's fiancée, isn't it? What is playing on Midori's phone is a scene of his teacher's fiancée, Maho Yoshimura, having fun with multiple students. Midori is brought to a dangerous negotiation with Izumi's leaping hands and bare flesh...... Midori realizes her blunder when she feels the pain of a towering rod poking deep into her first bud and twisting it......."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 22, 2024 to Apr 26, 2024",
+        "Studios": [
+            "Nur"
+        ],
+        "Genre": [
+            `Anal`, `Harem`, `Teen`, `Tentacle`, `Young`
+        ],
+        "Theme": [
+        ],
+        "Cover": "140947l",
+        "Related": []
+    },
+    {
+        "Title": "Accelerando: Datenshi-tachi no Sasayaki",
+        "AlternateTitles": [
+            "アッチェレランド ～堕天使たちの囁き～", "Accelerando: Whispers of Fallen Angels"
+        ],
+        "Descriptions": [
+            "Waitress Tamaki has sex with her playmate Kurono at the café she works for. Ignorant of their relationship, their common friend, Ohashi, visits the café as usual to see Tamaki whom he secretly loves. However, Kurono notices Ohashi's feelings. In order to incite him into confessing his feelings to her, Kurono molests Tamaki and makes her wait on him as she is. As she was sexually excited, she gives off a female's scent, which, in turn, excites Ohashi. Meanwhile, Tomoe, a friend of Kurono's appears... Will Ohashi be able to confess his love to Tamaki?"
+        ],
+        "Episodes": 4,
+        "Aired": "Jan 26, 2007 to Feb 26, 2010",
+        "Studios": [
+            "Flavors Soft", "Maboroshi Koubou"
+        ],
+        "Genre": [
+            `Harem`, `Hentai School`
+        ],
+        "Theme": [
+        ],
+        "Cover": "103881l",
+        "Related": []
+    },
+    {
+        "Title": "Advancer Tina",
+        "AlternateTitles": [
+            "Best of Kitty #1", "アドバンサー・ティナ"
+        ],
+        "Descriptions": [
+            "There is something very dangerous about planet Omega 13. Whatever it is, it's been killing Advancers sent out, one by one, to investigate. The Domestic Union of Arms is perplexed, so top DUA officer Mugal decides to give the job to the most dangerous, most independent, and most expendable Advancer they could find.",
+            "They find such an Advancer in the renegade Tina Owens. Currently incarcerated with a 2,000 year sentence for blowing up a planet, she is given a tempting offer. Instead of rotting in her cell, if she'll go to Omega 13, find and destroy any threats on the planet, and determine any exploitable resources for the Allied Earth Government, they'll let her go.",
+            "Knowing how dangerous Omega 13 appears to be (and thinking about what has yet to be discovered), how would you decide? Tina takes the job, and she sets off for the planet."
+        ],
+        "Episodes": 1,
+        "Aired": "Aug 21, 1996",
+        "Studios": [
+            "Arms"
+        ],
+        "Genre": [
+            `Horror`, `Monster`, `Tentacle`, `Tsundere`
+        ],
+        "Theme": [
+        ],
+        "Cover": "85963l",
+        "Related": []
+    },
+    {
+        "Title": "After... The Animation",
+        "AlternateTitles": [
+            "After... THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Three boys: Yuuichi, Takidani and Abiko. Three girls: Nagisa (Yuuichi's little sister), Kanami and Youko. This is the story of complicated feelings and love triangles between these six students during their last year in high school, as they discuss and settle down about their future, specially love."
+        ],
+        "Episodes": 2,
+        "Aired": "Aug 25, 2007 to Jan 25, 2008",
+        "Studios": [
+            "Melissa"
+        ],
+        "Genre": [
+            `Incest`, `Hentai School`, `Vanilla`
+        ],
+        "Theme": [
+        ],
+        "Cover": "22291l",
+        "Related": []
+    },
+    {
+        "Title": "Aisai Nikki",
+        "AlternateTitles": [
+            "愛妻日記"
+        ],
+        "Descriptions": [
+            "Sanae is the wife that anyone would be jealous of. She is young, very sexy and gentle.",
+            "However, after 4 years of marriage, her husband worries if is he good enough for his wife. For a long time he is not able to have a sex with Sanae, but she never complained about it. He starts to think of way to make his dear wife happy and finally asks for his friend to have a sex with his wife. While he's secretly watching his wife with other man, he starts to feel incredibly stimulated..."
+        ],
+        "Episodes": 1,
+        "Aired": "Dec 22, 2010",
+        "Studios": [
+            "G-Lam"
+        ],
+        "Genre": [
+            `Anal`, `Milf`, `Romance`, `Tsundere`
+        ],
+        "Theme": [
+        ],
+        "Cover": "113036l",
+        "Related": []
+    },
+    {
+        "Title": "Aki-Sora",
+        "AlternateTitles": [
+            "Akisora", "Autumn Sky", "あきそら", "Aki Sora"
+        ],
+        "Descriptions": [
+            "Sora Aoi has always been close with his siblings. But while Nami may be his twin sister, he and his older sister Aki share a different kind of relationship.",
+            "What began as an encounter with Aki in the bath led to a startling realization for Sora: he is in love with her. But while Sora is hesitant about his forbidden feelings, Aki confesses that she has always loved him. With their affections out in the open, the two begin a secret relationship."
+        ],
+        "Episodes": 1,
+        "Aired": "Dec 18, 2009",
+        "Studios": [
+            "Hoods Entertainment"
+        ],
+        "Genre": [
+            `Harem`, `Hentai School`, `Incest`, `Romance`, `Yuri`
+        ],
+        "Theme": [
+        ],
+        "Cover": "18611l",
+        "Related": []
+    },
+    {
+        "Title": "Aki-Sora: Yume no Naka",
+        "AlternateTitles": [
+            "Aki-Sora: Yume no Naka", "あきそら～夢の中～", "Aki-Sora: In a Dream"
+        ],
+        "Descriptions": [
+            "Siblings Aki and Sora Aoi have been in a secret relationship ever since they confessed their feelings to each other on a rainy day. Sora's twin sister Nami—unaware that his affections lie elsewhere—decides to have him join the Fashion Research Club at school in an attempt to set him up with their classmate, Kana Sumiya.",
+            "However, Nami's actions mask painful truths. While her motives appear like those of a good sister trying to help her brother finally get a girlfriend, she is harboring secret, forbidden feelings of her own."
+        ],
+        "Episodes": 2,
+        "Aired": "Jul 30, 2010 to Nov 17, 2010",
+        "Studios": [
+            "Hoods Entertainment"
+        ],
+        "Genre": [
+            `Harem`, `Hentai School`, `Incest`, `Romance`, `Yuri`, `Tsundere`
+        ],
+        "Theme": [
+        ],
+        "Cover": "24735l",
+        "Related": []
+    },
+    {
+        "Title": "Aku no Onna Kanbu",
+        "AlternateTitles": [
+            "悪の女幹部", "Evil Woman Executive"
+        ],
+        "Descriptions": [
+            "A princess is punished by her servant by being taken over by a spell that makes her obey his every command.",
+            "The princess is forced to have sex and masturbate in front of him while he tries to claim her throne."
+        ],
+        "Episodes": 2,
+        "Aired": "Nov 18, 2011 to Mar 23, 2012",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": [
+            `Harem`, `Incest`, `Monster`, `Tentacle`, `Yuri`
+        ],
+        "Theme": [
+        ],
+        "Cover": "103798l",
+        "Related": []
+    },
+    {
+        "Title": "Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!",
+        "AlternateTitles": [
+            "アマネェ！ ～トモダチンチでこんな事になるなんて！～", "MILF Assault Mode"
+        ],
+        "Descriptions": [
+            "Ryouichi goes to his friend Yuu's place to play video games, like they do sometimes. It turns out that Yuu's aunt Yui has come to visit, and she joins them. But it soon becomes clear that it's not a video game she wants to play with Ryouichi..."
+        ],
+        "Episodes": 1,
+        "Aired": "Dec 20, 2013",
+        "Studios": [
+            "Studio 1st"
+        ],
+        "Genre": [
+            `Femdom`, `Milf`
+        ],
+        "Theme": [
+        ],
+        "Cover": "90758l",
+        "Related": []
+    },
+    {
+        "Title": "Ana no Oku no Ii Tokoro",
+        "AlternateTitles": [
+            "穴の奥のいい秘部 [ところ]"
+        ],
+        "Descriptions": [
+            "A tsundere high school couple have some fairly vanilla sex, followed by the very un-vanilla saga of Kyouko’s infidelity to her husband, and her step-son Takuya’s quest to bring the whore to justice."
+        ],
+        "Episodes": 2,
+        "Aired": "Dec 12, 2014 to Feb 13, 2015",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": [
+            `Anal`, `BDSM`, `Incest`
+        ],
+        "Theme": [
+        ],
+        "Cover": "115192l",
+        "Related": []
+    },
+    {
+        "Title": "Anata no Shiranai Kangofu: Seiteki Byoutou 24-ji",
+        "AlternateTitles": [
+            "Anatano Shira Nai Kangofu", "あなたの知らない看護婦 ～性的病棟24時～", "Sex Starved Nurses"
+        ],
+        "Descriptions": [
+            "The main character has been hospitalized for medical checkup. As nurses take care of him kindly, his sexual desire gradually becomes bigger.... \"If they took care of my sexual desire as well, it would be great....\" One day, he receives an email from someone unknown. \"Do you know what will happen to the girls who have been sexually insulted completely?\" The email arouses his sexual desire, and he finally starts raping the nurses...."
+        ],
+        "Episodes": 2,
+        "Aired": "Mar 23, 2009 to Nov 25, 2009",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": [
+            `Milf`, `Tsundere`, `Yuri`
+        ],
+        "Theme": [
+        ],
+        "Cover": "17356l",
+        "Related": []
+    },
+    {
+        "Title": "Ane Koi: Suki Kirai Daisuki.",
+        "AlternateTitles": [
+            "姉恋 スキ・キライ・ダイスキ", "Sizzling Siblings"
+        ],
+        "Descriptions": [
+            "Yoshiharu Hayami has always been in love with his older sister Sana. However, his sister decides to leave their house for certain reasons, leaving Yoshiharu worried that his feelings for her might go unnoticed. Unwilling to let go of her, he musters up his courage to confess, as well as taking something very important to her..."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 15, 2013 to May 17, 2013",
+        "Studios": [
+            "Studio Prokion"
+        ],
+        "Genre": [
+            `Hentai School`, `Incest`,
+        ],
+        "Theme": [
+        ],
+        "Cover": "136397l",
         "Related": []
     }
 ].sort((a, b) => a.Title.localeCompare(b.Title));

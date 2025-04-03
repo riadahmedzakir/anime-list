@@ -54,12 +54,12 @@ export const HentaiEpisodeList: { [key: string]: Array<IEpisodeList> } = {
     "Abandon: 100 Nuki Shinai to Derarenai Fushigi na Kyoushitsu": [
         {
             Episode: "1",
-            Title: "Episode 1",
+            Title: "Darkness Sex Game",
             Aired: "Mar 11, 2022"
         },
         {
             Episode: "2",
-            Title: "Episode 2",
+            Title: "The Winner of the Game",
             Aired: "Nov 18, 2022"
         }
     ],
@@ -576,6 +576,157 @@ export const HentaiEpisodeList: { [key: string]: Array<IEpisodeList> } = {
             Episode: "1",
             Title: "Episode 1",
             Aired: "Oct 30, 2015"
+        }
+    ],
+    "15 Bishoujo Hyouryuuki": [
+        {
+            Episode: "1",
+            Title: "Tales of the 15 Beautiful Girls Who Drifted Ashore",
+            Aired: "Aug 3, 2009"
+        },
+        {
+            Episode: "2",
+            Title: "Heart-Thumping Harem Chapter",
+            Aired: "Aug 3, 2010"
+        },
+        {
+            Episode: "3",
+            Title: "Combo Sex on the Southern Island Chapter",
+            Aired: "May 2, 2011"
+        }
+    ],
+    "69: Itsuwari no Bishou": [
+        {
+            Episode: "1",
+            Title: "Sexual Desire",
+            Aired: "Feb 22, 2024"
+        },
+        {
+            Episode: "1",
+            Title: "An Unfamiliar Protrusion",
+            Aired: "Apr 26, 2024"
+        }
+    ],
+    "Accelerando: Datenshi-tachi no Sasayaki": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 26, 2007"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jan 26, 2007"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Feb 26, 2010"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Feb 26, 2010"
+        }
+    ],
+    "Advancer Tina": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 21, 1996"
+        },
+    ],
+    "After... The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 25, 2007"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jan 25, 2008"
+        }
+    ],
+    "Aisai Nikki": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 22, 2010"
+        }
+    ],
+    "Aki-Sora": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 18, 2009"
+        }
+    ],
+    "Aki-Sora: Yume no Naka": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 30, 2010"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Nov 17, 2010"
+        }
+    ],
+    "Aku no Onna Kanbu": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 18, 2011"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 23, 2012"
+        }
+    ],
+    "Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 20, 2013"
+        }
+    ],
+    "Ana no Oku no Ii Tokoro": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 12, 2014"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Feb 13, 2015"
+        }
+    ],
+    "Anata no Shiranai Kangofu: Seiteki Byoutou 24-ji": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 23, 2009"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Nov 25, 2009"
+        }
+    ],
+    "Ane Koi: Suki Kirai Daisuki.": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 15, 2013"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 17, 2013"
         }
     ]
 }
