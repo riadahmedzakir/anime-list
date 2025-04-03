@@ -14,9 +14,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio 1st"
         ],
-        "Genre": [
-            "Hentai School", "Romance"
-        ],
+        "Genre": ['Creampie', 'Fantasy', 'School Girl'],
         "Theme": [],
         "Cover": "135296l",
         "Related": []
@@ -34,7 +32,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio 1st"
         ],
-        "Genre": ['BBW', 'Femdom', 'Milf'],
+        "Genre": ['BBW', 'Femdom', 'Milf', 'Creampie', 'Fantasy', 'Blow Job'],
         "Theme": [],
         "Cover": "129808l",
         "Related": []
@@ -53,7 +51,7 @@ export const HentaiList: Array<IList> = [
             "Office TakeOut"
         ],
         "Genre": [
-            `Romance`, `Yuri`
+            'Ahegao', 'Big Boobs', 'Blow Job', 'Boob Job', 'Cosplay', 'Creampie', 'Dark Skin', 'Facial', 'Fantasy', 'Gangbang', 'Harem', 'Lactation', 'Monster', 'Orgy', 'Swimsuit', 'Vanilla', 'Yuri'
         ],
         "Theme": [],
         "Cover": "117134l",
@@ -73,7 +71,7 @@ export const HentaiList: Array<IList> = [
             "Studio 9 Maiami"
         ],
         "Genre": [
-            `Harem`, `Incest`, `Teen`, `Tsundere`, `Young`
+            'Ahegao', 'Blow Job', 'Incest', 'Loli', 'Vanilla'
         ],
         "Theme": [],
         "Cover": "103788l",
@@ -85,15 +83,8 @@ export const HentaiList: Array<IList> = [
             "Zトン人外アニメーション A Beautiful Greed Nulu Nulu"
         ],
         "Descriptions": [
-            "Based on the doujin manga by Z-ton.",
-            "The \"Anime\" proposes in the only episode four mini stories focused:",
-            "Fist Festa!",
-            "Focused on the story of how Fumi and Lea fell in love.",
-            "Fist Paragraph",
             "Fumi and Lea enjoy a well-deserved rest after a long period of work in the tavern playing a little role.",
-            "LIMB LEGION",
             "Otoko is determined to look for the phantom creatures of the \"Sea of Mist\" known as \"Underwater Organisms\" to appease his perverse desire.",
-            "Diamond LilyS!!",
             "Documentary about the semi-human female of the Orcas family named Kuku and about a male human named Haru."
         ],
         "Episodes": 1,
@@ -101,9 +92,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio 9 Maiami"
         ],
-        "Genre": [
-            `Beastiality`, `Furry`, `Milf`, `Teen`, `Tentacle`, `Young`
-        ],
+        "Genre": ['Big Boobs', 'Blow Job', 'Boob Job', 'Cosplay', 'Creampie', 'Facial', 'Fantasy', 'Hand Job', 'Loli', 'Monster', 'Rape', 'Tentacle'],
         "Theme": [],
         "Cover": "87913l",
         "Related": []
@@ -121,9 +110,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Rabbit Gate"
         ],
-        "Genre": [
-            `Harem`, `Hentai School`, `Tsundere`, `Yuri`
-        ],
+        "Genre": ['Anal', 'Creampie', 'Fantasy', 'Nurse', 'Blow Job'],
         "Theme": [],
         "Cover": "118631l",
         "Related": []
@@ -141,9 +128,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Seven"
         ],
-        "Genre": [
-            `Anal`, `Hentai School`
-        ],
+        "Genre": ['Anal', 'Big Boobs', 'Creampie', 'School Girl', 'Vanilla'],
         "Theme": [],
         "Cover": "103707l",
         "Related": []
@@ -162,9 +147,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Seven"
         ],
-        "Genre": [
-            `Hentai School`, `Romance`, `Tsundere`
-        ],
+        "Genre": ['Big Boobs', 'Blow Job', 'Cosplay', 'Creampie', 'Nurse', 'Plot', 'School Girl', 'Swimsuit', 'Vanilla'],
         "Theme": [],
         "Cover": "103793l",
         "Related": []
@@ -185,9 +168,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio 1st"
         ],
-        "Genre": [
-            `Anal`, `BDSM`, `Incest`
-        ],
+        "Genre": ['Ahegao', 'Bdsm', 'Big Boobs', 'Blow Job', 'Creampie', 'Dark Skin', 'Facial', 'Fantasy', 'Rape', 'School Girl', 'Tentacle', 'Threesome'],
         "Theme": [],
         "Cover": "105664l",
         "Related": []
@@ -199,16 +180,14 @@ export const HentaiList: Array<IList> = [
             "紫陽花の散ル頃に"
         ],
         "Descriptions": [
-            `Yuuta Yamano and Shinomiya Natsuha are dating. But it seems that he has no idea that she is hiding a secret relationship that gives her more satisfaction than dating him.`
+            "Yuuta Yamano and Shinomiya Natsuha are dating. But it seems that he has no idea that she is hiding a secret relationship that gives her more satisfaction than dating him."
         ],
         "Episodes": 1,
         "Aired": "Jan 29, 2021",
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            `BBW`, `BDSM`, `Hentai School`, `Tentacle`
-        ],
+        "Genre": ['Big Boobs', 'Blow Job', 'Boob Job', 'Creampie', 'Hand Job', 'Ntr', 'School Girl'],
         "Theme": [],
         "Cover": "109804l",
         "Related": []
@@ -227,9 +206,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            `Anal`, `BBW`, `BDSM`, `Gender Bender`
-        ],
+        "Genre": ['Big Boobs', 'Blow Job', 'Creampie', 'Gangbang', 'Glasses', 'Ntr', 'Swimsuit'],
         "Theme": [],
         "Cover": "118943l",
         "Related": []
@@ -250,9 +227,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            `Anal`, `Monster`, `Yuri`
-        ],
+        "Genre": ['Big Boobs', 'Blow Job', 'Creampie', 'Facial', 'Fantasy', 'Hand Job', 'Harem', 'Swimsuit'],
         "Theme": [],
         "Cover": "103799l",
         "Related": [
@@ -275,9 +250,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            `Monster`
-        ],
+        "Genre": ['Big Boobs', 'Blow Job', 'Creampie', 'Facial', 'Fantasy', 'Hand Job', 'Harem', 'Swimsuit'],
         "Theme": [],
         "Cover": "109606l",
         "Related": [
@@ -301,9 +274,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Office No. 8"
         ],
-        "Genre": [
-            `Femdom`
-        ],
+        "Genre": ['Big Boobs', 'Blow Job', 'Bdsm', 'Boob Job', 'Creampie', 'Facial', 'Ntr', 'School Girl'],
         "Theme": [],
         "Cover": "103801l",
         "Related": []
@@ -321,9 +292,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "MoMo Production"
         ],
-        "Genre": [
-            `Romance`, `Tsundere`
-        ],
+        "Genre": ['Big Boobs', 'Blow Job', 'Bdsm', 'Boob Job', 'Creampie', 'Facial', 'Hand Job', 'Harem', 'School Girl', 'Vanilla', 'Cosplay'],
         "Theme": [],
         "Cover": "82483l",
         "Related": []
@@ -341,9 +310,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "New Generation"
         ],
-        "Genre": [
-            `BDSM`, `Hentai School`, `Softcore`
-        ],
+        "Genre": ['Blow Job', 'Creampie', 'Foot Job', 'Masturbation', 'Reverse Rape', 'School Girl', 'Vanilla'],
         "Theme": [],
         "Cover": "103735l",
         "Related": []
@@ -362,9 +329,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "PoRO"
         ],
-        "Genre": [
-            `Harem`, `Hentai School`, `Incest`,
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Facial", "Harem", "Incest", "School Girl"],
         "Theme": [
             "Harem"
         ],
@@ -385,9 +350,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            `BBW`, `Incest`, `Milf`
-        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Creampie", "Hand Job", "Incest", "Lactation", "Masturbation", "Milf", "Ntr"],
         "Theme": [],
         "Cover": "141112l",
         "Related": []
@@ -398,7 +361,6 @@ export const HentaiList: Array<IList> = [
             "あねよめカルテット"
         ],
         "Descriptions": [
-            "Based of the game by Candy Soft. Summary of the game:",
             "The Hanabishi family and Hidaka family are next door neighbors.",
             "The fathers of both households could be called best friends, so they all get along like one big happy family. In particular, Hidaka family’s only son Kouki was raised lovingly by the four Hanabishi sisters like he was their own brother.",
             "One day, the Hanabishi and Hidaka parents were preparing for a long term overseas business trip together. Kantaro Hanabishi had only one problem holding him back from the trip; leaving his four daughters behind in Japan.",
@@ -421,9 +383,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "New Generation"
         ],
-        "Genre": [
-            `Harem`, `Incest`, `Romance`, `Tsundere`
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Facial", "Harem", "Incest", "Vanilla"],
         "Theme": [],
         "Cover": "103806l",
         "Related": []
@@ -461,9 +421,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Seven"
         ],
-        "Genre": [
-            `BBW`, `Milf`
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Dark Skin", "Facial", "Hand Job", "Threesome"],
         "Theme": [],
         "Cover": "114706l",
         "Related": []
@@ -483,9 +441,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Horannabi"
         ],
-        "Genre": [
-            'BDSM', 'Tentacle', 'Yuri'
-        ],
+        "Genre": ["Bdsm", "Horror", "Rape", "School Girl", "Tentacle", "Yuri"],
         "Theme": [
             "Mythology"
         ],
@@ -505,9 +461,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Circle Tribute"
         ],
-        "Genre": [
-            `Incest`, `Milf`,
-        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Incest", "Mind Break", "Ntr", "Rape"],
         "Theme": [],
         "Cover": "103722l",
         "Related": []
@@ -525,9 +479,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Ryuu M's"
         ],
-        "Genre": [
-            `BBW`, `BDSM`, `Milf`
-        ],
+        "Genre": ["Bdsm", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Creampie", "Hand Job", "Milf", "Ntr", "Toys"],
         "Theme": [],
         "Cover": "103812l",
         "Related": []
@@ -549,9 +501,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Blue bread"
         ],
-        "Genre": [
-            `Incest`, `Milf`, `Tsundere`
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Cosplay", "Creampie", "Milf", "Ntr"],
         "Theme": [],
         "Cover": "111165l",
         "Related": []
@@ -569,9 +519,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Blue bread"
         ],
-        "Genre": [
-            "Hentai School"
-        ],
+        "Genre": ["Creampie", "Blow Job", "School Girl"],
         "Theme": [],
         "Cover": "109216l",
         "Related": []
@@ -592,9 +540,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Magic Bus"
         ],
-        "Genre": [
-            `Hentai School`, `Romance`, `Tsundere`, `Yuri`
-        ],
+        "Genre": ["Big Boobs", "Creampie", "School Girl", "Tsundere", "Vanilla", "Yuri"],
         "Theme": [],
         "Cover": "127006l",
         "Related": []
@@ -612,9 +558,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            "Hentai School"
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Dark Skin", "Facial", "Hand Job", "School Girl"],
         "Theme": [],
         "Cover": "88511l",
         "Related": []
@@ -633,9 +577,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Collaboration Works"
         ],
-        "Genre": [
-            `Anal`, `Incest`, `Tsundere`
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Hand Job", "Incest"],
         "Theme": [],
         "Cover": "103863l",
         "Related": []
@@ -655,9 +597,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Seven"
         ],
-        "Genre": [
-            `Harem`, `Incest`, `Teen`, `Yuri`
-        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Boob Job", "Facial", "Gangbang", "Hand Job", "Harem", "Lactation", "Toys"],
         "Theme": [],
         "Cover": "63429l",
         "Related": []
@@ -676,9 +616,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Seven"
         ],
-        "Genre": [
-            `BDSM`, `Harem`, `Incest`, `Milf`, `Tsundere`
-        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Boob Job", "Cosplay", "Creampie", "Harem", "Incest", "Vanilla"],
         "Theme": [],
         "Cover": "87885l",
         "Related": []
@@ -696,9 +634,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Anime Antenna Iinkai"
         ],
-        "Genre": [
-            `BDSM`, `Hentai School`, `Incest`, `Incest`, `Yuri`
-        ],
+        "Genre": ["Ahegao", "Bdsm", "Big Boobs", "Blow Job", "Bdsm", "Creampie", "Harem", "Incest", "Rape", "Reverse Rape", "School Girl", "Toys"],
         "Theme": [],
         "Cover": "103728l",
         "Related": []
@@ -717,9 +653,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Blue bread"
         ],
-        "Genre": [
-            `Anal`, `BDSM`, `Incest`
-        ],
+        "Genre": ["Anal", "Big Boobs", "Creampie", "Gangbang", "Incest", "Masturbation"],
         "Theme": [],
         "Cover": "114079l",
         "Related": []
@@ -739,9 +673,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio 1st"
         ],
-        "Genre": [
-            `Hentai School`, `Romance`, `Teen`, `Tsundere`
-        ],
+        "Genre": ["Blow Job", "Creampie", "School Girl"],
         "Theme": [],
         "Cover": "87282l",
         "Related": []
@@ -760,9 +692,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio 1st"
         ],
-        "Genre": [
-            `Hentai School`, `Romance`, `Teen`, `Tsundere`
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "School Girl", "Toys"],
         "Theme": [],
         "Cover": "87283l",
         "Related": []
@@ -782,9 +712,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            `BBW`, `Hentai School`
-        ],
+        "Genre": ["Creampie", "Milf", "Blow Job", "Big Boobs", "School Girl", "Hand Job", "Masturbation", "Threesome"],
         "Theme": [],
         "Cover": "141992l",
         "Related": []
@@ -803,9 +731,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "MB planning"
         ],
-        "Genre": [
-            `Anal`, `Harem`, `Incest`, `Milf`, `Romance`, `Tsundere`
-        ],
+        "Genre": ["Ahegao", "Anal", "Blow Job", "Bdsm", "Boob Job", "Creampie", "Facial", "Gangbang", "Hand Job", "Harem", "Mind Break", "Ntr", "Rape", "Toys"],
         "Theme": [],
         "Cover": "71680l",
         "Related": [
@@ -828,9 +754,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "MB planning"
         ],
-        "Genre": [
-            `Anal`, `Harem`, `Incest`, `Milf`, `Romance`, `Tsundere`
-        ],
+        "Genre": ["Ahegao", "Anal", "Blow Job", "Bdsm", "Boob Job", "Creampie", "Facial", "Gangbang", "Hand Job", "Harem", "Mind Break", "Ntr", "Rape", "Toys"],
         "Theme": [],
         "Cover": "115731l",
         "Related": [
@@ -854,9 +778,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio 1st"
         ],
-        "Genre": [
-            `Anal`, `BDSM`, `Incest`, `Romance`, `Tsundere`
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Hand Job", "Vanilla"],
         "Theme": [],
         "Cover": "103749l",
         "Related": []
@@ -874,9 +796,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio 1st"
         ],
-        "Genre": [
-            "Milf"
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie"],
         "Theme": [],
         "Cover": "112315l",
         "Related": []
@@ -895,9 +815,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Jumondo"
         ],
-        "Genre": [
-            `Milf`, `Romance`, `Shota`, `Shotacon`, `Tsundere`
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Cosplay", "Creampie", "Facial", "Shota"],
         "Theme": [
             "School"
         ],
@@ -917,9 +835,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Blue bread"
         ],
-        "Genre": [
-            `BDSM`, `Milf`, `Shota`, `Shotacon`
-        ],
+        "Genre": ["Bdsm", "Big Boobs", "Blow Job", "Creampie", "Facial", "Hand Job", "Masturbation", "Reverse Rape", "Shota"],
         "Theme": [],
         "Cover": "103714l",
         "Related": []
@@ -937,9 +853,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "New Generation"
         ],
-        "Genre": [
-            `Anal`, `BDSM`, `Monster`, `Tsundere`, `Yuri`
-        ],
+        "Genre": ["Blow Job", "Creampie", "Loli"],
         "Theme": [],
         "Cover": "124542l",
         "Related": []
@@ -957,9 +871,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "add some"
         ],
-        "Genre": [
-            `BDSM`, `Shota`, `Shotacon`
-        ],
+        "Genre": ["Bdsm", "Big Boobs", "Bdsm", "Creampie", "Dark Skin", "Shota"],
         "Theme": [],
         "Cover": "104315l",
         "Related": []
@@ -977,9 +889,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            `BBW`, `Hentai School`, `Romance`
-        ],
+        "Genre": ["Big Boobs", "Creampie", "Blow Job", "School Girl"],
         "Theme": [],
         "Cover": "131460l",
         "Related": []
@@ -998,9 +908,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "G-Lam"
         ],
-        "Genre": [
-            `Anal`
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Harem", "Monster", "Tsundere", "Vanilla"],
         "Theme": [
             "Space"
         ],
@@ -1020,9 +928,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            `Anal`, `Harem`, `Teen`, `Tentacle`, `Young`
-        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Creampie", "Facial", "Harem", "Tentacle"],
         "Theme": [
             "Harem"
         ],
@@ -1042,9 +948,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Nur"
         ],
-        "Genre": [
-            `Anal`, `Harem`, `Teen`, `Tentacle`, `Young`
-        ],
+        "Genre": ["Big Boobs", "Creampie", "Blow Job", "Rape", "School Girl"],
         "Theme": [
         ],
         "Cover": "140947l",
@@ -1063,9 +967,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Flavors Soft", "Maboroshi Koubou"
         ],
-        "Genre": [
-            `Harem`, `Hentai School`
-        ],
+        "Genre": ["Big Boobs", "Creampie", "Gangbang", "Harem", "Incest", "Loli", "Rape", "School Girl", "Shota", "Toys", "Yuri"],
         "Theme": [
         ],
         "Cover": "103881l",
@@ -1086,9 +988,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Arms"
         ],
-        "Genre": [
-            `Horror`, `Monster`, `Tentacle`, `Tsundere`
-        ],
+        "Genre": ["Horror", "Monster", "Rape", "Tentacle"],
         "Theme": [
         ],
         "Cover": "85963l",
@@ -1107,9 +1007,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Melissa"
         ],
-        "Genre": [
-            `Incest`, `Hentai School`, `Vanilla`
-        ],
+        "Genre": ["Creampie", "Facial", "Incest", "School Girl", "Vanilla"],
         "Theme": [
         ],
         "Cover": "22291l",
@@ -1129,9 +1027,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "G-Lam"
         ],
-        "Genre": [
-            `Anal`, `Milf`, `Romance`, `Tsundere`
-        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Foot Job", "Masturbation", "Milf", "Ntr", "Threesome", "Toys"],
         "Theme": [
         ],
         "Cover": "113036l",
@@ -1151,9 +1047,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Hoods Entertainment"
         ],
-        "Genre": [
-            `Harem`, `Hentai School`, `Incest`, `Romance`, `Yuri`
-        ],
+        "Genre": ["Hand Job", "Incest", "School Girl", "Softcore", "Yuri"],
         "Theme": [
         ],
         "Cover": "18611l",
@@ -1173,9 +1067,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Hoods Entertainment"
         ],
-        "Genre": [
-            `Harem`, `Hentai School`, `Incest`, `Romance`, `Yuri`, `Tsundere`
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Cosplay", "Incest", "School Girl", "Softcore", "Yuri"],
         "Theme": [
         ],
         "Cover": "24735l",
@@ -1195,9 +1087,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            `Harem`, `Incest`, `Monster`, `Tentacle`, `Yuri`
-        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Bdsm", "Creampie", "Facial", "Fantasy", "Harem", "Monster", "Rape", "Tentacle", "Toys", "Yuri"],
         "Theme": [
         ],
         "Cover": "103798l",
@@ -1216,9 +1106,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio 1st"
         ],
-        "Genre": [
-            `Femdom`, `Milf`
-        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Hand Job", "Milf", "Ntr"],
         "Theme": [
         ],
         "Cover": "90758l",
@@ -1237,9 +1125,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio 9 Maiami"
         ],
-        "Genre": [
-            `Anal`, `BDSM`, `Incest`
-        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Creampie", "Lactation", "Milf", "Ntr", "School Girl"],
         "Theme": [
         ],
         "Cover": "115192l",
@@ -1258,9 +1144,7 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "T-Rex"
         ],
-        "Genre": [
-            `Milf`, `Tsundere`, `Yuri`
-        ],
+        "Genre": ["Big Boobs", "Bdsm", "Gangbang", "Rape", "Toys", "Yuri"],
         "Theme": [
         ],
         "Cover": "17356l",
@@ -1279,12 +1163,1108 @@ export const HentaiList: Array<IList> = [
         "Studios": [
             "Studio Prokion"
         ],
-        "Genre": [
-            `Hentai School`, `Incest`,
-        ],
+        "Genre": ["Big Boobs", "Creampie", "Incest", "Masturbation", "School Girl"],
         "Theme": [
         ],
         "Cover": "136397l",
+        "Related": []
+    },
+    {
+        "Title": "Ane Kyun!: Joshi ga Ie ni Kita!",
+        "AlternateTitles": [
+            "Ane Kyun!: Joshi ga Ie ni Kita!", "姉キュン！ ～女子が家に来た！～", "Sinful Sis"
+        ],
+        "Descriptions": [
+            "Honoka arrived at home with snacks, juice and candies which are her brother's, named Hirokazu, favorite stuff. However, she noticed there has been an unexpected guest – Akazaki. She attends the same class as Hirokazu and for that matter he invited her for a study session and Honoka misunderstood her as his girlfriend. Will Hirokazu make up with his sister in a secret way while Akazaki is still in their house?"
+        ],
+        "Episodes": 1,
+        "Aired": "Aug 29, 2014",
+        "Studios": [
+            "Studio 1st"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Harem", "Incest", "Vanilla", "Yuri"],
+        "Theme": [
+        ],
+        "Cover": "103807l",
+        "Related": []
+    },
+    {
+        "Title": "Aneimo",
+        "AlternateTitles": [
+            "Four for Foreplay", "あねいも", "Square Sisters"
+        ],
+        "Descriptions": [
+            "Takumi lives next to Mizuki and Satsuki's house. They have been good friends since they were kids, going shopping and skiing together. One day, Kazuyoshi, Takumi's father, brings two girls, Saori and Yui, back to their house, and accepts them as new family members. At first, he is confused, but gradually becomes closer to them..."
+        ],
+        "Episodes": 2,
+        "Aired": "Aug 25, 2008 to Dec 25, 2008",
+        "Studios": [
+            "Flavors Soft"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Incest"],
+        "Theme": [
+        ],
+        "Cover": "26861l",
+        "Related": []
+    },
+    {
+        "Title": "Ane Jiru The Animation: Shirakawa Sanshimai ni Omakase",
+        "AlternateTitles": [
+            "Anejiru The Animation", "姉汁 THE ANIMATION～白川三姉妹におまかせ～"
+        ],
+        "Descriptions": [
+            "After living with his grandparents for 10 years, Yuu Shirakawa moves back in with his mother. As it turns out, she has remarried. Her new husband has three beautiful, young daughters who are now going to be Yuu's stepsisters. Due to the nature of his work, Yuu's now-stepfather is often away from home, leaving the house to his children to use as they please.",
+            "As he settles in his new room, Yuu notices a mysterious package addressed to him. Inside, he finds a glass bottle labeled \"Vial of Inanna,\" which apparently contains a deadly curse he is now afflicted with. The only way to lift the curse is to collect a significant amount of female bodily fluids while leaving their owners unaware of its existence. As horrible and difficult to fulfill as that may sound, Yuu soon realizes that the presence of three more-than-willing-to-cooperate girls in an empty house might be helpful."
+        ],
+        "Episodes": 2,
+        "Aired": "Dec 22, 2006 to Mar 23, 2007",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Cosplay", "Creampie", "Facial", "Fantasy", "Foot Job", "Hand Job", "Harem", "Incest", "Shota", "Toys"],
+        "Theme": [
+        ],
+        "Cover": "103804l",
+        "Related": []
+    },
+    {
+        "Title": "Ane Jiru 2 The Animation: Shirakawa Sanshimai ni Omakase",
+        "AlternateTitles": [
+            "Anejiru 2 The Animation", "姉汁2 THE ANIMATION~白川三姉妹におまかせ~"
+        ],
+        "Descriptions": [
+            "After living with his grandparents for 10 years, Yuu Shirakawa moves back in with his mother. As it turns out, she has remarried. Her new husband has three beautiful, young daughters who are now going to be Yuu's stepsisters. Due to the nature of his work, Yuu's now-stepfather is often away from home, leaving the house to his children to use as they please.",
+            "As he settles in his new room, Yuu notices a mysterious package addressed to him. Inside, he finds a glass bottle labeled \"Vial of Inanna,\" which apparently contains a deadly curse he is now afflicted with. The only way to lift the curse is to collect a significant amount of female bodily fluids while leaving their owners unaware of its existence. As horrible and difficult to fulfill as that may sound, Yuu soon realizes that the presence of three more-than-willing-to-cooperate girls in an empty house might be helpful."
+        ],
+        "Episodes": 2,
+        "Aired": "Nov 26, 2010 to Feb 25, 2011",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Blow Job", "Boob Job", "Cosplay", "Futanari", "Toys", "Yuri"],
+        "Theme": [
+        ],
+        "Cover": "26729l",
+        "Related": []
+    },
+    {
+        "Title": "Aneki no Kounai Kaikinbi",
+        "AlternateTitles": [
+            "アネキの口内解禁日"
+        ],
+        "Descriptions": [
+            "When 23-year-old Hirose Anna finds out that her little brother masturbates with her dirty underwear, she decides to take things a step further by allowing him to see her do naughty things as well. Each time the situations escalate until she comes out and tells him that as his big sister she will take responsibility for his sexual curiosity. She allows him to do anything with her except for proper sex; yet as his requests get dirtier each time, she remains determined to take responsibility and keep things going no matter what."
+        ],
+        "Episodes": 1,
+        "Aired": "Feb 17, 2012",
+        "Studios": [
+            "Okumaza"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Facial", "Gangbang", "Hand Job", "Incest"],
+        "Theme": [
+        ],
+        "Cover": "103809l",
+        "Related": []
+    },
+    {
+        "Title": "Angel Blade",
+        "AlternateTitles": [
+            "The Destroyer of Darkness", "エンジェル・ブレイド"
+        ],
+        "Descriptions": [
+            "The surface of Earth has been rendered unlivable. Due to years upon years of pollution, humanity has been forced to build cities to rise above the planet's filthy surface and adapt to this new way of life. Not only this, but there is also a thriving kingdom of mutants lurking below the billowing clouds of smog and pollution.",
+            "The leader of these mutated monstrosities is a powerful, busty woman known as Phantom Lady. She dispatches her minions to attack the people above, taking advantage of and raping young women. The police are fully aware of these demon rapists, but know nothing of their origins or how to stop them. Their only hope lays within their city's mysterious, magical, and sexually explicit savior, Angel Blade. With her deadly sword, provocative costume, and strong sense of justice, this jiggling juggernaut of justice will appear whenever necessary to vanquish the Phantom Lady's demonic horde－if she can gain control of her hormones, that is!"
+        ],
+        "Episodes": 3,
+        "Aired": "Dec 14, 2001 to Apr 11, 2003",
+        "Studios": [
+            "Front Line", "Studio G-1Neo"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Dark Skin", "Facial", "Fantasy", "Futanari", "Gangbang", "Hand Job", "Harem", "Monster", "Rape", "Scat", "Yuri"],
+        "Theme": [
+        ],
+        "Cover": "31291l",
+        "Related": []
+    },
+    {
+        "Title": "Angel Blade Punish!",
+        "AlternateTitles": [
+            "エンジェルブレイドパニッシュ！", "Angel Blade : La Punition Ultime"
+        ],
+        "Descriptions": [
+            "Moena was a normal college girl until she discovered that she had special powers hidden within her body by her father. When Dark Mother and her army of sexy demom women threaten the virgins of the world, Moena transforms into the naked masked heroine Angel Blade. Moena's stepmother, the weightly endowed Kyoka, is kidnapped by Dark Mother. With the help of a team of barely dressed heroines, Angel Blade storms the demon's stronghold. With the help of the dark-skinned succubus Nail, a former villian, they reach the heart of evil and face off with Dark Mother herself."
+        ],
+        "Episodes": 3,
+        "Aired": "Dec 29, 2004 to Sep 9, 2005",
+        "Studios": [
+            "Asahi Production"
+        ],
+        "Genre": ["Big Boobs", "Bdsm", "Cosplay", "Futanari", "Monster", "Rape"],
+        "Theme": [
+        ],
+        "Cover": "94201l",
+        "Related": []
+    },
+    {
+        "Title": "Angelium",
+        "AlternateTitles": [
+            "アンジェリウム"
+        ],
+        "Descriptions": [
+            "Zeus was an omniscient and omnipotent god who rules Heaven where gods lived. However, he was a pervert who had a wish to flirt with young angels not being known by his wife, Hera.",
+            "He came up with an idea to make use of the promotion examination took place every three years. Three angels, Yu, Miki, and Chado-ko came down to the earth to take the exams. When they began to work as part-time jobs at the flower shop, the severe trials occurred one after another.",
+            "Zeus was taking care of them secretly. However it’s not from his kindness, but from his pervert desire. But, his activities were known in the lower world..."
+        ],
+        "Episodes": 2,
+        "Aired": "Sep 25, 2004 to Nov 25, 2004",
+        "Studios": [
+            "APPP"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Cosplay", "Fantasy", "Hand Job", "Loli", "Mind Control", "Monster", "Rape"],
+        "Theme": [],
+        "Cover": "111806l",
+        "Related": []
+    },
+    {
+        "Title": "Arbeit Shiyo!!",
+        "AlternateTitles": [
+            "Let's Arbeit!",
+            "アルバイトしよっ!!"
+        ],
+        "Descriptions": [
+            "Ep 1 – Hara Sayuri is a student who lives alone in a cheap apartment. In order to earn money to pay the rent, she holds a number of part-time jobs. Today, she is washing the upper windows of a building. Coincidentally, she finds herself cleaning the windows of the office in which her elder brother is working. However, when she calls out to him, she sees him get an erection! Seeing that, Sayuri removes her clothes and proceeds to strike provocative poses...",
+            "Ep 2 - Kagurazaka Fumina is a cosplay-lover and works part-time for a maid service. Today, she has been working since morning for her new master. Cooking, laundry, and cleaning. While tidying up, she is suddenly assaulted from behind by the master! Although she tries to resist, she gets turned on when he massages her big breasts. Finally, from behind...",
+            "Ep 3 – Since graduating from university, Oshikiri Momoka has been working as a home tutor. One day, she falls asleep while tutoring a cute boy. Seeing her like that arouses his sexual desires. When Momoka realises, she slowly removes her clothing, and the lesson on becoming an adult begins!",
+            "(Source: shippuudenvsonepiece)"
+        ],
+        "Episodes": 3,
+        "Aired": "Apr 19, 2010",
+        "Studios": [
+            "Studio Ten Carat"
+        ],
+        "Genre": [
+            "Milf"
+        ],
+        "Theme": [],
+        "Cover": "103815l",
+        "Related": []
+    },
+    {
+        "Title": "Asa kara Zusshiri Milk Pot",
+        "AlternateTitles": [
+            "Thick and Creamy Milk Pot",
+            "朝からずっしり・ミルクポット"
+        ],
+        "Descriptions": [
+            "The life of a futanari girl and the various indecent acts she commits in order to temper her uncontrollable sexual urges."
+        ],
+        "Episodes": 2,
+        "Aired": "Aug 5, 2011 to Jan 27, 2012",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Anal", "Facial", "Futanari", "Gangbang", "Masturbation", "Rape", "School Girl"],
+        "Theme": [],
+        "Cover": "103816l",
+        "Related": []
+    },
+    {
+        "Title": "BaBuKa: Gokudou no Tsuma",
+        "AlternateTitles": [
+            "Yakuza's Secrets of Sex",
+            "BaBuKa -極道の妻-"
+        ],
+        "Descriptions": [
+            "The sexual adventures of various mature women."
+        ],
+        "Episodes": 2,
+        "Aired": "Oct 21, 2011 to Nov 18, 2011",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Boob Job", "Creampie", "Rape"],
+        "Theme": [],
+        "Cover": "103820l",
+        "Related": []
+    },
+    {
+        "Title": "Bakunyuu Maid Kari",
+        "AlternateTitles": [
+            "Hunting for Bakunyuu Maids, Bakunyuu Maid Gari",
+            "爆乳メイド狩り"
+        ],
+        "Descriptions": [
+            "Miwako Shirasaki is hired by her schoolmate Ai to work by her side at a maid cafe.",
+            "But none of them know that somewhere in Akihabara an underground organisation called \"Maid masters\" abduct young waitresses to confine and rape them..."
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 24, 2009 to Jul 24, 2009",
+        "Studios": [
+            "Studio Ten Carat"
+        ],
+        "Genre": ["Big Boobs", "Bdsm", "Gangbang", "Lactation", "Rape", "Toys", "Yuri"],
+        "Theme": [],
+        "Cover": "112622l",
+        "Related": []
+    },
+    {
+        "Title": "Choukou Tenshi Escalayer",
+        "AlternateTitles": [
+            "Beat Angel Escalayer",
+            "超昂天使エスカレイヤー"
+        ],
+        "Descriptions": [
+            "Sayuka Kouenji, is the Escalayer, guardian of the Earth against the dark forces of the Dielast. By her side is the android Madoka, and it is Madoka's job to track and recharge the source of Sayuka's power, the Doki Doki Dynamo. Located within Sayuka's body, the Doki Doki Dynamo can only be recharged when Sayuka experiences a high level of sexual arousal which, until recently, Madoka has been able to provide her. With unacceptably low energy levels facing them, Madoka brings in the assistance of Kyohei Yanase, a boy from Sayuka's school. Kyohei once harboured a crush for Sayuka, and his sexual prowess could not have come sooner. For now arrayed against these three defenders of the Earth is the Dielast version of the escalayer, the FM77, who is ruthless in combat, and brimming with violent desire."
+        ],
+        "Episodes": 3,
+        "Aired": "Sep 27, 2002 to Mar 28, 2003",
+        "Studios": [
+            "Chaos Project"
+        ],
+        "Genre": ["Anal", "Bdsm", "Cosplay", "Creampie", "Harem", "Loli", "Orgy", "Rape", "School Girl", "Tentacle", "Yuri"],
+        "Theme": [
+            "Mythology",
+            "Super Power"
+        ],
+        "Cover": "23188l",
+        "Related": []
+    },
+    {
+        "Title": "Choukou Sennin Haruka",
+        "AlternateTitles": [
+            "Beat Blades Haruka",
+            "超昂閃忍ハルカ"
+        ],
+        "Descriptions": [
+            "Takamaru is a student at the Ten Treasure Academy, living an ordinary school life, seeking romances which are constantly interfered by Shihoudou Narika (the daughter of his apartment manager). One day, he fell in love at first sight with a transfer student named Takamori Haruka. On that very night, Takamaru and Narika became pursued by a group of mysterious ninja. Just when they thought all hope is lost, Haruka appeared in kunoichi attire. Haruka referred to Takamaru as \"young boss\", and asked him to do H stuff towards her. This gave her superhuman power that enabled her to defeat the mysterious ninjas.",
+            "However, this was just the beginning of a very long battle."
+        ],
+        "Episodes": 3,
+        "Aired": "Aug 25, 2009 to Sep 17, 2010",
+        "Studios": [
+            "Lyrics"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Futanari", "Rape", "School Girl", "Tentacle"],
+        "Theme": [],
+        "Cover": "20854l",
+        "Related": []
+    },
+    {
+        "Title": "Angel Core: Tenshi-tachi no Sumika",
+        "AlternateTitles": [
+            "Angel Core",
+            "ANGEL CORE エンゼル・コア～天使たちの住処～"
+        ],
+        "Descriptions": [
+            "This first entry in the Angel Core series follows a young soldier (fighting for a fictional, futuristic empire) as he's transferred to a secret military installation, where's he surprised to discover that his new job will be having sex with gorgeous young \"Angels,\" a group of genetically unique women who need regular intercourse to nurture their powers."
+        ],
+        "Episodes": 2,
+        "Aired": "Jan 25, 2003 to Apr 25, 2003",
+        "Studios": [
+            "Shura"
+        ],
+        "Genre": ["Anal", "Bdsm", "Blow Job", "Fantasy", "Loli", "Orgy", "Rape", "Toys"],
+        "Theme": [
+            "Historical",
+            "Mecha",
+            "Military"
+        ],
+        "Cover": "116158l",
+        "Related": []
+    },
+    {
+        "Title": "Bible Black",
+        "AlternateTitles": [
+            "Bible Black",
+            "Bible Black: Night of the Walpulgiss",
+            "バイブルブラック"
+        ],
+        "Descriptions": [
+            "Every school has secrets, but few leave a stain that won't wash out. In a certain school, there was once a fun club centered around magic but had turned into murder and a lust for power. Sealed and willfully forgotten, the resulting evil of that day remained chained in the school's basement. Twelve years later, high school student Taki Minase, while inspecting the place where the incident took place, uncloaks the secret plastered in blood—a book of magic called \"Black Bible.\" Trying his luck with its love curses, he soon finds out the magic proves real and easily penetrates the hearts and bodies of his fellow classmates.",
+            "The resulting intercourse leaves the student body very vocal, and Minase's acts do not go unnoticed. What was at first a simple stroke of curiosity becomes much larger and harder to control. Fully swallowed by the unshackled darkness, everyone he knows becomes a victim, including his childhood friend Kurumi Imari. Torn apart, Minase finally realizes his mistakes and that he must reverse them in time if he ever hopes for him and Imari to come together."
+        ],
+        "Episodes": 6,
+        "Aired": "Jul 21, 2001 to Jun 25, 2003",
+        "Studios": [
+            "Studio Jam"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Bdsm", "Creampie", "Facial", "Fantasy", "Futanari", "Gangbang", "Harem", "Inflation", "Rape", "Reverse Rape", "School Girl", "Toys", "Yuri"],
+        "Theme": [],
+        "Cover": "8547l",
+        "Related": []
+    },
+    {
+        "Title": "Bible Black Gaiden",
+        "AlternateTitles": [
+            "Bible Black Origins",
+            "バイブルブラック 外伝"
+        ],
+        "Descriptions": [
+            "After their rejected request to create a formal student magic club, Hiroko Takashiro, Saki Shidou, and Rie Morita are forced to continue practicing witchcraft in their free time only. One day, Rie comes across a dusty, hand-written book. Found on a sales pile in an antique shop, the manuscript seems to be nothing more than a foreign curiosity.",
+            "Upon translating the book, the girls discover simple spells designed to bend an unsuspecting victim to the user's will and impose one's sexual desires on them. Realizing they have come into possession of a mighty weapon, the group begins fulfilling different requests of other students—be it for love, vengeance, or sexual desire. As the situation spirals out of control, the magic club gradually transforms into a cult of blood, lust, and human sacrifice."
+        ],
+        "Episodes": 2,
+        "Aired": "May 25, 2002 to Aug 25, 2002",
+        "Studios": [
+            "Studio Jam"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Creampie", "Hand Job", "Harem", "Incest", "Monster", "Rape", "School Girl", "Tentacle", "Yuri"],
+        "Theme": [],
+        "Cover": "116166l",
+        "Related": []
+    },
+    {
+        "Title": "Bible Black Only Version",
+        "AlternateTitles": [
+            "Bible Black Only",
+            "バイブルブラック・オンリー版"
+        ],
+        "Descriptions": [
+            "Bible Black Only explores the sexual misadventures of the supporting cast from the main Bible Black series. Miss Takashiro reminisces on her demonic capture, Itoh reveals her sadistic side, and Saeki is stalked by her classmates. Bible Black Only is a series of stand-alone episodes that do not affect the continuity of the main Bible Black series, and it contains footage that was previously only available on the R2 Bible Black Perfect Collection DVD.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 3,
+        "Aired": "Jul 25, 2005 to Apr 25, 2006",
+        "Studios": [
+            "Studio Jam"
+        ],
+        "Genre": ["Blow Job", "Creampie", "Harem", "Masturbation", "Rape", "Yuri"],
+        "Theme": [],
+        "Cover": "116168l",
+        "Related": []
+    },
+    {
+        "Title": "Bible Black: New Testament",
+        "AlternateTitles": [
+            "Bible Black: New Testament",
+            "Shin Bible Black, Bible Black: Revival, New Bible Black",
+            "新バイブルブラック"
+        ],
+        "Descriptions": [
+            "Several years have passed since the Walpugis Night incident and several bizarre serial murder cases have occured in the metropolitan area. Dead bodies of couples are discovered murdered during sexual intercourse. The women didn't have any external injuries, but the men were completely burned and carbonized except one part... their genitals. To solve these bizarre incidents, a special detective team called \"Tokken\" is deployed. Included amongst the members of Tokken is Imari who had experienced the events of Walpugis Night. While investigating the incident, they found a mysterious phrase, \"Spear of Longinus,\" and a strange cult group that is related to the incidents.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 6,
+        "Aired": "Apr 25, 2004 to Dec 25, 2007",
+        "Studios": [
+            "Studio Jam"
+        ],
+        "Genre": ["Anal", "Blow Job", "Bdsm", "Cosplay", "Creampie", "Futanari", "Gangbang", "Horror", "Mind Control", "Rape"],
+        "Theme": [],
+        "Cover": "116167l",
+        "Related": []
+    },
+    {
+        "Title": "Bi-chiku Beach: Nangoku Nyuujoku Satsueikai",
+        "AlternateTitles": [
+            "ビーチクビーチ～南国乳辱撮影会～"
+        ],
+        "Descriptions": [
+            "An idol group called \"Live un veil\" has been formed. The members are Nagisa, Nanami and Kaede, and a tour with fans to a southern island has been announced. All TVs and magazines pick it up and a lot of fans apply for it. The main character is Ryou. One day, he receives a parcel, which includes a film, an envelope and some erotic swimsuits for girls. \"What is it!?\" He opens the envelope, and finds a ticket to the tour and a letter. It says, \"If you take a photo using this film, their libido will become uncontrollable....\" \"Does this mean take a photo of the idols and make them wear these erotic swimsuits?\" But he is more interested in taking part in the tour because he also applied for it. He doesn't care if the film is fake or not. \"Great! I'll spend a happy time with them!\" Like this, he participates in the tour..."
+        ],
+        "Episodes": 1,
+        "Aired": "May 27, 2011",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": [
+            "Hentai"
+        ],
+        "Theme": [],
+        "Cover": "117136l",
+        "Related": []
+    },
+    {
+        "Title": "Bikyaku Seido Kaichou Ai",
+        "AlternateTitles": [
+            "美脚性奴会長 亜衣"
+        ],
+        "Descriptions": [
+            "A caddie for the student council can only put up with so many insults before he starts wanting revenge. In this case it comes in the form of blackmail, sex, and a satisfied leg fetish."
+        ],
+        "Episodes": 1,
+        "Aired": "Mar 28, 2014",
+        "Studios": [
+            "Oz Inc."
+        ],
+        "Genre": ["Big Boobs", "Cosplay", "Facial", "Foot Job", "Rape", "School Girl", "Toys"],
+        "Theme": [],
+        "Cover": "103887l",
+        "Related": []
+    },
+    {
+        "Title": "Binkan Athlete",
+        "AlternateTitles": [
+            "びんかんアスリート"
+        ],
+        "Descriptions": [
+            "Shigeru is a university student. He likes to play sports and works at a sports gym part-time. One day, Ayako, a massager, suddenly tells him, \"You've got golden fingers! You must have a special talent for massaging! \"He is taken to a massage room and ordered to give Asaka, a famous beach volleyball player, a massage. He doesn't know what to do, but he gives her a massage. However, she suddenly goes out of the room angrily. He has no idea what's wrong with him, but Ayako says, \"Why don't you get her to reach orgasm?\" and she gives him erotic massage lessons. Like this, his life as a massager begins..."
+        ],
+        "Episodes": 1,
+        "Aired": "Dec 18, 2009",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Dark Skin", "Facial"],
+        "Theme": [],
+        "Cover": "17214l",
+        "Related": []
+    },
+    {
+        "Title": "Mofukuzuma",
+        "AlternateTitles": [
+            "Mourning Wife, Mofuku Tsuma, Landlady Mie, Birei Okami Mie",
+            "喪服妻"
+        ],
+        "Descriptions": [
+            "Honami's husband, an older man named Satoshi, died in their honeymoon. Honami's dream for a happy family with him is crushed but that's not all the trouble she has to face. Satoshi's sister, Kayoko, sees Honami as responsible for his death and believes that she killed him so she can inherit his fortune. Now she plans on taking revenge and driving Honami away. Manabu, who was raised by Kayoko now finds himself pushed to help her on her revenge but Honami is still dedicated on fulfilling Satoshi's family dream with what is left from his family even if she has to take Kayoko's hate."
+        ],
+        "Episodes": 2,
+        "Aired": "Oct 29, 2010 to Apr 29, 2011",
+        "Studios": [
+            "Schoolzone"
+        ],
+        "Genre": ["Anal", "Blow Job", "Creampie", "Harem", "Incest", "Milf", "Rape", "Toys", "Yuri"],
+        "Theme": [],
+        "Cover": "104722l",
+        "Related": []
+    },
+    {
+        "Title": "Bishoku-ke no Rule",
+        "AlternateTitles": [
+            "卑触家のルール"
+        ],
+        "Descriptions": [
+            "Serious and responsible, Reyna wants to financially help her single mother. She signs up for a dating app to earn extra money on paid dates. Full of worries and worries, the girl goes on a first date, where she tries to negotiate like an adult, but quickly succumbs to the promise of good money. The man turns out to be her uncle, businessman Yuma. After the conversation, he grabs the confused niece by the hand and for some reason leads her to a public toilet."
+        ],
+        "Episodes": 2,
+        "Aired": "Nov 29, 2024 to February 28, 2025",
+        "Studios": [
+            "Nur"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Rape"],
+        "Theme": [],
+        "Cover": "145163l",
+        "Related": []
+    },
+    {
+        "Title": "Blind Night",
+        "AlternateTitles": [
+            "ブラインドナイト"
+        ],
+        "Descriptions": [
+            "When Yoji, a college student finds a demonic book, he decides to follow its writings and make a female student - Rie, his sexual slave. However, he's not satisified with only one slave."
+        ],
+        "Episodes": 3,
+        "Aired": "Nov 22, 2002 to Jul 23, 2004",
+        "Studios": [
+            "C&S Production"
+        ],
+        "Genre": ["Anal", "Blow Job", "Bdsm", "Facial", "Hand Job", "Rape", "School Girl"],
+        "Theme": [],
+        "Cover": "114515l",
+        "Related": []
+    },
+    {
+        "Title": "Bloods: Inraku no Ketsuzoku 2",
+        "AlternateTitles": [
+            "Bloods～淫落の血族2～"
+        ],
+        "Descriptions": [
+            "The Sagimiya family is cursed in that its members are sexually aroused in the presence of another of the same bloodline. Sagimiya Misaki and her elder twin, Shun, are both disgusted over this and have sworn to resist the calling of their blood. However, Shun loses his composure and goes to their elder sister, Kagu, for release. After Misaki finds out, she too loses her resolve and seeks out Shun."
+        ],
+        "Episodes": 2,
+        "Aired": "Jul 29, 2011 to Nov 25, 2011",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Bdsm", "Creampie", "Harem", "Incest", "Rape", "Rimjob", "Toys"],
+        "Theme": [],
+        "Cover": "116680l",
+        "Related": []
+    },
+    {
+        "Title": "Guren",
+        "AlternateTitles": [
+            "Blood Shadow",
+            "Crimson Lotus, Red Lotus, BloodShadow",
+            "紅蓮"
+        ],
+        "Descriptions": [
+            "In a world where demons lurk behind every shadow, ready to ravage any woman who crosses their path, murder and bloodshed are a way of life. A team of feisty female fighters known as the Crimson Lotus is humanity's last hope for survival. When tragedy strikes and one of their members is slaughtered, it's time for the Crimson Lotus to destroy the demons at their source, and bathe the underworld in the blood of vengeance!"
+        ],
+        "Episodes": 3,
+        "Aired": "Sep 7, 2001 to Mar 29, 2002",
+        "Studios": [
+            "AT-2"
+        ],
+        "Genre": ["Comedy", "Monster", "Rape", "Toys", "Yuri"],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "113065l",
+        "Related": []
+    },
+    {
+        "Title": "Boku ni Harem Sexfriend ga Dekita Riyuu",
+        "AlternateTitles": [
+            "How I made a Harem of Sex Friends",
+            "僕にハーレムセフレが出来た理由"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 0,
+        "Aired": "Jun 28, 2024 to ?",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Big Boobs", "Creampie", "Fantasy", "Blow Job", "School Girl"],
+        "Theme": [],
+        "Cover": "142717l",
+        "Related": []
+    },
+    {
+        "Title": "Boy Meets Harem The Animation",
+        "AlternateTitles": [
+            "ボーイ・ミーツ・ハーレム THE ANIMATION"
+        ],
+        "Descriptions": [
+            "An unfortunate accident befalls Naoki Shindou and his whole class when lightning strikes the airplane they were traveling in for their overseas trip. The only ones able to survive are himself, his classmates Momoka Kiriyama and Kana Miyamura, their teacher Sanae Nakazono, and the flight attendant Asami Kakinuma. Now stranded on an island and far from rescue, it might prove to be too challenging to keep their sexual instincts at bay."
+        ],
+        "Episodes": 1,
+        "Aired": "Oct 31, 2014",
+        "Studios": [
+            "Office TakeOut"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Gangbang", "Harem", "School Girl", "Tentacle", "Yuri"],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "103891l",
+        "Related": []
+    },
+    {
+        "Title": "Brandish",
+        "AlternateTitles": [
+            "Brandish"
+        ],
+        "Descriptions": [
+            "Twiska enjoys visiting local towns and draining the villagers of their cum. Everything is going along well until she encounters Theo, the legendary Hero destined to defeat her. Theo is a cute shouta and addictively good at sex. Now Twiska isn't sure anymore whether she wants to kill him or keep him for herself."
+        ],
+        "Episodes": 2,
+        "Aired": "Jun 22, 2012 to Aug 24, 2012",
+        "Studios": [
+            "Studio Eromatick"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Bdsm", "Comedy", "Creampie", "Facial", "Fantasy", "Gangbang", "Masturbation", "Monster", "Rape", "Reverse Rape", "Shota"],
+        "Theme": [],
+        "Cover": "44694l",
+        "Related": []
+    },
+    {
+        "Title": "Bubble de House de Marumarumaru The Animation",
+        "AlternateTitles": [
+            "バブルdeハウスde○○○ THE ANIMATION"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 1,
+        "Aired": "Aug 30, 2024 to ?",
+        "Studios": [
+            "Seven"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Creampie", "Blow Job"],
+        "Theme": [],
+        "Cover": "143211l",
+        "Related": []
+    },
+    {
+        "Title": "Bust to Bust: Chichi wa Chichi ni",
+        "AlternateTitles": [
+            "Bust to Bust－ちちはちちに－"
+        ],
+        "Descriptions": [
+            "Based on the manga by Yasui Riosuke. Contains minimal animation."
+        ],
+        "Episodes": 3,
+        "Aired": "Oct 15, 2010 to Mar 7, 2014",
+        "Studios": [
+            "add some"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Comedy", "Creampie", "Facial", "School Girl", "Vanilla"],
+        "Theme": [],
+        "Cover": "103893l",
+        "Related": []
+    },
+    {
+        "Title": "Buta Himesama",
+        "AlternateTitles": [
+            "Queen Meets Orc",
+            "豚姫様"
+        ],
+        "Descriptions": [
+            "A Queen is turned into being a sex slave for her new King."
+        ],
+        "Episodes": 1,
+        "Aired": "Aug 26, 2011",
+        "Studios": [
+            "Seven"
+        ],
+        "Genre": ["Ahegao", "Anal", "Big Boobs", "Boob Job", "Dark Skin", "Lactation", "Monster", "Rape", "Shota", "Yuri"],
+        "Theme": [],
+        "Cover": "85298l",
+        "Related": []
+    },
+    {
+        "Title": "Asgaldh: Waikyoku no Testament",
+        "AlternateTitles": [
+            "F-Force",
+            "Asgaldh: The Distortion Testament",
+            "アスガルド～歪曲のテスタメント～"
+        ],
+        "Descriptions": [
+            "The gorgeous, supernaturally powered Alicia has been kidnapped by demons and enslaved for their unspeakably perverted pleasures. Her only hope for survival is a team of busty barbarians known as the F-Force. Each fabulous fighting female has her own style and deadly weapon of choice, but all share a love of danger and excitement - and there will be plenty of both as they fight to rescue their comrade from the ravages of evil!",
+            "(Source: RightStuf)"
+        ],
+        "Episodes": 3,
+        "Aired": "Oct 26, 2001 to Apr 5, 2002",
+        "Studios": [
+            "Mook Animation"
+        ],
+        "Genre": ["Blow Job", "Cosplay", "Fantasy", "Harem", "Horror", "Monster", "Rape", "Tentacle"],
+        "Theme": [],
+        "Cover": "112603l",
+        "Related": []
+    },
+    {
+        "Title": "Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi",
+        "AlternateTitles": [
+            "Buta no Gotoki Sanzoku ni Torawarete Shojo wo Ubawareru Kyonyuu Himekishi & Onna Senshi: Zettai Chinpo Nanka ni Maketari Shinai!! The Animation",
+            "豚の如き山賊に捕らわれて処女を奪われる巨乳姫騎士&女戦士 ~絶対チ●ポなんかに負けたりしない!!~ THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Based on the erotic game by Erectlip."
+        ],
+        "Episodes": 1,
+        "Aired": "Jan 30, 2015",
+        "Studios": [
+            "Seven"
+        ],
+        "Genre": ["Ahegao", "Anal", "Big Boobs", "Blow Job", "Boob Job", "Creampie", "Dark Skin", "Fantasy", "Lactation", "Monster", "Rape"],
+        "Theme": [],
+        "Cover": "71649l",
+        "Related": []
+    },
+    {
+        "Title": "Cafe Junkie",
+        "AlternateTitles": [
+            "カフェ・ジャンキー"
+        ],
+        "Descriptions": [
+            "Even though Masaru is about to graduate from a technical college pretty soon he still has no job. One and only pleasure for him is to spend time at a cafe called \"Hidamari\". The cafe is owned by his childhood friend's Nanami and Kurumi's parents and they are working there too. One day, he learns another one of his childhood friends is coming back to his town. He says \"I wanna meet her soon.\". Triggered by his word, Nanami and Kurumi start to approach him in a very different way than they ever did before..."
+        ],
+        "Episodes": 2,
+        "Aired": "Oct 31, 2008 to May 29, 2009",
+        "Studios": [
+            "Suzuki Mirano"
+        ],
+        "Genre": ["Blow Job", "Boob Job", "Creampie", "Harem", "Vanilla"],
+        "Theme": [],
+        "Cover": "103862l",
+        "Related": []
+    },
+    {
+        "Title": "Cambrian",
+        "AlternateTitles": [
+            "カンブリアン"
+        ],
+        "Descriptions": [
+            "Dr. Yamagishi was expelled from an academic society because he had tried to make a human clone. Next theme of his study was a new human species Cambrian. He made himself a test target. However, he turned into a chunk of grotesque flesh, and it began to rape women by its tentacles."
+        ],
+        "Episodes": 2,
+        "Aired": "Nov 25, 2005 to May 25, 2006",
+        "Studios": [
+            "Studio Jam"
+        ],
+        "Genre": ["Anal", "Bdsm", "Horror", "Monster", "Rape", "School Girl", "Tentacle"],
+        "Theme": [],
+        "Cover": "37477l",
+        "Related": []
+    },
+    {
+        "Title": "Cartagra: Tsuki Gurui no Yamai",
+        "AlternateTitles": [
+            "Cartagra: Disease of Moon Confusion, Karutagura ~Tsuki Kyou Ino Byou~",
+            "カルタグラ ツキ狂イノ病"
+        ],
+        "Descriptions": [
+            "The hero of this story is Takashiro Shugo. An ex-police officer that is now unemployed and freeloading at a brothel. From time to time he takes on detective work from his former superior. As the story starts off, a missing persons case is dumped onto him. The person he is supposed to find is Kohzuki Yura. A girl he had an intimate relationship with before being sent off to war. While all this is being played out, a series of brutal killings occur in the background. As they strike closer to home, Shugo is no longer able to turn a blind eye and is dragged into the spiraling web of events."
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 25, 2009 to Jun 25, 2009",
+        "Studios": [
+            "Blue Cat"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Bdsm", "Hand Job", "Horror", "Rape"],
+        "Theme": [],
+        "Cover": "113175l",
+        "Related": []
+    },
+    {
+        "Title": "Cele Kano",
+        "AlternateTitles": [
+            "Lady Does Butler",
+            "セレ・カノ"
+        ],
+        "Descriptions": [
+            "During summer holidays, Katsuragi reports to the Tsubaratera household to work as a butler in accordance to his grandfather's will. There, he meets the spoiled and willful Tsubaratera Kotoha."
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 20, 2012 to Jul 20, 2012",
+        "Studios": [
+            "Y.O.U.C"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Masturbation", "Reverse Rape", "School Girl"],
+        "Theme": [],
+        "Cover": "103895l",
+        "Related": []
+    },
+    {
+        "Title": "Cherry & Gal's↑↑",
+        "AlternateTitles": [
+            "Cherry＆GAL’s↑↑"
+        ],
+        "Descriptions": [
+            "A story about a girl that can't socialize with her group because they only talk about sex. After seeing how she feels, her friend tries to help her by letting her have sex with her younger brother, so that she knows what the experience is like and can participate in the conversations of the group."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 9, 2018 to Mar 9, 2018",
+        "Studios": [
+            "BreakBottle"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Foot Job", "Hand Job", "Incest", "Reverse Rape", "School Girl", "Shota"],
+        "Theme": [],
+        "Cover": "103736l",
+        "Related": []
+    },
+    {
+        "Title": "Chicchana Onaka",
+        "AlternateTitles": [
+            "Chiccha na Onaka",
+            "ちっちゃなおなか"
+        ],
+        "Descriptions": [
+            "Based on the adult manga by Ayumu Shouji."
+        ],
+        "Episodes": 3,
+        "Aired": "Oct 2, 2015 to Jul 1, 2016",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Blow Job", "Creampie", "Loli", "School Girl", "Vanilla"],
+        "Theme": [],
+        "Cover": "110179l",
+        "Related": []
+    },
+    {
+        "Title": "Chichiiro Toiki",
+        "AlternateTitles": [
+            "Chichi-iro Toiki",
+            "乳色吐息"
+        ],
+        "Descriptions": [
+            "Based on the adult manga by Goban.",
+            "Takashi's childhood friend Saya and his younger sister Mika may not see him as a real man, but just being around them has been provoking him more and more. Following yet another failed proposal on his part, Saya feels bad for him and lets him grope her breasts, but it quickly gets out of hand and turns into a full night of full-blown sex!"
+        ],
+        "Episodes": 2,
+        "Aired": "May 30, 2014 to Sep 5, 2014",
+        "Studios": [
+            "Rabbit Gate"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Comedy", "Creampie", "Facial", "Harem", "Gangbang", "Incest", "Ntr", "Tsundere", "Vanilla"],
+        "Theme": [],
+        "Cover": "115148l",
+        "Related": []
+    },
+    {
+        "Title": "Chii-chan Kaihatsu Nikki",
+        "AlternateTitles": [
+            "Chii-chan's Development Diary",
+            "ちーちゃん開発日記"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 2,
+        "Aired": "Jan 31, 2020 to Feb 7, 2020",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Incest", "Rape", "School Girl"],
+        "Theme": [],
+        "Cover": "103705l",
+        "Related": []
+    },
+    {
+        "Title": "Chiisana Tsubomi no Sono Oku ni...",
+        "AlternateTitles": [
+            "小さな蕾のその奥に......"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 4,
+        "Aired": "Apr 24, 2020 to May 27, 2022",
+        "Studios": [
+            "Nur"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Facial", "Harem"],
+        "Theme": [],
+        "Cover": "107865l",
+        "Related": []
+    },
+    {
+        "Title": "Chijoku no Seifuku",
+        "AlternateTitles": [
+            "恥辱の制服"
+        ],
+        "Descriptions": [
+            "Based on the game by Bishop."
+        ],
+        "Episodes": 2,
+        "Aired": "May 20, 2016 to Jun 17, 2016",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Creampie", "Facial", "Masturbation", "Rape", "Toys"],
+        "Theme": [],
+        "Cover": "115153l",
+        "Related": []
+    },
+    {
+        "Title": "Chikan no Licence",
+        "AlternateTitles": [
+            "Molester License, Pervert License",
+            "痴漢のライセンス"
+        ],
+        "Descriptions": [
+            "This is the Forbidden License! The bearer of this license is able to create a field within which any manner of indecent or immoral acts seem normal. It is the ultimate permit for licentiousness.",
+            "Within the confines of a train car, the girls have nowhere to run. At the moment when their resistance dies, their despair changes to pleasure..."
+        ],
+        "Episodes": 2,
+        "Aired": "Nov 16, 2012 to Jan 18, 2013",
+        "Studios": [
+            "Studio 1st"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Facial", "Incest", "Rape", "Toys"],
+        "Theme": [],
+        "Cover": "42909l",
+        "Related": []
+    },
+    {
+        "Title": "Chinetsu Karte: The Devilish Cherry",
+        "AlternateTitles": [
+            "恥熱カルテ The Devilish Cherry"
+        ],
+        "Descriptions": [
+            "Chinetsu Karte is a tale about a young man who seduces the very beautiful nurse assigned to his room while he's in the hospital. He soon has her coming back again and again until she becomes his sex slave. In time, he makes a move on other nurses and even on one of the female doctors in the hospital until they, too, come under his spell."
+        ],
+        "Episodes": 2,
+        "Aired": "Jun 26, 2009 to Jul 31, 2009",
+        "Studios": [
+            "Suzuki Mirano"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Bdsm", "Creampie", "Facial", "Gangbang", "Hand Job", "Harem", "Mind Break", "Rape", "Toys"],
+        "Theme": [],
+        "Cover": "103899l",
+        "Related": []
+    },
+    {
+        "Title": "Chizuru-chan Kaihatsu Nikki",
+        "AlternateTitles": [
+            "Chizuru-chan's Development Diary",
+            "千鶴ちゃん開発日記"
+        ],
+        "Descriptions": [
+            "An honor student who finds herself blackmailed by a scrotum professor who takes her virginity and does various perverse things."
+        ],
+        "Episodes": 6,
+        "Aired": "Oct 1, 2021 to Dec 3, 2021",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Bdsm", "Creampie", "Rape", "School Girl", "Toys"],
+        "Theme": [],
+        "Cover": "117872l",
+        "Related": []
+    },
+    {
+        "Title": "Choisuji",
+        "AlternateTitles": [
+            "ちょいすじ"
+        ],
+        "Descriptions": [
+            "Two stories, one about a little and innocent girl thats being lectured by her teacher but with a \"hand-pet\" since she gives more attention to what it says than to the teacher itself, so the teacher decides to get advantage of that point and introduce the little girl to adult matters. And the second about two friends that attend to a doctor to get some examinations but in order to give a test they must also get introduced into adult love."
+        ],
+        "Episodes": 2,
+        "Aired": "Jun 22, 2007 to Nov 23, 2007",
+        "Studios": [
+            "Blue Cat"
+        ],
+        "Genre": ["School Girl", "Yuri"],
+        "Theme": [],
+        "Cover": "20227l",
+        "Related": []
+    },
+    {
+        "Title": "Chu Shite Agechau: Oshikake Oneesan no Seikou Chiryou",
+        "AlternateTitles": [
+            "Chu(治癒)してあげちゃう ~押しかけお姉さんの性交恥療~"
+        ],
+        "Descriptions": [
+            "Based on the erotic game by Syrup: Honey Sweet."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 22, 2013 to Jun 28, 2013",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Hand Job", "Harem", "Incest", "Masturbation"],
+        "Theme": [],
+        "Cover": "103901l",
+        "Related": []
+    },
+    {
+        "Title": "Hitozuma Cosplay Kissa",
+        "AlternateTitles": [
+            "Cosplay Cafe",
+            "Wives Cosplay Cafe",
+            "人妻コスプレ喫茶"
+        ],
+        "Descriptions": [
+            "There's a coffee shop that attracts a lot of customers, but not because of the coffee, but because of the waitresses who are all married women wearing outfits that normal waitresses wouldn't wear.",
+            "But the story focuses more on the love life of Asahina Tomoya who's the temporary owner of the coffee shop."
+        ],
+        "Episodes": 2,
+        "Aired": "Mar 25, 2004 to Aug 25, 2004",
+        "Studios": [
+            "Aiko"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Comedy", "Cosplay", "Creampie", "Hand Job", "Harem"],
+        "Theme": [],
+        "Cover": "103998l",
+        "Related": []
+    },
+    {
+        "Title": "Hitozuma Cosplay Kissa 2: Hitozuma LoveLove",
+        "AlternateTitles": [
+            "Cosplay Cafe 2",
+            "人妻コスプレ喫茶2～人妻ラブラブ・コスプレOVA～"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 2,
+        "Aired": "Aug 24, 2007 to Nov 22, 2007",
+        "Studios": [
+            "Space-X"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Comedy", "Cosplay", "Creampie", "Hand Job", "Harem"],
+        "Theme": [],
+        "Cover": "7049l",
+        "Related": []
+    },
+    {
+        "Title": "Cosplay Change: Pure-kei Joshidaisei no Kiken na Seiheki",
+        "AlternateTitles": [
+            "コスプレチェンジ ~ピュア系女子大生の危険な性癖~"
+        ],
+        "Descriptions": [
+            "Aima Imoko is a young college student with a hobby of cosplay. Luckily there is a cosplay shop near her where she would like to try on a few outfits. On site she meets a hardcore otaku shop owner who also cosplays. Both are deep in their roles and she is a bit revealing, what are they supposed to do?"
+        ],
+        "Episodes": 4,
+        "Aired": "Nov 26, 2021 to Jun 24, 2022",
+        "Studios": [
+            "Mousou Senka"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Cosplay", "Fantasy", "Hand Job", "School Girl"],
+        "Theme": [],
+        "Cover": "118088l",
+        "Related": []
+    },
+    {
+        "Title": "Class de Otoko wa Boku Hitori!?",
+        "AlternateTitles": [
+            "クラスで男は僕一人!?"
+        ],
+        "Descriptions": [
+            "Machida-kun is a young man who was transferred to a school where, until last year, only girls studied. And to his bad luck he is still the only boy in his class. And maybe this will disturb your concentration on studies a lot..."
+        ],
+        "Episodes": 1,
+        "Aired": "Mar 3, 2023",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Creampie", "Blow Job", "School Girl"],
+        "Theme": [],
+        "Cover": "131564l",
+        "Related": []
+    },
+    {
+        "Title": "Cosplay Roshutsu Kenkyuukai",
+        "AlternateTitles": [
+            "コスプレ露出研究会"
+        ],
+        "Descriptions": [
+            "Aya, a waitress at a cosplay cafe, receives an E-mail asking her to go to an anime convention, for which she'll be paid as much as she wants, but with one condition: to obey all the males' orders. She ends up going out of curiosity, but the normal perversity among the otaku and her own dirty thoughts turn the photo session into an exhibitionism session."
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 22, 2011 to Jul 22, 2011",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Gangbang", "Lactation", "Softcore", "Vanilla"],
+        "Theme": [],
+        "Cover": "103906l",
+        "Related": []
+    },
+    {
+        "Title": "Creamy Pie",
+        "AlternateTitles": [
+            "くりぃみぃパイ"
+        ],
+        "Descriptions": [
+            "A series of short stories, based on the erotic manga by Emily, involving high school students and their love lives."
+        ],
+        "Episodes": 2,
+        "Aired": "Oct 16, 2015 to Dec 11, 2015",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Harem", "Loli", "Ntr", "School Girl"],
+        "Theme": [],
+        "Cover": "103907l",
+        "Related": []
+    },
+    {
+        "Title": "Crimson Girls: Chikan Shihai",
+        "AlternateTitles": [
+            "クリムゾンガールズ～痴漢支配～"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 3,
+        "Aired": "May 25, 2012 to Sep 20, 2015",
+        "Studios": [
+            "Studio Eromatick",
+            "Rabbit Gate"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Gangbang", "Mind Break", "Mind Control", "Rape", "Toys"],
+        "Theme": [],
+        "Cover": "74973l",
         "Related": []
     }
 ].sort((a, b) => a.Title.localeCompare(b.Title));
