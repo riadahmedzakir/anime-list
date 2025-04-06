@@ -2266,5 +2266,578 @@ export const HentaiList: Array<IList> = [
         "Theme": [],
         "Cover": "74973l",
         "Related": []
+    },
+    {
+        "Title": "Akibakei Kanojo",
+        "AlternateTitles": [
+            "Akiba Girls",
+            "アキバ系彼女"
+        ],
+        "Descriptions": [
+            "Shindo Nikita has a secret that he has been hiding for a long time—he loves hentai and h-games. He enters \"The Alternative Trivia Research Club\" where the first of his many sexual encounters takes place. Despite that, he finds out that both of his foster sisters are in love with him, and he has to make a choice—who does he really love?"
+        ],
+        "Episodes": 3,
+        "Aired": "Jun 25, 2004 to Jun 25, 2006",
+        "Studios": [
+            "Image House"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Harem"],
+        "Theme": [],
+        "Cover": "103796l",
+        "Related": []
+    },
+    {
+        "Title": "Alignment You! You! The Animation",
+        "AlternateTitles": [
+            "あらいめんとゆーゆー THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Takahashi loves Oohara, and Oohara loves Takahashi, but neither of them knows of the others' feelings yet. Moreover, Takahashi died. How can their love come to be now?"
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 29, 2008 to May 23, 2008",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Comedy", "Futanari", "Gangbang", "School Girl", "Trap", "Tsundere", "Yuri"],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "103800l",
+        "Related": []
+    },
+    {
+        "Title": "A-Size Classmate",
+        "AlternateTitles": [
+            "Aサイズ クラスメイト"
+        ],
+        "Descriptions": [
+            "Based on the adult manga by Kou Okada."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 5, 2016 to Apr 1, 2016",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Blow Job", "Boob Job", "Creampie", "Gangbang", "Loli", "Rape", "School Girl", "Vanilla"],
+        "Theme": [],
+        "Cover": "142090l",
+        "Related": []
+    },
+    {
+        "Title": "Ai no Katachi: Ecchi na Onnanoko wa Kirai... desu ka?",
+        "AlternateTitles": [
+            "The Shape of Love",
+            "愛のカタチ ～エッチな女のコは嫌い...ですか?～"
+        ],
+        "Descriptions": [
+            "The secret world behind the amateur porn magazines. Young girls discover that is really easy to make money working for some guys that take photos of their sexual life. And some of them just get too hot by thinking of the many readers that will see their sinful acts that go crazy and wild."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 25, 2008 to Jun 25, 2008",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Anal", "Blow Job", "Bdsm", "Boob Job", "Creampie", "Facial", "Masturbation"],
+        "Theme": [],
+        "Cover": "119734l",
+        "Related": []
+    },
+    {
+        "Title": "Anata dake Konbanwa",
+        "AlternateTitles": [
+            "Tonight, Only Just For You",
+            "貴方だけこんばんわ"
+        ],
+        "Descriptions": [
+            "Shougo has just arrived town after he was ordered to do so since his grandfather has just died, her parents are busy with work so they told him to go first. Shougo will be the one to inherit all family assets. Shougo arrives at the residence that will be his new home and he receives a great welcome by the beautiful maid Youko-san. A strange event happens at night, he dreams with someone but cannot really tell who it is, all he knows is that her face looks familiar... Next day he goes to his new school, her fiancé Ayano introduces to him telling him that it was something their parents decided on their own and that she has not accepted him yet, Shougo is in shock since he didn't know about this and many people are now jealous and angry at him since Ayano is the school's idol. Not everything is bad as he has a very warm welcome by a voluptuous beautiful teacher.",
+            "Later a ghost appears before him, is the girl he saw in his dream last night, what does this means? All Shougo knows is that he has seen that girl before but where?"
+        ],
+        "Episodes": 5,
+        "Aired": "Jul 25, 2009 to Oct 21, 2011",
+        "Studios": [
+            "Studio Eromatick"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Comedy", "Dark Skin", "Harem", "Loli", "Masturbation", "Milf", "School Girl", "Threesome", "Vanilla"],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "15375l",
+        "Related": []
+    },
+    {
+        "Title": "Ail Maniax: Inma Seifukugari & Majogari no Yoru ni",
+        "AlternateTitles": [
+            "アイルMANIAX～淫魔制服狩り＆魔女狩りの夜に～"
+        ],
+        "Descriptions": [
+            "A demon is playing the \"hunt down the woman and molest her in any way humanly and inhumanly possible\" game. However, there is more to that demon than meets the eye. Will the true face of the demon be revealed?"
+        ],
+        "Episodes": 3,
+        "Aired": "Aug 24, 2001 to Mar 22, 2002",
+        "Studios": [
+            "PP Project"
+        ],
+        "Genre": ["Anal", "Bdsm", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Creampie", "Facial", "Fantasy", "Futanari", "Harem", "Lactation", "Mind Break", "Monster", "Rape", "Tentacle", "Toys", "Yuri"],
+        "Theme": [
+            "Mythology"
+        ],
+        "Cover": "115998l",
+        "Related": []
+    },
+    {
+        "Title": "Daiakuji: The Xena Buster",
+        "AlternateTitles": [
+            "Daiakuji -The Xena Buster-",
+            "大悪司"
+        ],
+        "Descriptions": [
+            "Yamamoto Akuji noticed that the world is a totally different place after his release from prison. He experiences Osaka as something very new and strange after he got out of prison. During his imprisonment, the hierarchal structure flipped upside down, making it a world where the women dominated over men. Militia, churches, businesses and private businesses are operated by a female figure. Men were powerless, being controlled and enslaved by the women in Osaka. Being angered by the situation, Akuji and his partner Satsu begin their payback by teaching the stuck-up women in Osaka a little lesson..."
+        ],
+        "Episodes": 8,
+        "Aired": "Nov 27, 2003 to May 27, 2005",
+        "Studios": [
+            "Shinkuukan"
+        ],
+        "Genre": ["Anal", "Blow Job", "Bdsm", "Creampie", "Futanari", "Loli", "Yuri"],
+        "Theme": [],
+        "Cover": "4495l",
+        "Related": []
+    },
+    {
+        "Title": "Dainiji Ura Nyuugakushiken The Animation",
+        "AlternateTitles": [
+            "Dishonor Student",
+            "第二次裏入学試験 THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Based on the doujin manga by Migumigu."
+        ],
+        "Episodes": 1,
+        "Aired": "May 5, 2017",
+        "Studios": [
+            "Studio 1st"
+        ],
+        "Genre": ["Anal", "Blow Job", "Creampie", "Gangbang", "Hand Job", "Orgy", "Rape", "School Girl", "Toys"],
+        "Theme": [],
+        "Cover": "85651l",
+        "Related": []
+    },
+    {
+        "Title": "Daisuki na Mama",
+        "AlternateTitles": [
+            "Loving Mother, Daisuki na Haha",
+            "大好きな母"
+        ],
+        "Descriptions": [
+            "Miyuki tries to be the best mother she can for her son, she tries every day to be the shining example of a good mom for her son Yutaka. Yutaka has a friend named Masato who doesn't have the same idea of a good mom in his head and one day makes a move on her...",
+            "Taking her at home in the kitchen, in the bathroom, and even while her son is sleeping right next to them, he claims her as his own... Until one day, she is bound and blindfolded and once her blindfold is removed she is shocked to see it is her son that is having sex with her! What kind of horrible mother has she become...?"
+        ],
+        "Episodes": 2,
+        "Aired": "Aug 3, 2018 to Sep 7, 2018",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Bdsm", "Creampie", "Facial", "Gangbang", "Hand Job", "Incest", "Milf", "Ntr", "Shota", "Toys"],
+        "Theme": [],
+        "Cover": "107188l",
+        "Related": []
+    },
+    {
+        "Title": "Daraku Reijou The Animation: Hakoiri Ojousama Netorare Choukyou Kiroku",
+        "AlternateTitles": [
+            "Sexual Sacrifice",
+            "堕落令嬢 THE ANIMATION 箱入りお嬢様寝取られ調教記録"
+        ],
+        "Descriptions": [
+            "Based on the doujin manga by Kemigawa."
+        ],
+        "Episodes": 1,
+        "Aired": "Apr 7, 2017",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Creampie", "Ntr", "Rape", "School Girl"],
+        "Theme": [],
+        "Cover": "84848l",
+        "Related": []
+    },
+    {
+        "Title": "Dark Blue",
+        "AlternateTitles": [
+            "Dark Blue"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 27, 2012 to Mar 29, 2013",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Ahegao", "Anal", "Big Boobs", "Blow Job", "Boob Job", "Creampie", "Ntr", "Rape", "Toys"],
+        "Theme": [],
+        "Cover": "103909l",
+        "Related": []
+    },
+    {
+        "Title": "Dark Shell: Ori no Naka no Namameki",
+        "AlternateTitles": [
+            "Dark Shell: Lust in the Cage",
+            "ダーク・シェル 檻の中の艶"
+        ],
+        "Descriptions": [
+            "A gang of soldiers have their way with a women who is under their protection. The women and the soldiers are trapped in enemy territory, and they must find a way to rejoin their main force if they are to survive the war."
+        ],
+        "Episodes": 2,
+        "Aired": "Jun 25, 2003 to Sep 25, 2003",
+        "Studios": [
+            "Arms",
+            "Triple X"
+        ],
+        "Genre": ["Big Boobs", "Creampie", "Dark Skin", "Gangbang", "Rape"],
+        "Theme": [
+            "Military"
+        ],
+        "Cover": "10190l",
+        "Related": []
+    },
+    {
+        "Title": "Dearest Blue",
+        "AlternateTitles": [
+            "ディアレストブルー"
+        ],
+        "Descriptions": [
+            "Rio and Mamoru are childhood friends and love each other, but have not yet managed to confess their feelings to each other. Rio won a beauty contest where she became an idol and now works under a big agency. There's just one problem: With her increasing popularity, Rio is falling into the eyes of some powerful malevolent men who are playing a more macabre game. This game is about watching Rio suffer and making her sacrifice everything. When Mamoru finds out about this, he sets his sights on protecting Rio, but will he really be able to protect her?"
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 26, 2024",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Big Boobs", "Creampie", "Blow Job", "School Girl"],
+        "Theme": [],
+        "Cover": "142059l",
+        "Related": []
+    },
+    {
+        "Title": "Dekakute Ecchi na Ore no Ane",
+        "AlternateTitles": [
+            "My Big and Horny Sisters",
+            "デカくてエッチな俺の姉"
+        ],
+        "Descriptions": [
+            "Based on the adult PC game by Marine (brand of Marigold)."
+        ],
+        "Episodes": 1,
+        "Aired": "Dec 20, 2013",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Gangbang", "Harem", "Incest", "Vanilla", "Yuri"],
+        "Theme": [],
+        "Cover": "116788l",
+        "Related": []
+    },
+    {
+        "Title": "Delivery Chinko wo Tanomitai Oneesan",
+        "AlternateTitles": [
+            "デリバリーち〇こを頼みたい お姉さん"
+        ],
+        "Descriptions": [
+            "A freelancing girl who's addicted to the act of 'self-pleasing' found a site where they offered 'express delivery' of 'their special service'."
+        ],
+        "Episodes": 1,
+        "Aired": "Sep 30, 2022",
+        "Studios": [
+            "Shion"
+        ],
+        "Genre": ["Masturbation"],
+        "Theme": [],
+        "Cover": "124859l",
+        "Related": []
+    },
+    {
+        "Title": "Demon Busters: Ecchi na Ecchi na Demon Taiji The Animation",
+        "AlternateTitles": [
+            "デーモンバスターズ ~えっちなえっちなデーモン退治~ THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Kou is a member of the public morals committee at Moriyaji Gakuen, along with his childhood friend Ai and kouhai Karen. One day while he was making the rounds after school, he was attacked by a weird being. He was frozen in fear and could not evade its attack, but he was saved by two girls, Konoka and Lizera. They were 'daemon busters' who fight against daemons borne from the lust and cravings of humans. They told him that he was a kyuumashi who could absorb the desires that create daemons, and they asked for his help since his special ability makes their battles much easier. When he uses his ability, it causes him to be able to see girls naked and also makes them horny. If the daemons aren’t defeated, then their lust will cause the whole school to become an orgy. As part of the public morals committee, he can’t let that happen!"
+        ],
+        "Episodes": 1,
+        "Aired": "Sep 25, 2015",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Boob Job", "Creampie", "Foot Job", "Harem", "Loli", "Monster", "School Girl", "Tentacle"],
+        "Theme": [
+            "Harem",
+            "Mythology",
+            "School"
+        ],
+        "Cover": "104314l",
+        "Related": []
+    },
+    {
+        "Title": "Demonion: Gaiden",
+        "AlternateTitles": [
+            "デモニオン ~外伝~"
+        ],
+        "Descriptions": [
+            "There once was a maou Astaroth who invaded the human kingdom, plunging the world into war. However, he was finally suppressed by a group of heroes who took his powers and sealed him deep underground. Two hundred years later, there were rumours that the seal was broken due to the recent shifts in the Earth’s crust and that the maou had been revived. Many confident adventurers descended on Astaroth’s underground labyrinth with the intention of defeating him and becoming famous. Little did they know that he had set out a trap for them…"
+        ],
+        "Episodes": 2,
+        "Aired": "Nov 21, 2014 to Mar 27, 2015",
+        "Studios": [
+            "BreakBottle"
+        ],
+        "Genre": ["Ahegao", "Anal", "Big Boobs", "Blow Job", "Boob Job", "Cosplay", "Creampie", "Facial", "Fantasy", "Gangbang", "Hand Job", "Harem", "Masturbation", "Monster", "Rape", "Threesome", "Yuri"],
+        "Theme": [],
+        "Cover": "103912l",
+        "Related": []
+    },
+    {
+        "Title": "Diabolus: Kikoku",
+        "AlternateTitles": [
+            "Diabolus～鬼哭～"
+        ],
+        "Descriptions": [
+            "A spirit who takes the form of an attractive male is attacking many female students at a school. Two students discover that the only way to free him from his wandering around Earth is to have him fulfill his desire and so they decide to take a hands on approach and make him rest in peace at last."
+        ],
+        "Episodes": 2,
+        "Aired": "Dec 21, 2009 to Feb 26, 2010",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Bdsm", "Creampie", "Incest", "Rape", "School Girl", "Yuri"],
+        "Theme": [],
+        "Cover": "112517l",
+        "Related": []
+    },
+    {
+        "Title": "Discipline",
+        "AlternateTitles": [
+            "Discipline: The Hentai Academy",
+            "Discipline: The Record of a Crusade",
+            "ディシプリン"
+        ],
+        "Descriptions": [
+            "The prestigious Saint Arcadia School has recently started admitting male students, and Takuro Hayami is among those joining. Elated at the prospect of sharing the dormitory with charming and well-endowed classmates, he fails to realize that the girls at the academy are sex-hungry deviants.",
+            "A regular student at first glance, Takuro instantly becomes the target of aggressive courting. When Yuuki Miyagishi, one of his roommates, manages to seduce him, she discovers his special ability: outstanding sexual prowess! Hayami's \"Ultimate Sex Power\" soon becomes known across campus, and what started as playful kinkiness turns into a fierce competition as every student club strives to persuade Takuro into joining their ranks. Hidden beneath Saint Arcadia's sugar-coated reputation lurks a desperate sexual power struggle—and the arrival of the new transfer student might just be the tipping point."
+        ],
+        "Episodes": 6,
+        "Aired": "Apr 11, 2003 to Dec 17, 2004",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Comedy", "Creampie", "Facial", "Foot Job", "Gangbang", "Harem", "Orgy", "Rape", "School Girl", "Toys", "Yuri"],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "4536l",
+        "Related": []
+    },
+    {
+        "Title": "Discipline Zero",
+        "AlternateTitles": [
+            "Discipline Rei",
+            "DISCIPLINE 零"
+        ],
+        "Descriptions": [
+            "Based on the game by Active.",
+            "The hit series Discipline is revived with this new original story set prior to the coming of Hayami Takuro, protagonist of the first series.",
+            "Morimoto Leona and Otokawa Saori are newly arrived boarding students at St. Alcadia Academy. Morimoto Leona desires to subjugate every person within the school, severely punishing those who are of no use to her. Even the teachers are not spared. Fellow boarders Yuuki, Ruri and Maiko, who are oblivious of the situation, fall prey to the limitless sexual desires of the male students."
+        ],
+        "Episodes": 2,
+        "Aired": "Jan 29, 2010 to Jun 25, 2010",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Creampie", "Foot Job", "Gangbang", "Inflation", "Rape", "School Girl", "Toys", "Yuri"],
+        "Theme": [],
+        "Cover": "18959l",
+        "Related": []
+    },
+    {
+        "Title": "Discode: Ijou Seiai",
+        "AlternateTitles": [
+            "Discode",
+            "異常性愛"
+        ],
+        "Descriptions": [
+            "Based on a game by Courreges.",
+            "Futaba is a high school girl who has a strong sexual desire and she plays with herself at any place and anytime.",
+            "However, she has a dark secret that no one knows..."
+        ],
+        "Episodes": 3,
+        "Aired": "Aug 13, 2004 to May 27, 2005",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Blow Job", "Creampie", "Facial", "Futanari", "Masturbation", "School Girl", "Threesome", "Toys", "Yuri"],
+        "Theme": [],
+        "Cover": "103915l",
+        "Related": []
+    },
+    {
+        "Title": "Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita.",
+        "AlternateTitles": [
+            "Do S na Maina Kaichou-sama ga M Note ni Shihai Saremashita",
+            "ドSなマイナ会長サマがMノートに支配されました。"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 4,
+        "Aired": "Jan 26, 2018 to Sep 28, 2018",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Creampie", "Harem", "Hand Job", "Mind Control", "School Girl"],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "88786l",
+        "Related": []
+    },
+    {
+        "Title": "Dokidoki Little Ooyasan",
+        "AlternateTitles": [
+            "dokidokiりとる大家さん"
+        ],
+        "Descriptions": [
+            "Tanaka Daisuke is an ordinary college student living alone since last year. He occupies a run-down and cramped apartment—just like many other young adults.",
+            "However, there is one peculiar bonus about living in his accommodation. Whenever he settles his rent, he receives sexual services from the landlady, Asou Miyuri. Despite her childish looks, she is a grown woman who is more than eager to experience the charms of Tanaka's masculine body.",
+            "At first shy and overwhelmed by her relaxed and outgoing approach, Daisuke soon starts looking forward to these monthly meetings, as Asou treats him to all kinds of naughty positions and kinky outfits no young man could ever resist."
+        ],
+        "Episodes": 6,
+        "Aired": "May 25, 2018 to Dec 27, 2019",
+        "Studios": [
+            "Collaboration Works"
+        ],
+        "Genre": ["Blow Job", "Cosplay", "Creampie", "Facial", "Hand Job", "Loli", "Vanilla"],
+        "Theme": [],
+        "Cover": "103916l",
+        "Related": []
+    },
+    {
+        "Title": "Dorei Maid Princess",
+        "AlternateTitles": [
+            "Dorei Maid Princess",
+            "Slave Maid Princess",
+            "奴隷メイドプリンセス"
+        ],
+        "Descriptions": [
+            "Based on the game by Black-Lilith.",
+            "The beloved princess Rotte is arrested by the enemy. To save her life, her childhood friend has to make her a slave within the next month."
+        ],
+        "Episodes": 4,
+        "Aired": "May 26, 2007 to May 1, 2009",
+        "Studios": [
+            "Anime Antenna Iinkai"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Bdsm", "Creampie", "Facial", "Gangbang", "Monster", "Rape", "Tentacle", "Toys"],
+        "Theme": [],
+        "Cover": "103923l",
+        "Related": []
+    },
+    {
+        "Title": "Doukyo Suru Neneki",
+        "AlternateTitles": [
+            "同居する粘液"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 2,
+        "Aired": "Nov 10, 2023 to Feb 2, 2024",
+        "Studios": [
+            "New Generation"
+        ],
+        "Genre": ["Big Boobs", "Creampie", "Blow Job"],
+        "Theme": [],
+        "Cover": "138820l",
+        "Related": []
+    },
+    {
+        "Title": "Doukyuusei Remake The Animation",
+        "AlternateTitles": [
+            "Classmate Remake The Animation",
+            "同級生リメイク THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Based on the remake of the erotic game by elf.",
+            "The sweet and sad days of love spent with various heroines.",
+            "That summer will come again..."
+        ],
+        "Episodes": 2,
+        "Aired": "Jul 29, 2022 to Jan 26, 2024",
+        "Studios": [
+            "Seven"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Blow Job", "School Girl"],
+        "Theme": [],
+        "Cover": "120802l",
+        "Related": []
+    },
+    {
+        "Title": "Ayatsuri Haramase DreamNote",
+        "AlternateTitles": [
+            "Ayatsuri Haramase Dream Note",
+            "DreamNote ドリームノート"
+        ],
+        "Descriptions": [
+            "Masaya is a university student, who works as a home tutor part-time. One day, he receives a parcel. That is a notebook. He frowns when he reads a letter, which is also in the parcel. It says, \"If you write a girl's name in the notebook, you'll be able to control her as you like.\" He thinks it is ridiculous at first, but he decides to give it a try. The name he writes is Yumi, his student.... As a result, it comes true, and he shags with her. \"This notebook is proved to be real. I can now have fun with it....\"",
+            "Based on a h-game created by Undermoon studio."
+        ],
+        "Episodes": 2,
+        "Aired": "Aug 28, 2009 to Sep 23, 2011",
+        "Studios": [
+            "Schoolzone"
+        ],
+        "Genre": ["Blow Job", "Creampie", "Masturbation", "Mind Control", "Rape", "School Girl"],
+        "Theme": [],
+        "Cover": "103819l",
+        "Related": []
+    },
+    {
+        "Title": "Dropout",
+        "AlternateTitles": [
+            "ドロップアウト"
+        ],
+        "Descriptions": [
+            "To address the alarming problem of unemployment, a special government program is introduced to conscript so-called \"dropouts\"—young people who are either unable to find a job or have failed high school—into compulsory labor. Although this initially entailed simple manual work, it soon turned into dropout girls having to perform mandatory sexual services for men. As one's own academic performance determines which dropout they receive, fierce competition for the finest sex partners has emerged between men all across the country.",
+            "At the top of his school, Ryouta Niimi is awarded with the best dropout Japan has to offer. His new \"study partner\" is Reika Shichijou, his former crush. Having been assigned a girl so sweet and well-endowed, Niimi soon becomes the target of his classmates' envy. How did Reika, who used to be a model student herself, end up in this humiliating and subservient role—and why is she enjoying it so much?"
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 26, 2016 to Mar 25, 2016",
+        "Studios": [
+            "Ryuu M's"
+        ],
+        "Genre": ["Ahegao", "Anal", "Bdsm", "Big Boobs", "Blow Job", "Bdsm", "Creampie", "Facial", "Inflation", "Mind Break", "Ntr", "Orgy", "School Girl"],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "105305l",
+        "Related": []
+    },
+    {
+        "Title": "D-Spray",
+        "AlternateTitles": [
+            "D-spray"
+        ],
+        "Descriptions": [
+            "Based on the erotic game by Undermoon."
+        ],
+        "Episodes": 1,
+        "Aired": "Mar 29, 2013",
+        "Studios": [
+            "Schoolzone"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Ntr", "Rape"],
+        "Theme": [],
+        "Cover": "103908l",
+        "Related": []
     }
 ].sort((a, b) => a.Title.localeCompare(b.Title));

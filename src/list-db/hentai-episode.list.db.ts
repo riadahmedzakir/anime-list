@@ -1495,5 +1495,442 @@ export const HentaiEpisodeList: { [key: string]: Array<IEpisodeList> } = {
             Title: "Episode 2",
             Aired: "Dec 11, 2015"
         }
+    ],
+    "Akibakei Kanojo": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 25, 2004"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 25, 2004"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Jun 25, 2006"
+        }
+    ],
+    "Alignment You! You! The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 29, 2008"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 23, 2008"
+        }
+    ],
+    "A-Size Classmate": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 5, 2016"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Apr 1, 2016"
+        }
+    ],
+    "Ai no Katachi: Ecchi na Onnanoko wa Kirai... desu ka?": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 25, 2008"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jun 25, 2008"
+        }
+    ],
+    "Anata dake Konbanwa": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 25, 2009"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 25, 2009"
+        }, {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Mar 18, 2011"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Jun 17, 2011"
+        },
+        {
+            Episode: "5",
+            Title: "Episode 5",
+            Aired: "Oct 21, 2011"
+        }
+    ],
+    "Ail Maniax: Inma Seifukugari & Majogari no Yoru ni": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 24, 2001"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Nov 22, 2001"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Mar 22, 2002"
+        }
+    ],
+    "Daiakuji: The Xena Buster": [
+        {
+            Episode: "0",
+            Title: "Episode 0",
+            Aired: "Nov 26, 2003"
+        },
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 25, 2004"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 27, 2004"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Aug 26, 2004"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Nov 25, 2004"
+        },
+        {
+            Episode: "5",
+            Title: "Episode 5",
+            Aired: "Feb 24, 2005"
+        },
+        {
+            Episode: "6",
+            Title: "Episode 6",
+            Aired: "Aug 27, 2003"
+        },
+        {
+            Episode: "7",
+            Title: "Episode 7",
+            Aired: "May 26, 2005"
+        }
+    ],
+    "Dainiji Ura Nyuugakushiken The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 5, 2017"
+        }
+    ],
+    "Daisuki na Mama": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 3, 2018"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 7, 2018"
+        }
+    ],
+    "Daraku Reijou The Animation: Hakoiri Ojousama Netorare Choukyou Kiroku": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 7, 2017"
+        }
+    ],
+    "Dark Blue": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 27, 2012"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 29, 2013"
+        }
+    ],
+    "Dark Shell: Ori no Naka no Namameki": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 25, 2003"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 25, 2003"
+        }
+    ],
+    "Dearest Blue": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 26, 2024"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Apr 26, 2024"
+        }
+    ],
+    "Dekakute Ecchi na Ore no Ane": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 20, 2013"
+        }
+    ],
+    "Delivery Chinko wo Tanomitai Oneesan": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Sep 30, 2022"
+        }
+    ],
+    "Demon Busters: Ecchi na Ecchi na Demon Taiji The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Sep 25, 2015"
+        }
+    ],
+    "Demonion: Gaiden": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 21, 2014"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 27, 2015"
+        }
+    ],
+    "Diabolus: Kikoku": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 21, 2009"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Feb 26, 2010"
+        }
+    ],
+    "Discipline": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 11, 2003"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Aug 22, 2003"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Dec 19, 2003"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Apr 23, 2004"
+        },
+        {
+            Episode: "5",
+            Title: "Episode 5",
+            Aired: "Aug 20, 2004"
+        },
+        {
+            Episode: "6",
+            Title: "Episode 6",
+            Aired: "Dec 17, 2004"
+        }
+    ],
+    "Discipline Zero": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 29, 2010"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jun 25, 2010"
+        }
+    ],
+    "Discode: Ijou Seiai": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 12, 2004"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 11, 2004"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "May 26, 2005"
+        }
+    ],
+    "Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita.": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 25, 2018"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 29, 2018"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Jun 28, 2018"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Sep 28, 2018"
+        }
+    ],
+    "Dokidoki Little Ooyasan": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 24, 2018"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 28, 2018"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Oct 26, 2018"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Dec 28, 2018"
+        },
+        {
+            Episode: "5",
+            Title: "Episode 5",
+            Aired: "Nov 28, 2019"
+        },
+        {
+            Episode: "6",
+            Title: "Episode 6",
+            Aired: "Dec 26, 2019"
+        }
+    ],
+    "Dorei Maid Princess": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 26, 2007"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 27, 2007"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Oct 18, 2008"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Apr 25, 2009"
+        }
+    ],
+    "Doukyo Suru Neneki": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 10, 2023"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Feb 2, 2024"
+        }
+    ],
+    "Doukyuusei Remake The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 29, 2022"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jan 26, 2024"
+        }
+    ],
+    "Ayatsuri Haramase DreamNote": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 28, 2009"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 23, 2011"
+        }
+    ],
+    "Dropout": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 26, 2016"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 25, 2016"
+        }
+    ],
+    "D-Spray": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 29, 2013"
+        }
     ]
 }
