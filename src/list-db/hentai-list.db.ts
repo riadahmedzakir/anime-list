@@ -2839,5 +2839,428 @@ export const HentaiList: Array<IList> = [
         "Theme": [],
         "Cover": "103908l",
         "Related": []
+    },
+    {
+        "Title": "Ecchi na Oneechan ni Shiboraretai",
+        "AlternateTitles": [
+            "エッチなお姉ちゃんに搾られたい"
+        ],
+        "Descriptions": [
+            "Based on the doujin manga by Joy Ride/Yorokobi No Kuni."
+        ],
+        "Episodes": 2,
+        "Aired": "Jul 5, 2019 to Aug 2, 2019",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Harem", "Incest", "Masturbation"],
+        "Theme": [],
+        "Cover": "113905l",
+        "Related": []
+    },
+    {
+        "Title": "Ecchi na Shintai Sokutei Anime Edition",
+        "AlternateTitles": [
+            "えっちな身体測定 Anime Edition"
+        ],
+        "Descriptions": [
+            "A teacher lucks out when he gets to supervise the body measuring sessions of his female fifth-grade students. While enjoying the wonders before his eyes, he notices that a particular student, Kanae Kouda, is absent. When she comes to school the next day, the teacher does his duty to get her measurement—albeit in quite an eccentric manner."
+        ],
+        "Episodes": 1,
+        "Aired": "Dec 2, 2016",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Creampie", "Loli", "School Girl"],
+        "Theme": [],
+        "Cover": "103928l",
+        "Related": []
+    },
+    {
+        "Title": "Elf Hime Nina",
+        "AlternateTitles": [
+            "Elf Princess Nina",
+            "エルフ姫ニィーナ"
+        ],
+        "Descriptions": [
+            "Kyle, the protagonist of this story, is one of the 7 heroes who defeated the evil overlord. After that battle he starts a conquest of the continent in order to unite the humans who live on it.",
+            "Standing against Kyle is only his younger brother Syll, who is also one of the seven heroes. Kyle stole his throne, but failed to kill him.",
+            "One day, another of the 7 heroes appears before Kyle. She is Nina, an elven princess. Kyle knows that Nina and Syll are lovers, and a dark desire begins to burn inside of him..."
+        ],
+        "Episodes": 3,
+        "Aired": "Oct 29, 2010 to May 16, 2012",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Ahegao", "Anal", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Comedy", "Creampie", "Dark Skin", "Facial", "Fantasy", "Futanari", "Incest", "Monster", "Rape", "Rimjob", "Tentacle", "Toys", "Yuri"],
+        "Theme": [],
+        "Cover": "119705l",
+        "Related": []
+    },
+    {
+        "Title": "Elf ni Inmon wo Tsukeru Hon The Animation",
+        "AlternateTitles": [
+            "エルフに淫紋を付ける本 The Animation"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 1,
+        "Aired": "Nov 29, 2024",
+        "Studios": [
+            "Blue bread"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Fantasy", "Tentacle"],
+        "Theme": [],
+        "Cover": "145179l",
+        "Related": []
+    },
+    {
+        "Title": "Elf no Futagohime: Willan to Arsura",
+        "AlternateTitles": [
+            "エルフの双子姫 ウィランとアルスラ"
+        ],
+        "Descriptions": [
+            "There is a world where humans and elves live together. Elves rule the world because of their intelligence and longevity. But one day, humans rise in rebellion and a big war breaks out. After a long battle, both countries decide to stop the war by a marriage of convenience. Arsura, a princess of elf country, is chosen as a bride. However, when she is on her way to the human territory, she and Willan, her sister and security guard, are kidnapped by someone! While elves and humans push responsibility to each other, a group of monsters appear! It's them who kidnapped elf sisters. Their boss is Darsh, who is half human and half elf. What is his purpose...? Another war breaks out now!"
+        ],
+        "Episodes": 1,
+        "Aired": "Jul 31, 2009",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Bdsm", "Creampie", "Dark Skin", "Fantasy", "Masturbation", "Rape", "Yuri"],
+        "Theme": [],
+        "Cover": "103929l",
+        "Related": []
+    },
+    {
+        "Title": "Elf no Oshiego to Sensei",
+        "AlternateTitles": [
+            "JK Elf to Kimi no Sensei., Elven Student and Teacher",
+            "エルフの教え子と先生"
+        ],
+        "Descriptions": [
+            "Kobayashi Hiroki is a teacher for a tribe of elf students who came from another world. No one is sure why the world where the elves come from collides with our world. Hiroki however has fallen in love with Laranoa, one of the otherworldly students, which is strictly forbidden... So they act on their love in secret whenever they get a chance to be alone."
+        ],
+        "Episodes": 2,
+        "Aired": "Aug 3, 2018 to Dec 7, 2018",
+        "Studios": [
+            "Flavors Soft"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Dark Skin", "Fantasy", "Harem", "Mind Control", "Reverse Rape", "School Girl"],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "93229l",
+        "Related": []
+    },
+    {
+        "Title": "Enbi",
+        "AlternateTitles": [
+            "Marauding Milf",
+            "艶美"
+        ],
+        "Descriptions": [
+            "It's time for the local summer festival and Kentarou is accompanying Shizue, who has come to visit after being away for a few years. During the festival Kentarou leaves Shizue alone for a bit, and when he finds her again he sees a shocking scene...",
+            "Later, Shizue goes to a local photo studio to pick up some photos from the summer festival, and decides to do a bit of modeling while there. Before long Kentarou also joins..."
+        ],
+        "Episodes": 2,
+        "Aired": "May 2, 2014 to Sep 5, 2014",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Creampie", "Gangbang", "Harem", "Incest", "Lactation", "Milf", "Orgy", "Yuri"],
+        "Theme": [],
+        "Cover": "103931l",
+        "Related": []
+    },
+    {
+        "Title": "Energy Kyouka!!",
+        "AlternateTitles": [
+            "えなじぃキョーカ!!"
+        ],
+        "Descriptions": [
+            "Kyouka Shiraishi is a beautiful and lively high school student. Thanks to a well-developed body and seductive nature, no man is able to resist her allure. One day, she finds herself in dire need of cash to pay off her cell phone bills. Without a quick way to find a substantial amount of money, she decides to make use of her natural gifts—and there is no better place to do so than her own school.",
+            "Shiraishi is soon caught with her pants down by the student committee. However, Reona Houjou, the committee president, is ready to turn a blind eye to her misbehavior in exchange for a favor. Unaware of what that entails, Shiraishi eagerly agrees in order to get off the hook. As she finds herself blackmailed into working part-time in a gentlemen's club run by Reona's mother, she is left with no choice but to dive headlong into this new world of perverse pleasure."
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 8, 2016 to Jun 10, 2016",
+        "Studios": [
+            "Studio Eromatick"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Cosplay", "Creampie", "Dark Skin", "Facial", "Gangbang", "Loli", "Milf", "School Girl"],
+        "Theme": [],
+        "Cover": "103932l",
+        "Related": []
+    },
+    {
+        "Title": "Enjo Kouhai",
+        "AlternateTitles": [
+            "Assisted Mating",
+            "Enjo Kouhai",
+            "○○交配"
+        ],
+        "Descriptions": [
+            "A special governmental program has been introduced to counteract the declining birth rates of demi-human races suffering due to a lack of male members. Through a so-called \"assistance system,\" randomly selected humans are required to mate with designated partners—be it elves, sirens, or even dragons.",
+            "Iris Thea Eaderlindt, an elven princess known for her open-mindedness and friendly attitude towards humans, is transferred to the Ark Metropolitan Academy. Coincidentally, her new teacher has been selected as her mating partner. Anxious yet determined to fulfill her duty of securing the future of her race, she starts partaking in sexual activities with him. To her surprise, Iris discovers that her partner's ancestors were orcs, well known for their extraordinary sexual prowess.",
+            "As more demi-human students join the class and find out about their teacher's \"side job,\" it becomes increasingly difficult for Iris to keep her partner's attention solely on her."
+        ],
+        "Episodes": 10,
+        "Aired": "Jan 31, 2020 to Sep 27, 2024",
+        "Studios": [
+            "Majin"
+        ],
+        "Genre": ["Blow Job", "Creampie", "Dark Skin", "Facial", "Fantasy", "Hand Job", "Harem", "Loli", "Monster", "Orgy", "Reverse Rape", "School Girl", "Threesome", "Vanilla"],
+        "Theme": [
+            "Harem",
+            "Mythology"
+        ],
+        "Cover": "104009l",
+        "Related": []
+    },
+    {
+        "Title": "Enkou JK Bitch Gal: Ojisan to Namapako Seikatsu",
+        "AlternateTitles": [
+            "Enkou JK Bitch Gyaru: Oji-san to Nama Pako Seikatsu",
+            "エンコ―J●ビッチギャル オジサンとなまパコ性活"
+        ],
+        "Descriptions": [
+            "An ordinary salary man lives a high paid but empty life, so he uses his money to fulfill his needs with some school girls at Bitch Gals."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 9, 2018 to Mar 9, 2018",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Foot Job", "School Girl"],
+        "Theme": [],
+        "Cover": "103771l",
+        "Related": []
+    },
+    {
+        "Title": "Enkou Shoujo: Rikujoubu Yukki no Baai The Animation",
+        "AlternateTitles": [
+            "円交少女～陸上部ゆっきーの場合～ THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Based on the game by Frill."
+        ],
+        "Episodes": 1,
+        "Aired": "Aug 26, 2016",
+        "Studios": [
+            "Office No. 8"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Cosplay", "Creampie", "Facial", "Harem", "School Girl"],
+        "Theme": [],
+        "Cover": "112316l",
+        "Related": []
+    },
+    {
+        "Title": "Ero Ishi: Seijun Bishoujo wo Kotoba Takumi ni Hametai Houdai",
+        "AlternateTitles": [
+            "エロ医師 ~清純美少女を言葉巧みにハメたい放題~"
+        ],
+        "Descriptions": [
+            "Upon seeing some high school beauties, the doctor forget all about HIPPA and the Hippocratic Oath in order to taken advantage of these naïve girls."
+        ],
+        "Episodes": 4,
+        "Aired": "Jan 28, 2022 to Aug 26, 2022",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Rape", "School Girl"],
+        "Theme": [],
+        "Cover": "119597l",
+        "Related": []
+    },
+    {
+        "Title": "Ero Konbini Tenchou",
+        "AlternateTitles": [
+            "エロコンビニ店長"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 4,
+        "Aired": "Feb 22, 2019 to Apr 30, 2021",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Hand Job", "Harem", "Ntr", "Rape", "School Girl"],
+        "Theme": [],
+        "Cover": "102589l",
+        "Related": []
+    },
+    {
+        "Title": "Ero Manga! H mo Manga mo Step-up♪",
+        "AlternateTitles": [
+            "えろまんが! Hもマンガもステップアップ♪"
+        ],
+        "Descriptions": [
+            "Based on the erotic game by Clock Up."
+        ],
+        "Episodes": 2,
+        "Aired": "Dec 25, 2015 to Jan 29, 2016",
+        "Studios": [
+            "Collaboration Works"
+        ],
+        "Genre": ["Ahegao", "Anal", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Cosplay", "Creampie", "Facial", "Hand Job", "Harem", "Milf", "School Girl", "Vanilla"],
+        "Theme": [],
+        "Cover": "133669l",
+        "Related": []
+    },
+    {
+        "Title": "Ero Semi: Ecchi ni Yaruki ni ABC - The Animation",
+        "AlternateTitles": [
+            "Ero Zemi: Ecchi ni Yaruki ni ABC",
+            "えろゼミ ～エッチにヤルきにABC～ THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Based on the game by Atelier Kaguya Bare & Bunny."
+        ],
+        "Episodes": 1,
+        "Aired": "Mar 31, 2017",
+        "Studios": [
+            "Seven"
+        ],
+        "Genre": ["Ahegao", "Anal", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Comedy", "Creampie", "Facial", "Hand Job", "Harem", "Lactation", "Pregnant", "Rape", "Reverse Rape"],
+        "Theme": [],
+        "Cover": "104310l",
+        "Related": []
+    },
+    {
+        "Title": "Eroge de Subete wa Kaiketsu Dekiru! The Animation",
+        "AlternateTitles": [
+            "Eroge Can Solve Everything! The Animation",
+            "エロゲで全ては解決できる! THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Shibazaki-san wants to release an eroge, and she will need the help of her friends, as well as the shy Mikoshiba-kun. What can we expect at the end of this erotic book?"
+        ],
+        "Episodes": 2,
+        "Aired": "Jun 25, 2021 to Nov 25, 2022",
+        "Studios": [
+            "Seven"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Hand Job", "Harem", "School Girl"],
+        "Theme": [],
+        "Cover": "114421l",
+        "Related": []
+    },
+    {
+        "Title": "Eroge! H mo Game mo Kaihatsu Zanmai",
+        "AlternateTitles": [
+            "えろげー! ～Hもゲームも開発三昧～"
+        ],
+        "Descriptions": [
+            "Flower, a local game design studio, finds itself on the verge of shutting down. After its first release turned out to be a complete letdown, the studio is now struggling to make ends meet. The employees of this all-female company desperately need additional hands to help them finish a new project on time.",
+            "Tomoya Mochizuki's passion is erotic games, or \"erogames.\" He can neither write scenarios nor program, and his artistic skills are quite frankly terrible. However, owing to his massive experience in the field, Nene Sonono—Flower's director—decides to hire him as a consultant.",
+            "The first thing Tomoya points out is that Flower's employees have no sexual experience; thus, their scenarios and sex scenes lack in-depth and firsthand expertise. Eager to learn and develop their professional skills, the girls embark on a crash course to grasp the essence of erogames. Under the attentive eye of Tomoya, they explore previously uncharted waters of sexual pleasure—all for the sake of the company's survival."
+        ],
+        "Episodes": 6,
+        "Aired": "Aug 26, 2011 to Mar 25, 2016",
+        "Studios": [
+            "Collaboration Works"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Comedy", "Cosplay", "Creampie", "Foot Job", "Harem", "Lactation", "Toys", "Tsundere"],
+        "Theme": [],
+        "Cover": "103841l",
+        "Related": []
+    },
+    {
+        "Title": "Eromame",
+        "AlternateTitles": [
+            "えろまめ"
+        ],
+        "Descriptions": [
+            "Based on the original work by Mame Eda."
+        ],
+        "Episodes": 2,
+        "Aired": "Dec 19, 2014 to Mar 27, 2015",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Cosplay", "Creampie", "Toys", "Vanilla"],
+        "Theme": [],
+        "Cover": "103951l",
+        "Related": []
+    },
+    {
+        "Title": "Eroriman",
+        "AlternateTitles": [
+            "Take Your Innocent Niece to a Love Hotel and Do Her as Much as You Want Lecherous Salaryman Eroriman",
+            "エロリーマン"
+        ],
+        "Descriptions": [
+            "A middle-aged, single man uses a dating site to satisfy his desires, especially with high schoolers, but what he didn't expect is that one of the girls would be his niece."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 25, 2022 to Apr 27, 2022",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Creampie", "Hand Job", "Incest", "School Girl", "Toys"],
+        "Theme": [],
+        "Cover": "121069l",
+        "Related": []
+    },
+    {
+        "Title": "Eroriman 2",
+        "AlternateTitles": [
+            "エロリーマン2"
+        ],
+        "Descriptions": [
+            "A single man uses a dating site for his kids, especially with high school students, but what he didn't expect is for one of the girls to be his niece."
+        ],
+        "Episodes": 3,
+        "Aired": "Oct 28, 2022 to Feb 28, 2025",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Boob Job", "Incest", "School Girl", "Toys"],
+        "Theme": [],
+        "Cover": "128052l",
+        "Related": []
+    },
+    {
+        "Title": "Etsuraku no Tane The Animation",
+        "AlternateTitles": [
+            "Pleasure's Offspring",
+            "悦楽の胤 THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Based on the game by WendyBell.",
+            "A beautiful girl's body is inhabited by a tentacle monster that forces her to attack other cute girls."
+        ],
+        "Episodes": 1,
+        "Aired": "Apr 3, 2015",
+        "Studios": [
+            "Studio Eromatick"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Creampie", "Facial", "Fantasy", "Mind Break", "Rape", "School Girl", "Tentacle", "Yuri"],
+        "Theme": [],
+        "Cover": "115625l",
+        "Related": []
+    },
+    {
+        "Title": "Euphoria",
+        "AlternateTitles": [
+            "euphoria"
+        ],
+        "Descriptions": [
+            "Keisuke Takatou wakes up in a featureless white room, unaware of how and when he arrived. While exploring his whereabouts, he notices six familiar girls huddled around a large monitor—his childhood friend Kanae Hokari, the class president Miyakou Ando, his English teacher Natsuki Aoi, his junior Rika Makiba, and his classmates Rinne Byakuya and Nemu Manaka.",
+            "As they attempt to make sense of their current situation, a voice suddenly declares through the monitor, \"The game will now begin.\" The rules of the game are simple yet brutal; assigned as the \"unlocker,\" Keisuke must select one of the girls as his \"keyhole\" and violate her in a specific manner. Only after he does this for five rounds will the group be promised freedom to the outside world.",
+            "Refusing to acknowledge the situation, Miyakou vehemently denies her participation. Suddenly, the entire room goes dark. When the lights come back on, Miyakou is strapped to an electric chair. \"Withdrawal from the game will result in death,\" announces the mysterious voice as the chair electrocutes her to death.",
+            "Left with no other option, the terrified captives concede, and thus begins the sadistic game that will awaken their carnal desires through pain—and pleasure."
+        ],
+        "Episodes": 6,
+        "Aired": "Dec 11, 2011 to Feb 26, 2016",
+        "Studios": [
+            "Majin"
+        ],
+        "Genre": ["Ahegao", "Anal", "Bdsm", "Big Boobs", "Bdsm", "Boob Job", "Creampie", "Facial", "Gangbang", "Harem", "Horror", "Mind Break", "Rape", "Scat", "School Girl", "Toys"],
+        "Theme": [],
+        "Cover": "137884l",
+        "Related": []
     }
 ].sort((a, b) => a.Title.localeCompare(b.Title));

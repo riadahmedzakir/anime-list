@@ -1932,5 +1932,349 @@ export const HentaiEpisodeList: { [key: string]: Array<IEpisodeList> } = {
             Title: "Episode 1",
             Aired: "Mar 29, 2013"
         }
+    ],
+    "Ecchi na Oneechan ni Shiboraretai": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 5, 2019"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Aug 2, 2019"
+        }
+    ],
+    "Ecchi na Shintai Sokutei Anime Edition": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 2, 2016"
+        }
+    ],
+    "Elf Hime Nina": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Oct 29, 2010"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 29, 2011"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "May 18, 2012"
+        }
+    ],
+    "Elf ni Inmon wo Tsukeru Hon The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 29, 2024"
+        }
+    ],
+    "Elf no Futagohime: Willan to Arsura": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 31, 2009"
+        }
+    ],
+    "Elf no Oshiego to Sensei": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 3, 2018"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 7, 2018"
+        }
+    ],
+    "Enbi": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 2, 2014"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 5, 2014"
+        }
+    ],
+    "Energy Kyouka!!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 8, 2016"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jun 10, 2016"
+        }
+    ],
+    "Enjo Kouhai": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 30, 2020"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Feb 28, 2020"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Mar 26, 2020"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Apr 23, 2020"
+        },
+        {
+            Episode: "5",
+            Title: "Episode 5",
+            Aired: "Mar 24, 2022"
+        },
+        {
+            Episode: "6",
+            Title: "Episode 6",
+            Aired: "May 26, 2022"
+        },
+        {
+            Episode: "7",
+            Title: "Episode 7",
+            Aired: "Nov 25, 2022"
+        },
+        {
+            Episode: "8",
+            Title: "Episode 8",
+            Aired: "Jan 31, 2023"
+        },
+        {
+            Episode: "9",
+            Title: "Episode 9",
+            Aired: "Jun 28, 2024"
+        },
+        {
+            Episode: "10",
+            Title: "Episode 10",
+            Aired: "Sep 27, 2024"
+        }
+    ],
+    "Enkou JK Bitch Gal: Ojisan to Namapako Seikatsu": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 9, 2018"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 9, 2018"
+        }
+    ],
+    "Enkou Shoujo: Rikujoubu Yukki no Baai The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 26, 2016"
+        }
+    ],
+    "Ero Ishi: Seijun Bishoujo wo Kotoba Takumi ni Hametai Houdai": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 27, 2022"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 24, 2022"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Jun 26, 2022"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Jun 26, 2022"
+        }
+    ],
+    "Ero Konbini Tenchou": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 22, 2019"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Apr 25, 2019"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Feb 25, 2021"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Apr 29, 2021"
+        }
+    ],
+    "Ero Manga! H mo Manga mo Step-up♪": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 25, 2015"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jan 29, 2016"
+        }
+    ],
+    "Ero Semi: Ecchi ni Yaruki ni ABC - The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 31, 2017"
+        }
+    ],
+    "Eroge de Subete wa Kaiketsu Dekiru! The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 25, 2021"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Nov 25, 2022"
+        }
+    ],
+    "Eroge! H mo Game mo Kaihatsu Zanmai": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 26, 2011"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Nov 25, 2011"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Oct 25, 2013"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Dec 27, 2013"
+        },
+        {
+            Episode: "5",
+            Title: "Episode 5",
+            Aired: "May 30, 2014"
+        },
+        {
+            Episode: "6",
+            Title: "Episode 6",
+            Aired: "Mar 24, 2016"
+        }
+    ],
+    "Eromame": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 19, 2014"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 27, 2015"
+        }
+    ],
+    "Eroriman": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 25, 2022"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Apr 27, 2022"
+        }
+    ],
+    "Eroriman 2": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Oct 28, 2022"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 27, 2022"
+        },
+        // {
+        //     Episode: "3",
+        //     Title: "Episode 3",
+        //     Aired: "Feb 28, 2025"
+        // }
+    ],
+    "Euphoria": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 22, 2011"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 30, 2012"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Jun 27, 2014"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Feb 27, 2015"
+        },
+        {
+            Episode: "5",
+            Title: "Episode 5",
+            Aired: "Nov 27, 2015"
+        },
+        {
+            Episode: "6",
+            Title: "Episode 6",
+            Aired: "Feb 25, 2016"
+        }
+    ],
+    "Etsuraku no Tane The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 3, 2015"
+        }
     ]
 }
