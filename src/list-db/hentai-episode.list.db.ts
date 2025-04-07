@@ -1,6 +1,23 @@
 import { IEpisodeList } from "./db.model";
 
 export const HentaiEpisodeList: { [key: string]: Array<IEpisodeList> } = {
+    "Animated Sort Clips Collection": [
+        {
+            Episode: "Episode 1",
+            Title: "Fandel Tales",
+            Aired: ""
+        },
+        {
+            Episode: "Episode 2",
+            Title: "Fandel Tales",
+            Aired: ""
+        },
+        {
+            Episode: "Episode 1",
+            Title: "Vaygren - After The Battle Yvain's",
+            Aired: ""
+        }
+    ],
     "1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?": [
         {
             Episode: "1",
@@ -2275,6 +2292,391 @@ export const HentaiEpisodeList: { [key: string]: Array<IEpisodeList> } = {
             Episode: "1",
             Title: "Episode 1",
             Aired: "Apr 3, 2015"
+        }
+    ],
+    "Bakunyuu Bomb": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Oct 09, 2009"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Nov 06, 2009"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Dec 15, 2009"
+        }
+    ],
+    "Bakunyuu Oyako": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 11, 2004"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 10, 2004"
+        }
+    ],
+    "Bakunyuu Shimai": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 8, 2005"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 8, 2005"
+        }
+    ],
+    "Betsu ni Anta no Tame ni Ookiku Natta n ja Nai n Dakara ne!!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 15, 2011"
+        }
+    ],
+    "Bijukubo": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 9, 2010"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 8, 2010"
+        }
+    ],
+    "Boin": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 25, 2005"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jan 25, 2006"
+        }
+    ],
+    "Chikan Monogatari": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 11, 2006"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jan 12, 2007"
+        }
+    ],
+    "Cleavage": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 24, 2006"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jun 23, 2006"
+        }
+    ],
+    "Daishikkin Helena": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 12, 2005"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Nov 11, 2005"
+        }
+    ],
+    "Donburi Kazoku": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 9, 2006"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 10, 2006"
+        }
+    ],
+    "Ero Manga Mitai na Koi Shiyo": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 27, 2008"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 26, 2008"
+        }
+    ],
+    "Fault!!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 20, 2009"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 28, 2010"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "May 20, 2011"
+        }
+    ],
+    "Fault!! Service: Aratanaru Rival": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 25, 2014"
+        }
+    ],
+    "Fetikano!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 22, 2013"
+        }
+    ],
+    "Fella Pure: Mitarashi-san Chi no Jijou The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 28, 2014"
+        }
+    ],
+    "Fella Hame Lips": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Oct 14, 2016"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 23, 2016"
+        }
+    ],
+    "Fighting of Ecstasy": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 25, 2011"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Apr 28, 2011"
+        }
+    ],
+    "First Love": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 16, 2012"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jun 15, 2012"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Oct 19, 2012"
+        }
+    ],
+    "Fleur The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 26, 2024"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 31, 2024"
+        }
+    ],
+    "Floating Material": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 25, 2011"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 25, 2011"
+        }
+    ],
+    "Front Innocent: Mou Hitotsu no Lady Innocent": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 10, 2005"
+        }
+    ],
+    "Fukai ni Nemuru Oujo no Abaddon The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 24, 2020"
+        }
+    ],
+    "Fukubiki! Triangle: Miharu After": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 30, 2010"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jan 28, 2011"
+        }
+    ],
+    "Fukubiki! Triangle: Futaba wa Atafuta ♥": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 27, 2015"
+        }
+    ],
+    "Furifure The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Sep 26, 2014"
+        }
+    ],
+    "Furifure 2": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 22, 2018"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Apr 26, 2018"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Jun 28, 2018"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Sept 28, 2018"
+        }
+    ],
+    "Furueru Kuchibiru": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 25, 2014"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jun 27, 2014"
+        }
+    ],
+    "Furyou ni Hamerarete Jusei Suru Kyonyuu Okaasan The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 31, 2013"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Aug 30, 2013"
+        }
+    ],
+    "Fushigi no Kuni no Succubus": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 26, 2023"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 28, 2023"
+        }
+    ],
+    "Futa-bu!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 21, 2014"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 2, 2014"
+        }
+    ],
+    "Futa-bu!!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 20, 2015"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 1, 2015"
+        }
+    ],
+    "Futa-bu! Mix: Futanari World": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 26, 2015"
+        }
+    ],
+    "Futei with... The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 31, 2023"
+        }
+    ],
+    "Futsuma Shoujo Charlotte": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Sep 27, 2024"
+        }
+    ],
+    "Fuurinkanzan": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 30, 2013"
         }
     ]
 }

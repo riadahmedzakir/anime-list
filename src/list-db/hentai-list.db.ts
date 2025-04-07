@@ -2,6 +2,22 @@ import { IList } from "./db.model";
 
 export const HentaiList: Array<IList> = [
     {
+        "Title": "Animated Sort Clips Collection",
+        "AlternateTitles": [],
+        "Descriptions": [
+            "A collection of various random clips for creative freelance artists"
+        ],
+        "Episodes": 3,
+        "Aired": "Various",
+        "Studios": [
+            "Freelance"
+        ],
+        "Genre": [],
+        "Theme": [],
+        "Cover": "48555l",
+        "Related": []
+    },
+    {
         "Title": "1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
         "AlternateTitles": [
             "1LDK+J系 いきなり同居？密着！？初エッチ！！？"
@@ -3261,6 +3277,711 @@ export const HentaiList: Array<IList> = [
         "Genre": ["Ahegao", "Anal", "Bdsm", "Big Boobs", "Bdsm", "Boob Job", "Creampie", "Facial", "Gangbang", "Harem", "Horror", "Mind Break", "Rape", "Scat", "School Girl", "Toys"],
         "Theme": [],
         "Cover": "137884l",
+        "Related": []
+    },
+    {
+        "Title": "Bakunyuu Bomb",
+        "AlternateTitles": [
+            "Exploding Tits BOMB",
+            "爆乳BOMB"
+        ],
+        "Descriptions": [
+            "A nurse that takes the job one step further by making her patients happy with special treatement. A housewive who is decieved by one of her neighboors to sign an unpayable debt and then she falls in the hand of the yakuza who make her perform as a sex toy. And a female teacher that can't hold her desires any longer and get herself some pleasure in the school bath but she was caught by some students and now she's the most popular sex dump of the town."
+        ],
+        "Episodes": 3,
+        "Aired": "Oct 9, 2009 to Dec 15, 2009",
+        "Studios": [
+            "Studio Ten Carat"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Boob Job", "Facial", "Gangbang", "Hand Job", "Harem", "Lactation", "Toys"],
+        "Theme": [],
+        "Cover": "36319l",
+        "Related": []
+    },
+    {
+        "Title": "Bakunyuu Oyako",
+        "AlternateTitles": [
+            "Explosive Bust Mother and Daughter, Anyone You Can Do... I Can Do Better!",
+            "爆乳母娘"
+        ],
+        "Descriptions": [
+            "What happens when a big-breasted mother and her equally-endowed daughter want to fight over the same guy? Thanks to hentai authors Blue Gale (SPOTLIGHT / PUNISHMENT) and Producers Shiyuuta Biwajima and Chikara Niki (SEX WARD / GIRL NEXT DOOR / HOOLIGAN), you're about to find out!",
+            "The Battle of the Busts!",
+            "Yusuke has a problem - the kind of problem any guy would love to have. You see, there's this girl named Reina, who wants him to be her \"private tutor\"... oh, and she just happens to have gigantic breasts. Huge, massive, watermelon-sized gazongas that taste sweet and are as soft as marshmallows.",
+            "So, what could Yusuke's problem possibly be? Well, when he goes to Reina's house to give her \"lessons\", he has a run-in with Reina's mom. And boy, is her mom ever stacked. Those triple-F-cup beauties are even bigger than Reina's! Plus, she's got the whole \"sexual mid-life crisis\" going on... she pours it on hot and heavy, and really wants Yusuke to take her for a ride.",
+            "Still not seeing the problem? Well each of these lovely ladies wants Yusuke for her own, so when mom catches Yusuke and Reina in the act, the fight is on -and Yusuke's trapped in the middle! Those two may be mother and daughter, but when it comes to winning Yusuke, they'll go to any length to prove their sexual skill!",
+            "Good luck ladies, and may the best boobs win!"
+        ],
+        "Episodes": 2,
+        "Aired": "Jun 11, 2004 to Sep 10, 2004",
+        "Studios": [
+            "Y.O.U.C"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Comedy", "Facial", "Milf", "School Girl"],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "103882l",
+        "Related": []
+    },
+    {
+        "Title": "Bakunyuu Shimai",
+        "AlternateTitles": [
+            "Bomb Milk Sisters",
+            "Invasion of the Booby Snatchers",
+            "爆乳姉妹"
+        ],
+        "Descriptions": [
+            "One night, whilst impoverished student Tashiro Shinji was sleeping in his apartment, a beautiful and naked girl appeared in a flash of light. In fact, she's actually an alien named Julia who is searching for her elder sister."
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 8, 2005 to Jul 8, 2005",
+        "Studios": [
+            "Y.O.U.C"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Boob Job", "Facial", "Fantasy", "Toys"],
+        "Theme": [],
+        "Cover": "10118l",
+        "Related": []
+    },
+    {
+        "Title": "Betsu ni Anta no Tame ni Ookiku Natta n ja Nai n Dakara ne!!",
+        "AlternateTitles": [
+            "It's Not Like I Grow Up Just for You!!",
+            "別にアンタの為に大きくなったんじゃないんだからねっ!!"
+        ],
+        "Descriptions": [
+            "After a night at a party, a young lady decides to enlist her new butler to help her learn what \"fellatio\" and \"tit-fucking\" are."
+        ],
+        "Episodes": 1,
+        "Aired": "Apr 15, 2011",
+        "Studios": [
+            "Studio Boogie Nights"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Facial"],
+        "Theme": [],
+        "Cover": "90713l",
+        "Related": []
+    },
+    {
+        "Title": "Bijukubo",
+        "AlternateTitles": [
+            "美熟母"
+        ],
+        "Descriptions": [
+            "Yohei happily lives with his mother, Kaho, and his cousin, Fumika. But one day, Kaho tells Yohei that Kaho is actually an older sister of his father, not his mother... She also tells him that his mother passed away long time ago. Yohei is shocked to hear that, but he starts seeing Kaho as a woman, not as his mother. Days later, a woman, Ikue, moves to a house next to his. When Ikue first sees Yohei, she suddenly starts crying and Kaho turns pale. Ikue tells them she is a relative of Yohei's mother and she wants to accept him as an adopted child. Of course, Kaho and Fumika turn it down... From that day, their lewd and erotic life starts..."
+        ],
+        "Episodes": 2,
+        "Aired": "Jul 9, 2010 to Oct 8, 2010",
+        "Studios": [
+            "Y.O.U.C"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Harem", "Incest", "Milf"],
+        "Theme": [],
+        "Cover": "103886l",
+        "Related": []
+    },
+    {
+        "Title": "Boin",
+        "AlternateTitles": [
+            "Boin",
+            "Boin Lecture",
+            "boin ボイン"
+        ],
+        "Descriptions": [
+            "Based on a game by Crossnet-Pie.",
+            "Daisuke Ichijo is a new teacher at Kisaragi Academy, an all female school, and he is assigned to be a job counselor. To find the appropriate job for students, he role-plays with the girl students who wear various uniforms such as a nurse, a shrine maiden, and so on."
+        ],
+        "Episodes": 2,
+        "Aired": "Aug 25, 2005 to Jan 25, 2006",
+        "Studios": [
+            "Shindeban Film"
+        ],
+        "Genre": ["Big Boobs", "Boob Job", "Cosplay", "Harem", "Orgy", "School Girl", "Toys", "Yuri"],
+        "Theme": [],
+        "Cover": "113014l",
+        "Related": []
+    },
+    {
+        "Title": "Chikan Monogatari",
+        "AlternateTitles": [
+            "Legend of the Pervert",
+            "痴漢物語"
+        ],
+        "Descriptions": [
+            "The phrase \"hard work\" takes on an entirely new--and sexy--meaning in Legend of the Pervert. With the office as its setting, this adults-only anime features a woman who enjoys a little solo fun in her office in the mornings and a young man whose female coworkers make him do naughty acts that would make human resources cringe."
+        ],
+        "Episodes": 2,
+        "Aired": "Aug 11, 2006 to Jan 12, 2007",
+        "Studios": [
+            "Y.O.U.C"
+        ],
+        "Genre": ["Blow Job", "Comedy", "Creampie", "Foot Job", "Incest", "Loli", "Masturbation", "Milf", "Vanilla"],
+        "Theme": [],
+        "Cover": "111977l",
+        "Related": []
+    },
+    {
+        "Title": "Cleavage",
+        "AlternateTitles": [
+            "Cleavage",
+            "クレイヴィジ"
+        ],
+        "Descriptions": [
+            "From the authors of Bible Black and Discipline comes this new OVA based on a game with the same name.",
+            "When their father is given a transfer, Todo Yuto and Todo Erika are left alone. They are siblings, but they are not blood related. When Yuto was a child, his mother died. His father remarried a woman who, herself, had a child from a previous relationship, Erika. His stepmother was quite gentle, but she, too, has since passed away. Living alone, they begin to love each other as a man and a woman. However, an art teacher, Sayaka, notices their relationship and..."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 24, 2006 to Jun 23, 2006",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Comedy", "Creampie", "Facial", "Harem", "Incest", "Milf", "School Girl", "Toys"],
+        "Theme": [],
+        "Cover": "28431l",
+        "Related": []
+    },
+    {
+        "Title": "Cosplay Rakuen",
+        "AlternateTitles": [
+            "Cosplay Paradise",
+            "コスプレ楽園"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 1,
+        "Aired": "Jan 1, 2014",
+        "Studios": [
+            "Jumondo"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Cosplay", "Facial", "Foot Job", "School Girl", "Threesome"],
+        "Theme": [],
+        "Cover": "116178l",
+        "Related": []
+    },
+    {
+        "Title": "Daishikkin Helena",
+        "AlternateTitles": [
+            "Elfen Laid",
+            "大失禁へレナ"
+        ],
+        "Descriptions": [
+            "Theodora and Helena are daughters of the royal family of Burgundia, a country known for its courage. Regardless, and unfortunately, the country of Melven invades and succeeds in conquering Burgundia. Theodora and Helena are captured by Melven soldiers who are known to rape female Burgund captives. When Theodora, who thought only herself at first, hears that her sister had also been captured, she initially wants to commit suicide. As time goes on however, she decides to devote herself to the men's desires in order to help her sister."
+        ],
+        "Episodes": 2,
+        "Aired": "Aug 12, 2005 to Nov 11, 2005",
+        "Studios": [
+            "Y.O.U.C"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Creampie", "Gangbang", "Mind Break", "Rape", "Toys"],
+        "Theme": [],
+        "Cover": "10159l",
+        "Related": []
+    },
+    {
+        "Title": "Donburi Kazoku",
+        "AlternateTitles": [
+            "Like Mother Like Daughter",
+            "どんぶり家族"
+        ],
+        "Descriptions": [
+            "Yukiko is a young wife who is feeling lonely and unsatisfied. Her husband Koichi won't satisfy her needs, and in fact they sleep on separate beds. To add to her frustration Yukiko finds some pictures on her husband's cell phone – pictures of an unknown naked woman; also one night she sees her two children – who are not related by blood – together in bed.",
+            "Yukiko spends her time at home trying to satisfy her needs on her own. Until one day the father of her husband comes to visit and sees her in compromising situation. That's when things in her family start to change…"
+        ],
+        "Episodes": 2,
+        "Aired": "Jun 9, 2006 to Oct 10, 2006",
+        "Studios": [
+            "Y.O.U.C"
+        ],
+        "Genre": ["Anal", "Blow Job", "Gangbang", "Hand Job", "Incest", "School Girl"],
+        "Theme": [],
+        "Cover": "41647l",
+        "Related": []
+    },
+    {
+        "Title": "Ero Manga Mitai na Koi Shiyo",
+        "AlternateTitles": [
+            "Let's Fall in Love The Ero-manga",
+            "エロマンガみたいな恋しよう"
+        ],
+        "Descriptions": [
+            "Based on the manga by Yasui Riosuke."
+        ],
+        "Episodes": 2,
+        "Aired": "Jun 27, 2008 to Sep 26, 2008",
+        "Studios": [
+            "Flavors Soft"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Comedy", "Creampie", "Facial", "Incest", "Masturbation"],
+        "Theme": [],
+        "Cover": "85126l",
+        "Related": []
+    },
+    {
+        "Title": "Fault!!",
+        "AlternateTitles": [
+            "フォルト!!"
+        ],
+        "Descriptions": [
+            "Shuichi belongs to the tennis club. There are only five members in total, but he enjoys his school life with them. One day, the situation around him starts changing when Shuichi gets injured in an accident. While Ai, one of the members, takes a good care of him, Mio, his younger sister, stays grumpy. In such an ugly situation, a big accident happens which changes the whole situation..."
+        ],
+        "Episodes": 3,
+        "Aired": "Nov 20, 2009 to May 20, 2011",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Comedy", "Creampie", "Facial", "Harem", "Incest", "Loli", "Reverse Rape", "School Girl", "Vanilla"],
+        "Theme": [],
+        "Cover": "16470l",
+        "Related": []
+    },
+    {
+        "Title": "Fault!! Service: Aratanaru Rival",
+        "AlternateTitles": [
+            "フォルト!!S(サービス)~新たなる恋敵(ライバル)~"
+        ],
+        "Descriptions": [
+            "After a tumultuous summer vacation, Shuuichi begins the second school term while under the constant love assault from Ai and Mio. One day the tennis club leader Reiko announced that they will participate in the school festival at the end of the month, which they decided to run a cosplay cafe after much wrangling. Afterwards, she decided that she wanted to run as a candidate for next term's student council. That wasn’t the end of his tumultuous days as a transfer student suddenly appeared in his class..."
+        ],
+        "Episodes": 1,
+        "Aired": "Feb 22, 2013",
+        "Studios": [
+            "T-Rex"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Boob Job", "Cosplay", "Creampie", "Foot Job", "Hand Job", "Harem", "Masturbation", "School Girl"],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "44846l",
+        "Related": []
+    },
+    {
+        "Title": "Fetikano!",
+        "AlternateTitles": [
+            "Panty-Monium",
+            "Fechikano!",
+            "ふぇちかの！"
+        ],
+        "Descriptions": [
+            "While walking home one day, Shuu encountered Hime, a beautiful girl who walked out of a flower shop—it was love at first sight. In the present, Shuu and Hime live together as a couple. Every day, Shuu comes up with a new lewd activity to try out with his girlfriend—and while Hime intends to always act like a victim, she enjoys all the kinks just as much as he does."
+        ],
+        "Episodes": 1,
+        "Aired": "Jul 25, 2014",
+        "Studios": [
+            "Peak Hunt"
+        ],
+        "Genre": ["Big Boobs", "Creampie", "Rimjob", "School Girl", "Vanilla"],
+        "Theme": [],
+        "Cover": "103953l",
+        "Related": []
+    },
+    {
+        "Title": "Fella Pure: Mitarashi-san Chi no Jijou The Animation",
+        "AlternateTitles": [
+            "Fela Pure: Mitarashi-san Chi no Jijou - The Animation",
+            "フェラピュア ~御手洗さん家の事情~ THE ANIMATION"
+        ],
+        "Descriptions": [
+            "On the outside, Keiko Mitarai is absolutely perfect; she has a beautiful figure, astounding leadership, and a good reputation among the students. Unbeknownst to many, however, behind the charisma she exudes lies a complete pervert who cannot stop thinking about the sexual art of fellatio. Because of this, whenever her parents are away, she uses her younger brother to discover new ways of giving pleasure, which is bound to one day go too far."
+        ],
+        "Episodes": 1,
+        "Aired": "Mar 28, 2014",
+        "Studios": [
+            "Office TakeOut"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Comedy", "Creampie", "Incest", "School Girl"],
+        "Theme": [],
+        "Cover": "74935l",
+        "Related": []
+    },
+    {
+        "Title": "Fella Hame Lips",
+        "AlternateTitles": [
+            "フェラハメりっぷす"
+        ],
+        "Descriptions": [
+            "Based on the manga by Fue."
+        ],
+        "Episodes": 2,
+        "Aired": "Oct 14, 2016 to Dec 23, 2016",
+        "Studios": [
+            "BreakBottle"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Hand Job", "Vanilla"],
+        "Theme": [],
+        "Cover": "104312l",
+        "Related": []
+    },
+    {
+        "Title": "Fighting of Ecstasy",
+        "AlternateTitles": [
+            "ファイティング オブ エクスタシー"
+        ],
+        "Descriptions": [
+            "Based on \"Fighting of Ecstasy 2009\" (erotic game) by Crimson."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 25, 2011 to Apr 28, 2011",
+        "Studios": [
+            "G-Lam"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Hand Job", "Incest", "School Girl", "Vanilla"],
+        "Theme": [],
+        "Cover": "28558l",
+        "Related": []
+    },
+    {
+        "Title": "First Love",
+        "AlternateTitles": [
+            "First Love"
+        ],
+        "Descriptions": [
+            "Based on the manga by Osuzu Akiomi.",
+            "Episode 1:",
+            "The story is about a brother Ani and his younger sister Kasumi who begin developing feelings towards one another.",
+            "Episode 2:",
+            "It's a love story of Sahara Satoshi and Aoba Chinatsudo walking to the same school.",
+            "Episode 3:",
+            "Is the story of Makoto and Kouichi."
+        ],
+        "Episodes": 3,
+        "Aired": "Mar 16, 2012 to Oct 19, 2012",
+        "Studios": [
+            "Y.O.U.C"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Facial", "Hand Job", "Incest", "School Girl", "Vanilla"],
+        "Theme": [],
+        "Cover": "103754l",
+        "Related": []
+    },
+    {
+        "Title": "Fleur The Animation",
+        "AlternateTitles": [
+            "フルール THE ANIMATION"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 2,
+        "Aired": "Jan 26, 2024 to Dec 31, 2024",
+        "Studios": [
+            "Studio 1st"
+        ],
+        "Genre": ["Big Boobs", "Creampie", "Blow Job"],
+        "Theme": [],
+        "Cover": "139429l",
+        "Related": []
+    },
+    {
+        "Title": "Floating Material",
+        "AlternateTitles": [
+            "Floating Material (フローティングマテリアル)"
+        ],
+        "Descriptions": [
+            "Shun is the only male teacher at Kyoukasen Girls' School, a well-known high class school also known as the \"Water School\" since it is situated in a forest and there is a lake on the school grounds. It is a place to heal the wounds of those girls who are hurt. He meets girls who shut off themselves from the world, those who don’t have confidence in themselves, those who are still traumatized by their past. He decides to help them move forward with their lives."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 25, 2011 to Mar 25, 2011",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "School Girl", "Vanilla", "Yuri"],
+        "Theme": [],
+        "Cover": "116705l",
+        "Related": []
+    },
+    {
+        "Title": "Front Innocent: Mou Hitotsu no Lady Innocent",
+        "AlternateTitles": [
+            "Another Lady Innocent",
+            "フロントイノセント ～もうひとつのレディイノセント～"
+        ],
+        "Descriptions": [
+            "During the Civil War, the powerful landowner Carson had a beautiful daughter with an innocent heart. As Faye enjoys an intense sexual relationship with her friend John and her servant girl Sophia, the end of her innocent days draws near. The mysterious Lord Mark has set his eyes on her and will stop at nothing to get her."
+        ],
+        "Episodes": 1,
+        "Aired": "Mar 10, 2005",
+        "Studios": [
+            "Arms"
+        ],
+        "Genre": ["Creampie", "Harem", "Vanilla", "Yuri"],
+        "Theme": [
+            "Historical"
+        ],
+        "Cover": "113389l",
+        "Related": []
+    },
+    {
+        "Title": "Fukai ni Nemuru Oujo no Abaddon The Animation",
+        "AlternateTitles": [
+            "腐界に眠る王女のアバドーン THE ANIMATION"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 1,
+        "Aired": "Jan 24, 2020",
+        "Studios": [
+            "Peak Hunt"
+        ],
+        "Genre": ["Big Boobs", "Fantasy", "Horror", "Tentacle", "Yuri"],
+        "Theme": [],
+        "Cover": "144326l",
+        "Related": []
+    },
+    {
+        "Title": "Fukubiki! Triangle: Miharu After",
+        "AlternateTitles": [
+            "Lucky Draw Triangle ~Miharu After~",
+            "ふくびき！トライアングル～美晴アフター～"
+        ],
+        "Descriptions": [
+            "Miharu Shinonome has a perfect body. She is very knowledgeable about sexual activities and often takes the lead with her boyfriend Ushio Irifune. In a sudden twist of fate, a horrible accident sends her to the hospital, making Ushio and her sister Futaba extremely concerned about her current state of health.",
+            "Miharu wakes up losing her memories of Ushio, reverting to her state before she met her boyfriend—shy, moody, and utterly innocent. Moreover, taking advantage of her sister's memory loss, Futaba seduces Ushio as she also harbors feelings for him. Ushio needs to help Miharu regain her memories, all the while trying to remain unfazed by Futaba's lustful seduction."
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 30, 2010 to Jan 28, 2011",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Creampie", "Hand Job", "Harem", "Incest", "Loli", "School Girl", "Threesome", "Yuri"],
+        "Theme": [],
+        "Cover": "103857l",
+        "Related": []
+    },
+    {
+        "Title": "Fukubiki! Triangle: Futaba wa Atafuta ♥",
+        "AlternateTitles": [
+            "ふくびき！トライアングル～双葉はあたふた～❤～"
+        ],
+        "Descriptions": [
+            "Futaba Shinonome is in love with her older sister's boyfriend, Ushio Irifune. However, he always rejects her seductive advances. To pressure him into making love with her, she makes him drink a glass of water mixed with an aphrodisiac. Consequently, Ushio's inner sexual desires awaken, much to Futaba's delight. But, things do not go according to her expectations..."
+        ],
+        "Episodes": 1,
+        "Aired": "Mar 27, 2015",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Anal", "Blow Job", "Creampie", "Loli", "Mind Control", "Rape", "Reverse Rape", "School Girl", "Vanilla"],
+        "Theme": [],
+        "Cover": "104313l",
+        "Related": []
+    },
+    {
+        "Title": "Furifure The Animation",
+        "AlternateTitles": [
+            "フリフレ THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Based on the adult novel by Noesis, Ori and Kizoku Coffee.",
+            "Yui had a quarrel with her parents and ran away from home. When she walks around the town, she meets her friend and she is tricked into joining a matchmaking website called Free Friends. She just waits for someone contacting her though she doesn't know much about it. The main character accidentally finds it and contacts her. On that night, they meet in the town full of libido and..."
+        ],
+        "Episodes": 1,
+        "Aired": "Sep 26, 2014",
+        "Studios": [
+            "Office TakeOut"
+        ],
+        "Genre": ["Blow Job", "Bdsm", "Creampie", "Facial", "Rape", "School Girl", "Toys"],
+        "Theme": [],
+        "Cover": "103957l",
+        "Related": []
+    },
+    {
+        "Title": "Furifure 2",
+        "AlternateTitles": [
+            "フリフレ2"
+        ],
+        "Descriptions": [
+            "When her mother passes away suddenly, Shinozaki Sumire finds herself alone and without a means to support herself. Out of desperation she turns to the message board Free Friends to earn some money. She develops a relationship with her first partner, Kaito, without realizing that they're much more than strangers...",
+            "Kaito, the newest student teacher at Minatohashi Higashi Academy, has a vice. Unable and unwilling to form meaningful, intimate relationships with other people, he instead satiates his need for intimacy through compensated dating. In order to feed this habit, he uses a message board known as Free Friends. Through its services, he can make the necessary arrangements and appointments with the various girls who also use the site, mainly students running away from home or simply in need of extra income.",
+            "His troubles trace back to a deeply seated complex: a hollow, yearning feeling brought on by the thought and sight of violets. Violets, or \"Sumire\", remind him of the sister he'd been separated from during their childhood when their parents had divorced. Only by losing himself in a woman's body can he rid himself of those clinging, nostalgic feelings.",
+            "Right before the school year begins, the mere reminder of the academy's famed violet flowerbeds (despite them not even being in bloom at the time) is enough to drive Kaito to Free Friends. A seemingly routine exchange leaves him completely unprepared for the girl waiting for him: an absolutely stunning beauty by the pseudonym of \"Sumi\".",
+            "A few days later, he discovers that \"Sumi\" is not only a student at the exact same school he teaches at, but that her classmates call her \"Sumire\". Incredulous, Kaito checks the school rosters. Surely it's not the same Sumire he knows; surely it's just another girl with the same given name? But as if setting him up for the universe's biggest punchline, the only Sumire at the school is none other than his very own Shinozaki Sumire, the sister his mother had taken away from him. Kaito's dreams of one day reuniting with his sister have in fact already been realized... just not in a way that he ever could have imagined."
+        ],
+        "Episodes": 4,
+        "Aired": "Feb 23, 2018 to Sep 28, 2018",
+        "Studios": [
+            "PoRO"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Boob Job", "Creampie", "Incest", "School Girl"],
+        "Theme": [],
+        "Cover": "103955l",
+        "Related": []
+    },
+    {
+        "Title": "Furueru Kuchibiru",
+        "AlternateTitles": [
+            "Fuzzy Lips 1",
+            "Fuzzy Lips 1",
+            "フルエルクチビル"
+        ],
+        "Descriptions": [
+            "Kon Katakura rarely attends classes, but when she does, her behavior is poor and her performance is mediocre. When the new homeroom teacher Kurosawa arrives, the two soon end up in a relationship quite unlike other students'. Through ups and downs, the couple struggles to define their feelings for each other. The only way they are able to manifest their affection is through passionate sexual intercourse, in which they indulge day and night. Kon moves to her new boyfriend's apartment, shunning her family and classmates, in an attempt to find meaning in their half-hearted and cursory relationship."
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 25, 2014 to Jun 27, 2014",
+        "Studios": [
+            "Studio 1st"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "School Girl", "Tsundere"],
+        "Theme": [],
+        "Cover": "116647l",
+        "Related": []
+    },
+    {
+        "Title": "Furyou ni Hamerarete Jusei Suru Kyonyuu Okaasan The Animation",
+        "AlternateTitles": [
+            "不良にハメられて受精する巨乳お母さん THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Kyouko has incestuous feelings toward her son. The story slowly progresses into the son realizing his own feelings toward his mom. Later on, a friend of her son's, Shin, blackmails her into doing whatever he wants. Slowly, she starts enjoying herself more and more. Will she break or fall for her son?"
+        ],
+        "Episodes": 2,
+        "Aired": "May 31, 2013 to Aug 30, 2013",
+        "Studios": [
+            "Office TakeOut"
+        ],
+        "Genre": ["Ahegao", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Cosplay", "Facial", "Gangbang", "Hand Job", "Incest", "Milf", "Rape", "Reverse Rape"],
+        "Theme": [],
+        "Cover": "103960l",
+        "Related": []
+    },
+    {
+        "Title": "Fushigi no Kuni no Succubus",
+        "AlternateTitles": [
+            "Succubus in Wonderland",
+            "不思議の国のサキュバス"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 2,
+        "Aired": "May 26, 2023 to Jul 28, 2023",
+        "Studios": [
+            "Majin"
+        ],
+        "Genre": ["Big Boobs", "Creampie", "Blow Job"],
+        "Theme": [],
+        "Cover": "133788l",
+        "Related": []
+    },
+    {
+        "Title": "Futa-bu!",
+        "AlternateTitles": [
+            "Futa Club!",
+            "ふた部!"
+        ],
+        "Descriptions": [
+            "Dissatisfied with an ordinary high school life, Akane Niimura decides to join the Futa Club. The organization consists solely of futanari—well-developed women with male genitals. The club's members spend their free time pursuing a single activity: indulging in as much sexual pleasure with each other as possible.",
+            "However, there is a major problem with Akane—she is a regular girl! Therefore she can only be admitted to the club as a \"service specialist.\" Despite ending up with the subservient role of being a sex toy for the other members, Niimura is content with her position and resolves to fully enjoy the club's exciting activities."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 21, 2014 to May 2, 2014",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Boob Job", "Comedy", "Creampie", "Facial", "Futanari", "Hand Job", "Inflation", "Loli", "Orgy"],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "103851l",
+        "Related": []
+    },
+    {
+        "Title": "Futa-bu!!",
+        "AlternateTitles": [
+            "Futa Club!!",
+            "ふた部!!"
+        ],
+        "Descriptions": [
+            "A relaxing vacation at the Manra Valley onsen is just what the members of the Futabu, or Futanari Club, signed up for. Officially, their goal is to research the harvest festival native to the area for a high school project. Unofficially, they're there to have a little fun, and the springs are an aphrodisiac..."
+        ],
+        "Episodes": 2,
+        "Aired": "Feb 20, 2015 to May 1, 2015",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Bdsm", "Boob Job", "Comedy", "Creampie", "Facial", "Futanari", "Inflation", "Loli", "Orgy"],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "73812l",
+        "Related": []
+    },
+    {
+        "Title": "Futa-bu! Mix: Futanari World",
+        "AlternateTitles": [
+            "Futa Club!",
+            "ふた部! MIX ~ふたなりワールド~"
+        ],
+        "Descriptions": [
+            "Sequel to Futabu!! Based on the adult doujin by BOSSHI."
+        ],
+        "Episodes": 1,
+        "Aired": "Jun 26, 2015",
+        "Studios": [
+            "Studio 9 Maiami"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Boob Job", "Creampie", "Dark Skin", "Facial", "Futanari", "Loli", "Milf", "Orgy", "School Girl", "Tsundere", "Yuri"],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "74645l",
+        "Related": []
+    },
+    {
+        "Title": "Futei with... The Animation",
+        "AlternateTitles": [
+            "不貞 with... THE ANIMATION"
+        ],
+        "Descriptions": [
+            "Away from the hustle and bustle of their homes, married women Kaoru and Satsuki come to a hot spring trip alone. When they are having fun together, they are picked up by the charlatan corps and end up drinking together. When she wakes up drunk, her ripe body is being toyed with and fucked. The body that was forcibly returned to the woman with no resistance is in her room and the bathhouse. She is squid all day long and continues to be seeded and depraved."
+        ],
+        "Episodes": 1,
+        "Aired": "Mar 31, 2023",
+        "Studios": [
+            "Seven"
+        ],
+        "Genre": ["Big Boobs", "Creampie", "Milf", "Blow Job"],
+        "Theme": [],
+        "Cover": "132061l",
+        "Related": []
+    },
+    {
+        "Title": "Futsuma Shoujo Charlotte",
+        "AlternateTitles": [
+            "祓魔○女シャルロット"
+        ],
+        "Descriptions": [
+            "No synopsis information has been added to this title. Help improve our database by adding a synopsis here."
+        ],
+        "Episodes": 1,
+        "Aired": "Sep 27, 2024",
+        "Studios": [
+            "Majin"
+        ],
+        "Genre": ["Big Boobs", "Blow Job", "Creampie", "Tentacle"],
+        "Theme": [],
+        "Cover": "143783l",
+        "Related": []
+    },
+    {
+        "Title": "Fuurinkanzan",
+        "AlternateTitles": [
+            "風輪奸山"
+        ],
+        "Descriptions": [
+            "Based on an adult game by Lune."
+        ],
+        "Episodes": 1,
+        "Aired": "Aug 30, 2013",
+        "Studios": [
+            "Schoolzone"
+        ],
+        "Genre": ["Anal", "Big Boobs", "Blow Job", "Creampie", "Gangbang", "Rape"],
+        "Theme": [],
+        "Cover": "103962l",
         "Related": []
     }
 ].sort((a, b) => a.Title.localeCompare(b.Title));
