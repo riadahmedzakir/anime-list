@@ -16,6 +16,26 @@ export const HentaiEpisodeList: { [key: string]: Array<IEpisodeList> } = {
             Episode: "Episode 1",
             Title: "Vaygren - After The Battle Yvain's",
             Aired: ""
+        },
+        {
+            Episode: "Episode 1",
+            Title: "Hinca-p - Ashley The Bizarre",
+            Aired: ""
+        },
+        {
+            Episode: "Episode 1",
+            Title: "Hinca-p - Gwen Vs Venom",
+            Aired: ""
+        },
+        {
+            Episode: "Episode 1",
+            Title: "Hinca-p - The Ultimate Licker",
+            Aired: ""
+        },
+        {
+            Episode: "Episode 1",
+            Title: "Hinca-p - Tifa Vs Mako Malboro",
+            Aired: ""
         }
     ],
     "1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?": [
@@ -2677,6 +2697,1058 @@ export const HentaiEpisodeList: { [key: string]: Array<IEpisodeList> } = {
             Episode: "1",
             Title: "Episode 1",
             Aired: "Aug 30, 2013"
+        }
+    ],
+    "Gaki ni Modotte Yarinaoshi!!!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 18, 2019"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 20, 2019"
+        }
+    ],
+    "Gakuen 2": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 29, 2007"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jun 27, 2008"
+        }
+    ],
+    "Gakuen 3": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 18, 2011"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 22, 2011"
+        }
+    ],
+    "Gakuen de Jikan yo Tomare": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 29, 2015"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jun 26, 2015"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Sep 25, 2015"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Oct 30, 2015"
+        }
+    ],
+    "Gakuen Nanafushigi": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Oct 25, 2003"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Feb 25, 2004"
+        }
+    ],
+    "Gakuen no Ikenie: Nagusami Mono to Kashita Kyonyuu Furyou Shoujo": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 24, 2015"
+        }
+    ],
+    "Gakuen Saimin Reido": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 16, 2010"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Aug 20, 2010"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Sep 21, 2012"
+        }
+    ],
+    "Gakuen Shimai": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 1, 2008"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Nov 28, 2008"
+        }
+    ],
+    "Gakuen Shinshoku: XX of the Dead": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 28, 2017"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 27, 2017"
+        }
+    ],
+    "Garden: Takamine-ke no Nirinka - The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 25, 2022"
+        }
+    ],
+    "Garden": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 26, 2013"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 26, 2013"
+        }
+    ],
+    "G-Taste (2010)": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 22, 2010"
+        }
+    ],
+    "Genkaku Cool na Sensei ga Aheboteochi!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 26, 2015"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 24, 2015"
+        }
+    ],
+    "Genmukan": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 21, 2003"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 22, 2003"
+        }
+    ],
+    "Gibo no Toiki: Haitoku Kokoro ni Tadayou Haha no Iroka": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 25, 2006"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 25, 2006"
+        }
+    ],
+    "Girls Rush The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 24, 2021"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 24, 2021"
+        }
+    ],
+    "Gobaku: Moe Mama Tsurezure": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 28, 2024"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 25, 2024"
+        }
+    ],
+    "Gitai Saimin": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 14, 2011"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Apr 20, 2011"
+        }
+    ],
+    "Goblin no Suana": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 31, 2023"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 26, 2023"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Aug 25, 2023"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Dec 01, 2023"
+        }
+    ],
+    "Gogo no Kouchou: Junai Mellow yori": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Sep 21, 2012"
+        }
+    ],
+    "Gomu wo Tsukete to Iimashita yo ne...": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 13, 2024"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 27, 2024"
+        }
+    ],
+    "Green Eyes: Ane Kyun! yori The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 3, 2017"
+        }
+    ],
+    "Itazura The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 8, 2005"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 8, 2005"
+        }
+    ],
+    "Gyakuten Majo Saiban: Chijo na Majo ni Sabakarechau The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 28, 2015"
+        }
+    ],
+    "8-shaku 8-wa Kerakumeguri: Igyou Kaikitan The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 24, 2016"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 21, 2017"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Dec 21, 2017"
+        }
+    ],
+    "Haha Sange": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 12, 2010"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 14, 2010"
+        }
+    ],
+    "Haitoku no Kyoukai": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 29, 2021"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 26, 2021"
+        }
+    ],
+    "Haitokuzuma": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 25, 2005"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 25, 2006"
+        }
+    ],
+    "Haji+ Shinchishin": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 29, 2022"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 28, 2022"
+        }
+    ],
+    "Hajimete no Hitozuma": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 22, 2020"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Aug 06, 2020"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Nov 25, 2021"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Mar 03, 2022"
+        },
+        {
+            Episode: "5",
+            Title: "Episode 5",
+            Aired: "May 03, 2023"
+        },
+        {
+            Episode: "6",
+            Title: "Episode 6",
+            Aired: "Feb 02, 2024"
+        }
+    ],
+    "Hajimete no Orusuban": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 4, 2020"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 5, 2021"
+        }
+    ],
+    "Hakoiri Shoujo: Virgin Territory": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Sep 30, 2011"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Feb 24, 2012"
+        }
+    ],
+    "Hana no Joshi Announcer: Newscaster Etsuko": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 25, 2004"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 24, 2004"
+        }
+    ],
+    "Hana to Hebi The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 21, 2006"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Aug 24, 2006"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Sep 22, 2006"
+        }
+    ],
+    "Haramasete Seiryuu-kun!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 24, 2011"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jan 31, 2012"
+        }
+    ],
+    "Haramaseya The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 22, 2024"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Apr 30, 2024"
+        }
+    ],
+    "Harem Cult": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 31, 2022"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 25, 2022"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Jan 31, 2023"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "May 26, 2023"
+        }
+    ],
+    "Harem Time The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 31, 2022"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 25, 2022"
+        }
+    ],
+    "Haritsuke": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 24, 2020"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 3, 2020"
+        }
+    ],
+    "Harukoi Otome": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 18, 2008"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 18, 2008"
+        }
+    ],
+    "Hasande Ageru": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 28, 2018"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 26, 2018"
+        }
+    ],
+    "Hataraku Otona no Renai Jijou The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 22, 2016"
+        }
+    ],
+    "Hatsu Inu The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 25, 2007"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 27, 2007"
+        }
+    ],
+    "Hatsu Inu 2 The Animation: Strange Kind of Woman - Again": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Sep 26, 2008"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 26, 2008"
+        }
+    ],
+    "Hatsujou Switch: Otosareta Shoujo-tachi - The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Oct 26, 2018"
+        }
+    ],
+    "Hatsukoi Jikan": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 24, 2023"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Nov 24, 2023"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Jan 01, 2024"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Jan 01, 2024"
+        },
+        {
+            Episode: "5",
+            Title: "Episode 5",
+            Aired: "Feb 23, 2024"
+        },
+        {
+            Episode: "6",
+            Title: "Episode 6",
+            Aired: "Feb 23, 2024"
+        }
+    ],
+    "Heartful Maman The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Oct 27, 2017"
+        }
+    ],
+    "Helter Skelter: Hakudaku no Mura": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 30, 2009"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 27, 2009"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Sep 30, 2014"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Nov 28, 2014"
+        }
+    ],
+    "HHH Triple Ecchi": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 26, 2010"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jan 28, 2011"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Oct 21, 2011"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Feb 03, 2012"
+        }
+    ],
+    "Himawari wa Yoru ni Saku": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 5, 2021"
+        }
+    ],
+    "Hime Dorei": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 25, 2008"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 25, 2008"
+        }
+    ],
+    "Himekishi Angelica": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 25, 2008"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 25, 2008"
+        }
+    ],
+    "Himekishi Lilia": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 26, 2006"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Nov 25, 2006"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Jun 23, 2007"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "May 24, 2008"
+        },
+        {
+            Episode: "5",
+            Title: "Episode 5",
+            Aired: "Nov 21, 2009"
+        },
+        {
+            Episode: "6",
+            Title: "Episode 6",
+            Aired: "Jul 30, 2010"
+        }
+    ],
+    "Himekishi Olivia": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 6, 2013"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jun 6, 2014"
+        }
+    ],
+    "Himesama Gentei!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 25, 2012"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Oct 26, 2012"
+        }
+    ],
+    "Himesama Love Life!": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 26, 2006"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Aug 29, 2019"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Jan 30, 2020"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Jun 25, 2020"
+        }
+    ],
+    "Himitsu no Kichi": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 4, 2022"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 18, 2022"
+        }
+    ],
+    "Hinagiku Virgin Lost Club e Youkoso": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 15, 2019"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 24, 2019"
+        }
+    ],
+    "Hininden: Gauss": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 22, 2005"
+        }
+    ],
+    "Hishoka Drop The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 25, 2012"
+        }
+    ],
+    "Hitoriga The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 26, 2009"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 25, 2009"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Jun 25, 2010"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "Sep 22, 2010"
+        }
+    ],
+    "Hitou Meguri Kakure Yu": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 3, 2010"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Feb 25, 2011"
+        }
+    ],
+    "Hitou Meguri Kakure Yu: Mao-hen": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 2, 2013"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 3, 2013"
+        }
+    ],
+    "Hitou Meguri The Animation: Wakaokami, Rachiru": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Mar 24, 2006"
+        }
+    ],
+    "Hitozuma♪Kasumi-san": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 9, 2005"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Apr 14, 2006"
+        }
+    ],
+    "Hitozuma Life: One Time Gal": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Sep 8, 2017"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 8, 2017"
+        }
+    ],
+    "Hitozuma, Mitsu to Niku": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 28, 2019"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jan 30, 2020"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Mar 26, 2020"
+        },
+        {
+            Episode: "4",
+            Title: "Episode 4",
+            Aired: "May 28, 2020"
+        }
+    ],
+    "Honoo no Haramase Doukyuusei": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 25, 2008"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jun 25, 2009"
+        }
+    ],
+    "Honoo no Haramase Motto! Hatsuiku! Karada Sokutei 2": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Nov 27, 2015"
+        }
+    ],
+    "Honoo no Haramase Oppai: Ero Appli Gakuen The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 25, 2017"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Mar 30, 2018"
+        }
+    ],
+    "Honoo no Haramase Paidol My★Star Gakuen Z The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Apr 24, 2015"
+        }
+    ],
+    "Hontou ni Atta": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 2, 2013"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 2, 2014"
+        }
+    ],
+    "Hotaruko": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Feb 20, 2003"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 21, 2003"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Sep 24, 2003"
+        }
+    ],
+    "Houkago: Nureta Seifuku": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jan 24, 2005"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Apr 24, 2005"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Sep 24, 2005"
+        }
+    ],
+    "Houkago 2: Sayuri": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 25, 2008"
+        }
+    ],
+    "Houkago 2 The Animation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 31, 2007"
+        }
+    ],
+    "Houkago Initiation": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jun 17, 2016"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Sep 2, 2016"
+        }
+    ],
+    "Houkago no Yuutousei": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "May 24, 2018"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Jul 19, 2018"
+        },
+        {
+            Episode: "3",
+            Title: "Episode 3",
+            Aired: "Dec 29, 2018"
+        }
+    ],
+    "Houkago Nyannyan": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Dec 16, 2011"
+        }
+    ],
+    "Hump Bang": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Aug 17, 2012"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "Dec 21, 2012"
+        }
+    ],
+    "Hyoudou Ibuki: Kanpeki Ibuki Kaichou ga Kousoku Do M!? na Wake": [
+        {
+            Episode: "1",
+            Title: "Episode 1",
+            Aired: "Jul 31, 2015"
+        },
+        {
+            Episode: "2",
+            Title: "Episode 2",
+            Aired: "May 27, 2016"
         }
     ]
 }
