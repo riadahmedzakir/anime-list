@@ -66981,5 +66981,7127 @@ export const AnimeEpisodeList: { [key: string]: Array<IEpisodeList> } = {
             "Title": "\"Moments\"",
             "Aired": "May 15, 2015[note 1]"
         }
+    ],
+    "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru": [
+        {
+            "Episode": "1",
+            "Title": "\"Typical Nobody\"\nTransliteration: \"Murabito Ē\" (Japanese: 村人A)",
+            "Aired": "April 6, 2022"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Non-Standard\"\nTransliteration: \"Kikaku-gai\" (Japanese: 規格外)",
+            "Aired": "April 13, 2022"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Demon Lord's Play\"\nTransliteration: \"Maō Gekijō\" (Japanese: 魔王劇場)",
+            "Aired": "April 20, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Duel\"\nTransliteration: \"Kettō\" (Japanese: 決闘)",
+            "Aired": "April 27, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"The Story of a Lonely King\"\nTransliteration: \"Kodoku Narishi Ō no Monogatari\" (Japanese: 孤独なりし王の物語)",
+            "Aired": "May 4, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Raging Champion\"\nTransliteration: \"Gekidō no Yūsha\" (Japanese: 激動の勇者)",
+            "Aired": "May 11, 2022"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Exciting Festival\"\nTransliteration: \"Hakunetsu no Saiten\" (Japanese: 白熱の祭典)",
+            "Aired": "May 18, 2022"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Mask Laughs\"\nTransliteration: \"Kamen wa Warau\" (Japanese: 仮面は嗤う)",
+            "Aired": "May 25, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"According to a God\"\nTransliteration: \"Kami Iwaku\" (Japanese: 神曰く)",
+            "Aired": "June 1, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"To the Battlefield of Old\"\nTransliteration: \"Inishie no Senjō e\" (Japanese: 古の戦場へ)",
+            "Aired": "June 8, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Those with Resolve\"\nTransliteration: \"Kakugo Aru Mono\" (Japanese: 覚悟ある者)",
+            "Aired": "June 15, 2022"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Beyond Our Determination\"\nTransliteration: \"Ketsui no Saki ni\" (Japanese: 決意の先に)",
+            "Aired": "June 22, 2022"
+        }
+    ],
+    "Shikkakumon no Saikyou Kenja": [
+        {
+            "Episode": "1",
+            "Title": "\"The Strongest Sage Appears.\"\nTransliteration: \"Saikyō Kenja, Arawaru.\" (Japanese: 最強賢者、現る。)",
+            "Aired": "January 8, 2022"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Strongest Sage Enters the Dungeon.\"\nTransliteration: \"Saikyō Kenja, Danjon e.\" (Japanese: 最強賢者、迷宮ダンジョンへ。)",
+            "Aired": "January 15, 2022"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Strongest Sage Meets a Dragon.\"\nTransliteration: \"Saikyō Kenja, Irisu to Deau.\" (Japanese: 最強賢者、竜イリスと出会う。)",
+            "Aired": "January 22, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Strongest Sage Infiltrates.\"\nTransliteration: \"Saikyō Kenja, Sennyū Suru.\" (Japanese: 最強賢者、潜入する。)",
+            "Aired": "January 29, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"The Strongest Sage Makes Allies.\"\nTransliteration: \"Saikyō Kenja, Nakama o Eru.\" (Japanese: 最強賢者、仲間を得る。)",
+            "Aired": "February 5, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Strongest Sage Leaves the School.\"\nTransliteration: \"Saikyō Kenja, Gakuen o Deru.\" (Japanese: 最強賢者、学園を出る。)",
+            "Aired": "February 12, 2022"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Strongest Sage Goes on a Journey.\"\nTransliteration: \"Saikyō Kenja, Tabiji o Iku.\" (Japanese: 最強賢者、旅路を往く。)",
+            "Aired": "February 19, 2022"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Strongest Sage Saves the City.\"\nTransliteration: \"Saikyō Kenja, Machi o Sukuu.\" (Japanese: 最強賢者、街を救う。)",
+            "Aired": "February 26, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Strongest Sage Duels.\"\nTransliteration: \"Saikyō Kenja, Kettō Suru.\" (Japanese: 最強賢者、決闘する。)",
+            "Aired": "March 5, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Strongest Sage Works With a Team.\"\nTransliteration: \"Saikyō Kenja, Renkei Suru.\" (Japanese: 最強賢者、連携する。)",
+            "Aired": "March 12, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"The Strongest Sage Faces a Powerful Enemy.\"\nTransliteration: \"Saikyō Kenja, Kyōteki to Aitai Suru.\" (Japanese: 最強賢者、強敵と相対する。)",
+            "Aired": "March 19, 2022"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"The Strongest Sage Goes on a Journey Again.\"\nTransliteration: \"Saikyō Kenja, Futatabi Tabidatsu.\" (Japanese: 最強賢者、再び旅立つ。)",
+            "Aired": "March 26, 2022"
+        }
+    ],
+    "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai": [
+        {
+            "Episode": "1",
+            "Title": "\"Whom Does Public Order and Morality Serve?\"\n\"Kōjoryōzoku wa ta ga tame ni?\" (公序良俗は誰が為に？)",
+            "Aired": "July 4, 2015[34]"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Mysteries of Pregnancy\"\n\"Ninshin no nazo\" (妊娠のなぞ)",
+            "Aired": "July 11, 2015[35]"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"How to Love Someone\"\n\"Hito no aishi-kata\" (人の愛し方)",
+            "Aired": "July 18, 2015[36]"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Saying Goes... Love Is Justice\"\n\"Sekai iwaku, ai wa seigi\" (世界いわく、愛は正義)",
+            "Aired": "July 25, 2015[37]"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"For Whom the Dirty Terrorism Benefits?\"\n\"Shimoneta tero wa ta ga tame ni?\" (下ネタテロは誰が為に？)",
+            "Aired": "August 1, 2015[38]"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Handmade Warmth!\"\n\"Tezukuri no nuku mori!\" (手作りのぬくもり！)",
+            "Aired": "August 8, 2015[39]"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"What SOX Created\"\n\"SOX ga tsukuri shi mono\" (SOXが作りし者)",
+            "Aired": "August 15, 2015[40]"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Devil Blows His Own Trumpet\"\n\"Akuma ga ki tari te hora o fuku\" (悪魔が来たりてホラを吹く)",
+            "Aired": "August 22, 2015[41]"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Do Androids Dream of Electric Masseurs?\"\n\"Andoroido wa denki anma no yume o miru ka\" (アンドロイドは電気アンマの夢を見るか)",
+            "Aired": "August 29, 2015[42]"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Masturbation Quest\"\n\"Jī-kyū kuesuto\" (ジイ級クエスト)",
+            "Aired": "September 5, 2015[43]"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Techno Break\"\n\"Tekuno bureiku\" (テクノブレイク)",
+            "Aired": "September 12, 2015[44]"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Dirty Jokes Forever!\"\n\"Shimoneta yo eien ni\" (下ネタよ永遠に)",
+            "Aired": "September 19, 2015[45]"
+        }
+    ],
+    "Ikkitousen": [
+        {
+            "Episode": "1",
+            "Title": "\"One\" / \"The Champions\"\nTransliteration: \"Ichi\" (Japanese: 壱)",
+            "Aired": "July 30, 2003"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Two\" / \"Confrontation with the Big Four of Nanyo High!\"\nTransliteration: \"Ni\" (Japanese: 弐)",
+            "Aired": "August 6, 2003"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Three\" / \"My Virtue is in Danger!\"\nTransliteration: \"San\" (Japanese: 参)",
+            "Aired": "August 13, 2003"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Four\" / \"A Duel! Taishiji vs. Sonsaku\"\nTransliteration: \"Yon\" (Japanese: 四)",
+            "Aired": "August 20, 2003"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Five\" / \"Get Angry, Hakufu! The School of Counterattack!\"\nTransliteration: \"Go\" (Japanese: 伍)",
+            "Aired": "August 27, 2003"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Six\" / \"The Bloody Big Fighters Tournament!\"\nTransliteration: \"Roku\" (Japanese: 六)",
+            "Aired": "September 3, 2003"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Seven\" / \"The Fatal Confrontation!\"\nTransliteration: \"Nana\" (Japanese: 七)",
+            "Aired": "September 10, 2003"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Eight\" / \"Goei's Betrayal! Why?\"\nTransliteration: \"Hachi\" (Japanese: 八)",
+            "Aired": "September 17, 2003"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Nine\" / \"Viva La Hot Spring!\"\nTransliteration: \"Kyuu\" (Japanese: 九)",
+            "Aired": "September 24, 2003"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Ten\" / \"The Sho Haou Encounters the Devil!\"\nTransliteration: \"Jitsu\" (Japanese: 拾)",
+            "Aired": "October 1, 2003"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Eleven\" / \"Ryofu, Her Love and Death!\"\nTransliteration: \"Jitsu Ichi\" (Japanese: 拾壱)",
+            "Aired": "October 8, 2003"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Twelve\" / \"Summer Comes to a Watermelon Field\"\nTransliteration: \"Jitsu Ni\" (Japanese: 拾弐)",
+            "Aired": "October 15, 2003"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Thirteen\" / \"Good-bye Hakufu! The Battle Days!\"\nTransliteration: \"Jitsu San\" (Japanese: 拾参)",
+            "Aired": "October 22, 2003"
+        }
+    ],
+    "Ikkitousen: Dragon Destiny": [
+        {
+            "Episode": "14",
+            "Title": "\"Signs of the Dragon Spirit\"\nTransliteration: \"Ryūkon Taidō\" (Japanese: 龍魂胎動)",
+            "Aired": "February 26, 2007"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"The Evil Lord Awakens\"\nTransliteration: \"Maō Kakusei\" (Japanese: 魔王覚醒)",
+            "Aired": "March 5, 2007"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Bloodshed and Tears\"\nTransliteration: \"Rūketsu Rakusei\" (Japanese: 流血落涙)",
+            "Aired": "March 12, 2007"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Chance Meeting of the Two Dragons\"\nTransliteration: \"Niryū Kaikō\" (Japanese: 弐龍邂逅)",
+            "Aired": "March 19, 2007"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Ruthless Fighters\"\nTransliteration: \"Tōshi Muzan\" (Japanese: 闘士無惨)",
+            "Aired": "March 26, 2007"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Encounter with the Crouching Dragon\"\nTransliteration: \"Fukuryū Hōchaku\" (Japanese: 伏龍逢着)",
+            "Aired": "April 2, 2007"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Kanu Surrenders\"\nTransliteration: \"Kan'u Tōkō\" (Japanese: 関羽投降)",
+            "Aired": "April 9, 2007"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"The Little Conqueror's Heroic Death\"\nTransliteration: \"Shōhaō Sanga\" (Japanese: 小覇王散華)",
+            "Aired": "April 16, 2007"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Friendships in Chaos\"\nTransliteration: \"Yūgi Metsuretsu\" (Japanese: 友義滅裂)",
+            "Aired": "April 23, 2007"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"The Wandering Koukin\"\nTransliteration: \"Kōrin Ruten\" (Japanese: 公瑾流転)",
+            "Aired": "April 30, 2007"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"Fighter Melee\"\nTransliteration: \"Tōshi Ransen\" (Japanese: 闘士乱戦)",
+            "Aired": "May 7, 2007"
+        },
+        {
+            "Episode": "25",
+            "Title": "\"Red Cliffs in Flames\"\nTransliteration: \"Sekiheki Enjō\" (Japanese: 赤壁炎上)",
+            "Aired": "May 14, 2007"
+        }
+    ],
+    "Ikkitousen: Great Guardians": [
+        {
+            "Episode": "26",
+            "Title": "\"War Is of Vital Importance to the State\"\nTransliteration: \"Hei wa Kuni no Daiji nari\" (Japanese: 兵は国の大事なり)",
+            "Aired": "June 11, 2008"
+        },
+        {
+            "Episode": "27",
+            "Title": "\"All Warfare Is Based on Deception\"\nTransliteration: \"Hei to wa Kidō nari\" (Japanese: 兵とは詭道なり)",
+            "Aired": "June 18, 2008"
+        },
+        {
+            "Episode": "28",
+            "Title": "\"Nor Can the Dead Be Brought Back to Life\"\nTransliteration: \"Shisha wa Fukuta Ikube Karazu\" (Japanese: 死者は復た生くべからず)",
+            "Aired": "June 25, 2008"
+        },
+        {
+            "Episode": "29",
+            "Title": "\"Regard Soldiers as Your Children\"\nTransliteration: \"Sotsu o Miru Koto Eiji no Gotoshi\" (Japanese: 卒を視ること嬰児のごとし)",
+            "Aired": "July 2, 2008"
+        },
+        {
+            "Episode": "30",
+            "Title": "\"Do Not Fight Unless It Is Critical\"\nTransliteration: \"Ayauki ni Arazareba Tatakawazu\" (Japanese: 危うきに非ざれば戦わず)",
+            "Aired": "July 9, 2008"
+        },
+        {
+            "Episode": "31",
+            "Title": "\"Intelligence Makes Great Spies\"\nTransliteration: \"Jōchi o Motte Kanja to Nasu\" (Japanese: 上智を以て間者と為す)",
+            "Aired": "July 16, 2008"
+        },
+        {
+            "Episode": "32",
+            "Title": "\"At First, Like a Virgin\"\nTransliteration: \"Hajime wa Shojo no Gotoku\" (Japanese: 始めは処女の如く)",
+            "Aired": "July 23, 2008"
+        },
+        {
+            "Episode": "33",
+            "Title": "\"Do Unto Others, Do Not Let Them Do Unto You\"\nTransliteration: \"Hito o Itashite Hito ni Itasarezu\" (Japanese: 人を致して人に致されず)",
+            "Aired": "July 30, 2008"
+        },
+        {
+            "Episode": "34",
+            "Title": "\"The Bigger Odds Wins, the Smaller Odds Loses\"\nTransliteration: \"San Ōki wa Kachi, San Sukunaki wa Katazu\" (Japanese: 算多きは勝ち、算少なきは勝たず)",
+            "Aired": "August 6, 2008"
+        },
+        {
+            "Episode": "35",
+            "Title": "\"Strike the Enemy's Plan\"\nTransliteration: \"Jōhei wa Hakarigoto o Utsu\" (Japanese: 上兵は謀を伐つ)",
+            "Aired": "August 13, 2008"
+        },
+        {
+            "Episode": "36",
+            "Title": "\"Start by Taking Away the Ones They Love\"\nTransliteration: \"Mazu Sono Aisuru Tokoro o Ubau\" (Japanese: 先ずその愛する所を奪う)",
+            "Aired": "August 20, 2008"
+        },
+        {
+            "Episode": "37",
+            "Title": "\"Coming Together\"\nTransliteration: \"Atsumari te Ichi to Naru\" (Japanese: 専まりて一と為る)",
+            "Aired": "August 27, 2008"
+        }
+    ],
+    "Ikkitousen: Xtreme Xecutor": [
+        {
+            "Episode": "38",
+            "Title": "\"Wet Fighter\"\nTransliteration: \"Nureru Tōshi\" (Japanese: 濡れる闘士)",
+            "Aired": "March 26, 2010"
+        },
+        {
+            "Episode": "39",
+            "Title": "\"Gathering Allies\"\nTransliteration: \"Tsudō Nakama\" (Japanese: 集う仲間)",
+            "Aired": "April 2, 2010"
+        },
+        {
+            "Episode": "40",
+            "Title": "\"Lion in Training\"\nTransliteration: \"Kitaeru Shishi\" (Japanese: 鍛える獅子)",
+            "Aired": "April 9, 2010"
+        },
+        {
+            "Episode": "41",
+            "Title": "\"The Devil Beckons\"\nTransliteration: \"Maneku Akuma\" (Japanese: 招く悪魔)",
+            "Aired": "April 16, 2010"
+        },
+        {
+            "Episode": "42",
+            "Title": "\"Bonds of the Soul\"\nTransliteration: \"Tamashii no Kizuna\" (Japanese: 魂の絆)",
+            "Aired": "April 23, 2010"
+        },
+        {
+            "Episode": "43",
+            "Title": "\"Swarming Fangs\"\nTransliteration: \"Muragaru Kiba\" (Japanese: 群がる牙)",
+            "Aired": "April 30, 2010"
+        },
+        {
+            "Episode": "44",
+            "Title": "\"Silent Tears\"\nTransliteration: \"Chinmoku no Namida\" (Japanese: 沈黙の涙)",
+            "Aired": "May 7, 2010"
+        },
+        {
+            "Episode": "45",
+            "Title": "\"Reunion of the Fists\"\nTransliteration: \"Saikai ha Kobushi\" (Japanese: 再会は拳)",
+            "Aired": "May 14, 2010"
+        },
+        {
+            "Episode": "46",
+            "Title": "\"Angry Love\"\nTransliteration: \"Ikaru Ai\" (Japanese: 怒る愛)",
+            "Aired": "May 21, 2010"
+        },
+        {
+            "Episode": "47",
+            "Title": "\"Shredded Darkness\"\nTransliteration: \"Sakareta Yami\" (Japanese: 裂かれた闇)",
+            "Aired": "May 28, 2010"
+        },
+        {
+            "Episode": "48",
+            "Title": "\"Fiery Castle\"\nTransliteration: \"Moeru Shiro\" (Japanese: 燃える城)",
+            "Aired": "June 4, 2010"
+        },
+        {
+            "Episode": "49",
+            "Title": "\"Future: Unlimited\"\nTransliteration: \"Mirai Mugen\" (Japanese: 未来無限)",
+            "Aired": "June 11, 2010"
+        }
+    ],
+    "Shin Ikkitousen": [
+        {
+            "Episode": "50",
+            "Title": "\"The Return\"",
+            "Aired": "May 17, 2022"
+        },
+        {
+            "Episode": "51",
+            "Title": "\"Jofukuin\"",
+            "Aired": "May 24, 2022"
+        },
+        {
+            "Episode": "52",
+            "Title": "\"Melody\"",
+            "Aired": "May 31, 2022"
+        }
+    ],
+    "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita": [
+        {
+            "Episode": "1",
+            "Title": "\"You're Not a True Comrade\"\nTransliteration: \"Ore wa Shin no Nakama ja Nai Rashii\" (Japanese: 俺は真の仲間じゃないらしい)",
+            "Aired": "October 6, 2021[e]"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Princess Who Didn't Join the Hero's Party\"\nTransliteration: \"Yūsha no Nakama ni Naranakatta Ohime-sama\" (Japanese: 勇者の仲間にならなかったお姫様)",
+            "Aired": "October 13, 2021"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Let's Start Our Quiet Life Together\"\nTransliteration: \"Futari de Surō Raifu o Hajimeyō\" (Japanese: ２人でスローライフを始めよう)",
+            "Aired": "October 20, 2021"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Of Mead and Motives\"\nTransliteration: \"Hachimitsushu no Riyū\" (Japanese: 蜂蜜酒の理由)",
+            "Aired": "October 27, 2021"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"The Amber Bracelet\"\nTransliteration: \"Kohaku no Naka no Yubiwa\" (Japanese: 琥珀の中の指輪)",
+            "Aired": "November 3, 2021"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Rampage Begins\"\nTransliteration: \"Hajimari no Kyōkō\" (Japanese: 始まりの凶行)",
+            "Aired": "November 10, 2021"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Chaos After the Storm\"\nTransliteration: \"Arashi no Nochi ni Kusuburu Hi\" (Japanese: 嵐の後に燻る火)",
+            "Aired": "November 17, 2021"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Man Who Would Be a Hero\"\nTransliteration: \"Eiyū ni Narō to Shita Otoko\" (Japanese: 英雄になろうとした男)",
+            "Aired": "November 24, 2021"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Days of Peace and Ease\"\nTransliteration: \"Odayaka na Hibi\" (Japanese: 穏やかな日々)",
+            "Aired": "December 1, 2021"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Saving the Hero\"\nTransliteration: \"Kore wa Yūsha o Sukuu Monogatari\" (Japanese: これは勇者を救う物語)",
+            "Aired": "December 8, 2021"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"A Gathering of Champions\"\nTransliteration: \"Eiyū-tachi wa Zorutan ni Tsudou\" (Japanese: 英雄達はゾルタンに集う)",
+            "Aired": "December 15, 2021"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"A Parting of Ways\"\nTransliteration: \"Wakaremichi\" (Japanese: 別れ道)",
+            "Aired": "December 22, 2021"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"The Guide\"\nTransliteration: \"Michibikite\" (Japanese: 導き手)",
+            "Aired": "December 29, 2021"
+        }
+    ],
+    "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd": [
+        {
+            "Episode": "14",
+            "Title": "\"Let's Go On a Quiet Little Journey\"\nTransliteration: \"Surō Raifuna Tabi o Shiyō\" (Japanese: スローライフな旅をしよう)",
+            "Aired": "January 7, 2024"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"The Gem Beast\"\nTransliteration: \"Hōseki no Kemono\" (Japanese: 宝石の獣)",
+            "Aired": "January 14, 2024"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Zoltan's Solstice Festival\"\nTransliteration: \"Zorutan no Shukusaijitsu\" (Japanese: ゾルタンの祝祭日)",
+            "Aired": "January 21, 2024"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"The Daily Life of the Former Hero and the Assassin\"\nTransliteration: \"Moto Yūsha to Ansatsusha no Nichijō\" (Japanese: 元勇者と暗殺者の日常)",
+            "Aired": "January 28, 2024"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"The Man Who Doesn't Get Chill Living\"\nTransliteration: \"Surō Raifu ga Rikai Dekinai Otoko\" (Japanese: スローライフが理解できない男)",
+            "Aired": "February 4, 2024"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"A Long Vacation\"\nTransliteration: \"Rongu Bākasshon\" (Japanese: ロングバーカション)",
+            "Aired": "February 11, 2024"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"The Two Heroes\"\nTransliteration: \"Futari no Yūsha\" (Japanese: 二人の勇者)",
+            "Aired": "February 18, 2024"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"All for Blessings and Faith\"\nTransliteration: \"Subete wa Kago to Shinkō no Tame ni\" (Japanese: すべては加護と信仰の為に)",
+            "Aired": "February 25, 2024"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Take Out the Fairy in Love and the Greedy Cardinal\"\nTransliteration: \"Koisuru Yōsei to Gōyokuna Sūkikyō o Nerai Ute\" (Japanese: 恋する妖精と強欲な枢機卿を狙い撃て)",
+            "Aired": "March 3, 2024"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"The Hero and the Guide\"\nTransliteration: \"Yūsha to Michibikite\" (Japanese: 勇者と導き手)",
+            "Aired": "March 10, 2024"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"The Hero's Challenge\"\nTransliteration: \"Yūsha no Chōsen\" (Japanese: 勇者の挑戦)",
+            "Aired": "March 17, 2024"
+        },
+        {
+            "Episode": "25",
+            "Title": "\"The Conclusion and the Start of a New Journey\"\nTransliteration: \"Kecchaku, Tsugi no Tabi e\" (Japanese: 決着、次の旅へ)",
+            "Aired": "March 24, 2024"
+        }
+    ],
+    "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru": [
+        {
+            "Episode": "1",
+            "Title": "\"This Hero Is Too Cautious\"\nTransliteration: \"Kono Yūsha ga Gōman Sugiru\" (Japanese: この勇者が傲慢すぎる)",
+            "Aired": "October 2, 2019[13]"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Too Much For a Novice Goddess to Bear\"\nTransliteration: \"Shinmai Megami ni wa Ni ga Omo Sugiru\" (Japanese: 新米女神には荷が重すぎる)",
+            "Aired": "October 9, 2019[14]"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"This Hero Is Too Self-Serving\"\nTransliteration: \"Kono Yūsha wa Migatte Sugiru\" (Japanese: この勇者は身勝手すぎる)",
+            "Aired": "October 23, 2019[15]"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"I So Don't Need Any Allies\"\nTransliteration: \"Nakama Nante Chō Irana Sugiru\" (Japanese: 仲間なんて超いらなすぎる)",
+            "Aired": "October 30, 2019[16]"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"This Goddess Is Too Spooky\"\nTransliteration: \"Kono Megami ga Bukimi Sugiru\" (Japanese: この女神が不気味すぎる)",
+            "Aired": "November 6, 2019[17]"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Great Dragon Mother Is Too Sneaky\"\nTransliteration: \"Ryūō nano ni Zuru Sugiru\" (Japanese: 竜王なのにズルすぎる)",
+            "Aired": "November 13, 2019[18]"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"This Lady Knight Is Too Doglike\"\nTransliteration: \"Kono Onna Kishi ga Inuppo Sugiru\" (Japanese: この女騎士が犬っぽすぎる)",
+            "Aired": "November 20, 2019[19]"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Neat and Tidy but Overly Nymphomaniacal\"\nTransliteration: \"Seiso na Kuse ni Inran Sugiru\" (Japanese: 清楚なくせに淫乱すぎる)",
+            "Aired": "November 27, 2019[20]"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"This Reaper Is Just Too Invincible\"\nTransliteration: \"Shinigami ga Tonikaku Muteki Sugiru\" (Japanese: 死神がとにかく無敵すぎる)",
+            "Aired": "December 4, 2019[21]"
+        },
+        {
+            "Episode": "9.5",
+            "Title": "\"Omnibus\"\nTransliteration: \"Sōshūhen\" (Japanese: 総集編)",
+            "Aired": "December 11, 2019[22]"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"This Man Is Too Strong for Being So Old\"\nTransliteration: \"Rōjin nano ni Tsuyo Sugiru\" (Japanese: 老人なのに強すぎる)",
+            "Aired": "December 18, 2019[23]"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"The Truth Is Too Much to Bear\"\nTransliteration: \"Sono Shinjitsu wa Omo Sugiru\" (Japanese: その真実は重すぎる)",
+            "Aired": "December 25, 2019[24]"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"The Hero Is Overpowered but Overly Cautious\"\nTransliteration: \"Kono Yūsha ga Ore Tsuē Kuse ni Shinchō Sugiru\" (Japanese: この勇者が俺TUEEEくせに慎重すぎる)",
+            "Aired": "December 27, 2019[b]"
+        }
+    ],
+    "Shine Post": [
+        {
+            "Episode": "1",
+            "Title": "\"Haru Nabatame Does Not Shine\"\nTransliteration: \"Nabatame Haru wa 'Kagayakanai'\" (Japanese: 青天国春は《輝かない》)",
+            "Aired": "July 13, 2022"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Haru Nabatame is 'Shaky'\"\nTransliteration: \"Nabatame Haru wa 'Fuantei'\" (Japanese: 青天国春は《不安定》)",
+            "Aired": "July 20, 2022[c]"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Kyoka Tamaki the 'Foil'\"\nTransliteration: \"'Hikitate-yaku' no Tamaki Kyōka\" (Japanese: 《引き立て役》の玉城杏夏)",
+            "Aired": "July 27, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Kyoka Tamaki Does Not Stand Out\"\nTransliteration: \"Tamaki Kyōka wa 'Medatanai'\" (Japanese: 玉城杏夏は《目立たない》)",
+            "Aired": "August 3, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"'Headstrong' Rio Seibu\"\nTransliteration: \"'Wagamama' na Seibu Rio\" (Japanese: 《我侭》な聖舞理王)",
+            "Aired": "August 10, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Rio Seibu Wants to be Praised\"\nTransliteration: \"Seibu Rio wa 'Homeraretai'\" (Japanese: 聖舞理王は《褒められたい》)",
+            "Aired": "August 17, 2022[c]"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Momiji Ito Will Not Go Back\"\nTransliteration: \"Itō Momiji wa 'Modoranai'\" (Japanese: 伊藤紅葉は《戻らない》)",
+            "Aired": "August 31, 2022"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Yukine Gionji Will Not Allow It\"\nTransliteration: \"Gionji Yukine wa 'Yurusenai'\" (Japanese: 祇園寺雪音は《許せない》)",
+            "Aired": "September 7, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Haru Nabatame Does Not Trust\"\nTransliteration: \"Nabatame Haru wa 'Shinjinai'\" (Japanese: 青天国春は《信じない》)",
+            "Aired": "September 14, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Ren Kurogane Wants to Go Back\"\nTransliteration: \"Kurogane Ren wa 'Modoritai'\" (Japanese: 黒金蓮は《戻りたい》)",
+            "Aired": "October 5, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Kyoka Tamaki is Not Discouraged\"\nTransliteration: \"Tamaki Kyōka wa 'Kujikenai'\" (Japanese: 玉城杏夏は《挫けない》)",
+            "Aired": "October 12, 2022"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"TINGS Does Not Shine\"\nTransliteration: \"Tingusu wa 'Kagayakanai'\" (Japanese: TINGSは《輝かない》)",
+            "Aired": "October 19, 2022[d]"
+        }
+    ],
+    "Shingeki no Kyojin": [
+        {
+            "Episode": "1",
+            "Title": "\"To You, in 2000 Years: The Fall of Shiganshina, Part 1\"\nTransliteration: \"Nisennen-go no Kimi e -Shiganshina Kanraku (1)-\" (Japanese: 二千年後の君へ ―シガンシナ陥落①―)",
+            "Aired": "May 3, 2014"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"That Day: The Fall of Shiganshina, Part 2\"\nTransliteration: \"Sono Hi -Shiganshina Kanraku (2)-\" (Japanese: その日 ―シガンシナ陥落②―)",
+            "Aired": "May 10, 2014"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"A Dim Light Amid Despair: Humanity's Comeback, Part 1\"\nTransliteration: \"Zetsubō no Naka de Nibuku Hikaru -Jinrui no Saiki (1)-\" (Japanese: 絶望の中で鈍く光る ―人類の再起①―)",
+            "Aired": "May 17, 2014"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Night of the Closing Ceremony: Humanity's Comeback, Part 2\"\nTransliteration: \"Kaisan Shiki no Yoru -Jinrui no Saiki (2)-\" (Japanese: 解散式の夜 ―人類の再起②―)",
+            "Aired": "May 24, 2014"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"First Battle: The Struggle for Trost, Part 1\"\nTransliteration: \"Uijin -Torosuto-ku Kōbōsen (1)-\" (Japanese: 初陣 ―トロスト区攻防戦①―)",
+            "Aired": "May 31, 2014"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The World the Girl Saw: The Struggle for Trost, Part 2\"\nTransliteration: \"Shōjo ga Mita Sekai -Torosuto-ku Kōbōsen (2)-\" (Japanese: 少女が見た世界 ―トロスト区攻防戦②―)",
+            "Aired": "June 7, 2014"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Small Blade: The Struggle for Trost, Part 3\"\nTransliteration: \"Chiisana Yaiba -Torosuto-ku Kōbōsen (3)-\" (Japanese: 小さな刃 ―トロスト区攻防戦③―)",
+            "Aired": "June 14, 2014"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"I Can Hear His Heartbeat: The Struggle for Trost, Part 4\"\nTransliteration: \"Shinzō no Kodō ga Kikoeru -Torosuto-ku Kōbōsen (4)-\" (Japanese: 心臓の鼓動が聞こえる ―トロスト区攻防戦④―)",
+            "Aired": "June 21, 2014"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Whereabouts of His Left Arm: The Struggle for Trost, Part 5\"\nTransliteration: \"Hidariude no Yukue -Torosuto-ku Kōbōsen (5)-\" (Japanese: 左腕の行方 ―トロスト区攻防戦⑤―)",
+            "Aired": "June 28, 2014"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Response: The Struggle for Trost, Part 6\"\nTransliteration: \"Kotaeru -Torosuto-ku Kōbōsen (6)-\" (Japanese: 応える ―トロスト区攻防戦⑥―)",
+            "Aired": "July 12, 2014[9]"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Idol: The Struggle for Trost, Part 7\"\nTransliteration: \"Gūzō -Torosuto-ku Kōbōsen (7)-\" (Japanese: 偶像 ―トロスト区攻防戦⑦―)",
+            "Aired": "July 19, 2014"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Wound: The Struggle for Trost, Part 8\"\nTransliteration: \"Kizu -Torosuto-ku Kōbōsen (8)-\" (Japanese: 傷 ―トロスト区攻防戦⑧―)",
+            "Aired": "July 26, 2014"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Primal Desire: The Struggle for Trost, Part 9\"\nTransliteration: \"Genshoteki Yokkyū -Torosuto-ku Kōbōsen (9)-\" (Japanese: 原初的欲求 ―トロスト区攻防戦⑨―)",
+            "Aired": "August 2, 2014"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"Can't Look into His Eyes Yet: Eve of the Counterattack, Part 1\"\nTransliteration: \"Mada Me o Mirenai -Hangeki Zen'ya (1)-\" (Japanese: まだ目を見れない ―反撃前夜①―)",
+            "Aired": "August 9, 2014"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Special Operations Squad: Eve of the Counterattack, Part 2\"\nTransliteration: \"Tokubetsu Sakusen-han -Hangeki Zen'ya (2)-\" (Japanese: 特別作戦班 ―反撃前夜②―)",
+            "Aired": "August 16, 2014"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"What Needs to Be Done Now: Eve of the Counterattack, Part 3\"\nTransliteration: \"Ima, Nani o Subeki ka -Hangeki Zen'ya (3)-\" (Japanese: 今、何をすべきか ―反撃前夜③―)",
+            "Aired": "August 23, 2014"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Female Titan: The 57th Exterior Scouting Mission, Part 1\"\nTransliteration: \"Megata no Kyojin -Dai Gojū-Nana Kai Hekigai Chōsa (1)-\" (Japanese: 女型の巨人 ―第57回壁外調査①―)",
+            "Aired": "September 6, 2014"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Forest of Giant Trees: The 57th Exterior Scouting Mission, Part 2\"\nTransliteration: \"Kyodaiju no Mori -Dai Gojū-Nana Kai Hekigai Chōsa (2)-\" (Japanese: 巨大樹の森 ―第57回壁外調査②―)",
+            "Aired": "September 13, 2014"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Bite: The 57th Exterior Scouting Mission, Part 3\"\nTransliteration: \"Kamitsuku -Dai Gojū-Nana Kai Hekigai Chōsa (3)-\" (Japanese: 噛み付く ―第57回壁外調査③―)",
+            "Aired": "September 20, 2014"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Erwin Smith: The 57th Exterior Scouting Mission, Part 4\"\nTransliteration: \"Eruvin Sumisu -Dai Gojū-Nana Kai Hekigai Chōsa (4)\" (Japanese: エルヴィン・スミス ―第57回壁外調査④―)",
+            "Aired": "September 27, 2014"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Crushing Blow: The 57th Exterior Scouting Mission, Part 5\"\nTransliteration: \"Tettsui -Dai Gojū-Nana Kai Hekigai Chōsa (5)-\" (Japanese: 鉄槌 ―第57回壁外調査⑤―)",
+            "Aired": "October 4, 2014"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"The Defeated: The 57th Exterior Scouting Mission, Part 6\"\nTransliteration: \"Haisha-tachi -Dai Gojū-Nana Kai Hekigai Chōsa (6)-\" (Japanese: 敗者達 ―第57回壁外調査⑥―)",
+            "Aired": "October 11, 2014"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Smile: Assault on Stohess, Part 1\"\nTransliteration: \"Hohoemi -Sutohesu-ku Kyūshū (1)-\" (Japanese: 微笑み ―ストヘス区急襲①―)",
+            "Aired": "October 18, 2014"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"Mercy: Assault on Stohess, Part 2\"\nTransliteration: \"Jihi -Sutohesu-ku Kyūshū (2)-\" (Japanese: 慈悲 ―ストヘス区急襲②―)",
+            "Aired": "October 25, 2014"
+        },
+        {
+            "Episode": "25",
+            "Title": "\"Wall: Assault on Stohess, Part 3\"\nTransliteration: \"Kabe -Sutohesu-ku Kyūshū (3)-\" (Japanese: 壁 ―ストヘス区急襲③―)",
+            "Aired": "November 1, 2014"
+        }
+    ],
+    "Shingeki no Kyojin Season 2": [
+        {
+            "Episode": "26",
+            "Title": "\"Beast Titan\"\nTransliteration: \"Kemono no Kyojin\" (Japanese: 獣の巨人)",
+            "Aired": "April 23, 2017[11]"
+        },
+        {
+            "Episode": "27",
+            "Title": "\"I'm Home\"\nTransliteration: \"Tadaima\" (Japanese: ただいま)",
+            "Aired": "April 30, 2017"
+        },
+        {
+            "Episode": "28",
+            "Title": "\"Southwestward\"\nTransliteration: \"Nansei e\" (Japanese: 南西へ)",
+            "Aired": "May 7, 2017"
+        },
+        {
+            "Episode": "29",
+            "Title": "\"Soldier\"\nTransliteration: \"Heishi\" (Japanese: 兵士)",
+            "Aired": "May 14, 2017"
+        },
+        {
+            "Episode": "30",
+            "Title": "\"Historia\"\nTransliteration: \"Hisutoria\" (Japanese: ヒストリア)",
+            "Aired": "May 21, 2017"
+        },
+        {
+            "Episode": "31",
+            "Title": "\"Warrior\"\nTransliteration: \"Senshi\" (Japanese: 戦士)",
+            "Aired": "June 4, 2017"
+        },
+        {
+            "Episode": "32",
+            "Title": "\"Close Combat\"\nTransliteration: \"Da - Tō - Kyoku\" (Japanese: 打・投・極)",
+            "Aired": "June 11, 2017"
+        },
+        {
+            "Episode": "33",
+            "Title": "\"The Hunters\"\nTransliteration: \"Ou Mono\" (Japanese: 迫う者)",
+            "Aired": "June 18, 2017"
+        },
+        {
+            "Episode": "34",
+            "Title": "\"Opening\"\nTransliteration: \"Kaikō\" (Japanese: 開口)",
+            "Aired": "June 25, 2017"
+        },
+        {
+            "Episode": "35",
+            "Title": "\"Children\"\nTransliteration: \"Kodomotachi\" (Japanese: 子供達)",
+            "Aired": "July 9, 2017"
+        },
+        {
+            "Episode": "36",
+            "Title": "\"Charge\"\nTransliteration: \"Totsugeki\" (Japanese: 突撃)",
+            "Aired": "July 16, 2017"
+        },
+        {
+            "Episode": "37",
+            "Title": "\"Scream\"\nTransliteration: \"Sakebi\" (Japanese: 叫び)",
+            "Aired": "July 23, 2017"
+        }
+    ],
+    "Shingeki no Kyojin Season 3": [
+        {
+            "Episode": "38",
+            "Title": "\"Smoke Signal\"\nTransliteration: \"Noroshi\" (Japanese: 狼煙)",
+            "Aired": "July 11, 2018 (theatres)[b]\nAugust 18, 2018 (television)[14]"
+        },
+        {
+            "Episode": "39",
+            "Title": "\"Pain\"\nTransliteration: \"Itami\" (Japanese: 痛み)",
+            "Aired": "August 25, 2018"
+        },
+        {
+            "Episode": "40",
+            "Title": "\"Old Story\"\nTransliteration: \"Mukashibanashi\" (Japanese: 昔話)",
+            "Aired": "September 8, 2018[c]"
+        },
+        {
+            "Episode": "41",
+            "Title": "\"Trust\"\nTransliteration: \"Shinrai\" (Japanese: 信頼)",
+            "Aired": "September 15, 2018"
+        },
+        {
+            "Episode": "42",
+            "Title": "\"Reply\"\nTransliteration: \"Kaitō\" (Japanese: 回答)",
+            "Aired": "September 22, 2018"
+        },
+        {
+            "Episode": "43",
+            "Title": "\"Sin\"\nTransliteration: \"Tsumi\" (Japanese: 罪)",
+            "Aired": "September 30, 2018[d]"
+        },
+        {
+            "Episode": "44",
+            "Title": "\"Wish\"\nTransliteration: \"Negai\" (Japanese: 願い)",
+            "Aired": "October 7, 2018"
+        },
+        {
+            "Episode": "45",
+            "Title": "\"Outside the Walls of Orvud District\"\nTransliteration: \"Orubudo-ku Gaiheki\" (Japanese: オルブド区外壁)",
+            "Aired": "October 14, 2018"
+        },
+        {
+            "Episode": "46",
+            "Title": "\"Ruler of the Walls\"\nTransliteration: \"Kabe no Ō\" (Japanese: 壁の王)",
+            "Aired": "October 21, 2018"
+        },
+        {
+            "Episode": "47",
+            "Title": "\"Friends\"\nTransliteration: \"Yūjin\" (Japanese: 友人)",
+            "Aired": "October 28, 2018"
+        },
+        {
+            "Episode": "48",
+            "Title": "\"Bystander\"\nTransliteration: \"Bōkansha\" (Japanese: 傍観者)",
+            "Aired": "November 4, 2018"
+        },
+        {
+            "Episode": "49",
+            "Title": "\"Night of the Battle to Retake the Wall\"\nTransliteration: \"Dakkan Sakusen no Yoru\" (Japanese: 奪還作戦の夜)",
+            "Aired": "November 11, 2018"
+        }
+    ],
+    "Shingeki no Kyojin Season 3 Part 2": [
+        {
+            "Episode": "50",
+            "Title": "\"The Town Where Everything Began\"\nTransliteration: \"Hajimari no Machi\" (Japanese: はじまりの街)",
+            "Aired": "May 25, 2019[19]"
+        },
+        {
+            "Episode": "51",
+            "Title": "\"Thunder Spears\"\nTransliteration: \"Raisō\" (Japanese: 雷槍)",
+            "Aired": "June 1, 2019"
+        },
+        {
+            "Episode": "52",
+            "Title": "\"Descent\"\nTransliteration: \"Kōrin\" (Japanese: 光臨)",
+            "Aired": "June 8, 2019"
+        },
+        {
+            "Episode": "53",
+            "Title": "\"Perfect Game\"\nTransliteration: \"Pāfekuto Gēmu\" (Japanese: 完全試合パーフェクトゲーム)",
+            "Aired": "June 15, 2019"
+        },
+        {
+            "Episode": "54",
+            "Title": "\"Hero\"\nTransliteration: \"Yūsha\" (Japanese: 勇者)",
+            "Aired": "June 22, 2019"
+        },
+        {
+            "Episode": "55",
+            "Title": "\"Midnight Sun\"\nTransliteration: \"Byakuya\" (Japanese: 白夜)",
+            "Aired": "June 29, 2019"
+        },
+        {
+            "Episode": "56",
+            "Title": "\"The Basement\"\nTransliteration: \"Chikashitsu\" (Japanese: 地下室)",
+            "Aired": "July 6, 2019"
+        },
+        {
+            "Episode": "57",
+            "Title": "\"That Day\"\nTransliteration: \"Ano Hi\" (Japanese: あの日)",
+            "Aired": "July 13, 2019"
+        },
+        {
+            "Episode": "58",
+            "Title": "\"Attack Titan\"\nTransliteration: \"Shingeki no Kyojin\" (Japanese: 進撃の巨人)",
+            "Aired": "July 21, 2019[f]"
+        },
+        {
+            "Episode": "59",
+            "Title": "\"The Other Side of the Wall\"\nTransliteration: \"Kabe no Mukōgawa\" (Japanese: 壁の向こう側)",
+            "Aired": "July 27, 2019"
+        }
+    ],
+    "Shingeki no Kyojin: The Final Season": [
+        {
+            "Episode": "60",
+            "Title": "\"The Other Side of the Sea\"\nTransliteration: \"Umi no Mukōgawa\" (Japanese: 海の向こう側)",
+            "Aired": "January 10, 2021"
+        },
+        {
+            "Episode": "61",
+            "Title": "\"Midnight Train\"\nTransliteration: \"Yamiyo no Ressha\" (Japanese: 闇夜の列車)",
+            "Aired": "January 17, 2021"
+        },
+        {
+            "Episode": "62",
+            "Title": "\"The Door of Hope\"\nTransliteration: \"Kibō no Tobira\" (Japanese: 希望の扉)",
+            "Aired": "January 24, 2021"
+        },
+        {
+            "Episode": "63",
+            "Title": "\"From One Hand to Another\"\nTransliteration: \"Te kara Te e\" (Japanese: 手から手へ)",
+            "Aired": "January 31, 2021"
+        },
+        {
+            "Episode": "64",
+            "Title": "\"Declaration of War\"\nTransliteration: \"Sensen Fukoku\" (Japanese: 宣戦布告)",
+            "Aired": "February 7, 2021"
+        },
+        {
+            "Episode": "65",
+            "Title": "\"The War Hammer Titan\"\nTransliteration: \"Sentsui no Kyojin\" (Japanese: 戦鎚の巨人)",
+            "Aired": "February 14, 2021"
+        },
+        {
+            "Episode": "66",
+            "Title": "\"Assault\"\nTransliteration: \"Kyōshū\" (Japanese: 強襲)",
+            "Aired": "February 21, 2021"
+        },
+        {
+            "Episode": "67",
+            "Title": "\"Assassin's Bullet\"\nTransliteration: \"Kyōdan\" (Japanese: 凶弾)",
+            "Aired": "February 28, 2021"
+        },
+        {
+            "Episode": "68",
+            "Title": "\"Brave Volunteers\"\nTransliteration: \"Giyūhei\" (Japanese: 義勇兵)",
+            "Aired": "March 14, 2021[h]"
+        },
+        {
+            "Episode": "69",
+            "Title": "\"A Sound Argument\"\nTransliteration: \"Seiron\" (Japanese: 正論)",
+            "Aired": "March 21, 2021"
+        },
+        {
+            "Episode": "70",
+            "Title": "\"Deceiver\"\nTransliteration: \"Itsuwari Mono\" (Japanese: 偽り者)",
+            "Aired": "March 28, 2021"
+        },
+        {
+            "Episode": "71",
+            "Title": "\"Guides\"\nTransliteration: \"Michibiku Mono\" (Japanese: 導く者)",
+            "Aired": "April 4, 2021"
+        },
+        {
+            "Episode": "72",
+            "Title": "\"Children of the Forest\"\nTransliteration: \"Mori no Kora\" (Japanese: 森の子ら)",
+            "Aired": "April 11, 2021"
+        },
+        {
+            "Episode": "73",
+            "Title": "\"Savagery\"\nTransliteration: \"Bōaku\" (Japanese: 暴悪)",
+            "Aired": "April 18, 2021"
+        },
+        {
+            "Episode": "74",
+            "Title": "\"Sole Salvation\"\nTransliteration: \"Yuiitsu no Sukui\" (Japanese: 唯一の救い)",
+            "Aired": "April 25, 2021"
+        },
+        {
+            "Episode": "75",
+            "Title": "\"Above and Below\"\nTransliteration: \"Tenchi\" (Japanese: 天地)",
+            "Aired": "May 2, 2021"
+        },
+        {
+            "Episode": "76",
+            "Title": "\"Judgment\"\nTransliteration: \"Danzai\" (Japanese: 断罪)",
+            "Aired": "February 13, 2022"
+        }
+    ],
+    "Shingeki no Kyojin: The Final Season Part 2": [
+        {
+            "Episode": "77",
+            "Title": "\"Sneak Attack\"\nTransliteration: \"Damashi Uchi\" (Japanese: 騙し討ち)",
+            "Aired": "February 20, 2022"
+        },
+        {
+            "Episode": "78",
+            "Title": "\"Two Brothers\"\nTransliteration: \"Ani to Otōto\" (Japanese: 兄と弟)",
+            "Aired": "February 27, 2022"
+        },
+        {
+            "Episode": "79",
+            "Title": "\"Memories of the Future\"\nTransliteration: \"Mirai no Kioku\" (Japanese: 未来の記憶)",
+            "Aired": "March 6, 2022"
+        },
+        {
+            "Episode": "80",
+            "Title": "\"From You, 2,000 Years Ago\"\nTransliteration: \"Nisennen-mae no Kimi kara\" (Japanese: 二千年前の君から)",
+            "Aired": "March 13, 2022"
+        },
+        {
+            "Episode": "81",
+            "Title": "\"Thaw\"\nTransliteration: \"Hyōkai\" (Japanese: 氷解)",
+            "Aired": "March 20, 2022"
+        },
+        {
+            "Episode": "82",
+            "Title": "\"Sunset\"\nTransliteration: \"Yūyake\" (Japanese: 夕焼け)",
+            "Aired": "March 27, 2022"
+        },
+        {
+            "Episode": "83",
+            "Title": "\"Pride\"\nTransliteration: \"Kyōji\" (Japanese: 矜持)",
+            "Aired": "April 3, 2022"
+        },
+        {
+            "Episode": "84",
+            "Title": "\"Night of the End\"\nTransliteration: \"Shūmatsu no Yoru\" (Japanese: 終末の夜)",
+            "Aired": "April 10, 2022"
+        },
+        {
+            "Episode": "85",
+            "Title": "\"Traitor\"\nTransliteration: \"Uragirimono\" (Japanese: 裏切り者)",
+            "Aired": "April 17, 2022"
+        },
+        {
+            "Episode": "86",
+            "Title": "\"Retrospective\"\nTransliteration: \"Kaiko\" (Japanese: 懐古)",
+            "Aired": "April 24, 2022"
+        },
+        {
+            "Episode": "87",
+            "Title": "\"The Dawn of Humanity\"\nTransliteration: \"Jinrui no Yoake\" (Japanese: 人類の夜明け)",
+            "Aired": "May 1, 2022"
+        }
+    ],
+    "Shingeki no Kyojin: The Final Season - Kanketsu-hen": [
+        {
+            "Episode": "SP–1",
+            "Title": "\"The Final Chapters (Part 1)\"\nTransliteration: \"Kanketsu-hen (Zenpen)\" (Japanese: 完結編（前編）)",
+            "Aired": "September 10, 2023"
+        },
+        {
+            "Episode": "SP–2",
+            "Title": "\"The Final Chapters (Part 2)\"\nTransliteration: \"Kanketsu-hen (Kōhen)\" (Japanese: 完結編（後編）)",
+            "Aired": "January 7, 2024"
+        }
+    ],
+    "Shinigami Bocchan to Kuro Maid": [
+        {
+            "Episode": "1",
+            "Title": "\"The Duke and Alice\"\nTransliteration: \"Botchan to Arisu\" (Japanese: 坊ちゃんとアリス)",
+            "Aired": "July 4, 2021"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Duke, His Butler, and a Lost Cat\"\nTransliteration: \"Botchan to Shitsuji to Mayoi Neko\" (Japanese: 坊ちゃんと執事と迷い猫)",
+            "Aired": "July 11, 2021"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Duke and the Meteor Shower During the Full Moon\"\nTransliteration: \"Botchan to Mangetsu no Ryūseigun\" (Japanese: 坊ちゃんと満月の流星群)",
+            "Aired": "July 18, 2021"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Duke, Alice, and Memories of Snow\"\nTransliteration: \"Botchan to Arisu to Yuki no Kioku\" (Japanese: 坊ちゃんとアリスと雪の記憶)",
+            "Aired": "July 25, 2021"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"The Duke, a Crow, and Ice Skating\"\nTransliteration: \"Botchan to Karasu to Aisu Sukēto\" (Japanese: 坊ちゃんと烏とアイススケート)",
+            "Aired": "August 1, 2021"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Duke, Alice, and a Night in the Witches' World\"\nTransliteration: \"Botchan to Arisu to Makai no Ichiya\" (Japanese: 坊ちゃんとアリスと魔界の一夜)",
+            "Aired": "August 8, 2021"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Duke's and Alice's Uneventful Day\"\nTransliteration: \"Botchan to Arisu no Nandemonai Ichinichi\" (Japanese: 坊ちゃんとアリスのなんでもない一日)",
+            "Aired": "August 15, 2021"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"White Snow, Black Clothes\"\nTransliteration: \"Shiroi Yuki, Kuroi Fuku\" (Japanese: 白い雪、黒い服)",
+            "Aired": "August 22, 2021"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Duke, Alice, and the Christmas Eve Vow\"\nTransliteration: \"Botchan to Arisu to Seiya no Chikai\" (Japanese: 坊ちゃんとアリスと聖夜の誓い)",
+            "Aired": "August 29, 2021"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Duke, Alice, and a Song for Two\"\nTransliteration: \"Botchan to Arisu to Futari Dake no Uta\" (Japanese: 坊ちゃんとアリスと二人だけの歌)",
+            "Aired": "September 5, 2021"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"The Duke and Secret Magic\"\nTransliteration: \"Botchan to Himitsu no Mahō\" (Japanese: 坊ちゃんと秘密の魔法)",
+            "Aired": "September 12, 2021"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Together with the Duke...\"\nTransliteration: \"Botchan to Issho ni......\" (Japanese: 坊ちゃんと一緒に……)",
+            "Aired": "September 19, 2021"
+        }
+    ],
+    "Shinigami Bocchan to Kuro Maid 2nd Season": [
+        {
+            "Episode": "13",
+            "Title": "\"The Duke, Alice, and the Magic Pool\"\nTransliteration: \"Bocchan to Arisu to Mahō no Pūru\" (Japanese: 坊ちゃんとアリスと魔法のプール)",
+            "Aired": "July 9, 2023"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"The Duke, Golf and the Mysterious Beauty\"\nTransliteration: \"Bocchan to Gorufu to Nazo no Bishōjo\" (Japanese: 坊ちゃんとゴルフと謎の美少女)",
+            "Aired": "July 16, 2023"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"The Duke, Alice, and the Spectral Bride\"\nTransliteration: \"Bocchan to Arisu to Yūrei no Hanayome\" (Japanese: 坊ちゃんとアリスと幽霊の花嫁)",
+            "Aired": "July 23, 2023"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"The Duke, Alice, and Circus 101\"\nTransliteration: \"Bocchan to Arisu no Sākasu Nyūmon\" (Japanese: 坊ちゃんとアリスのサーカス入門)",
+            "Aired": "July 30, 2023"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Cuff, Zain, and the Confession\"\nTransliteration: \"Kafu to Zain to Kokuhaku to\" (Japanese: カフとザインと告白と)",
+            "Aired": "August 6, 2023"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"The Duke and Everyone's Daily Life\"\nTransliteration: \"Bocchan to Minna no Mainichi\" (Japanese: 坊ちゃんとみんなの毎日)",
+            "Aired": "August 13, 2023"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"The Duke, Alice, and the Encounter in the Witches' World\"\nTransliteration: \"Bocchan to Arisu to Makai no Deai\" (Japanese: 坊ちゃんとアリスと魔界の出逢い)",
+            "Aired": "August 20, 2023"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"The Duke, Alice, and the Kissing Window\"\nTransliteration: \"Botchan to Arisu to Kuchidzuke no Mado\" (Japanese: 坊ちゃんとアリスと口づけの窓)",
+            "Aired": "August 27, 2023"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"The Duke, Golf, and the Second Anniversary\"\nTransliteration: \"Botchan to Arisu no Futatabime no Kinenbi\" (Japanese: 坊ちゃんとアリスの二度目の記念日)",
+            "Aired": "September 3, 2023"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"The Duke, Alice, and the Flying Broom\"\nTransliteration: \"Botchan to Arisu to Soratobu Hōki\" (Japanese: 坊ちゃんとアリスと空飛ぶほうき)",
+            "Aired": "September 10, 2023"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"The Duke, Alice, and the Wizardry School\"\nTransliteration: \"Botchan to Arisu to Majutsu Gakkō\" (Japanese: 坊ちゃんとアリスと魔術学校)",
+            "Aired": "September 17, 2023"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"The Duke, Alice, and the Curse Witch\"\nTransliteration: \"Botchan to Arisu to Noroi no Majo\" (Japanese: 坊ちゃんとアリスと呪いの魔女)",
+            "Aired": "September 24, 2023"
+        }
+    ],
+    "Shinigami Bocchan to Kuro Maid 3rd Season": [
+        {
+            "Episode": "25",
+            "Title": "\"The Duke, Alice, and Reuniting With Mom\"\nTransliteration: \"Bocchan to Arisu to Saikai no Haha\" (Japanese: 坊ちゃんとアリスと再会の母)",
+            "Aired": "April 7, 2024"
+        },
+        {
+            "Episode": "26",
+            "Title": "\"The Duke, Alice, and the Mysterious Clone\"\nTransliteration: \"Bocchan to Arisu to Nazo no Bunshin\" (Japanese: 坊ちゃんとアリスと謎の分身)",
+            "Aired": "April 14, 2024"
+        },
+        {
+            "Episode": "27",
+            "Title": "\"The Duke, Alice, and Mother and Mother\"\nTransliteration: \"Bocchan to Arisu to Hahaoya to Hahaoya\" (Japanese: 坊ちゃんとアリスと母親と母親)",
+            "Aired": "April 21, 2024"
+        },
+        {
+            "Episode": "28",
+            "Title": "\"The Duke, Alice, and Sade's Love\"\nTransliteration: \"Bocchan to Arisu to Shādē no Koi\" (Japanese: 坊ちゃんとアリスとシャーデーの恋)",
+            "Aired": "April 28, 2024"
+        },
+        {
+            "Episode": "29",
+            "Title": "\"Dance Party (Part 1)\"\nTransliteration: \"Butō-kai (Zen-pen)\" (Japanese: 舞踏会（前編）)",
+            "Aired": "May 5, 2024"
+        },
+        {
+            "Episode": "30",
+            "Title": "\"Dance Party (Part 2)\"\nTransliteration: \"Butō-kai (Kōhen)\" (Japanese: 舞踏会（後編）)",
+            "Aired": "May 12, 2024"
+        },
+        {
+            "Episode": "31",
+            "Title": "\"Coming Together\"\nTransliteration: \"Shūketsu\" (Japanese: 集結)",
+            "Aired": "May 19, 2024"
+        },
+        {
+            "Episode": "32",
+            "Title": "\"Persuasion\"\nTransliteration: \"Settoku\" (Japanese: 集結)",
+            "Aired": "May 26, 2024"
+        },
+        {
+            "Episode": "33",
+            "Title": "\"Loneliness and Uncertainty\"\nTransliteration: \"Kodoku to Madoi\" (Japanese: 孤独と惑い)",
+            "Aired": "June 2, 2024"
+        },
+        {
+            "Episode": "34",
+            "Title": "\"Victor's Grandson, Sharon's Daughter\"\nTransliteration: \"Vikutoru no Mago, Sharon no Musume\" (Japanese: ヴィクトルの孫、シャロンの娘)",
+            "Aired": "June 9, 2024"
+        },
+        {
+            "Episode": "35",
+            "Title": "\"Friends, a Broken Curse, and Then...\"\nTransliteration: \"Tomodachi, Kaiju, Soshite\" (Japanese: 友達、解呪、そして)",
+            "Aired": "June 16, 2024"
+        },
+        {
+            "Episode": "36",
+            "Title": "\"The Duke of Death and His Maid\"\nTransliteration: \"Shinigami Botchan to Kuro Meido\" (Japanese: 死神坊ちゃんと黒メイド)",
+            "Aired": "June 23, 2024"
+        }
+    ],
+    "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei": [
+        {
+            "Episode": "1",
+            "Title": "\"Before I Knew It, I Was Living in Another World!\"\nTransliteration: \"Shiranai Uchi ni Isekai Jinsei!\" (Japanese: 知らないうちに異世界人生!)",
+            "Aired": "October 5, 2021"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Final Evolution! Naked Beauty\"\nTransliteration: \"Saishū Shinka! Hadaka no Bijo\" (Japanese: 最終進化！裸の美女)",
+            "Aired": "October 12, 2021"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Artoria, The Calamity\"\nTransliteration: \"Saiyaku no Arutoria\" (Japanese: 災厄のアルトリア)",
+            "Aired": "October 19, 2021"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Black Dragon God's Dungeon\"\nTransliteration: \"Koku Ryūshin no Meikyū\" (Japanese: 黒龍神の迷宮)",
+            "Aired": "October 26, 2021"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"The Calamity Bride\"\nTransliteration: \"Saiyaku no Hanayome\" (Japanese: 災厄の花嫁)",
+            "Aired": "November 2, 2021"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Crying Out Love in the Center of Another World\"\nTransliteration: \"Isekai no Chūshin de Ai o Sakebu\" (Japanese: 異世界の中心で愛を叫ぶ)",
+            "Aired": "November 9, 2021"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Lulune Appears!\"\nTransliteration: \"Rurune Tōjō!\" (Japanese: ルルネ登場！)",
+            "Aired": "November 16, 2021"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Beautiful Valkyrie\"\nTransliteration: \"Warukyūre no Bijo\" (Japanese: 剣聖の戦乙女ワルキューレの美女)",
+            "Aired": "November 23, 2021"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Black Cat Oliga\"\nTransliteration: \"Kuro Neko no Origa\" (Japanese: 黒猫のオリガ)",
+            "Aired": "November 30, 2021"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Creeping Kaiser Empire\"\nTransliteration: \"Shinobiyoru Kaizeru Teikoku\" (Japanese: 忍び寄るカイゼル帝国)",
+            "Aired": "December 7, 2021"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Monsters VS Crazy Guild\"\nTransliteration: \"Mamono Bāsasu Ikashita Girudo\" (Japanese: 魔物VSイカしたギルド)",
+            "Aired": "December 14, 2021[f]"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Before I Knew It, It's the Final Episode!?\"\nTransliteration: \"Shiranai Uchi ni Saishūkai!?\" (Japanese: 知らないうちに最終回！？)",
+            "Aired": "December 21, 2021"
+        }
+    ],
+    "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei": [
+        {
+            "Episode": "13",
+            "Title": "\"Welcome to Barbador Magic Academy!\"\nTransliteration: \"Yōkoso! Bābadoru Mahō Gakuen e\" (Japanese: ようこそ！バーバドル魔法学園へ)",
+            "Aired": "January 14, 2023"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"Being a Teacher Is Tough!\"\nTransliteration: \"Kyōshi wa Tsurai yo\" (Japanese: 教師はつらいよ)",
+            "Aired": "January 21, 2023"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Seiichi VS Class F\"\nTransliteration: \"Seiichi VS. F Kurasu\" (Japanese: 誠一 VS. Fクラス)",
+            "Aired": "January 28, 2023"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Reunited With Kannazuki Karen\"\nTransliteration: \"Saikai, Kannadzuki Karen\" (Japanese: 再会、神無月華蓮)",
+            "Aired": "February 4, 2023"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Apostles Attack\"\nTransliteration: \"Shito, Raishū\" (Japanese: 使徒、来襲)",
+            "Aired": "February 11, 2023"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Battle for Barbador Magic Academy\"\nTransliteration: \"Kessen! Bābadōru Mahō Gakuen\" (Japanese: 決戦！バーバドル魔法学園)",
+            "Aired": "February 18, 2023"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Seiichi Dies\"\nTransliteration: \"Seiichi, Shisu\" (Japanese: 誠一、死す)",
+            "Aired": "February 25, 2023"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"The Four Leaders Closing In\"\nTransliteration: \"Shinobiyoru Shiten'nō\" (Japanese: 忍び寄る四天王)",
+            "Aired": "March 4, 2023"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Gempel the Doppelganger\"\nTransliteration: \"Kagamihen no Genperu\" (Japanese: 鏡変のゲンペル)",
+            "Aired": "March 11, 2023"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Victor the Resonance\"\nTransliteration: \"Kyōmei no Vitōru\" (Japanese: 共鳴のヴィトール)",
+            "Aired": "March 18, 2023[g]"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Destra the Absolute Death\"\nTransliteration: \"Zesshi no Desutora\" (Japanese: 絶死のデストラ)",
+            "Aired": "March 25, 2023"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"The True Fruit of Evolution\"\nTransliteration: \"Shin・Shinka no Mi\" (Japanese: 真・進化の実)",
+            "Aired": "April 1, 2023"
+        }
+    ],
+    "Shinmai Maou no Testament": [
+        {
+            "Episode": "1",
+            "Title": "\"The Day I Got A Little Sister\"\nTransliteration: \"Imōto ga dekita hi\" (Japanese: 妹ができた日)",
+            "Aired": "January 7, 2015[13]"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"First Contract Between Servant And Master\"\nTransliteration: \"Hajimete no shujū keiyaku\" (Japanese: 初めての主従契約)",
+            "Aired": "January 14, 2015[13]"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Reunion and a Gap in Trust\"\nTransliteration: \"Saikai to shinrai no hazama\" (Japanese: 再会と信頼の狭間)",
+            "Aired": "January 21, 2015[13]"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"When Sadness Reaches Zero\"\nTransliteration: \"Kanashimi ga zero ni naru made\" (Japanese: 悲しみがゼロになるまで)",
+            "Aired": "January 28, 2015[13]"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"A Little Sister's Morning Demon Lording\"\nTransliteration: \"Asa no imōto no maō musō\" (Japanese: 朝の妹の魔王無双)",
+            "Aired": "February 4, 2015[13]"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Bearing Growing Emotions\"\nTransliteration: \"Tsunoru Omoi o Kakaete\" (Japanese: 募る思いを抱えて)",
+            "Aired": "February 11, 2015[13]"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Depths of Love and Hatred\"\nTransliteration: \"Onshū no hate ni\" (Japanese: 恩讐の果てに)",
+            "Aired": "February 18, 2015[13]"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Erotic Succubus Out of Control\"\nTransliteration: \"Bōsō no erosakyubasu\" (Japanese: 暴走のエロサキュバス)",
+            "Aired": "February 25, 2015[13]"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Merits and Demerits of Master and Servant\"\nTransliteration: \"Shujū no kōzai\" (Japanese: 主従の功罪)",
+            "Aired": "March 4, 2015[13]"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Plaintive Betrayal\"\nTransliteration: \"Aisetsunaru haishin\" (Japanese: 哀切なる背信)",
+            "Aired": "March 11, 2015[13]"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Espionage... What Lies After\"\nTransliteration: \"Esupionāji... Sore ga saki ni aru mono\" (Japanese: 諜報者エスピオナージ…その先にあるもの)",
+            "Aired": "March 18, 2015[13]"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"For This Night, This Moment\"\nTransliteration: \"Kono yoru, kono toki no tame ni\" (Japanese: この夜、このときのために)",
+            "Aired": "March 25, 2015[13]"
+        },
+        {
+            "Episode": "13 (OVA)",
+            "Title": "\"The Hard, Sweet Daily Life of Toujou Basara\"\nTransliteration: \"Tōjō Basara no hādo suwīto na nichijō\" (Japanese: 東城刃更のハードスウィートな日常)",
+            "Aired": "June 22, 2015"
+        }
+    ],
+    "Shinmai Maou no Testament Burst": [
+        {
+            "Episode": "1",
+            "Title": "\"What I Can Do For You\"\nTransliteration: \"Anata no Tame ni dekiru koto o\" (Japanese: あなたの為にできる事を)",
+            "Aired": "October 9, 2015"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Suspicions Deepening Within Mysteries\"\nTransliteration: \"Fukamaru giwaku to nazo no naka de\" (Japanese: 深まる疑惑と謎の中で)",
+            "Aired": "October 16, 2015"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"My Cherished Feelings For You\"\nTransliteration: \"Yuzurenai omoi o kimi to\" (Japanese: 譲れない想いを君と)",
+            "Aired": "October 23, 2015"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Amidst Entwining Plots\"\nTransliteration: \"Karamiau omowaku no naka de\" (Japanese: 絡み合う思惑の中で)",
+            "Aired": "October 30, 2015"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Amidst the Wind Blowing Through the Battlefield\"\nTransliteration: \"Fukinukeru senjō no kaze no naka o\" (Japanese: 吹き抜ける戦場の風の中を)",
+            "Aired": "November 6, 2015"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Between Reality and One's Own Truth\"\nTransliteration: \"Onore no shinjitsu to genjitsu no hazama de\" (Japanese: 己の真実と現実の狭間で)",
+            "Aired": "November 13, 2015"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Between Entwining Plots and Desires\"\nTransliteration: \"Karamiau omowaku to yokubō no hazama de\" (Japanese: 絡み合う思惑と欲望の狭間で)",
+            "Aired": "November 20, 2015"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Those Contending For The Future\"\nTransliteration: \"Mirai e to idomumono-tachi\" (Japanese: 未来へと挑む者たち)",
+            "Aired": "November 27, 2015"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Beyond the Endless Dream\"\nTransliteration: \"Mihatenuyume no sono sakini\" (Japanese: 見果てぬ夢のその先に)",
+            "Aired": "December 4, 2015"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Consequences of What Must Be Done\"\nTransliteration: \"Hatasubeki ishi no atosaki\" (Japanese: 果たすべき意思の後先)",
+            "Aired": "December 11, 2015"
+        },
+        {
+            "Episode": "11 (OVA)",
+            "Title": "\"Tojo Basara's Perfectly Peaceful Daily Life\"\nTransliteration: \"Toujou Basara no Shigoku Heiwa na Nichijou\" (Japanese: 東城刃更の至極平和な日常)",
+            "Aired": "January 26, 2016"
+        }
+    ],
+    "Shinmai Renkinjutsushi no Tenpo Keiei": [
+        {
+            "Episode": "1",
+            "Title": "\"I Bought a Shop!\"\nTransliteration: \"Omise o Te ni Ireta!\" (Japanese: お店を手に入れた！)",
+            "Aired": "October 3, 2022"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"I Came to the Village!\"\nTransliteration: \"Mura ni Yattekita!\" (Japanese: 村にやってきた！)",
+            "Aired": "October 10, 2022"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"A Monster Appears!\"\nTransliteration: \"Mamono ga Deta!\" (Japanese: 魔物が出た！)",
+            "Aired": "October 17, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Let's Live Together!\"\nTransliteration: \"Issho ni Kurasō!\" (Japanese: 一緒に暮らそう！)",
+            "Aired": "October 24, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Let's Develop New Products!\"\nTransliteration: \"Shinshōhin o Kaihatsu Shiyō!\" (Japanese: 新商品を開発しよう！)",
+            "Aired": "October 31, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Let's Go to the Lake!\"\nTransliteration: \"Mizuumi ni Dekakeyō!\" (Japanese: 湖に出掛けよう！)",
+            "Aired": "November 7, 2022"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"My Artifact Broke!\"\nTransliteration: \"Ātifakuto ga Kowareta!\" (Japanese: 錬成具アーティファクトが壊れた！)",
+            "Aired": "November 14, 2022"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"A Business Rival Appeared!\"\nTransliteration: \"Shōbaigataki ga Arawareta!\" (Japanese: 商売敵が現れた！)",
+            "Aired": "November 21, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Let's Go Gather Honey!\"\nTransliteration: \"Hachimitsu o Tori ni Ikō!\" (Japanese: 蜂蜜を採りに行こう！)",
+            "Aired": "November 28, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Let's Settle Things With Money!\"\nTransliteration: \"Okane de Kaiketsu Shiyō!\" (Japanese: お金で解決しよう！)",
+            "Aired": "December 5, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Let's Defeat a Salamander!\"\nTransliteration: \"Saramandā o Taosō!\" (Japanese: サラマンダーを倒そう！)",
+            "Aired": "December 12, 2022"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Management of a Novice Alchemist\"\nTransliteration: \"Shinmai Renkinjutsushi no Tenpo Keiei\" (Japanese: 新米錬金術師の店舗経営)",
+            "Aired": "December 19, 2022"
+        }
+    ],
+    "Shinobi no Ittoki": [
+        {
+            "Episode": "1",
+            "Title": "\"A Bolt from the Blue\"\nTransliteration: \"Seiten no Hekireki\" (Japanese: 青天の霹靂)",
+            "Aired": "October 4, 2022"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Merciless Choices\"\nTransliteration: \"Jihi Naki Sentaku\" (Japanese: 慈悲なき選択)",
+            "Aired": "October 11, 2022"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Quirks of Fate\"\nTransliteration: \"Aienkien\" (Japanese: 合縁奇縁)",
+            "Aired": "October 18, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Crafters and Users\"\nTransliteration: \"Tsukurite to Tsukaite\" (Japanese: 作り手と使い手)",
+            "Aired": "October 25, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Cycle of Pain\"\nTransliteration: \"Itami no Rensa\" (Japanese: 痛みの連鎖)",
+            "Aired": "November 1, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Shadow and Warmth\"\nTransliteration: \"Kage to Nukumori\" (Japanese: 影とぬくもり)",
+            "Aired": "November 8, 2022"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Where Does Justice Lie?\"\nTransliteration: \"Seigi wa Doko ni Aru\" (Japanese: 正義はどこにある)",
+            "Aired": "November 15, 2022"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Dusk Brings a Storm\"\nTransliteration: \"Tasogare wa Arashi o Tomonatte\" (Japanese: 黄昏は嵐を伴って)",
+            "Aired": "November 22, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"In the Light of Dawn\"\nTransliteration: \"Akatsuki ga Terasu Mono\" (Japanese: 暁が照らすもの)",
+            "Aired": "November 29, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Those Taken, Those Taken From\"\nTransliteration: \"Ubawareta Mono-tachi\" (Japanese: 奪われた者たち)",
+            "Aired": "December 6, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"The Path with No Regrets\"\nTransliteration: \"Kuinaki Michi o\" (Japanese: 悔いなき道を)",
+            "Aired": "December 13, 2022"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Ittoki the Ninja\"\nTransliteration: \"Shinobi no Ittoki\" (Japanese: 忍の一時)",
+            "Aired": "December 20, 2022"
+        }
+    ],
+    "Shiro Seijo to Kuro Bokushi": [
+        {
+            "Episode": "1",
+            "Title": "\"The Relationship Between Them\"\nTransliteration: \"Futari no Kankei\" (Japanese: ふたりの関係)",
+            "Aired": "July 13, 2023"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Things They Protect\"\nTransliteration: \"Futari no Mamoru Mono\" (Japanese: ふたりの守るもの)",
+            "Aired": "July 20, 2023"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Lawrence's Concerns\"\nTransliteration: \"Rōrensu no Kigakari\" (Japanese: ローレンスの気がかり)",
+            "Aired": "July 27, 2023"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"She Who Is Called the Lady Saint\"\nTransliteration: \"Seijo to Yobareru Mono\" (Japanese: 聖女と呼ばれるもの)",
+            "Aired": "August 3, 2023"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"First Official Trip\"\nTransliteration: \"Hajimete no Shutchō\" (Japanese: はじめての出張)",
+            "Aired": "August 10, 2023"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Abel and Hazelita\"\nTransliteration: \"Aberu to Hēzeritta\" (Japanese: アベルとヘーゼリッタ)",
+            "Aired": "August 17, 2023"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Cecilia's Worries\"\nTransliteration: \"Seshiria no Nayamigoto\" (Japanese: セシリアのなやみごと)",
+            "Aired": "August 24, 2023"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Frederica's Bequest\"\nTransliteration: \"Furederika no Nokoshita Mono\" (Japanese: フレデリカの遺したもの)",
+            "Aired": "August 31, 2023"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Lady Saint's Divine Protection\"\nTransliteration: \"Seijo no Kago\" (Japanese: 聖女の加護)",
+            "Aired": "September 7, 2023"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Their Feelings\"\nTransliteration: \"Futari no Kimochi\" (Japanese: ふたりの気持ち)",
+            "Aired": "September 14, 2023"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"The Way They Met\"\nTransliteration: \"Futari no Deai\" (Japanese: ふたりの出会い)",
+            "Aired": "September 21, 2023"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"The Shape of Their Relationship\"\nTransliteration: \"Futari no Katachi\" (Japanese: ふたりのかたち)",
+            "Aired": "September 28, 2023"
+        }
+    ],
+    "Shirobako": [
+        {
+            "Episode": "1",
+            "Title": "\"Exodus To Tomorrow!\"\nTransliteration: \"Ashita ni Mukatte, Ekusodasu!\" (Japanese: 明日に向かって、えくそだすっ!)",
+            "Aired": "October 9, 2014"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Arupin is Here!\"\nTransliteration: \"Arupin wa Imasu!\" (Japanese: あるぴんはいます!)",
+            "Aired": "October 16, 2014"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"No More Recap Episodes\"\nTransliteration: \"Sōshūhen wa Mō Iya da\" (Japanese: 総集編はもういやだ)",
+            "Aired": "October 23, 2014"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"I Totally Messed Up\"\nTransliteration: \"Watasha Shippai Koichimatte sa\" (Japanese: 私ゃ失敗こいちまってさ)",
+            "Aired": "October 30, 2014"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Those Who Blame Others Should Just Quit!\"\nTransliteration: \"Hito no Sei ni Shiteiru yōna Yatsu wa Yamechimae!\" (Japanese: 人のせいにしているようなヤツは辞めちまえ!)",
+            "Aired": "November 6, 2014"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Idepon Miyamori: On the Move\"\nTransliteration: \"Idepon Miyamori Hatsudō-hen\" (Japanese: イデポン宮森 発動篇)",
+            "Aired": "November 13, 2014"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Retake with the Cat\"\nTransliteration: \"Neko de Riteiku\" (Japanese: ネコでリテイク)",
+            "Aired": "November 20, 2014"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"I'm Not Blaming You\"\nTransliteration: \"Semeterun Janai Kara ne\" (Japanese: 責めてるんじゃないからね)",
+            "Aired": "November 27, 2014"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"What Do You Think I Was Trying to Say?\"\nTransliteration: \"Nani o Tsutaetakattan da to Omou?\" (Japanese: 何を伝えたかったんだと思う?)",
+            "Aired": "December 4, 2014"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Just One More\"\nTransliteration: \"Ato Ippai dake ne\" (Japanese: あと一杯だけね)",
+            "Aired": "December 11, 2014"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"The Little Key Frames Girl\"\nTransliteration: \"Genga Uri no Shōjo\" (Japanese: 原画売りの少女)",
+            "Aired": "December 18, 2014"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Exodus Christmas\"\nTransliteration: \"Ekusodasu Kurisumasu\" (Japanese: えくそだす·クリスマス)",
+            "Aired": "December 25, 2014"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"What Kind of Cloud Do You Like?\"\nTransliteration: \"Suki na Kumo tte Nan desu ka?\" (Japanese: 好きな雲って何ですか?)",
+            "Aired": "January 8, 2015[4]"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"The Ruthless Audition Meeting\"\nTransliteration: \"Jinginaki Ōdishon Kaigi!\" (Japanese: 仁義なきオーディション会議!)",
+            "Aired": "January 15, 2015"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Will These Drawings Work?\"\nTransliteration: \"Konna E de Iin desu ka?\" (Japanese: こんな絵でいいんですか？)",
+            "Aired": "January 22, 2015"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Table Flip\"\nTransliteration: \"Chabudai Gaeshi\" (Japanese: ちゃぶだい返し)",
+            "Aired": "January 29, 2015"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Where Am I...\"\nTransliteration: \"Watashi Doko ni Irun deshō ka...\" (Japanese: 私どこにいるんでしょうか...)",
+            "Aired": "February 5, 2015"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"You Set Me Up!\"\nTransliteration: \"Ore o Hameyagatta na!\" (Japanese: 俺をはめやがったな!)",
+            "Aired": "February 12, 2015"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Did You Catch Any?\"\nTransliteration: \"Tsuremasu ka?\" (Japanese: 釣れますか?)",
+            "Aired": "February 19, 2015"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"I'll Do My Best, Mustang!\"\nTransliteration: \"Ganbari-Masutangu!\" (Japanese: がんばりマスタング!)",
+            "Aired": "February 26, 2015"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Don't Hold the Quality Hostage\"\nTransliteration: \"Kuoriti o Hitojichi ni Sunna\" (Japanese: クオリティを人質にすんな)",
+            "Aired": "March 5, 2015"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Noa's in Her Underwear.\"\nTransliteration: \"Noa wa Shitagi desu.\" (Japanese: ノアは下着です。)",
+            "Aired": "March 12, 2015"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Table Flip Continued\"\nTransliteration: \"Zoku Chabudai Gaeshi\" (Japanese: 続·ちゃぶだい返し)",
+            "Aired": "March 19, 2015"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"The Delivery That Was Too Far Off\"\nTransliteration: \"Tōsugita Nōhin\" (Japanese: 遠すぎた納品)",
+            "Aired": "March 26, 2015"
+        }
+    ],
+    "Shirogane no Ishi: Argevollen": [
+        {
+            "Episode": "1",
+            "Title": "\"Encounter\"\n\"Sōgū\" (Japanese: 遭遇[11])",
+            "Aired": "July 3, 2014"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Awakening\"\n\"Mezame\" (Japanese: 目覚め[11])",
+            "Aired": "July 10, 2014"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"One Man Army\"\n\"Wanman· āmī\" (Japanese: ワンマン·アーミー[11])",
+            "Aired": "July 17, 2014"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Return\"\n\"Kikan\" (Japanese: 帰還[11])",
+            "Aired": "July 24, 2014"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Surprise Attack\"\n\"Kishū\" (Japanese: 奇襲[11])",
+            "Aired": "July 31, 2014"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Run, Jamie!\"\n\"Hashire, Jeimī!\" (Japanese: 走れ, ジェイミー！[11])",
+            "Aired": "August 7, 2014"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Bellhals\"\n\"Beruharusu\" (Japanese: 陸繋島[11])",
+            "Aired": "August 14, 2014"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Rematch\"\n\"Saisen\" (Japanese: 再戦[11])",
+            "Aired": "August 21, 2014"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Promise\"\n\"Yakusoku\" (Japanese: 約束[11])",
+            "Aired": "August 28, 2014"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"End of Absence\"\n\"Fuzai no hate\" (Japanese: 不在の果て[11])",
+            "Aired": "September 4, 2014"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Rage\"\n\"Ken\" (Japanese: 拳[11])",
+            "Aired": "September 11, 2014"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Reika Nanjou\"\n(Japanese: ナンジョウ・レイカ[11])",
+            "Aired": "September 18, 2014"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Blue and Indigo\"\n\"Ao to ai\" (Japanese: 青と藍[11])",
+            "Aired": "October 2, 2014"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"Ghost\"\n\"Bōrei\" (Japanese: 亡霊[11])",
+            "Aired": "October 9, 2014"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Sturm\"\n\"Arashi\" (Japanese: 嵐[11])",
+            "Aired": "October 16, 2014"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Freeze\"\n\"Tōketsu\" (Japanese: 凍結)",
+            "Aired": "October 23, 2014"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Defeat\"\n\"Haiboku\" (Japanese: 敗北[11])",
+            "Aired": "October 30, 2014"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Farewell\"\n\"Ketsubetsu\" (Japanese: 訣別[11])",
+            "Aired": "November 6, 2014"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Resolve\"\n\"Ketsui\" (Japanese: 決意[11])",
+            "Aired": "November 13, 2014"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Another Mind\"\n\"Mō hitotsu no ishiki\" (Japanese: もうひとつの意識[11])",
+            "Aired": "November 20, 2014"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Disturbance\"\n\"Dōran\" (Japanese: 動乱[11])",
+            "Aired": "November 27, 2014"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Capture\"\n\"Rokaku\" (Japanese: 鹵獲[11])",
+            "Aired": "December 4, 2014"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Counterattack\"\n\"Hangeki\" (Japanese: 反撃[11])",
+            "Aired": "December 11, 2014"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"Silver Will\"\n\"Shirogane no ishi\" (Japanese: 白銀の意思[11])",
+            "Aired": "December 18, 2014"
+        }
+    ],
+    "Shiroi Suna no Aquatope": [
+        {
+            "Episode": "1",
+            "Title": "\"The Tropical Fish Ran Away\"\nTransliteration: \"Nettaigyo, Nigeta\" (Japanese: 熱帯魚、逃げた)",
+            "Aired": "July 9, 2021"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Getting Wet Is Part of the Job\"\nTransliteration: \"Nureru no mo Shigoto no Uchi\" (Japanese: 濡れるのも仕事のうち)",
+            "Aired": "July 16, 2021"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Life Begins in the Ocean\"\nTransliteration: \"Inochi wa, Umi Kara\" (Japanese: いのちは、海から)",
+            "Aired": "July 23, 2021"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Tropical Fish in Boots\"\nTransliteration: \"Nagagutsu o Haita Nettaigyo\" (Japanese: 長靴をはいた熱帯魚)",
+            "Aired": "July 30, 2021"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Mother Arrives\"\nTransliteration: \"Haha no Raihō\" (Japanese: 母の来訪)",
+            "Aired": "August 6, 2021"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Sweets Rhapsody\"\nTransliteration: \"Suītsu Rapusodi\" (Japanese: スイーツラプソディ)",
+            "Aired": "August 13, 2021"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Ice Cream Toast\"\nTransliteration: \"Aisu de Kanpai\" (Japanese: アイスで乾杯)",
+            "Aired": "August 20, 2021"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Crab Crisis\"",
+            "Aired": "August 27, 2021"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Cinderella, the Spy\"\nTransliteration: \"Shikaku no Shinderera\" (Japanese: 刺客のシンデレラ)",
+            "Aired": "September 3, 2021"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Abandoned Illusions\"\nTransliteration: \"Okizari no Maboroshi\" (Japanese: 置き去りの幻)",
+            "Aired": "September 10, 2021"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"At the End of the Siege\"\nTransliteration: \"Rōjō no Hate\" (Japanese: 籠城の果て)",
+            "Aired": "September 17, 2021"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Our Oceans Are Endless\"\nTransliteration: \"Watashitachi no Umi wa Owaranai\" (Japanese: 私たちの海は終わらない)",
+            "Aired": "September 24, 2021"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Tingarla in the Far Away Ocean\"\nTransliteration: \"Umi no Haruka na Tingāra\" (Japanese: 海の遥かなティンガーラ)",
+            "Aired": "October 1, 2021"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"Penguin Chaser\"\nTransliteration: \"Pengin Cheisā\" (Japanese: ペンギンチェイサー)",
+            "Aired": "October 8, 2021"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"The Great Sea Slug Debate\"\nTransliteration: \"Umiushi Dai Ronsen\" (Japanese: ウミウシ大論戦)",
+            "Aired": "October 15, 2021"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Shout-Out to the Tattered\"\nTransliteration: \"Kizu-darake no Kimi ni Ēru o\" (Japanese: 傷だらけの君にエールを)",
+            "Aired": "October 22, 2021"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Hangout Spot Kuragefuu\"\nTransliteration: \"Kutsurogi Dokoro Kuragefū\" (Japanese: くつろぎ処　海月風)",
+            "Aired": "October 29, 2021"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"When the Light Shines\"\nTransliteration: \"Akari no Tomoru Toki\" (Japanese: あかりの灯るとき)",
+            "Aired": "November 5, 2021"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Goodbye, High Heels\"\nTransliteration: \"Sayonara Hai Hīru\" (Japanese: さよならハイヒール)",
+            "Aired": "November 12, 2021"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Lost Plankton\"\nTransliteration: \"Maigo no Purankuton\" (Japanese: 迷子のプランクトン)",
+            "Aired": "November 19, 2021"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Dreams of Blue Turtles\"\nTransliteration: \"Burū Tātoru no Yume\" (Japanese: ブルー・タートルの夢)",
+            "Aired": "November 26, 2021"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Ready to Return\"\nTransliteration: \"Kakugo no Kikan\" (Japanese: 覚悟の帰還)",
+            "Aired": "December 3, 2021"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"The Future of the Aquarium\"\nTransliteration: \"Suizokukan no Mirai\" (Japanese: 水族館の未来)",
+            "Aired": "December 10, 2021"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"The Aquatope on White Sand\"\nTransliteration: \"Shiroi Suna no Akuatōpu\" (Japanese: 白い砂のアクアトープ)",
+            "Aired": "December 17, 2021"
+        }
+    ],
+    "Shokei Shoujo no Virgin Road": [
+        {
+            "Episode": "1",
+            "Title": "\"The Executioner\"\nTransliteration: \"Shokeinin\" (Japanese: 処刑人)",
+            "Aired": "April 2, 2022"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Lost One\"\nTransliteration: \"Mayoibito\" (Japanese: 迷い人)",
+            "Aired": "April 9, 2022"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Taboo in [Red]\"\nTransliteration: \"Kinki no [Aka]\" (Japanese: 禁忌の【赤】)",
+            "Aired": "April 16, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Ancient Capital Garm\"\nTransliteration: \"Koto Garumu\" (Japanese: 古都ガルム)",
+            "Aired": "April 23, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Goodbye\"\nTransliteration: \"Sayonara\" (Japanese: さよなら)",
+            "Aired": "April 30, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"[Regression: Memories, Soul, Spirit]\"\nTransliteration: \"[Kaiki: Kioku Tamashii Seishin]\" (Japanese: 【回帰:記憶・魂・精神】)",
+            "Aired": "May 7, 2022"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Port City of Libelle\"\nTransliteration: \"Minatomachi Ribēru\" (Japanese: 港町リベール)",
+            "Aired": "May 14, 2022"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Monstrine\"\nTransliteration: \"Mayaku\" (Japanese: 魔薬)",
+            "Aired": "May 21, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"At the Evening Ball\"\nTransliteration: \"Yakai nite\" (Japanese: 夜会にて)",
+            "Aired": "May 28, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Daughter of a Lost One\"\nTransliteration: \"Mayoibito no Musume\" (Japanese: 迷い人の娘)",
+            "Aired": "June 4, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Pandæmonium\"\nTransliteration: \"Pandemoniumu\" (Japanese: 万魔殿パンデモニウム)",
+            "Aired": "June 11, 2022"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"The Duo's Journey\"\nTransliteration: \"Futari no Tabiji\" (Japanese: ふたりの旅路)",
+            "Aired": "June 18, 2022"
+        }
+    ],
+    "Shokugeki no Souma": [
+        {
+            "Episode": "1",
+            "Title": "\"The Vast Wasteland\" / \"An Endless Wasteland\"\nTransliteration: \"Hatenaki Kōya\" (Japanese: 果てなき荒野)",
+            "Aired": "April 4, 2015"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"God Tongue\"\nTransliteration: \"Kami no Shita\" (Japanese: 神の舌)",
+            "Aired": "April 11, 2015"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"That Chef Doesn't Smile\" / \"That Chef Never Smiles\"\nTransliteration: \"Kono Ryōrinin wa Warawanai\" (Japanese: この料理人は笑わない)",
+            "Aired": "April 18, 2015"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Sacred Mother of Kyokusei\" / \"The Madonna of the Polar Star\"\nTransliteration: \"Kyokusei no Maria\" (Japanese: 極星の聖母 (マリア))",
+            "Aired": "April 25, 2015"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"The Ice Queen and the Spring Storm\"\nTransliteration: \"Kōri no Joō to Haru no Arashi\" (Japanese: 氷の女王と春の嵐)",
+            "Aired": "May 2, 2015"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Meat Aggressor\" / \"The Meat Invader\"\nTransliteration: \"Niku no Shinryakusha\" (Japanese: 肉の侵略者)",
+            "Aired": "May 9, 2015"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Silent Bowl, the Eloquent Bowl\" / \"A Quiet Don, an Eloquent Don\"\nTransliteration: \"Shizukanaru Don, Yūben'na Don\" (Japanese: 静かなる丼、雄弁な丼)",
+            "Aired": "May 16, 2015"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"A Concerto of Concept and Creation\" / \"The Concerto of Inspiration and Imagination\"\nTransliteration: \"Hassō to Sōzō no Kyōsōkyoku\" (Japanese: 発想と創造の協奏曲)",
+            "Aired": "May 23, 2015"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Breading That Showcases the Mountains\" / \"The Breading to Adorn the Mountains\"\nTransliteration: \"Yama o Irodoru Koromo\" (Japanese: 山を彩る衣)",
+            "Aired": "May 30, 2015"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Supreme Recette\" / \"The Heavenly Recette\"\nTransliteration: \"Shijō no Rusetto\" (Japanese: 至上のルセット)",
+            "Aired": "June 6, 2015"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"The Magician from the East\"\nTransliteration: \"Higashi kara Kita Majutsushi\" (Japanese: 東から来た魔術師)",
+            "Aired": "June 13, 2015"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"The Memory of a Single Dish\" / \"The Memory of a Dish\"\nTransliteration: \"Hito-sara no Kioku\" (Japanese: ひと皿の記憶)",
+            "Aired": "June 20, 2015"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Eggs Before the Dawn\"\nTransliteration: \"Yoake Mae no Tamago-tachi\" (Japanese: 夜明け前の卵たち)",
+            "Aired": "June 27, 2015"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"Metamorphose\" / \"Metamorphosis\"\nTransliteration: \"Metamorufōze\" (Japanese: メタモルフォーゼ)",
+            "Aired": "July 4, 2015"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"The Man Called 'Carnage'\" / \"The Man Called Demon\"\nTransliteration: \"Syura to Yobareda Otoko\" (Japanese: 『修羅』と呼ばれた男)",
+            "Aired": "July 18, 2015"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"The Cook Who Traveled Thousands of Miles\" / \"The Chef Who's Crossed a Thousand Leagues\"\nTransliteration: \"Banri o Kakeru Ryōrinin\" (Japanese: 万里を駆ける料理人)",
+            "Aired": "July 25, 2015"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Sensual Fried Chicken\" / \"The Seductive Karaage\"\nTransliteration: \"Kannō no Karaage\" (Japanese: 官能の唐揚げ)",
+            "Aired": "August 1, 2015"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"The Fried Chicken of Youth\" / \"The Karaage of Youth\"\nTransliteration: \"Seishun no Karaage\" (Japanese: 青春の唐揚げ)",
+            "Aired": "August 8, 2015"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"The Chosen One\"\nTransliteration: \"Erabareshi Mono\" (Japanese: 選ばれし者)",
+            "Aired": "August 15, 2015"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Dragon Lies Prone then Ascends to the Sky\" / \"The Dragon Lies Down and Ascends the Skies\"\nTransliteration: \"Ryū wa Fushi, Sora e Noboru\" (Japanese: 龍は臥し、空へ昇る)",
+            "Aired": "August 22, 2015"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"That Which Is Known Yet Unknown\" / \"The Unknown Known\"\nTransliteration: \"Michinaru Kichi\" (Japanese: 未知なる既知)",
+            "Aired": "August 29, 2015"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"That Which Transcends the Norm\" / \"The One Who Surpasses the Ordinary\"\nTransliteration: \"Nichijō o Koerumono\" (Japanese: 日常を超えるもの)",
+            "Aired": "September 5, 2015"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"The Unfolding Individual Competition\" / \"The Competition of the Blossoming Individuals\"\nTransliteration: \"Hana Hiraku Ko no Kyōen\" (Japanese: 花開く個の競演)",
+            "Aired": "September 12, 2015"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"The Warriors' Banquet\" / \"The Banquet of Warriors\"\nTransliteration: \"Senshi-tachi no Utage\" (Japanese: 戦士たちの宴)",
+            "Aired": "September 26, 2015"
+        }
+    ],
+    "Shokugeki no Souma: Ni no Sara": [
+        {
+            "Episode": "25",
+            "Title": "\"That Which is Placed Within the Box\" / \"What Fills the Box\"\nTransliteration: \"Sono Hako ni Tsumeru mono\" (Japanese: その箱に詰めるもの)",
+            "Aired": "July 2, 2016"
+        },
+        {
+            "Episode": "26",
+            "Title": "\"Interplay of Light & Shadow\" / \"The Interplay of Light and Shadow\"\nTransliteration: \"Kōsakusuru Hikari to Kage\" (Japanese: 交錯する光と影)",
+            "Aired": "July 9, 2016"
+        },
+        {
+            "Episode": "27",
+            "Title": "\"The Age of Kings\" / \"The Generation of Prodigies\"\nTransliteration: \"“Gyoku” no Sedai\" (Japanese: 『玉』の世代)",
+            "Aired": "July 16, 2016"
+        },
+        {
+            "Episode": "28",
+            "Title": "\"The Pursuer\"\nTransliteration: \"Tsuiseki-sha\" (Japanese: 追跡者)",
+            "Aired": "July 23, 2016"
+        },
+        {
+            "Episode": "29",
+            "Title": "\"The Secret of the First Bite\" / \"The Secret in the First Bite\"\nTransliteration: \"Hitokuchime no Himitsu\" (Japanese: 一口目の秘密)",
+            "Aired": "July 30, 2016"
+        },
+        {
+            "Episode": "30",
+            "Title": "\"Morning Shall Come Again\" / \"Dawn Will Come Again\"\nTransliteration: \"Asa wa Mata Kuru\" (Japanese: 朝はまた来る)",
+            "Aired": "August 6, 2016"
+        },
+        {
+            "Episode": "31",
+            "Title": "\"Beasts That Devour Each Other\" / \"Beasts Devouring Each Other\"\nTransliteration: \"Kuraiau Kemono\" (Japanese: 喰らい合う獣)",
+            "Aired": "August 13, 2016"
+        },
+        {
+            "Episode": "32",
+            "Title": "\"The Battle That Follows the Seasons\" / \"Battle of Seasonality\"\nTransliteration: \"Shun o Meguru Tatakai\" (Japanese: 旬を巡る戦い)",
+            "Aired": "August 20, 2016"
+        },
+        {
+            "Episode": "33",
+            "Title": "\"The Sword That Announces Fall\" / \"A Sword that Signals Autumn\"\nTransliteration: \"Aki o Tsugeru Katana\" (Japanese: 秋を告げる刀)",
+            "Aired": "August 27, 2016"
+        },
+        {
+            "Episode": "34",
+            "Title": "\"A New Jewel\" / \"A New Genius\"\nTransliteration: \"Aratanaru \"Gyoku\"\" (Japanese: 新たなる玉)",
+            "Aired": "September 3, 2016"
+        },
+        {
+            "Episode": "35",
+            "Title": "\"The Stagiaire\"\nTransliteration: \"Sutajiēru\" (Japanese: スタジエール)",
+            "Aired": "September 10, 2016"
+        },
+        {
+            "Episode": "36",
+            "Title": "\"The Magician Returns\" / \"The Magician Once More\"\nTransliteration: \"Majutsu-shi Futatabi\" (Japanese: 魔術師再び)",
+            "Aired": "September 17, 2016"
+        },
+        {
+            "Episode": "37",
+            "Title": "\"Pomp & Circumstance\" / \"Pomp and Circumstance\"\nTransliteration: \"Ifudōdō\" (Japanese: 威風堂々)",
+            "Aired": "September 24, 2016"
+        }
+    ],
+    "Shokugeki no Souma: San no Sara": [
+        {
+            "Episode": "38",
+            "Title": "\"Challenging the Ten\" / \"Challenging the Elite Ten\"\nTransliteration: \"Jukketsu ni Idomu\" (Japanese: 十傑に挑む)",
+            "Aired": "October 4, 2017"
+        },
+        {
+            "Episode": "39",
+            "Title": "\"Má & Là\" / \"Má and Là\"\nTransliteration: \"Mā to Rā\" (Japanese: 『麻』と『辣』)",
+            "Aired": "October 11, 2017"
+        },
+        {
+            "Episode": "40",
+            "Title": "\"The Lunar Feast\" / \"Moon Festival\"\nTransliteration: \"Gekkyōsai\" (Japanese: 月饗祭)",
+            "Aired": "October 18, 2017"
+        },
+        {
+            "Episode": "41",
+            "Title": "\"A Pride of Young Lions\"\nTransliteration: \"Wakaki Shishi-tachi no Mure\" (Japanese: 若き獅子たちの群れ)",
+            "Aired": "October 25, 2017"
+        },
+        {
+            "Episode": "42",
+            "Title": "\"The Shadow over the Dining Table\" / \"The Darkening Dinner Table\"\nTransliteration: \"Kageriyuku Shokutaku\" (Japanese: 翳りゆく食卓)",
+            "Aired": "November 1, 2017"
+        },
+        {
+            "Episode": "43",
+            "Title": "\"The Captive Queen\" / \"The Imprisoned Queen\"\nTransliteration: \"Toraware no Joō\" (Japanese: 囚われの女王)",
+            "Aired": "November 8, 2017"
+        },
+        {
+            "Episode": "44",
+            "Title": "\"The Academy Falls\" / \"It Begins\"\nTransliteration: \"Hibuta wa Kirareta\" (Japanese: 火蓋は切られた)",
+            "Aired": "November 15, 2017"
+        },
+        {
+            "Episode": "45",
+            "Title": "\"The Alchemist\"\nTransliteration: \"Arukimisuta\" (Japanese: 錬金術師アルキミスタ)",
+            "Aired": "November 22, 2017"
+        },
+        {
+            "Episode": "46",
+            "Title": "\"Hunting the Straggerlers\" / \"Hunting the Survivors\"\nTransliteration: \"Zantōgari\" (Japanese: 残党狩り)",
+            "Aired": "November 29, 2017"
+        },
+        {
+            "Episode": "47",
+            "Title": "\"Dance of the Salmon\" / \"The Salmon Will Dance\"\nTransliteration: \"Sake wa Odoru\" (Japanese: 鮭は踊る)",
+            "Aired": "December 6, 2017"
+        },
+        {
+            "Episode": "48",
+            "Title": "\"Der Weiße Ritter der Tafel\" / \"The White Knight of the Panel\"\nTransliteration: \"Shokutaku no Shirokishi\" (Japanese: 食卓の白騎士)",
+            "Aired": "December 13, 2017"
+        },
+        {
+            "Episode": "49",
+            "Title": "\"Those Who Strive for the Top\" / \"The One Who Aims for the Summit\"\nTransliteration: \"Itadaki wo Mezasu Mono\" (Japanese: 頂を目指す者)",
+            "Aired": "December 20, 2017"
+        }
+    ],
+    "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen": [
+        {
+            "Episode": "50",
+            "Title": "\"Advancement Exam\"\nTransliteration: \"Shinkyū Shiken\" (Japanese: 進級試験)",
+            "Aired": "April 9, 2018"
+        },
+        {
+            "Episode": "51",
+            "Title": "\"The Totsuki Train Heads Forth\" / \"Onward on the Totsuki Train\"\nTransliteration: \"Tōtsuki-ressha wa Iku\" (Japanese: 遠月列車は行)",
+            "Aired": "April 16, 2018"
+        },
+        {
+            "Episode": "52",
+            "Title": "\"Joan of Arc Arises\" / \"Jeanne d'Arc Rises\"\nTransliteration: \"Tachiagaru Onna Kishi\" (Japanese: 立ち上がる女騎士)",
+            "Aired": "April 23, 2018"
+        },
+        {
+            "Episode": "53",
+            "Title": "\"Revenge Match\"\nTransliteration: \"Ribenji Matchi\" (Japanese: リベンジ・マッチ)",
+            "Aired": "April 30, 2018"
+        },
+        {
+            "Episode": "54",
+            "Title": "\"Walking the Tightrope of Umami\" / \"The Umami Tightrope\"\nTransliteration: \"Umami no Tsunawatari\" (Japanese: 旨味の綱渡り)",
+            "Aired": "May 7, 2018"
+        },
+        {
+            "Episode": "55",
+            "Title": "\"For Someone's Sake\" / \"For Whom\"\nTransliteration: \"Dare ga Tame ni\" (Japanese: 誰が為に)",
+            "Aired": "May 14, 2018"
+        },
+        {
+            "Episode": "56",
+            "Title": "\"A Declaration of War\" / \"Declaration of War\"\nTransliteration: \"Sensen Fukoku\" (Japanese: 宣戦布告)",
+            "Aired": "May 21, 2018"
+        },
+        {
+            "Episode": "57",
+            "Title": "\"Erina's Devotion\" / \"Erina's Diligent Studies\"\nTransliteration: \"Erina no Kensan\" (Japanese: えりなの研鑽)",
+            "Aired": "May 28, 2018"
+        },
+        {
+            "Episode": "58",
+            "Title": "\"He Who Clears a Path Through the Wilderness\" / \"The Pioneer of the Wastelands\"\nTransliteration: \"Kōya o Hiraku Mono\" (Japanese: 荒野を拓く者)",
+            "Aired": "June 4, 2018"
+        },
+        {
+            "Episode": "59",
+            "Title": "\"To the Site of the Final Battle\" / \"To the Final Battleground\"\nTransliteration: \"Kessen no Chi e\" (Japanese: 決戦の地へ)",
+            "Aired": "June 11, 2018"
+        },
+        {
+            "Episode": "60",
+            "Title": "\"For the Sake of Kyokusei Dorm\" / \"Bearing Polar Star Dormitory\"\nTransliteration: \"Kyokuseiryō o Seotte\" (Japanese: 極星寮を背負って)",
+            "Aired": "June 18, 2018"
+        },
+        {
+            "Episode": "61",
+            "Title": "\"That Which Makes One Strong\" / \"The Basis for Strength\"\nTransliteration: \"Kyōshataru Yuen\" (Japanese: 強者たる所以ゆえん)",
+            "Aired": "June 25, 2018"
+        }
+    ],
+    "Shokugeki no Souma: Shin no Sara": [
+        {
+            "Episode": "62",
+            "Title": "\"That Which I Want to Protect\" / \"What We Want to Protect\"\nTransliteration: \"Mamoritai mono\" (Japanese: 守りたいもの)",
+            "Aired": "October 12, 2019"
+        },
+        {
+            "Episode": "63",
+            "Title": "\"The Strobe Flashes\" / \"Camera Flash\"\nTransliteration: \"Sutorobo kagayaku\" (Japanese: ストロボ、輝く)",
+            "Aired": "October 19, 2019"
+        },
+        {
+            "Episode": "64",
+            "Title": "\"Hopeful Solidarity\" / \"Hope in Solidarity\"\nTransliteration: \"Kibō no Rentai\" (Japanese: 希望の連帯)",
+            "Aired": "October 26, 2019"
+        },
+        {
+            "Episode": "65",
+            "Title": "\"Aim for Victory!\"\nTransliteration: \"Shōri o nerae!\" (Japanese: 勝利をねらえ！)",
+            "Aired": "November 2, 2019"
+        },
+        {
+            "Episode": "66",
+            "Title": "\"You're Done For, Fool\" / \"You're Through\"\nTransliteration: \"Owatta ze, omae\" (Japanese: 終わったぜ、お前)",
+            "Aired": "November 9, 2019"
+        },
+        {
+            "Episode": "67",
+            "Title": "\"A Single Blade\"\nTransliteration: \"Ippon no Yaiba\" (Japanese: 一本の刃)",
+            "Aired": "November 16, 2019"
+        },
+        {
+            "Episode": "68",
+            "Title": "\"Two Queens\" / \"The Two Queens\"\nTransliteration: \"Futari no Joō\" (Japanese: ふたりの女王)",
+            "Aired": "November 23, 2019"
+        },
+        {
+            "Episode": "69",
+            "Title": "\"Your Best Side\" / \"Watching from Beside You\"\nTransliteration: \"Kimi no Yokogao\" (Japanese: 君の横顔)",
+            "Aired": "November 30, 2019"
+        },
+        {
+            "Episode": "70",
+            "Title": "\"The First & Second Seats\" / \"The First and Second Seats\"\nTransliteration: \"Isseki to ni Seki\" (Japanese: 一席と二席)",
+            "Aired": "December 7, 2019"
+        },
+        {
+            "Episode": "71",
+            "Title": "\"How to Cook a Killer Dish\" / \"How to Build a Specialty\"\nTransliteration: \"Hissatsu Ryōri no Tsukurikata\" (Japanese: 必殺料理の作り方)",
+            "Aired": "December 14, 2019"
+        },
+        {
+            "Episode": "72",
+            "Title": "\"Song of Hope\"\nTransliteration: \"Kibō no Uta\" (Japanese: 希望の唄)",
+            "Aired": "December 21, 2019"
+        },
+        {
+            "Episode": "73",
+            "Title": "\"\"The Totsuki Ten\" Reborn\" / \"The New \"Totsuki Elite Ten\"\"\nTransliteration: \"Shinsei “Tōtsuki Jikketsu”\" (Japanese: 新生『遠月十傑』)",
+            "Aired": "December 28, 2019"
+        }
+    ],
+    "Shokugeki no Souma: Gou no Sara": [
+        {
+            "Episode": "74",
+            "Title": "\"Final Exams\"\nTransliteration: \"Gakkimatsu Shiken\" (Japanese: 学期末試験)",
+            "Aired": "April 11, 2020"
+        },
+        {
+            "Episode": "75",
+            "Title": "\"The BLUE Preliminaries\"\nTransliteration: \"Ao no Zenshōsen\" (Japanese: 青の前哨戦)",
+            "Aired": "April 18, 2020"
+        },
+        {
+            "Episode": "76",
+            "Title": "\"Noir\"\nTransliteration: \"Nowāru\" (Japanese: 真夜中の料理人ノワール)",
+            "Aired": "July 18, 2020"
+        },
+        {
+            "Episode": "77",
+            "Title": "\"The Last Supper\"\nTransliteration: \"Saigo no Bansan\" (Japanese: 最後の晩餐)",
+            "Aired": "July 25, 2020"
+        },
+        {
+            "Episode": "78",
+            "Title": "\"Convenience Store Brawl\"\nTransliteration: \"Konbini Rantō\" (Japanese: コンビニ乱闘)",
+            "Aired": "August 1, 2020"
+        },
+        {
+            "Episode": "79",
+            "Title": "\"A Midsummer Christmas\"\nTransliteration: \"Manatsu no Kurisumasu\" (Japanese: 真夏のクリスマス)",
+            "Aired": "August 8, 2020"
+        },
+        {
+            "Episode": "80",
+            "Title": "\"Crossed Knives\"\nTransliteration: \"Kurosu Naibuzu\" (Japanese: 交差する刃クロスナイブズ)",
+            "Aired": "August 15, 2020"
+        },
+        {
+            "Episode": "81",
+            "Title": "\"The Missing Half of the Moon\"\nTransliteration: \"Kaketa Hangetsu\" (Japanese: 欠けた半月)",
+            "Aired": "August 22, 2020"
+        },
+        {
+            "Episode": "82",
+            "Title": "\"The God Tongue's Despair\"\nTransliteration: \"Kami no Shita no Zetsubō\" (Japanese: 神の舌の絶望)",
+            "Aired": "August 29, 2020"
+        },
+        {
+            "Episode": "83",
+            "Title": "\"Surpassing Dad\"\nTransliteration: \"Oyaji Goe\" (Japanese: 親父越え)",
+            "Aired": "September 5, 2020"
+        },
+        {
+            "Episode": "84",
+            "Title": "\"The Taste of Failure\"\nTransliteration: \"Shippai no Aji\" (Japanese: 失敗の味)",
+            "Aired": "September 12, 2020"
+        },
+        {
+            "Episode": "85",
+            "Title": "\"The Perfect Rocks\"\nTransliteration: \"Gokujō no Ishitachi\" (Japanese: 極上の石たち)",
+            "Aired": "September 19, 2020"
+        },
+        {
+            "Episode": "86",
+            "Title": "\"Food Wars\"\nTransliteration: \"Shokugeki no Sōma\" (Japanese: 食戟のソーマ)",
+            "Aired": "September 26, 2020"
+        }
+    ],
+    "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets♥Sareta Ken": [
+        {
+            "Episode": "1",
+            "Title": "\"Welcome, Commoner\"\nTransliteration: \"Yōkoso shomin\" (Japanese: ようこそ庶民)",
+            "Aired": "October 7, 2015"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Reiko Is Who We Wish to Be Like\"\nTransliteration: \"Reiko-sama wa watashi-tachi no akogare desu wa\" (Japanese: 麗子様は私たちの憧れですわ)",
+            "Aired": "October 14, 2015"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"It Was Like the Garden of Eden\"\nTransliteration: \"Eden no sono tte kanji datta\" (Japanese: エデンの園ってカンジだった)",
+            "Aired": "October 21, 2015"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Tea Party Incident\"\nTransliteration: \"O-chakai jiken\" (Japanese: お茶会事件)",
+            "Aired": "October 28, 2015"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Just Friends\"\nTransliteration: \"Tomodachi dake\" (Japanese: 友達だけ)",
+            "Aired": "November 4, 2015"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Step Outside\"\nTransliteration: \"Omote ni dero\" (Japanese: 表に出ろ)",
+            "Aired": "November 11, 2015"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Tsun-Pure In Her Element\"\nTransliteration: \"Tsunpyua-san no honryō\" (Japanese: ツンピュアさんの本領)",
+            "Aired": "November 18, 2015"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Aika-sama Has a Lot of Friends\"\nTransliteration: \"Aika-sama wa tomodachi ga ōi\" (Japanese: 愛佳様は友達が多い)",
+            "Aired": "November 25, 2015"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Kagurazaka-sama Is Here\"\nTransliteration: \"Kagurazaka-sama ga kiteru no yo\" (Japanese: 神楽坂様が来てるのよっ)",
+            "Aired": "December 2, 2015"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"I've Been Curious About This For a While, But What is Gets?\"\nTransliteration: \"Mae kara ki ni natteitan dakedo, gettsu tte nan'na no?\" (Japanese: 前から気になっていたんだけど、ゲッツってなんなの？)",
+            "Aired": "December 9, 2015"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Is This Not the Sky That Kimito-sama Was Looking At?\"\nTransliteration: \"Kimito-sama no miteita sora wa kō de wa arimasen no?\" (Japanese: 公人様の見ていた空はこうではありませんの？)",
+            "Aired": "December 16, 2015"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Inexperienced Though I Am, Please Accept Me Forever\"\nTransliteration: \"Futsutsuka-mono desu ga, suenagaku onegai itashimasu\" (Japanese: 不束者ですが、末永くお願い致します)",
+            "Aired": "December 23, 2015"
+        }
+    ],
+    "Shoujo-tachi wa Kouya wo Mezasu": [
+        {
+            "Episode": "1",
+            "Title": "\"Girls Who Chase After Their Dreams\"\nTransliteration: \"Yume o Ō Shōjo\" (Japanese: 夢を追う少女)",
+            "Aired": "January 7, 2016"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"This is Another Spring of Youth\"\nTransliteration: \"Kore mo Hitotsu no Aoi Haru\" (Japanese: これもひとつの青い春)",
+            "Aired": "January 14, 2016"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"It's the First Time\"\nTransliteration: \"Hajimete Nan da\" (Japanese: はじめてなんだ)",
+            "Aired": "January 21, 2016"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"A Melody of Selfishness and Subtraction\"\nTransliteration: \"Wagamama to Hikizan no Merodi\" (Japanese: わがままと引き算のメロディ)",
+            "Aired": "January 28, 2016"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"What You Can See in the Storm\"\nTransliteration: \"Arashi no naka de mieru no wa\" (Japanese: 嵐の中で見えるのは)",
+            "Aired": "February 4, 2016"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"This is the So-Called Fanservice Episode\"\nTransliteration: \"Kore ga iwayuru sābisu-kai to iu mono ne\" (Japanese: これがいわゆるサービス回というものね)",
+            "Aired": "February 11, 2016"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"As Always, It's a Different You\"\nTransliteration: \"Itsumo to onaji, chigau kimi\" (Japanese: いつもと同じ、違うキミ)",
+            "Aired": "February 18, 2016"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Shut Away in Summer\"\nTransliteration: \"Tojikomerarete, natsu\" (Japanese: 閉じ込められて、夏)",
+            "Aired": "February 25, 2016"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Because I Love You\"\nTransliteration: \"Sukidakara\" (Japanese: 好きだから)",
+            "Aired": "March 3, 2016"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Typhoon Attack\"\nTransliteration: \"Taifūn shūrai\" (Japanese: タイフーン襲来)",
+            "Aired": "March 10, 2016"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"This Might Be the Beginning\"\nTransliteration: \"Kore ga hajimari kamo shirenai\" (Japanese: これが始まりかもしれない)",
+            "Aired": "March 17, 2016"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Girls Beyond the Wasteland\"\nTransliteration: \"Shōjo-tachi wa kōya o mezasu\" (Japanese: 少女たちは荒野を目指す)",
+            "Aired": "March 24, 2016"
+        },
+        {
+            "Episode": "OVA",
+            "Title": "\"Should This Be Called...the Strategic Game Bundle Edition?\"\nTransliteration: \"Senryakuteki Gēmu Bandoru-ban...to Iu Beki Mono Kashira\" (Japanese: 戦略的ゲームバンドル版...と言うべきものかしら)",
+            "Aired": "March 25, 2016"
+        }
+    ],
+    "Shoukoku no Altair": [
+        {
+            "Episode": "1",
+            "Title": "\"The Golden Eagle General\"\nTransliteration: \"Inu washi no Shōgun\" (Japanese: 犬鷲の将軍)",
+            "Aired": "July 7, 2017"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Citadel City\"\nTransliteration: \"Toride no Machi\" (Japanese: 砦の町)",
+            "Aired": "July 14, 2017"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Council of Generals\"\nTransliteration: \"Shōgun kaigi\" (Japanese: 将軍会議)",
+            "Aired": "July 21, 2017"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Eagle's Joint Struggle\"\nTransliteration: \"Inu washi no Kyōtō\" (Japanese: 犬鷲の共闘)",
+            "Aired": "July 28, 2017"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"The City of the Lighthouse\"\nTransliteration: \"Tōdai no Miyako\" (Japanese: 燈台の都)",
+            "Aired": "August 18, 2017"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Iron Chains\"\nTransliteration: \"Kurogane no Kusari\" (Japanese: 黒鉄の鎖)",
+            "Aired": "August 25, 2017"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Sinking City\"\nTransliteration: \"Koto kanraku\" (Japanese: 古都陥落)",
+            "Aired": "August 25, 2017[b]"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Masquerade of Sincerity\"\nTransliteration: \"Shisei no Kamen geki\" (Japanese: 至誠の仮面劇)",
+            "Aired": "September 1, 2017"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Red Tiger Sultan\"\nTransliteration: \"Beni Tora no Shō-ō\" (Japanese: 紅虎の将王)",
+            "Aired": "September 8, 2017"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Dance of the Moonlit Beauty\"\nTransliteration: \"Gekka kajin no Mai\" (Japanese: 月下佳人の舞)",
+            "Aired": "September 15, 2017"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"The Prince of Swords\"\nTransliteration: \"Ken no Shō Taishi\" (Japanese: 剣の将太子)",
+            "Aired": "September 22, 2017"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Battle at the Unusual Rock Formation\"\nTransliteration: \"Kigan Kaisen\" (Japanese: 奇岩会戦)",
+            "Aired": "September 29, 2017"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Conclusion of the Civil War\"\nTransliteration: \"Nairan Shūketsu\" (Japanese: 内乱終結)",
+            "Aired": "October 6, 2017"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"The Caravan Daughter\"\nTransliteration: \"Taishō no Musume\" (Japanese: 隊商の娘)",
+            "Aired": "October 13, 2017"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"The Northern Kingdom\"\nTransliteration: \"Kita no Ōkoku\" (Japanese: 北の王国)",
+            "Aired": "October 20, 2017"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Beginning of the Great War\"\nTransliteration: \"Taisen no Hajimari\" (Japanese: 大戦の始まり)",
+            "Aired": "October 27, 2017"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"The Flower's Plan\"\nTransliteration: \"Hana no Ikkei\" (Japanese: 花の一計)",
+            "Aired": "November 3, 2017"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Wishing on Stars\"\nTransliteration: \"Koinegau hoshi\" (Japanese: 冀う星々)",
+            "Aired": "November 10, 2017"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"The Cage of Paradise\"\nTransliteration: \"Rakuen no Ori\" (Japanese: 楽園の檻)",
+            "Aired": "November 17, 2017"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Distant Funeral Bells\"\nTransliteration: \"Chōshō haruka nari\" (Japanese: 弔鐘遥かなり)",
+            "Aired": "November 24, 2017"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Alliance Against the Empire\"\nTransliteration: \"Tomo mikado no Dōmei\" (Japanese: 友帝の同盟)",
+            "Aired": "December 1, 2017"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Golden Eagle Pursuit\"\nTransliteration: \"Inu washi no Tsuigeki\" (Japanese: 犬鷲の追撃)",
+            "Aired": "December 8, 2017"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"The End of Paradise\"\nTransliteration: \"Rakuen no Shūen\" (Japanese: 楽園の終焉)",
+            "Aired": "December 15, 2017"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"Instigation\"\nTransliteration: \"Taidō\" (Japanese: 胎動)",
+            "Aired": "December 22, 2017"
+        }
+    ],
+    "Shouwa Genroku Rakugo Shinjuu": [
+        {
+            "Episode": "1",
+            "Title": "\"Episode 1\"\nTransliteration: \"Dai-ichi wa\" (Japanese: 第一話)",
+            "Aired": "9 January 2016"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Episode 2\"\nTransliteration: \"Dai-ni wa\" (Japanese: 第二話)",
+            "Aired": "16 January 2016"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Episode 3\"\nTransliteration: \"Dai-san wa\" (Japanese: 第三話)",
+            "Aired": "23 January 2016"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Episode 4\"\nTransliteration: \"Dai-yon wa\" (Japanese: 第四話)",
+            "Aired": "30 January 2016"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Episode 5\"\nTransliteration: \"Dai-go wa\" (Japanese: 第五話)",
+            "Aired": "6 February 2016"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Episode 6\"\nTransliteration: \"Dai-roku wa\" (Japanese: 第六話)",
+            "Aired": "13 February 2016"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Episode 7\"\nTransliteration: \"Dai-nana wa\" (Japanese: 第七話)",
+            "Aired": "20 February 2016"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Episode 8\"\nTransliteration: \"Dai-hachi wa\" (Japanese: 第八話)",
+            "Aired": "27 February 2016"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Episode 9\"\nTransliteration: \"Dai-kyū wa\" (Japanese: 第九話)",
+            "Aired": "5 March 2016"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Episode 10\"\nTransliteration: \"Dai-jū wa\" (Japanese: 第十話)",
+            "Aired": "12 March 2016"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Episode 11\"\nTransliteration: \"Dai-jū Ichi wa\" (Japanese: 第十一話)",
+            "Aired": "19 March 2016"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Episode 12\"\nTransliteration: \"Dai-jū Ni wa\" (Japanese: 第十二話)",
+            "Aired": "26 March 2016"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Episode 13\"\nTransliteration: \"Dai-jū San wa\" (Japanese: 第十三話)",
+            "Aired": "2 April 2016"
+        }
+    ],
+    "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen": [
+        {
+            "Episode": "14",
+            "Title": "\"Episode 1\"\nTransliteration: \"Dai-ichi wa\" (Japanese: 第一話)",
+            "Aired": "7 January 2017"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Episode 2\"\nTransliteration: \"Dai-ni wa\" (Japanese: 第二話)",
+            "Aired": "14 January 2017"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Episode 3\"\nTransliteration: \"Dai-san wa\" (Japanese: 第三話)",
+            "Aired": "21 January 2017"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Episode 4\"\nTransliteration: \"Dai-yon wa\" (Japanese: 第四話)",
+            "Aired": "28 January 2017"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Episode 5\"\nTransliteration: \"Dai-go wa\" (Japanese: 第五話)",
+            "Aired": "4 February 2017"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Episode 6\"\nTransliteration: \"Dai-roku wa\" (Japanese: 第六話)",
+            "Aired": "11 February 2017"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Episode 7\"\nTransliteration: \"Dai-nana wa\" (Japanese: 第七話)",
+            "Aired": "18 February 2017"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Episode 8\"\nTransliteration: \"Dai-hachi wa\" (Japanese: 第八話)",
+            "Aired": "25 February 2017"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Episode 9\"\nTransliteration: \"Dai-kyū wa\" (Japanese: 第九話)",
+            "Aired": "4 March 2017"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Episode 10\"\nTransliteration: \"Dai-jū wa\" (Japanese: 第十話)",
+            "Aired": "11 March 2017"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"Episode 11\"\nTransliteration: \"Dai-jū Ichi wa\" (Japanese: 第十一話)",
+            "Aired": "18 March 2017"
+        },
+        {
+            "Episode": "25",
+            "Title": "\"Episode 12\"\nTransliteration: \"Dai-jū Ni wa\" (Japanese: 第十二話)",
+            "Aired": "25 March 2017"
+        }
+    ],
+    "Show By Rock!!": [
+        {
+            "Episode": "1",
+            "Title": "\"Have a nice MUSIC!!\"",
+            "Aired": "April 5, 2015"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"With our Crimson Gaze.. (etc)\"\nTransliteration: \"Ore-tachi wa Shinkōshoku no Shingan de (Ikaryaku)\" (Japanese: 俺たちは深紅色の心眼で（以下略）)",
+            "Aired": "April 12, 2015"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Yes! Idol ♡ Declaration\"\nTransliteration: \"Iesu! Aidoru ♡ Sengen\" (Japanese: Yes!アイドル♡宣言)",
+            "Aired": "April 19, 2015"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Enchanting Dream Fireworks of a Night Journey\"\nTransliteration: \"Tabiji Yoiyoi Yume Hanabi\" (Japanese: 旅路宵酔ゐ夢花火)",
+            "Aired": "April 26, 2015"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Maze of DESTINY\"\nTransliteration: \"Meikyū DESTINY\" (Japanese: 迷宮DESTINY)",
+            "Aired": "May 3, 2015"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Ba-dump!? It's a Beach Training Camp ♡ Full of Swimsuits ♪\"\nTransliteration: \"DOKI!? Mizugi Darake no Umi Gasshuku ♡ Desuzo♪\" (Japanese: DOKIィッ!?水着だらけの海合宿♡ですぞ♪)",
+            "Aired": "May 10, 2015"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Yokai Street\"\nTransliteration: \"Yōkai Sutorīto\" (Japanese: 妖怪ストリート)",
+            "Aired": "May 17, 2015"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Crimson Quartet\"\nTransliteration: \"Crimson Quartet -Shinkuki Shijūsō-\" (Japanese: Crimson quartet -深紅き四重奏-)",
+            "Aired": "May 24, 2015"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Falling Star Dreamline\"\nTransliteration: \"Ryūsei Dorīmurain\" (Japanese: 流星ドリームライン)",
+            "Aired": "May 31, 2015"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Reverse Rhapsody\"\nTransliteration: \"Urahara na Rhapsody\" (Japanese: ウラハラなRhapsody)",
+            "Aired": "June 7, 2015"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Grateful Rock Festival\"\nTransliteration: \"Gureitofuru Rokku Fesu\" (Japanese: グレイトフル・ロック・フェス)",
+            "Aired": "June 14, 2015"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Our Youth is Non-Stop!\"\nTransliteration: \"Seishun wa Non-Sutoppu!\" (Japanese: 青春はNon-Stop!)",
+            "Aired": "June 21, 2015"
+        }
+    ],
+    "Show By Rock!! #": [
+        {
+            "Episode": "1",
+            "Title": "\"Melody -Schlehit Melodie-\"\nTransliteration: \"Senritsu -Schlehit Melodie-\" (Japanese: 旋律-Schlehit Melodie-)",
+            "Aired": "October 2, 2016"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Plasmaism\"\nTransliteration: \"Purazumaizumu\" (Japanese: プラズマism)",
+            "Aired": "October 9, 2016"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Hanate! DoDoDōn!\"\nTransliteration: \"Shoot! Ba-Ba-Bang!\" (Japanese: 放て!どどどーん!)",
+            "Aired": "October 16, 2016"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Ba-dump!? It's a Floaty Water Sports Meet Full of Girls! Po-- (etc.)\"\nTransliteration: \"Doki!? Gāruzu Darake no Fuwaffuwa Suiei Taikai! Desu zo ♡ Po (ikaryaku)\" (Japanese: ドキィッ!?が～るずだらけのふわっふわ水泳大会!ですぞ♡ポ(以下略))",
+            "Aired": "October 23, 2016"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Just Awake\"\nTransliteration: \"Jasutaweiku\" (Japanese: ジャスタウェイク)",
+            "Aired": "October 30, 2016"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Cadenza\"",
+            "Aired": "November 6, 2016"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Song of the Lanterns on the 16th Night\"\nTransliteration: \"Izayoi wi Bonbori-Uta\" (Japanese: 十六夜ゐ雪洞唄)",
+            "Aired": "November 13, 2016"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Re: Climb\"",
+            "Aired": "November 20, 2016"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Dynaimism Turnal\"\nTransliteration: \"Kizuna Eternal\" (Japanese: 絆エターナル)",
+            "Aired": "November 27, 2016"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Solitude of Judgment\"\nTransliteration: \"Danzai no Sorityūdo\" (Japanese: 断罪のソリテュード)",
+            "Aired": "December 4, 2016"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"My Resolution\"",
+            "Aired": "December 11, 2016"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"My Song is YOU!\"",
+            "Aired": "December 18, 2016"
+        }
+    ],
+    "Show by Rock!! Stars!!": [
+        {
+            "Episode": "1",
+            "Title": "\"Speed Up\"\nTransliteration: \"Supīdo Appu\" (Japanese: スピードアップ)",
+            "Aired": "January 7, 2021[b]"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Final Opinion\"",
+            "Aired": "January 14, 2021[b]"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Do! It! Happy Adventure!\"\nTransliteration: \"Dū! Itto! Happī Dai Bōken!\" (Japanese: Do！It！Happy大冒険！)",
+            "Aired": "January 21, 2021"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"We're Crimson I'm Joker (etc.) and Obento Magnum\"\nTransliteration: \"Oretachi wa Shinkōshoku no Aimu Jōkā de (Chūryaku) Obento Magunamu\" (Japanese: オレ達は深紅色のI'm JOKERで（中略）OBENTO MAGNUM)",
+            "Aired": "January 28, 2021"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Sq-Sq-Squeeze♡Heart Shaker and Ain't Nobody Stop\"\nTransliteration: \"Kyukyukyun♡Hāto Sheikā na Einto Nōbadī Sutoppu\" (Japanese: きゅきゅきゅん♡ハートシェイカーなain't nobody STOP)",
+            "Aired": "February 4, 2021"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Maiden Mirage\"\nTransliteration: \"Otome Kagerō\" (Japanese: 乙女陽炎)",
+            "Aired": "February 11, 2021"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Pass Stage\"\nTransliteration: \"Pasutēji\" (Japanese: パステージ)",
+            "Aired": "February 18, 2021"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Runners High!!\"\nTransliteration: \"Ran'nāzu Hai!!\" (Japanese: ランナーズハイ!!)",
+            "Aired": "February 25, 2021"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Empire Dominator\"",
+            "Aired": "March 4, 2021"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"You Are My Princess☆\"\nTransliteration: \"Kimi wa Boku no Purinsesu☆\" (Japanese: キミはボクのプリンセス☆)",
+            "Aired": "March 11, 2021"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Starry Sky Light Story\"\nTransliteration: \"Hoshizora Raito Sutōrī\" (Japanese: 星空ライトストーリー)",
+            "Aired": "March 18, 2021"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Anokanatarium\"\nTransliteration: \"Anokanatariumu\" (Japanese: アノカナタリウム)",
+            "Aired": "March 25, 2021"
+        }
+    ],
+    "Show By Rock!! Mashumairesh!!": [
+        {
+            "Episode": "1",
+            "Title": "\"White Startline\"\nTransliteration: \"Masshiro Sutātorain\" (Japanese: まっしろスタートライン)",
+            "Aired": "January 9, 2020"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"YELL AND RESPONSE\"\nTransliteration: \"Ēru Ando Resuponsu\" (Japanese: エールアンドレスポンス)",
+            "Aired": "January 16, 2020"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"On The Bike\"\nTransliteration: \"Idōshudan wa Baiku desu\" (Japanese: 移動手段はバイクです)",
+            "Aired": "January 23, 2020"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"No Problem!!\"",
+            "Aired": "January 30, 2020"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Parallelism Crown\"",
+            "Aired": "February 6, 2020"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Heromeans\"\nTransliteration: \"Heromenesu\" (Japanese: ヒロメネス)",
+            "Aired": "February 13, 2020"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Endless Waltz of Crimson Flashing Wings with Guts\"\nTransliteration: \"Dokonjō to Shinkōshoku no Tsubasa Hirameku Endoresu na Warutsu\" (Japanese: ど根性と深紅色の翼閃くEndlessなWaltz)",
+            "Aired": "February 20, 2020"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Sky of Neon Tetras\"\nTransliteration: \"Neontetora no sora\" (Japanese: ネオンテトラの空)",
+            "Aired": "February 27, 2020"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Iron Plate In The Bag\"\nTransliteration: \"Kaban ni wa Teppan Desu\" (Japanese: カバンには鉄板です)",
+            "Aired": "March 5, 2020"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Platform\"\nTransliteration: \"Purattohōmu\" (Japanese: プラットホーム)",
+            "Aired": "March 12, 2020"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Your Rhapsody\"\nTransliteration: \"Kimi no Rapusodī\" (Japanese: キミのラプソディー)",
+            "Aired": "March 19, 2020"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Mashumairesh!!\"",
+            "Aired": "March 26, 2020"
+        }
+    ],
+    "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?": [
+        {
+            "Episode": "1",
+            "Title": "\"Broken Chronograph\"\nTransliteration: \"Taiyō no Katamuita Kono Sekai de\" (Japanese: 太陽の傾いたこの世界で (lit. In this twilight world) -broken chronograph-)",
+            "Aired": "April 11, 2017"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Late Autumn Night's Dream\"\nTransliteration: \"Sora no Ue no Mori no Naka no\" (Japanese: 空の上の森の中の (lit. In the forest in the sky) -late autumn night's dream-)",
+            "Aired": "April 18, 2017"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Starry Road to Tomorrow\"\nTransliteration: \"Kono Tatakai ga Owattara\" (Japanese: この戦いが終わったら (lit. Until this war is over) -starry road to tomorrow-)",
+            "Aired": "April 25, 2017"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Dice in Pot\"\nTransliteration: \"Kaeranu Mono to, Machi-tsuzuketa Mono-tachi\" (Japanese: 帰らぬ者と、待ち続けた者たち (lit. Those who wait, and those who do not come back) -dice in pot-)",
+            "Aired": "May 2, 2017"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"From Dawn til Dusk\"\nTransliteration: \"Dare mo Kare mo ga, Seigi no Na no Moto ni\" (Japanese: 誰も彼もが、正義の名のもとに (lit. Everyone, in the name of justice) -from dawn till dusk-)",
+            "Aired": "May 9, 2017"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"No News was Good News\"\nTransliteration: \"Kienai Kako, Kieteiku Mirai\" (Japanese: 消えない過去、消えていく未来 -no news was good news-)",
+            "Aired": "May 16, 2017"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Home, Sweet Home\"\nTransliteration: \"Tadaima Kaerimashita\" (Japanese: ただいま、帰りました (lit. I'm home, Welcome home) -home, sweet home-)",
+            "Aired": "May 23, 2017"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Slight Light, Slight Hope\"\nTransliteration: \"Izure Sono Yō wa Ochiru to Shite mo\" (Japanese: いずれその陽は落ちるとしても (lit. Even if the sun is about to set) -slight light, slight hope-)",
+            "Aired": "May 30, 2017"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Moonlit Sorcery\"\nTransliteration: \"Tatoe Mirai ga Mienakute mo\" (Japanese: たとえ未来が見えなくても (lit. Even if it's impossible to see the future) -moonlit sorcery-)",
+            "Aired": "June 6, 2017"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"My Happiness\"\nTransliteration: \"Ima Kono Toki no Kagayaki o\" (Japanese: いまこの時の輝きを (lit. This present radience) -my happiness-)",
+            "Aired": "June 13, 2017"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Evidence of Existence\"\nTransliteration: \"Dō ka, Wasurenaide\" (Japanese: どうか、忘れないで (lit. Do not forget me) -evidence of existence-)",
+            "Aired": "June 20, 2017"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"CHTHOLLY\"\nTransliteration: \"Sekai de Ichiban Shiawase na Onna no Ko\" (Japanese: 世界で一番幸せな女の子 (lit. The happiest girl in the world) -CHTHOLLY-)",
+            "Aired": "June 27, 2017"
+        }
+    ],
+    "Shuumatsu no Harem": [
+        {
+            "Episode": "1",
+            "Title": "\"World of Women\"\nTransliteration: \"Onna-tachi no Sekai\" (Japanese: 女たちの世界)",
+            "Aired": "October 8, 2021[b]"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Two Women\"\nTransliteration: \"Futari no Josei\" (Japanese: 二人の女性)",
+            "Aired": "January 14, 2022[b]"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"3rd Man\"\nTransliteration: \"Dai San no Otoko\" (Japanese: 第3の男)",
+            "Aired": "January 21, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"School's Secret\"\nTransliteration: \"Gakuen no Himitsu\" (Japanese: 学園の秘密)",
+            "Aired": "January 28, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"First Victim\"\nTransliteration: \"Saisho no Giseisha\" (Japanese: 最初の犠牲者)",
+            "Aired": "February 4, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Intertwining Plots\"\nTransliteration: \"Karamiau Omowaku\" (Japanese: 絡み合う思惑)",
+            "Aired": "February 11, 2022"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Assigned to Me\"\nTransliteration: \"Boku Tōban\" (Japanese: 僕当番)",
+            "Aired": "February 18, 2022"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Revenge\"\nTransliteration: \"Fukushū\" (Japanese: 復讐)",
+            "Aired": "February 25, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Feast of Debauchery\"\nTransliteration: \"Niku no Shinrin\" (Japanese: 肉の森林)",
+            "Aired": "March 4, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Two Numbers\"\nTransliteration: \"Futari no Nanbāzu\" (Japanese: 二人のナンバーズ)",
+            "Aired": "March 11, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Escape\"\nTransliteration: \"Dasshutsu\" (Japanese: 脱出)",
+            "Aired": "March 18, 2022"
+        }
+    ],
+    "Shuumatsu no Izetta": [
+        {
+            "Episode": "1",
+            "Title": "\"Beginning of the War\"\nTransliteration: \"Tatakai no Hajimari.\" (Japanese: たたかいのはじまり (Der Anfang der Schlacht))",
+            "Aired": "October 1, 2016"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Scars and Gunfire\"\nTransliteration: \"Kizuato to, Jūsei to\" (Japanese: 傷跡と、銃声と (Mit Narben und Schüssen))",
+            "Aired": "October 8, 2016"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Sword in the Heavens\"\nTransliteration: \"Amakakeru Tsurugi\" (Japanese: 天翔ける剣 (Das Schwert des Himmels))",
+            "Aired": "October 15, 2016"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Secret of the Witch\"\nTransliteration: \"Majo no Himitsu\" (Japanese: 魔女の秘密 (Das Geheimnis der Hexe))",
+            "Aired": "October 22, 2016"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"A False Miracle\"\nTransliteration: \"Itsuwari no Kiseki\" (Japanese: 偽りの奇跡 (Das falsche Wunder))",
+            "Aired": "October 29, 2016"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"On a Quiet Day...\"\nTransliteration: \"Odayakana hi ni\" (Japanese: 穏やかな日に (An einem ruhigen Tag...))",
+            "Aired": "November 5, 2016"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Battle of Sognefjord\"\nTransliteration: \"Sogunefyordo kaise\" (Japanese: ソグネフィヨルド海戦 (Die Seeschlacht im Sognefjord))",
+            "Aired": "November 12, 2016"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"A Cruel Fairy Tale\"\nTransliteration: \"Zankokuna otogibanashi\" (Japanese: 残酷なおとぎ話 (Das grausame Märchen))",
+            "Aired": "November 19, 2016"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Sellun Corridor Burns\"\nTransliteration: \"Zerun kairō moe\" (Japanese: ゼルン回廊、燃ゆ (Der Sellun-Korridor brennt nieder))",
+            "Aired": "November 26, 2016"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Iron Hammer of the Witch\"\nTransliteration: \"Majo no tettsui\" (Japanese: 魔女の鉄槌 (Der eiserne Hammer der Hexe))",
+            "Aired": "December 3, 2016"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Finé\"\nTransliteration: \"Fīne\" (Japanese: フィーネ (Finé))",
+            "Aired": "December 10, 2016"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Izetta\"\nTransliteration: \"Izetta\" (Japanese: イゼッタ (Izetta))",
+            "Aired": "December 17, 2016"
+        }
+    ],
+    "Sin: Nanatsu no Taizai": [
+        {
+            "Episode": "1",
+            "Title": "\"The Proud Fallen Angel\"\nTransliteration: \"Gōmantaru daten-shi\" (Japanese: 傲慢たる堕天使)",
+            "Aired": "April 14, 2017"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Driven Wild by Envy\"\nTransliteration: \"Shitto-yue no bōsō\" (Japanese: 嫉妬ゆえの暴走)",
+            "Aired": "April 21, 2017"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Beach of Lust\"\nTransliteration: \"Shikiyoku no Nagisa\" (Japanese: 色欲の渚)",
+            "Aired": "April 28, 2017"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Town of Fog Where Greed Brews\"\nTransliteration: \"Gōyoku ugomeku kiri no machi\" (Japanese: 強欲うごめく霧の街)",
+            "Aired": "May 5, 2017"
+        },
+        {
+            "Episode": "4.5",
+            "Title": "\"This Is Indeed the Work of Demons...\"\nTransliteration: \"Masani Akuma no Shogyō\" (Japanese: まさに悪魔の所業・・・)",
+            "Aired": "May 12, 2017[4]"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"The Languid Diva\"\nTransliteration: \"Yūutsuna Utahime\" (Japanese: 憂鬱なる歌姫)",
+            "Aired": "May 19, 2017"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Sloth Online\"\nTransliteration: \"Taida Onrain\" (Japanese: 怠惰オンライン)",
+            "Aired": "May 26, 2017"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Guiltless Gluttony\"\nTransliteration: \"Toga naki bōshoku\" (Japanese: 咎なき暴食)",
+            "Aired": "June 2, 2017"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Unleashed Wrath\"\nTransliteration: \"Tokihanatare ta fundo\" (Japanese: 解き放たれた憤怒)",
+            "Aired": "June 9, 2017"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Ye Abandon All Hope\"\nTransliteration: \"Nanji, issai no kibō o suteyo\" (Japanese: 汝、一切の希望を捨てよ)",
+            "Aired": "June 16, 2017"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Love Your Enemies and Pray for Those Who Persecute You\"\nTransliteration: \"Nanji no teki o aishi, nanjira o seme sha no tame ni inore\" (Japanese: 汝の敵を愛し、汝らを責むる者のために祈れ)",
+            "Aired": "June 23, 2017"
+        },
+        {
+            "Episode": "10.5",
+            "Title": "\"Emergency Special! Guilt of Curfew\"\nTransliteration: \"Kinkyū tokuban! Mongen yaburi no tsumi\" (Japanese: 緊急特番！門限破りの罪)",
+            "Aired": "June 30, 2017[5]"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Ask, and It Shall Be Given to You\"\nTransliteration: \"Motomeyo, saraba atae raren\" (Japanese: 求めよ、さらば与えられん)",
+            "Aired": "July 7, 2017[5]"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"God's in His Heaven, All's Right With the World\"\nTransliteration: \"Kami wa ten ni imashi, subete yo wa koto mo nashi\" (Japanese: 神は天にいまし、すべて世は事も無し)",
+            "Aired": "July 29, 2017[6]"
+        }
+    ],
+    "SK∞": [
+        {
+            "Episode": "1",
+            "Title": "\"Snowfall on a Hot Night\"\nTransliteration: \"Atsui Yoru ni Yuki ga Furu\" (Japanese: 熱い夜に雪が降る)",
+            "Aired": "January 10, 2021"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Awesome for the First Time!\"\nTransliteration: \"Hajimete no Saikō!\" (Japanese: はじめてのサイコー！)",
+            "Aired": "January 17, 2021"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Undesired Hero\"\nTransliteration: \"Nozomanai Yūsha\" (Japanese: 望まない勇者)",
+            "Aired": "January 24, 2021"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Adam, the Matador of Love\"\nTransliteration: \"Ai no Matadōru, Adamu\" (Japanese: 愛のマタドール、愛抱夢)",
+            "Aired": "January 31, 2021"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Passionate Dancing Night!\"\nTransliteration: \"Jōnetsu no Danshingu Naito!\" (Japanese: 情熱のダンシングNight！)",
+            "Aired": "February 7, 2021"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Steamy Mystery Skating?!\"\nTransliteration: \"Yukemuri Misuterī Sukēto?!\" (Japanese: 湯けむりミステリースケート？！)",
+            "Aired": "February 14, 2021"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"We Don't Balance Out\"\nTransliteration: \"Tsuriawanēndayo\" (Japanese: つりあわねーんだよ)",
+            "Aired": "February 21, 2021"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Fated Tournament!\"\nTransliteration: \"Shukumei no Tōnamento!\" (Japanese: 宿命のトーナメント！)",
+            "Aired": "February 28, 2021"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"We Were Special Back Then\"\nTransliteration: \"Ano Toki, Oretachi wa Tokubetsu Datta\" (Japanese: あの時、俺たちは特別だった)",
+            "Aired": "March 7, 2021"
+        },
+        {
+            "Episode": "9.5",
+            "Title": "\"Crazy Rock JAM\"\nTransliteration: \"Kureijī Rokku Jamu\" (Japanese: クレイジーロックJAM)",
+            "Aired": "March 14, 2021"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"DAP Not Needing Words\"\nTransliteration: \"Kotoba no Iranai Dappu\" (Japanese: 言葉のいらないDAP)",
+            "Aired": "March 21, 2021"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"King vs Nobody\"\nTransliteration: \"Kingu VS Zako\" (Japanese: キング　ＶＳ　ザコ)",
+            "Aired": "March 28, 2021"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Our Infinity!\"\nTransliteration: \"Oretachi no Mugendai!\" (Japanese: 俺たちの無限大！)",
+            "Aired": "April 4, 2021"
+        }
+    ],
+    "Skip to Loafer": [
+        {
+            "Episode": "1",
+            "Title": "\"Sparkling-Fresh\"\nTransliteration: \"Pikapika\" (Japanese: ピカピカ)",
+            "Aired": "April 4, 2023"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Fidgeting and Wandering\"\nTransliteration: \"Sowasowa Urouro\" (Japanese: そわそわ うろうろ)",
+            "Aired": "April 11, 2023"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Dreamy and Sparky\"\nTransliteration: \"Fuwafuwa Bachibachi\" (Japanese: フワフワ バチバチ)",
+            "Aired": "April 18, 2023"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Tingling and Scraping\"\nTransliteration: \"Piripiri Katsukatsu\" (Japanese: ピリピリ カツカツ)",
+            "Aired": "April 25, 2023"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Prickly and Giddy\"\nTransliteration: \"Chikuchiku Isoiso\" (Japanese: チクチク いそいそ)",
+            "Aired": "May 2, 2023"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Drizzling and Flickering\"\nTransliteration: \"Shitoshito Chikachika\" (Japanese: シトシト チカチカ)",
+            "Aired": "May 9, 2023"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Hectic and Hot Stuff\"\nTransliteration: \"Patapata Motemote\" (Japanese: パタパタ モテモテ)",
+            "Aired": "May 16, 2023"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Heat and Complications\"\nTransliteration: \"Muwamuwa Iroiro\" (Japanese: ムワムワ いろいろ)",
+            "Aired": "May 23, 2023"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Drowsy and Peppy\"\nTransliteration: \"Torotoro Runrun\" (Japanese: トロトロ ルンルン)",
+            "Aired": "May 30, 2023"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Scrambling and Dripping\"\nTransliteration: \"Batabata Poroporo\" (Japanese: バタバタ ポロポロ)",
+            "Aired": "June 6, 2023"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Hype and Excitement\"\nTransliteration: \"Waiwai Zawazawa\" (Japanese: ワイワイ ザワザワ)",
+            "Aired": "June 13, 2023"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Shining\"\nTransliteration: \"Kirakira\" (Japanese: キラキラ)",
+            "Aired": "June 20, 2023"
+        }
+    ],
+    "Skirt no Naka wa Kedamono deshita.": [
+        {
+            "Episode": "1",
+            "Title": "Gomen ne, Gaman Dekinakunacchatta",
+            "Aired": "Jul 3, 2017"
+        },
+        {
+            "Episode": "2",
+            "Title": "Konaida no Tsuzuki, Kondo wa Saigo made Shiyouka?",
+            "Aired": "Jul 10, 2017"
+        },
+        {
+            "Episode": "3",
+            "Title": "Dou? Ore no Honto no Sugata",
+            "Aired": "Jul 17, 2017"
+        },
+        {
+            "Episode": "4",
+            "Title": "Shizuka-chan, Suki Da yo",
+            "Aired": "Jul 24, 2017"
+        },
+        {
+            "Episode": "5",
+            "Title": "Honki ja Nakya, Konna ni Shuuchaku Shinai",
+            "Aired": "Jul 31, 2017"
+        },
+        {
+            "Episode": "6",
+            "Title": "Ore no Koto, Chanto Mite Hoshikute",
+            "Aired": "Aug 7, 2017"
+        },
+        {
+            "Episode": "7",
+            "Title": "Aotta no wa Kimi Dakara ne",
+            "Aired": "Aug 14, 2017"
+        },
+        {
+            "Episode": "8",
+            "Title": "Mata Date Shite Hoshii na",
+            "Aired": "Aug 21, 2017"
+        },
+        {
+            "Episode": "9",
+            "Title": "Mottainai yo. Chanto Kirei ni Shinai to",
+            "Aired": "Aug 28, 2017"
+        },
+        {
+            "Episode": "10",
+            "Title": "...Kawaii na",
+            "Aired": "Sep 4, 2017"
+        },
+        {
+            "Episode": "11",
+            "Title": "Zettai ni Iya da. Akirameru Nante Dekinai",
+            "Aired": "Sep 11, 2017"
+        },
+        {
+            "Episode": "12",
+            "Title": "Suki da... Hontou ni Suki da...",
+            "Aired": "Sep 18, 2017"
+        }
+    ],
+    "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita": [
+        {
+            "Episode": "Special",
+            "Title": "\"Special Program Just Before Broadcast\"\nTransliteration: \"Hōsō Chokuzen Tokuban\" (Japanese: 放送直前特番)",
+            "Aired": "April 4, 2021"
+        },
+        {
+            "Episode": "1",
+            "Title": "\"I Maxed Out My Level\"\nTransliteration: \"Reberu Makkusu ni Natteita\" (Japanese: レベルMAXになっていた)",
+            "Aired": "April 10, 2021"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Along Came the Girl\"\nTransliteration: \"Musume ga Kita\" (Japanese: 娘が来た)",
+            "Aired": "April 17, 2021"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Along Came an Elf\"\nTransliteration: \"Erufu ga Kita\" (Japanese: エルフが来た)",
+            "Aired": "April 24, 2021"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"We Went to a Dragon's Wedding\"\nTransliteration: \"Doragon no Kekkonshiki ni Itta\" (Japanese: ドラゴンの結婚式に行った)",
+            "Aired": "May 1, 2021"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"A Ghost Appeared\"\nTransliteration: \"Yūrei ga Deta\" (Japanese: 幽霊が出た)",
+            "Aired": "May 8, 2021"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Along Came a Leviathan\"\nTransliteration: \"Rivaiasan ga Kita\" (Japanese: リヴァイアサンが来た)",
+            "Aired": "May 15, 2021"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"We Beat Up a Demon King\"\nTransliteration: \"Maō o Taoshichatta\" (Japanese: 魔王を倒しちゃった)",
+            "Aired": "May 22, 2021"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"A Fake Witch of the Highlands Appeared\"\nTransliteration: \"Kōgen no Majo no Nisemono ga Deta\" (Japanese: 高原の魔女の偽物が出た)",
+            "Aired": "May 29, 2021"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"My Daughter Turned Into a Slime and Couldn't Change Back\"\nTransliteration: \"Musume ga Suraimu Kara Modorenaku Natta\" (Japanese: 娘がスライムから戻れなくなった)",
+            "Aired": "June 5, 2021"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"A Minstrel Came to Town\"\nTransliteration: \"Gin'yū Shijin ga Kita\" (Japanese: 吟遊詩人が来た)",
+            "Aired": "June 12, 2021"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"I Ate a Mushroom and Turned Into a Child\"\nTransliteration: \"Kinoko o Tabete Kodomo ni Natta\" (Japanese: キノコを食べて子供になった)",
+            "Aired": "June 19, 2021"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"We Opened a Coffee Shop\"\nTransliteration: \"Kissaten o Hiraita\" (Japanese: 喫茶店を開いた)",
+            "Aired": "June 26, 2021"
+        }
+    ],
+    "Slow Loop": [
+        {
+            "Episode": "1",
+            "Title": "\"A Very Unique Girl\"\nTransliteration: \"Totemo Kawatta Onna no Ko\" (Japanese: とても変わった女の子)",
+            "Aired": "January 7, 2022"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"If You Can Just Smile\"\nTransliteration: \"Egao ni Naretara\" (Japanese: 笑顔になれたら)",
+            "Aired": "January 14, 2022"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Thank You\"\nTransliteration: \"Arigatō\" (Japanese: ありがとう)",
+            "Aired": "January 21, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Aren't You Embarrassed?\"\nTransliteration: \"Hazukashi Kunain Desu ka?\" (Japanese: はずかしくないんですか？)",
+            "Aired": "January 28, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Together Again\"\nTransliteration: \"Mata Issho ni\" (Japanese: また一緒に)",
+            "Aired": "February 4, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Difficult Is Fun\"\nTransliteration: \"'Muzukashii' ga Tanoshii\" (Japanese: 「難しい」が楽しい)",
+            "Aired": "February 11, 2022"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Wedding\"\nTransliteration: \"Kekkonshiki\" (Japanese: 結婚式)",
+            "Aired": "February 18, 2022"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"I'm Fine Right Here\"\nTransliteration: \"Koko ga Ii\" (Japanese: ここがいい)",
+            "Aired": "February 25, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"I Wanna Go on a Fishing and Camping Trip!!\"\nTransliteration: \"Tsuri Kyanpu Shitai!!\" (Japanese: 釣りキャンプしたい！！)",
+            "Aired": "March 4, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"I'll Do My Best, Too\"\nTransliteration: \"Watashi mo Ganbarimasu ne\" (Japanese: 私もがんばりますねっ)",
+            "Aired": "March 11, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Those Important to Me\"\nTransliteration: \"Taisetsu na Mono\" (Japanese: 大切なもの)",
+            "Aired": "March 18, 2022"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Let's Pick Some Out Together\"\nTransliteration: \"Futari de Erabō\" (Japanese: 二人で選ぼうっ)",
+            "Aired": "March 25, 2022"
+        }
+    ],
+    "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.": [
+        {
+            "Episode": "1",
+            "Title": "\"Instant Death Cheat\"\nTransliteration: \"Sokushi Chīto\" (Japanese: 即死チート)",
+            "Aired": "January 5, 2024"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"My Guardian Angel is So Overpowered, This Other World is a Piece of Cake!\"\nTransliteration: \"Watashi no Shugo Rei ga Saikyō Sugite, Isekai Datte Saikyōdesu!\" (Japanese: 私の守護霊が最強すぎて、異世界だって最強です！)",
+            "Aired": "January 12, 2024"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The World Isn't So Kind as to Allow One-Sided Attacks\"\nTransliteration: \"Ippō Teki ni Kōgeki Dekiru Hodo Yononaka Aamakunai\" (Japanese: 一方的に攻撃できるほど世の中甘くない)",
+            "Aired": "January 19, 2024"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Fact That You're Watching This Video...\"\nTransliteration: \"Kono Eizō o Omae ga Miteiru Toiu Koto wa\" (Japanese: この映像をお前が見ているということは)",
+            "Aired": "January 26, 2024"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Alpha Omega\"\nTransliteration: \"Arufa Omega\" (Japanese: AΩ)",
+            "Aired": "February 2, 2024"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"I'm Not So Rude as to Complain After Being Saved\"\nTransliteration: \"Tasukeraretoite Monku o iu Hodo Yabo Janai Desuyo\" (Japanese: 助けられといて文句を言うほど 野暮じゃないですよ)",
+            "Aired": "February 9, 2024"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Standard Opening of Gate Number One Confirmed\"\nTransliteration: \"Daiichi-mon no Jōji Kaihō o Kakunin\" (Japanese: 第一門の常時開放を確認)",
+            "Aired": "February 16, 2024"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Agency\"\nTransliteration: \"Kikan\" (Japanese: 機関)",
+            "Aired": "February 23, 2024"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"It's Like a Class Full of People Who Only Want to Save Themselves\"\nTransliteration: \"Jibun Dake Tasukaritai Isshin no Kurasu tte Kanjiyone\" (Japanese: 自分だけ助かりたい一心のクラスって感じよね)",
+            "Aired": "March 1, 2024"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"A Woman from the Past Appeared. Tomochika is Shocked to Her Core...\"\nTransliteration: \"Mukashi no Onna ga Arawareta. Tomochika wa Odoroki Tomado tte Iru……\" (Japanese: むかしのおんながあらわれた。ともちかはおどろきとまどっている……)",
+            "Aired": "March 8, 2024"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Phase 2\"",
+            "Aired": "March 15, 2024"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"You Should Use Your Power Any Way You Want\"\nTransliteration: \"Jibun no Sukina Yō ni Chikara o Tsukaebaī Ndayo\" (Japanese: 自分の好きなように力を使えばいいんだよ)",
+            "Aired": "March 22, 2024"
+        }
+    ],
+    "Ore dake Level Up na Ken": [
+        {
+            "Episode": "1",
+            "Title": "\"I'm Used to It\"",
+            "Aired": "January 7, 2024"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"If I Had One More Chance\"",
+            "Aired": "January 14, 2024"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"It's Like a Game\"",
+            "Aired": "January 21, 2024"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"I've Gotta Get Stronger\"",
+            "Aired": "January 28, 2024"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"A Pretty Good Deal\"",
+            "Aired": "February 4, 2024"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Real Hunt Begins\"",
+            "Aired": "February 11, 2024"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Let's See How Far I Can Go\"",
+            "Aired": "February 18, 2024"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"This Is Frustrating\"",
+            "Aired": "March 3, 2024"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"You've Been Hiding Your Skills\"",
+            "Aired": "March 10, 2024"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"What Is This, a Picnic?\"",
+            "Aired": "March 17, 2024"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"A Knight Who Defends an Empty Throne\"",
+            "Aired": "March 24, 2024"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Arise\"",
+            "Aired": "March 31, 2024"
+        }
+    ],
+    "Somali to Mori no Kamisama": [
+        {
+            "Episode": "1",
+            "Title": "\"Journeying Parent and Child\"\nTransliteration: \"Tabisuru Oyako\" (Japanese: 旅する親子)",
+            "Aired": "January 9, 2020[b]"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Edible Herbs and the Oni's Dwelling\"\nTransliteration: \"Kusabira to Oni no Sumika\" (Japanese: くさびらと鬼の住処)",
+            "Aired": "January 16, 2020"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Sea at the Bottom of the Cave\"\nTransliteration: \"Horaana no Soko no Umi\" (Japanese: ほら穴の底の海)",
+            "Aired": "January 23, 2020"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Wishing Flower and the Promise Request\"\nTransliteration: \"Kanaeru Hana to Negau Yakusoku\" (Japanese: 叶える花と願う約束)",
+            "Aired": "January 30, 2020"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"The Wandering Birds\"\nTransliteration: \"Yurai no Tori\" (Japanese: 揺蕩いの鳥)",
+            "Aired": "February 6, 2020"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Dying Flowers Look Up at the Birds\"\nTransliteration: \"Ikinone Haru Hana wa Tori wo Aogu\" (Japanese: 息の根はる花は鳥を仰ぐ)",
+            "Aired": "February 13, 2020"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Footsteps That Stalk the Witches\"\nTransliteration: \"Majo Ni Sugaru Ashidori\" (Japanese: 魔女に縋る足取り)",
+            "Aired": "February 20, 2020"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Meetings and Bonds Prayed For\"\nTransliteration: \"Inori Kataru Deai to Kizuna\" (Japanese: 祈り語る出会いと絆)",
+            "Aired": "February 27, 2020"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Memories of Minor Days\"\nTransliteration: \"Chīsana Hibi no Omoide\" (Japanese: 小さな日々の思い出)",
+            "Aired": "March 5, 2020"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Infant Child and the Green Boulder\"\nTransliteration: \"Osanago to Midori no Toride\" (Japanese: 幼子と緑の砦)",
+            "Aired": "March 12, 2020"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Those Who Protect and Those Who Threaten\"\nTransliteration: \"Mamoru Mono to Kiba Muku Mono\" (Japanese: 護る者と牙剥く者)",
+            "Aired": "March 19, 2020"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Bonded Father and Child\"\nTransliteration: \"Kokoro Tsunagiau Oyako\" (Japanese: 心繋ぎ合う親子)",
+            "Aired": "March 26, 2020"
+        }
+    ],
+    "Sono Bisque Doll wa Koi wo Suru": [
+        {
+            "Episode": "1",
+            "Title": "\"Someone Who Lives in the Exact Opposite World as Me\"\nTransliteration: \"Jibun to wa Magyaku no Sekai de Ikite Iru Hito\" (Japanese: 自分とは真逆の世界で生きている人)",
+            "Aired": "January 9, 2022"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Wanna Hurry Up, and Do It?\"\nTransliteration: \"Sassoku, Shiyokka?\" (Japanese: さっそく、しよっか？)",
+            "Aired": "January 16, 2022"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Then Why Don't We?\"\nTransliteration: \"Ja, Tsukiatchau?\" (Japanese: じゃ、付き合っちゃう？)",
+            "Aired": "January 23, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Are These Your Girlfriend's?\"\nTransliteration: \"Kore, Kanojo no Toka?\" (Japanese: これ、彼女のとか？)",
+            "Aired": "January 30, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"It's Probably Because This Is the Best Boob Bag Here\"\nTransliteration: \"Kono Naka de Ichiban Ii Chichibukuro da kara jan?\" (Japanese: この中で一番いい乳袋だからじゃん？)",
+            "Aired": "February 6, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"For Real?!\"\nTransliteration: \"Ma!?\" (Japanese: マ！？)",
+            "Aired": "February 13, 2022"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"A Home Date with the Guy I Wuv Is the Best\"\nTransliteration: \"Shukipi to Ouchi Dēto Yaba\" (Japanese: しゅきぴとおうちデートやばっ)",
+            "Aired": "February 20, 2022[d]"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Backlighting Is the Best\"\nTransliteration: \"Gyakkō, Osusume Desu\" (Japanese: 逆光、オススメです)",
+            "Aired": "February 27, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"A Lot Happened After I Saw That Photo\"\nTransliteration: \"Shashin o Mitara Iroiro Atta kara Desu\" (Japanese: 写真を見たら色々あったからです)",
+            "Aired": "March 6, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"We've All Got Struggles\"\nTransliteration: \"Dare ni demo Iroiro Arun Desu\" (Japanese: 誰にでも色々あるんです)",
+            "Aired": "March 13, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"I Am Currently at a Love Hotel\"\nTransliteration: \"Ore wa Ima, Rabu Hoteru ni Imasu\" (Japanese: 俺は今、ラブホテルにいます)",
+            "Aired": "March 20, 2022"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"My Dress-Up Darling\"\nTransliteration: \"Sono Bisuku Dōru wa Koi o Suru\" (Japanese: その着せ替え人形ビスク・ドールは恋をする)",
+            "Aired": "March 27, 2022"
+        }
+    ],
+    "Sonny Boy": [
+        {
+            "Episode": "1",
+            "Title": "\"The Island at the Far End of Summer\"\nTransliteration: \"Natsu no Hate no Shima\" (Japanese: 夏の果ての島)",
+            "Aired": "July 16, 2021[d]"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Aliens!\"\nTransliteration: \"Eirianzu\" (Japanese: エイリアンズ)",
+            "Aired": "July 23, 2021"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Cat Who Wore Sandals\"\nTransliteration: \"Geta o Haita Neko\" (Japanese: 下駄を履いたネコ)",
+            "Aired": "July 30, 2021"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Great Monkey Baseball\"\nTransliteration: \"Idainaru Monkī Bēsubōru\" (Japanese: 偉大なるモンキー・ベースボール)",
+            "Aired": "August 6, 2021"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Leaping Classrooms\"\nTransliteration: \"Tobu Kyōshitsu\" (Japanese: 跳ぶ教室)",
+            "Aired": "August 13, 2021"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Long Goodbye\"\nTransliteration: \"Nagai Sayonara\" (Japanese: 長いさよなら)",
+            "Aired": "August 20, 2021"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Road Book\"\nTransliteration: \"Rōdo Bukku\" (Japanese: ロード・ブック)",
+            "Aired": "August 27, 2021"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Laughing Dog\"\nTransliteration: \"Warai Inu\" (Japanese: 笑い犬)",
+            "Aired": "September 3, 2021"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"This Salmon Chazuke Is Missing Its Salmon Nya\"\nTransliteration: \"Kono Sake Chazuke, Sake Wasureteru Nya\" (Japanese: この鮭茶漬け、鮭忘れてるニャ)",
+            "Aired": "September 10, 2021"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Summer and the Demon\"\nTransliteration: \"Natsu to Shura\" (Japanese: 夏と修羅)",
+            "Aired": "September 17, 2021"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"The Young Man and the Sea\"\nTransliteration: \"Shōnen to Umi\" (Japanese: 少年と海)",
+            "Aired": "September 24, 2021"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Two Years' Vacation\"\nTransliteration: \"Ni Nenkan no Kyūka\" (Japanese: 二年間の休暇)",
+            "Aired": "October 1, 2021"
+        }
+    ],
+    "Sora no Aosa wo Shiru Hito yo": [
+        {
+            "Episode": "1",
+            "Title": "Movie",
+            "Aired": "Oct 11, 2019"
+        }
+    ],
+    "Sora no Method": [
+        {
+            "Episode": "1",
+            "Title": "\"Saucer City\"\nTransliteration: \"Enban no Machi\" (Japanese: 円盤の街)",
+            "Aired": "October 5, 2014"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Their Promise\"\nTransliteration: \"Futari no Yakusoku\" (Japanese: ふたりの約束)",
+            "Aired": "October 12, 2014"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Where Memories Live\"\nTransliteration: \"Kioku no Arika\" (Japanese: 記憶のありか)",
+            "Aired": "October 19, 2014"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"A Fragment of Emotions\"\nTransliteration: \"Omoi no Kakera\" (Japanese: 思いのかけら)",
+            "Aired": "October 26, 2014"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Flower of Light\"\nTransliteration: \"Hikari no Hana\" (Japanese: 光の花)",
+            "Aired": "November 2, 2014"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"True Friends\"\nTransliteration: \"Hontō no Tomodachi\" (Japanese: 本当の友達)",
+            "Aired": "November 9, 2014"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"What I Lost\"\nTransliteration: \"Watashi no Nakushita Mono\" (Japanese: 私のなくしたもの)",
+            "Aired": "November 16, 2014"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"What She Believes\"\nTransliteration: \"Kanojo no Shinjiru koto\" (Japanese: 彼女の信じること)",
+            "Aired": "November 23, 2014"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Meaning of Goodbye\"\nTransliteration: \"Sayonara no Imi\" (Japanese: さよならの意味)",
+            "Aired": "November 30, 2014"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Where Wishes Go\"\nTransliteration: \"Negai no Yukue\" (Japanese: 願いの行方)",
+            "Aired": "December 7, 2014"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Night of the Meteor Shower\"\nTransliteration: \"Ryūseigun no Yoru\" (Japanese: 流星群の夜)",
+            "Aired": "December 14, 2014"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Saucerless City\"\nTransliteration: \"Enban no nai Machi\" (Japanese: 円盤のない街)",
+            "Aired": "December 21, 2014"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"From the Starting Sky\"\nTransliteration: \"Hajimari no Sora kara\" (Japanese: はじまりのそらから)",
+            "Aired": "December 28, 2014"
+        },
+        {
+            "Episode": "OVA",
+            "Title": "\"A Certain Girl's Day Off\"\nTransliteration: \"Aru Shōjo no Kyūjitsu\" (Japanese: ある少女の休日)",
+            "Aired": "July 24, 2015"
+        },
+        {
+            "Episode": "ONA",
+            "Title": "\"One More Wish\"\nTransliteration: \"Mō Hitotsu no Onegai\" (Japanese: もうひとつの願い)",
+            "Aired": "October 11, 2019"
+        }
+    ],
+    "Sora yori mo Tooi Basho": [
+        {
+            "Episode": "1",
+            "Title": "\"One Million Yen For Youth\"\nTransliteration: \"Seishun Shakuman'en\" (Japanese: 青春しゃくまんえん)",
+            "Aired": "January 2, 2018"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Kabukicho Fremantle\"\nTransliteration: \"Kabukichō Furīmantoru\" (Japanese: 歌舞伎町フリーマントル)",
+            "Aired": "January 9, 2018"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Follow Backs Don't Stop!\"\nTransliteration: \"Forōbakku ga Tomaranai\" (Japanese: フォローバックが止まらない)",
+            "Aired": "January 16, 2018"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Four Caterpillars\"\nTransliteration: \"Yonhiki no Imomushi\" (Japanese: 四匹のイモムシ)",
+            "Aired": "January 23, 2018"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Dear My Friend\"",
+            "Aired": "January 30, 2018"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Welcome to the Durian Show\"\nTransliteration: \"Yōkoso Dorian Shō e\" (Japanese: ようこそドリアンショーへ)",
+            "Aired": "February 6, 2018"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Ship That Sees the Universe\"\nTransliteration: \"Sora o Miru Fune\" (Japanese: 宇宙を見る船)",
+            "Aired": "February 13, 2018"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Howling, Maddening, Screaming\"\nTransliteration: \"Hoete, Kurutte, Zekkyōshite\" (Japanese: 吠えて、狂って、絶叫して)",
+            "Aired": "February 20, 2018"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Antarctic Love Story (Blizzard Arc)\"\nTransliteration: \"Nankyoku Koi Monogatari (Burizādo-hen)\" (Japanese: 南極恋物語（ブリザード編）)",
+            "Aired": "February 27, 2018"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Partial Friendship\"\nTransliteration: \"Pāsharu Yūjō\" (Japanese: パーシャル友情)",
+            "Aired": "March 6, 2018"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Bash the Drum Can\"\nTransliteration: \"Doramukan de Buttobase!\" (Japanese: ドラム缶でぶっ飛ばせ！)",
+            "Aired": "March 13, 2018"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"A Place Further Than the Universe\"\nTransliteration: \"Sora yori mo Tōi Basho\" (Japanese: 宇宙よりも遠い場所)",
+            "Aired": "March 20, 2018"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"We'll Go On Another Journey Someday\"\nTransliteration: \"Kitto Mata Tabi ni Deru\" (Japanese: きっとまた旅に出る)",
+            "Aired": "March 27, 2018"
+        }
+    ],
+    "Soredemo Sekai wa Utsukushii": [
+        {
+            "Episode": "01",
+            "Title": "\"The Sun Kingdom\"\nTransliteration: \"Hare no taikoku\" (Japanese: 晴れの大国)",
+            "Aired": "April 6, 2014"
+        },
+        {
+            "Episode": "02",
+            "Title": "\"The Rain Princess\"\nTransliteration: \"Ame no kōjō\" (Japanese: 雨の公女)",
+            "Aired": "April 13, 2014"
+        },
+        {
+            "Episode": "03",
+            "Title": "\"Chancellor's Declaration\"\nTransliteration: \"Kanpaku sengen\" (Japanese: 関白宣言)",
+            "Aired": "April 20, 2014"
+        },
+        {
+            "Episode": "04",
+            "Title": "\"Ring of tales ①\"",
+            "Aired": "April 27, 2014"
+        },
+        {
+            "Episode": "05",
+            "Title": "\"Ring of tales ②\"",
+            "Aired": "May 4, 2014"
+        },
+        {
+            "Episode": "06",
+            "Title": "\"Call my name\"",
+            "Aired": "May 11, 2014"
+        },
+        {
+            "Episode": "07",
+            "Title": "\"Wild waltz\"",
+            "Aired": "May 25, 2014"
+        },
+        {
+            "Episode": "08",
+            "Title": "\"Shelter From the Rain\"\nTransliteration: \"Amayadori\" (Japanese: 雨やどり)",
+            "Aired": "June 1, 2014"
+        },
+        {
+            "Episode": "09",
+            "Title": "\"The Principality of Rain\"\nTransliteration: \"Ame no kōkoku\" (Japanese: 雨の公国)",
+            "Aired": "June 8, 2014"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"A Righteous Country\"\nTransliteration: \"Tadashī kuni\" (Japanese: 正しい国)",
+            "Aired": "June 15, 2014"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"A Passing Wind\"\nTransliteration: \"Tōrisugiru kaze\" (Japanese: 通り過ぎる風)",
+            "Aired": "June 22, 2014"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Homecoming\"\nTransliteration: \"Kikan\" (Japanese: 帰還)",
+            "Aired": "June 29, 2014"
+        }
+    ],
+    "Soul Buster": [],
+    "Soul Eater": [
+        {
+            "Episode": "1",
+            "Title": "\"Resonance of the Soul – Will Soul Eater Become a Death Scythe?\"\nTransliteration: \"Tamashii no Kyōmei: Sōru Ītā, Desu Saizu ni Naru?\" (Japanese: 魂の共鳴 〜ソウル=イーター、デスサイズになる?〜)",
+            "Aired": "February 17, 2013"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"I Am the Star! The Big Man Is Showing Up Here?\"\nTransliteration: \"Ore koso Sutā da! Mottomo Biggu na Otoko, Koko ni Arawaru?\" (Japanese: 俺こそスターだ! 〜最もビッグな男、ここに現る?〜)",
+            "Aired": "February 24, 2013"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Perfect Boy – Death the Kid's Magnificent Mission?\"\nTransliteration: \"Kanpeki naru Shōnen: Desu za Kiddo no Karei naru Misshon?\" (Japanese: 完璧なる少年 〜デス･ザ･キッドの華麗なるミッション?〜)",
+            "Aired": "March 3, 2013"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Engage the Witch Hunter! A Remedial Lesson in the Graveyard?\"\nTransliteration: \"Majogari Hatsudō! Dokidoki Hakaba no Hoshū Jugyō?\" (Japanese: 魔女狩り発動! 〜ドキドキ墓場の補習授業?〜)",
+            "Aired": "March 10, 2013"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Shape of the Soul – Enter the Ultimate Meister Stein?\"\nTransliteration: \"Tamashii no Katachi: Saikyō Shokunin Shutain Tōjō?\" (Japanese: 魂のかたち 〜最強職人シュタイン登場?〜)",
+            "Aired": "March 24, 2013"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The New Student – Kid's First Day at the Academy, Will It Be an Entrance to Remember?\"\nTransliteration: \"Uwasa no Shinnyūsei! Omoide Ippai, Kiddo no Shibusen Hatsu Tōkō?\" (Japanese: 噂の新入生! 〜想い出いっぱい、キッドの死武専初登校?〜)",
+            "Aired": "March 31, 2013"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Black-blooded Terror – There's a Weapon inside Crona?\"\nTransliteration: \"Koketsu no Kyōfu: Kurona no Naka ni Buki ga Iru?\" (Japanese: 黒血の恐怖 〜クロナの中に武器がいる?〜)",
+            "Aired": "April 7, 2013"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Witch Medusa – Bearer of the Great Terrible Soul?\"\nTransliteration: \"Majo Medyūsa: Ōinaru Waruki Tamashii o Motsu Mono?\" (Japanese: 魔女メデューサ 〜大いなる凶き魂を持つ者?〜)",
+            "Aired": "April 14, 2013"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Legend of the Holy Sword – Kid and Black☆Star's Great Adventure?\"\nTransliteration: \"Seiken Densetsu: Kiddo to Burakku Sutā no Daibōken?\" (Japanese: 聖剣伝説 〜キッドとブラック☆スターの大冒険?〜)",
+            "Aired": "April 21, 2013"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Enchanted Sword Masamune – Break the Soul Possession: A Heart Sings in the Rain?\"\nTransliteration: \"Yōtō Masamune: Yabure Tamashii Hyōi, Ame ni Utau Kokoro?\" (Japanese: 妖刀マサムネ 〜破れ魂憑依、雨に詠う心?〜)",
+            "Aired": "April 28, 2013"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Tsubaki, the Camellia Blossom – What Lies Beyond the Grief?\"\nTransliteration: \"Tsubaki no Hana: Kanashimi o Koeta Saki ni Aru Mono?\" (Japanese: 椿の花 〜悲しみを越えた先にあるもの?〜)",
+            "Aired": "May 5, 2013"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Courage That Beats Out Fear – Maka Albarn's Great Resolution?\"\nTransliteration: \"Kyōfu ni Makenai Yūki: Maka Arubān no Ichidai Kesshin?\" (Japanese: 恐怖に負けない勇気 〜マカ=アルバーンの一大決心?〜)",
+            "Aired": "May 12, 2013"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"The Man with the Magic Eye – Soul and Maka's Diverging Soul Wavelength?\"\nTransliteration: \"Magan no Otoko: Sōru to Maka, Zure Yuku Tamashii no Hachō?\" (Japanese: 魔眼の男 〜ソウルとマカ、ズレゆく魂の波長?〜)",
+            "Aired": "May 19, 2013"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"The Super Written Exam – Heart-Pounding, Reeling, and Restless. You're Kidding!?\"\nTransliteration: \"Chō Hikkishiken: Dokidoki, Wakuwaku, Sowasowa, Usōn?\" (Japanese: 超筆記試験 〜ドキドキ、ワクワク、ソワソワ、ウソーン?〜)",
+            "Aired": "May 26, 2013"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"The Soul Eating Black Dragon – Scaredy-cat Liz and Her Merry Friends?\"\nTransliteration: \"Tamashii o Kū Kuroki Ryū: Okubyō Rizu to Yukai na Nakama-tachi?\" (Japanese: 魂を食う黒き龍 〜臆病リズと愉快な仲間たち?〜)",
+            "Aired": "June 2, 2013"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Fierce Battle Aboard the Ghost Ship – The Hell inside My Head?\"\nTransliteration: \"Gekitō! Yūreisen: Boku no Atama no Naka no Jigoku?\" (Japanese: 激闘! 幽霊船 〜ボクの頭の中の地獄?〜)",
+            "Aired": "June 9, 2013"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Legend of the Holy Sword 2 – Wanna Go Drinking, Gambling, and Playing?\"\nTransliteration: \"Seiken Densetsu Tsū: Nomu, Utsu, Kau, Ittoku?\" (Japanese: 聖剣伝説2 〜飲む、打つ、買う、いっとく?〜)",
+            "Aired": "June 16, 2013"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"The Eve Party Nightmare – And so the Curtain Rises?\"\nTransliteration: \"Zenyasai no Akumu: Soshite Maku wa Agatta?\" (Japanese: 前夜祭の悪夢 〜そして幕は上がった?〜)",
+            "Aired": "June 23, 2013"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"The Underground Battle Commences – Break Through Medusa's Vector Arrow?\"\nTransliteration: \"Kaishi, Chika Kōbōsen: Toppaseyo, Medyūsa no Bekutoru Arō?\" (Japanese: 開始、地下攻防戦 〜突破せよ、メデューサのベクトルアロー?〜)",
+            "Aired": "June 30, 2013"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"The Black Blood Resonance Battle! – A Small Soul's Grand Struggle against Fear?\"\nTransliteration: \"Koketsu no Kyōmei Sen! Kyōfu ni Hamukau Chiisana Tamashii no Taifuntō?\" (Japanese: 黒血の共鳴戦! 〜恐怖に刃向かう小さな魂の大奮闘?〜)",
+            "Aired": "July 7, 2013"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"May My Soul Reach You – A Dry Heart inside Unbearable Isolation?\"\nTransliteration: \"Todoke, Watashi no Tamashii: Kawaita Kokoro, Tamaranai Kodoku no Naka de...?\" (Japanese: 届け、私の魂 〜乾いた心、たまらない孤独の中で…?〜)",
+            "Aired": "July 14, 2013"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"The Seal Shrine – The Immortal Man's Tricks?\"\nTransliteration: \"Fūin no Yashiro: Fujimi no Otoko ga Shikaketa Karakuri?\" (Japanese: 封印の社 〜不死身の男が仕掛けたからくり?〜)",
+            "Aired": "July 21, 2013"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Dead or Alive – In the Rift between Revival and Dazzlement?\"\nTransliteration: \"Deddo oa Araibu! Fukkatsu to Genkaku no Hazama de?\" (Japanese: デッド オア アライブ! 〜復活と幻覚の狭間で?〜)",
+            "Aired": "July 28, 2013"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"The Battle of the Gods – Death City on the Verge of Collapse?\"\nTransliteration: \"Kamigami no Tatakai: Desu Shitī Hōkai no Kiki ni?\" (Japanese: 神々の闘い 〜デス･シティー崩壊の危機に?〜)",
+            "Aired": "August 4, 2013"
+        },
+        {
+            "Episode": "25",
+            "Title": "\"The Death Scythes Convene – Stop Dad's Staff Reassignment!?\"\nTransliteration: \"Shōshū! Desu Saizusu: Fusege Papa no Jinjiidō!!?\" (Japanese: 召集! デスサイズス 〜ふせげパパの人事異動!!?〜)",
+            "Aired": "August 11, 2013"
+        },
+        {
+            "Episode": "26",
+            "Title": "\"The Exciting and Embarrassing Trial Enrollment! The DWMA New Lifestyle Support Fair Is Open?\"\nTransliteration: \"Ureshi Hazukashi Taiken Nyūgaku! Shibusen Shinseikatsu Ōen Fea Kaisaichū?\" (Japanese: 嬉し恥ずかし体験入学! 〜死武専新生活応援フェア開催中?〜)",
+            "Aired": "August 18, 2013"
+        },
+        {
+            "Episode": "27",
+            "Title": "\"800 Years of Bloodlust – Advent of the Heretic Witch?\"\nTransliteration: \"Happyuku-nen no Satsui: Itan no Majo Kōrin?\" (Japanese: 800年の殺意 〜異端の魔女降臨?〜)",
+            "Aired": "August 25, 2013"
+        },
+        {
+            "Episode": "28",
+            "Title": "\"The Sword God Rises – Does It Have a Sweet or Salty Taste?\"\nTransliteration: \"Kenshi Tatsu: Aji wa Amai ka Shoppai ka?\" (Japanese: 剣神立つ 〜味は甘いかしょっぱいか?〜)",
+            "Aired": "September 8, 2013"
+        },
+        {
+            "Episode": "29",
+            "Title": "\"Medusa's Revival! A Spider and Snake's Fateful Reunion?\"\nTransliteration: \"Fukkatsu no Medyūsa! Kumo to Hebi, Innen no Saikai?\" (Japanese: 剣復活のメデューサ! 〜蜘蛛と蛇、因縁の再会?〜)",
+            "Aired": "September 15, 2013"
+        },
+        {
+            "Episode": "30",
+            "Title": "\"The Red Hot Runaway Express – A Magic Tool Left Behind by the Great Wizard?\"\nTransliteration: \"Shakunetsu no Bōsō Tokkyū! Daimadōshi ga Nokoshita Madōgu?\" (Japanese: 灼熱の暴走特急! 〜大魔導師が残した魔道具?〜)",
+            "Aired": "September 22, 2013"
+        },
+        {
+            "Episode": "31",
+            "Title": "\"Drying Happiness! Whose Tears Sparkle in the Moonlight?\"\nTransliteration: \"Kareta Shiawase: Tsukiakari ni Hikaru no wa Dare no Namida?\" (Japanese: 涸れた幸福しあわせ 〜月明かりに光るのは誰の涙?〜)",
+            "Aired": "September 29, 2013"
+        },
+        {
+            "Episode": "32",
+            "Title": "\"Legend of the Holy Sword 3 – The Academy Gang Leader's Tale?\"\nTransliteration: \"Seiken Densetsu Surī: Shibusen Banchō Monogatari?\" (Japanese: 聖剣伝説3 〜死武専番長物語?〜)",
+            "Aired": "October 6, 2013"
+        },
+        {
+            "Episode": "33",
+            "Title": "\"Resonance Link – Play the Melody of the Souls?\"\nTransliteration: \"Kyōmei Rensa: Kanadero, Tamashii Tachi no Senritsu?\" (Japanese: 共鳴連鎖 〜奏でろ、魂たちの旋律?〜)",
+            "Aired": "October 13, 2013"
+        },
+        {
+            "Episode": "34",
+            "Title": "\"The Battle for Brew – Clash: The DWMA vs. Arachnophobia?\"\nTransliteration: \"Buryū Sōdatsusen! Gekitotsu, Shibusen vs Arakunofobia?\" (Japanese: BREW争奪戦! 〜激突、死武専vsアラクノフォビア?〜)",
+            "Aired": "October 20, 2013"
+        },
+        {
+            "Episode": "35",
+            "Title": "\"Mosquito's Storm! Ten Minutes to Fight in the World of the Past?\"\nTransliteration: \"Arashi no Mosukīto! Arishi hi no Sekai, Seigen Jikan wa Jū-pun?\" (Japanese: 嵐のモスキート! 〜在りし日の世界、制限時間は10分?〜)",
+            "Aired": "October 27, 2013"
+        },
+        {
+            "Episode": "36",
+            "Title": "\"Unleash the Seven's Resonance Link! A Recital of Destruction and Creation?\"\nTransliteration: \"Hanate, Shichi-nin no Kyōmei Rensa! Hakai to Sōzō no Ensōkai?\" (Japanese: 放て、7人の共鳴連鎖! 〜破壊と創造の演奏会?〜)",
+            "Aired": "November 3, 2013"
+        },
+        {
+            "Episode": "37",
+            "Title": "\"The Detective's First Case – Kid Exposes the DWMA's Secret?\"\nTransliteration: \"Meitantei Daiichi no Jiken: Kiddo ga Abaku Shibusen no Himitsu?\" (Japanese: 名探偵第一の事件 〜キッドが暴く死武専の秘密?〜)",
+            "Aired": "November 10, 2013"
+        },
+        {
+            "Episode": "38",
+            "Title": "\"Asura's Temptation – The Big Man's Uncontainable Irritation?\"\nTransliteration: \"Shura e no Yūwaku: Biggu na Otoko no Osaerarenai Iradachi?\" (Japanese: 修羅への誘惑 〜ビッグな男の抑えられない苛立ち?〜)",
+            "Aired": "November 17, 2013"
+        },
+        {
+            "Episode": "39",
+            "Title": "\"Crona's Escape – Show Me Your Smile, Please?\"\nTransliteration: \"Kurona, Tōbō: Kudasai, Kimi no Hohoemi?\" (Japanese: クロナ、逃亡 〜ください、君の微笑み?〜)",
+            "Aired": "November 24, 2013"
+        },
+        {
+            "Episode": "40",
+            "Title": "\"The Cards Are Cut – Medusa Surrenders to the DWMA?\"\nTransliteration: \"Kirareta Kādo: Medyūsa, Shibusen ni Tōkō Suru?\" (Japanese: 切られたカード 〜メデューサ、死武専に投降する?〜)",
+            "Aired": "December 1, 2013"
+        },
+        {
+            "Episode": "41",
+            "Title": "\"Twirl 'Round and 'Round – A New World in Which the Doc Dances?\"\nTransliteration: \"Kurukuru Kururu: Hakase wa Odoru, Atarashiki Sekai?\" (Japanese: クルクルクルル 〜博士は踊る、新しき世界?〜)",
+            "Aired": "January 5, 2014"
+        },
+        {
+            "Episode": "42",
+            "Title": "\"Charge Baba Yaga's Castle! Things Are Kind of Gloomy?\"\nTransliteration: \"Shingeki! Baba Yagā no Shiro: Nanka Moyamoya Suru?\" (Japanese: 進撃! ババ･ヤガーの城 〜なんかモヤモヤする?〜)",
+            "Aired": "January 12, 2014"
+        },
+        {
+            "Episode": "43",
+            "Title": "\"The Last Magic Tool – Mission Impossible for Unarmed Kid?\"\nTransliteration: \"Saigo no Madōgu: Buki Nashi Kiddo no Misshon Inposshiburu?\" (Japanese: 最後の魔道具 〜武器無しキッドのミッションインポッシブル?〜)",
+            "Aired": "January 19, 2014"
+        },
+        {
+            "Episode": "44",
+            "Title": "\"Weakling Crona's Determination – For You, for Always Being by My Side?\"\nTransliteration: \"Yowamushi Kurona no Ketsui: Itsumo Soba ni Ite Kureta Kimi ni?\" (Japanese: 弱虫クロナの決意 〜いつもそばにいてくれた君に?〜)",
+            "Aired": "January 26, 2014"
+        },
+        {
+            "Episode": "45",
+            "Title": "\"Anti-magic Wavelength – Fierce Attack, the Anger-filled Genie Hunter?\"\nTransliteration: \"Taima no Hachō: Mōkō, Ikari no Majin Gari?\" (Japanese: 退魔の波長 〜猛攻、怒りの魔人狩り?〜)",
+            "Aired": "February 2, 2014"
+        },
+        {
+            "Episode": "46",
+            "Title": "\"Warrior or Slaughterer? Showdown: Mifune vs. Black☆Star?\"\nTransliteration: \"Bu ka Shura ka: Kessen, Mifune vs Burakku Sutā?\" (Japanese: 武か修羅か 〜決戦、ミフネvsブラック☆スター?〜)",
+            "Aired": "February 9, 2014"
+        },
+        {
+            "Episode": "47",
+            "Title": "\"The Miraculous Coffee Table Flip – Fly, Our Death City Robot?\"\nTransliteration: \"Kiseki no Chabudaigaeshi: Bokura no Desu Shitī Robo?\" (Japanese: 奇跡のちゃぶ台返し 〜僕らのデス･シティーロボ?〜)",
+            "Aired": "February 16, 2014"
+        },
+        {
+            "Episode": "48",
+            "Title": "\"Lord Death Wields a Death Scythe – Just One Step from Utter Darkness?\"\nTransliteration: \"Desu Saizu o Motta Shinigami-sama: Chotto Saki wa Yami Darake?\" (Japanese: 武器デスサイズを持った死神様 〜一寸先はヤミだらけ?〜)",
+            "Aired": "February 23, 2014"
+        },
+        {
+            "Episode": "49",
+            "Title": "\"Asura Wakes – To the End of the World?\"\nTransliteration: \"Ashura Kakusei: Sekai no Ikitsuku Hate e?\" (Japanese: 阿修羅覚醒 〜世界の行き着く果てへ?〜)",
+            "Aired": "March 2, 2014"
+        },
+        {
+            "Episode": "50",
+            "Title": "\"Sink or Swim?! The Men Who Transcend the Gods?\"\nTransliteration: \"Ichi ka Bachi ka?! Kami o Koeru Otokotachi?\" (Japanese: イチかバチか?! 〜神を超える男たち?〜)",
+            "Aired": "March 9, 2014"
+        },
+        {
+            "Episode": "51",
+            "Title": "\"The Word Is Bravery!\"\nTransliteration: \"Aikotoba wa Yūki!\" (Japanese: 合言葉は勇気!)",
+            "Aired": "March 16, 2014"
+        }
+    ],
+    "Soukou Musume Senki": [
+        {
+            "Episode": "1",
+            "Title": "The Day I Fell Into a Battlefield",
+            "Aired": "Jan 7, 2021"
+        },
+        {
+            "Episode": "2",
+            "Title": "Chosen Girls",
+            "Aired": "Jan 14, 2021"
+        },
+        {
+            "Episode": "3",
+            "Title": "The Battle of Gotenba",
+            "Aired": "Jan 21, 2021"
+        },
+        {
+            "Episode": "4",
+            "Title": "The Legendary Super-Builder Otacross  ",
+            "Aired": "Jan 28, 2021"
+        },
+        {
+            "Episode": "5",
+            "Title": "The Old Capital, Conquered",
+            "Aired": "Feb 4, 2021"
+        },
+        {
+            "Episode": "6",
+            "Title": "Special Move: Attack Function",
+            "Aired": "Feb 11, 2021"
+        },
+        {
+            "Episode": "7",
+            "Title": "Suzuno's Secret",
+            "Aired": "Feb 18, 2021"
+        },
+        {
+            "Episode": "8",
+            "Title": "The Terrifying Ammonite",
+            "Aired": "Feb 25, 2021"
+        },
+        {
+            "Episode": "9",
+            "Title": "The Battle at Kanmon Strait",
+            "Aired": "Mar 4, 2021"
+        },
+        {
+            "Episode": "10",
+            "Title": "For the Sake of this World?",
+            "Aired": "Mar 11, 2021"
+        },
+        {
+            "Episode": "11",
+            "Title": "Interceptor Group Juggernaut",
+            "Aired": "Mar 18, 2021"
+        },
+        {
+            "Episode": "12",
+            "Title": "Bonds That Save the World",
+            "Aired": "Mar 25, 2021"
+        }
+    ],
+    "Souryo to Majiwaru Shikiyoku no Yoru ni...": [
+        {
+            "Episode": "1",
+            "Title": "I Am a Man First, and a Priest Second",
+            "Aired": "Apr 3, 2017"
+        },
+        {
+            "Episode": "2",
+            "Title": "Even Priests Need Love, Marriage, and Sex...",
+            "Aired": "Apr 10, 2017"
+        },
+        {
+            "Episode": "3",
+            "Title": "Your Body Feels Healthy and In Good Shape",
+            "Aired": "Apr 17, 2017"
+        },
+        {
+            "Episode": "4",
+            "Title": "Don't You Want... To Be Touched By Me?",
+            "Aired": "Apr 24, 2017"
+        },
+        {
+            "Episode": "5",
+            "Title": "Do You Think... I'll Touch You Again?",
+            "Aired": "May 1, 2017"
+        },
+        {
+            "Episode": "6",
+            "Title": "I Love You. I Love You Too",
+            "Aired": "May 8, 2017"
+        },
+        {
+            "Episode": "7",
+            "Title": "Are you living in Kujou-san's temple?",
+            "Aired": "May 15, 2017"
+        },
+        {
+            "Episode": "8",
+            "Title": "May I make sure there is love between us?",
+            "Aired": "May 22, 2017"
+        },
+        {
+            "Episode": "9",
+            "Title": "I Am A Child",
+            "Aired": "May 29, 2017"
+        },
+        {
+            "Episode": "10",
+            "Title": "Fukaya Is Mine",
+            "Aired": "Jun 5, 2017"
+        },
+        {
+            "Episode": "11",
+            "Title": "Only When Suffering Can You Understand Human Suffering",
+            "Aired": "Jun 12, 2017"
+        },
+        {
+            "Episode": "12",
+            "Title": "I Don't Want To Give It To Anyone",
+            "Aired": "Jun 19, 2017"
+        }
+    ],
+    "Sousou no Frieren": [
+        {
+            "Episode": "1",
+            "Title": "\"The Journey's End\"\nTransliteration: \"Bōken no Owari\" (Japanese: 冒険の終わり)",
+            "Aired": "September 29, 2023"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"It Didn't Have to Be Magic...\"\nTransliteration: \"Betsuni Mahō Janakutatte...\" (Japanese: 別に魔法じゃなくたって…)",
+            "Aired": "September 29, 2023"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Killing Magic\"\nTransliteration: \"Hito o Korosu Mahō\" (Japanese: 人を殺す魔法)",
+            "Aired": "September 29, 2023"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Land Where Souls Rest\"\nTransliteration: \"Tamashii no Nemuru Chi\" (Japanese: 魂の眠る地)",
+            "Aired": "September 29, 2023"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Phantoms of the Dead\"\nTransliteration: \"Shisha no Gen'ei\" (Japanese: 死者の幻影)",
+            "Aired": "October 6, 2023"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Hero of the Village\"\nTransliteration: \"Mura no Eiyū\" (Japanese: 村の英雄)",
+            "Aired": "October 13, 2023"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Like a Fairy Tale\"\nTransliteration: \"Otogibanashi no Yō na Mono\" (Japanese: おとぎ話のようなもの)",
+            "Aired": "October 20, 2023"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Frieren the Slayer\"\nTransliteration: \"Sōsō no Furīren\" (Japanese: 葬送のフリーレン)",
+            "Aired": "October 27, 2023"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Aura the Guillotine\"\nTransliteration: \"Dantōdai no Aura\" (Japanese: 断頭台のアウラ)",
+            "Aired": "November 3, 2023"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"A Powerful Mage\"\nTransliteration: \"Tsuyoi Mahōtsukai\" (Japanese: 強い魔法使い)",
+            "Aired": "November 10, 2023"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Winter in the Northern Lands\"\nTransliteration: \"Kitagawa Shokoku no Fuyu\" (Japanese: 北側諸国の冬)",
+            "Aired": "November 17, 2023"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"A Real Hero\"\nTransliteration: \"Honmono no Yūsha\" (Japanese: 本物の勇者)",
+            "Aired": "November 24, 2023"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Aversion to One's Own Kind\"\nTransliteration: \"Dōzoku Ken'o\" (Japanese: 同族嫌悪)",
+            "Aired": "December 1, 2023"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"Privilege of the Young\"\nTransliteration: \"Wakamono no Tokken\" (Japanese: 若者の特権)",
+            "Aired": "December 8, 2023"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Smells Like Trouble\"\nTransliteration: \"Yakkaigoto no Nioi\" (Japanese: 厄介事の匂い)",
+            "Aired": "December 15, 2023"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Long-Lived Friends\"\nTransliteration: \"Chōju Tomodachi\" (Japanese: 長寿友達)",
+            "Aired": "December 22, 2023"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Take Care\"\nTransliteration: \"Jā Genki de\" (Japanese: じゃあ元気で)",
+            "Aired": "January 5, 2024"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"First-Class Mage Exam\"\nTransliteration: \"Ikkyū Mahōtsukai Senbatsu Shiken\" (Japanese: 一級魔法使い選抜試験)",
+            "Aired": "January 12, 2024"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Well-Laid Plans\"\nTransliteration: \"Nyūnen na Keikaku\" (Japanese: 入念な計画)",
+            "Aired": "January 19, 2024"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Necessary Killing\"\nTransliteration: \"Hitsuyō na Koroshi\" (Japanese: 必要な殺し)",
+            "Aired": "January 26, 2024"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"The World of Magic\"\nTransliteration: \"Mahō no Sekai\" (Japanese: 魔法の世界)",
+            "Aired": "February 2, 2024"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Future Enemies\"\nTransliteration: \"Tsugi kara wa Katakidōshi\" (Japanese: 次からは敵同士)",
+            "Aired": "February 9, 2024"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Conquering the Labyrinth\"\nTransliteration: \"Danjon Kōryaku\" (Japanese: 迷宮攻略)",
+            "Aired": "February 16, 2024"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"Perfect Replicas\"\nTransliteration: \"Kanpeki na Fukuseitai\" (Japanese: 完璧な複製体)",
+            "Aired": "February 23, 2024"
+        },
+        {
+            "Episode": "25",
+            "Title": "\"A Fatal Vulnerability\"\nTransliteration: \"Chimeiteki na Suki\" (Japanese: 致命的な隙)",
+            "Aired": "March 1, 2024"
+        },
+        {
+            "Episode": "26",
+            "Title": "\"The Height of Magic\"\nTransliteration: \"Mahō no Takami\" (Japanese: 魔法の高み)",
+            "Aired": "March 8, 2024"
+        },
+        {
+            "Episode": "27",
+            "Title": "\"An Era of Humans\"\nTransliteration: \"Ningen no Jidai\" (Japanese: 人間の時代)",
+            "Aired": "March 15, 2024"
+        },
+        {
+            "Episode": "28",
+            "Title": "\"It Would Be Embarrassing When We Met Again\"\nTransliteration: \"Mata Atta Toki ni Hazukashīkara ne\" (Japanese: また会ったときに恥ずかしいからね)",
+            "Aired": "March 22, 2024"
+        }
+    ],
+    "Soushin Shoujo Matoi": [
+        {
+            "Episode": "1",
+            "Title": "\"I'm Possessed!\"\n\"Watashi, Kami-gakattemasu\" (私、神懸かってます)",
+            "Aired": "October 4, 2016"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"I Clad Myself In A God\"\n\"Kamisama, Matoimashita\" (神様、纏いました)",
+            "Aired": "October 11, 2016"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"God's Playing Dumb\"\n\"Kamisama wa Shiranpuri\" (神様は知らんぷり)",
+            "Aired": "October 18, 2016"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Her Resolution and My Reason\"\n\"Kanojo no Kakugo to Watashi no Riyū\" (彼女の覚悟と私の理由)",
+            "Aired": "October 25, 2016"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"A Special Kind of Ordinary\"\n\"Tokubetsu na Futsū\" (特別な普通)",
+            "Aired": "November 1, 2016"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"I'm Sorry\"\n\"Gomen nasai\" (ごめんなさい)",
+            "Aired": "November 8, 2016"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Sea, Hot Springs, and Sometimes Evil Spirits\"\n\"Umi to Onsen, Tokidoki Akuryō\" (海と温泉、ときどき悪霊)",
+            "Aired": "November 15, 2016"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"A Small Wish\"\n\"Chiisa na Negai\" (ちいさな願い)",
+            "Aired": "November 22, 2016"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Thank You\"\n\"Arigatō\" (ありがとう)",
+            "Aired": "November 29, 2016"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Open Gate\"\n\"Hirakareshi Mon\" (開かれし門)",
+            "Aired": "December 6, 2016"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"See You Later!\"\n\"Ittekimasu\" (いってきます)",
+            "Aired": "December 13, 2016"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Being Ordinary's the Best!\"\n\"Futsū ga Ichiban\" (普通がいちばん)",
+            "Aired": "December 20, 2016"
+        },
+        {
+            "Episode": "TV–Special",
+            "Title": "\"Special Program\"\n\"Yuma, Matomemashita: Nani mo Kite Nakute... Natsu\" (ゆまちん、まとめました～何も着てなくて...夏～)",
+            "Aired": "December 27, 2016"
+        },
+        {
+            "Episode": "OVA",
+            "Title": "\"Nightsbusters Corporation\"\n\"Kabushikigaisha naite basutāzu\" (株式会社ナイツ・バスターズ)",
+            "Aired": "April 21, 2017"
+        }
+    ],
+    "Spy Kyoushitsu": [
+        {
+            "Episode": "1",
+            "Title": "\"Mission: Flower Garden\"\nTransliteration: \"Misshon \"Hanazono\"\" (Japanese: MISSION《花園》)",
+            "Aired": "January 5, 2023"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Mission: Flower Garden\"\nTransliteration: \"Misshon \"Hanazono\"\" (Japanese: MISSION《花園》)",
+            "Aired": "January 12, 2023"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Mission: Flower Garden\"\nTransliteration: \"Misshon \"Hanazono\"\" (Japanese: MISSION《花園》)",
+            "Aired": "January 19, 2023"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"File: Fool Erna\"\nTransliteration: \"Fairu \"Gujin\" no Eruna\" (Japanese: File《愚人》のエルナ)",
+            "Aired": "January 26, 2023"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"File: Fool Erna\"\nTransliteration: \"Fairu \"Gujin\" no Eruna\" (Japanese: File《愚人》のエルナ)",
+            "Aired": "February 2, 2023"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"File: Pandemonium Sibylla\"\nTransliteration: \"Fairu \"Hyakki\" no Jibia\" (Japanese: File《百鬼》のジビア)",
+            "Aired": "February 9, 2023"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"File: Meadow Sara\"\nTransliteration: \"Fairu \"Sōgen\" no Sara\" (Japanese: File《草原》のサラ)",
+            "Aired": "February 16, 2023"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Mission: Daughter Dearest\"\nTransliteration: \"Misshon \"Manamusume\"\" (Japanese: MISSION《愛娘》)",
+            "Aired": "March 2, 2023"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Mission: Daughter Dearest\"\nTransliteration: \"Misshon \"Manamusume\"\" (Japanese: MISSION《愛娘》)",
+            "Aired": "March 9, 2023"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Mission: Daughter Dearest\"\nTransliteration: \"Misshon \"Manamusume\"\" (Japanese: MISSION《愛娘》)",
+            "Aired": "March 16, 2023"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Mission: Daughter Dearest\"\nTransliteration: \"Misshon \"Manamusume\"\" (Japanese: MISSION《愛娘》)",
+            "Aired": "March 23, 2023"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"File: Daughter Dearest Grete\"\nTransliteration: \"Fairu \"Manamusume\" no Gurēte\" (Japanese: File《愛娘》のグレーテ)",
+            "Aired": "March 30, 2023"
+        }
+    ],
+    "Spy Kyoushitsu 2nd Season": [
+        {
+            "Episode": "13",
+            "Title": "\"Mission: Forgetter\"\nTransliteration: \"Misshon \"Bōga\"\" (Japanese: MISSION《忘我》)",
+            "Aired": "July 13, 2023"
+        },
+        {
+            "Episode": "14",
+            "Title": "Taichi Yoshizawa",
+            "Aired": "July 20, 2023"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Mission: Forgetter\"\nTransliteration: \"Misshon \"Bōga\"\" (Japanese: MISSION《忘我》)",
+            "Aired": "July 27, 2023"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Mission: Forgetter\"\nTransliteration: \"Misshon \"Bōga\"\" (Japanese: MISSION《忘我》)",
+            "Aired": "August 3, 2023"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"File: Glint Monika\"\nTransliteration: \"Fairu \"Hyojin\" no Monika\" (Japanese: File《氷刃》のモニカ)",
+            "Aired": "August 10, 2023"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"File: Dreamspeaker Thea\"\nTransliteration: \"Fairu \"Yumegatari\" no Tia\" (Japanese: File《夢語》のティア)",
+            "Aired": "August 17, 2023"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"File: Forgetter Annette\"\nTransliteration: \"Fairu “Bōga” no Anetto\" (Japanese: File《忘我》のアネット)",
+            "Aired": "August 24, 2023"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Mission: Dreamspeaker\"\nTransliteration: \"Misshon \"Yumegatari\"\" (Japanese: MISSION《夢語》)",
+            "Aired": "August 31, 2023"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Mission: Dreamspeaker\"\nTransliteration: \"Misshon \"Yumegatari\"\" (Japanese: MISSION《夢語》)",
+            "Aired": "September 7, 2023"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Mission: Dreamspeaker\"\nTransliteration: \"Misshon \"Yumegatari\"\" (Japanese: MISSION《夢語》)",
+            "Aired": "September 14, 2023"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Mission: Dreamspeaker\"\nTransliteration: \"Misshon \"Yumegatari\"\" (Japanese: MISSION《夢語》)",
+            "Aired": "September 21, 2023"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"File: Flower Garden Lily\"\nTransliteration: \"Fairu “Hanazono” no Rirī\" (Japanese: File《花園》のリリィ)",
+            "Aired": "September 28, 2023"
+        }
+    ],
+    "Spy x Family": [
+        {
+            "Episode": "1",
+            "Title": "\"Operation Strix\"\nTransliteration: \"Operēshon <Sutorikusu>\" (Japanese: オペレーション〈梟ストリクス〉)",
+            "Aired": "April 9, 2022[d]"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Secure a Wife\"\nTransliteration: \"Tsuma-yaku o Kakuho Seyo\" (Japanese: 妻役を確保せよ)",
+            "Aired": "April 16, 2022[d]"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Prepare for the Interview\"\nTransliteration: \"Juken Taisaku o Seyo\" (Japanese: 受験対策をせよ)",
+            "Aired": "April 23, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Prestigious School's Interview\"\nTransliteration: \"Meimonkō Mensetsu Shiken\" (Japanese: 名門校面接試験)",
+            "Aired": "April 30, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Will They Pass or Fail?\"\nTransliteration: \"Gōhi no Yukue\" (Japanese: 合否の行方)",
+            "Aired": "May 7, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Friendship Scheme\"\nTransliteration: \"Nakayoshi Sakusen\" (Japanese: ナカヨシ作戦)",
+            "Aired": "May 14, 2022"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Target's Second Son\"\nTransliteration: \"Tāgetto no Jinan\" (Japanese: 標的ターゲットの次男)",
+            "Aired": "May 21, 2022"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Counter-Secret Police Cover Operation\"\nTransliteration: \"Taihimitsu Keisatsu Gisō Sakusen\" (Japanese: 対秘密警察偽装作戦)",
+            "Aired": "May 28, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Show Off How in Love You Are\"\nTransliteration: \"Rabu Rabu o Misetsukeyo\" (Japanese: ラブラブを見せつけよ)",
+            "Aired": "June 4, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Great Dodgeball Plan\"\nTransliteration: \"Dojjibōru Daisakusen\" (Japanese: ドッジボール大作戦)",
+            "Aired": "June 11, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Stella\"\nTransliteration: \"<Sutera>\" (Japanese: 〈星ステラ〉)",
+            "Aired": "June 18, 2022"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Penguin Park\"\nTransliteration: \"Pengin Pāku\" (Japanese: ペンギンパーク)",
+            "Aired": "June 25, 2022"
+        }
+    ],
+    "Spy x Family Part 2": [
+        {
+            "Episode": "13",
+            "Title": "\"Project Apple\"\nTransliteration: \"Purojekuto <Appuru>\" (Japanese: プロジェクト〈アップル〉)",
+            "Aired": "October 1, 2022"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"Disarm the Time Bomb\"\nTransliteration: \"Jigen Bakudan o Kaijo Seyo\" (Japanese: 時限爆弾を解除せよ)",
+            "Aired": "October 8, 2022[e]"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"A New Family Member\"\nTransliteration: \"Atarashii Kazoku\" (Japanese: 新しい家族)",
+            "Aired": "October 15, 2022"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Yor's Kitchen\"\nTransliteration: \"Yoruzu Kitchin\" (Japanese: ヨル's キッチン)",
+            "Aired": "October 22, 2022"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Carry Out the Griffin Plan\"\nTransliteration: \"Gurihon Sakusen o Kekkō Seyo\" (Japanese: ぐりほんさくせんを決行せよ)",
+            "Aired": "October 29, 2022"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Uncle the Private Tutor\"\nTransliteration: \"Kateikyōshi no Oji\" (Japanese: 家庭教師の叔父)",
+            "Aired": "November 5, 2022"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"A Revenge Plot Against Desmond\"\nTransliteration: \"Dezumondo e no Fukushū Keikaku\" (Japanese: デズモンドへの復讐計画)",
+            "Aired": "November 12, 2022"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Investigate the General Hospital\"\nTransliteration: \"Sōgō Byōin o Chōsa Seyo\" (Japanese: 総合病院を調査せよ)",
+            "Aired": "November 19, 2022"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Nightfall\"\nTransliteration: \"<Tobari>\" (Japanese: 〈夜帷とばり〉)",
+            "Aired": "November 26, 2022"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"The Underground Tennis Tournament: The Campbelldon\"\nTransliteration: \"Chika Tenisu Taikai Kyanberudon\" (Japanese: 地下テニス大会 キャンベルドン)",
+            "Aired": "December 3, 2022"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"The Unwavering Path\"\nTransliteration: \"Yuruganu Kidō\" (Japanese: 揺るがぬ軌道)",
+            "Aired": "December 10, 2022"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"The Role of a Mother and Wife\"\nTransliteration: \"Haha-yaku to Tsuma-yaku\" (Japanese: 母役と妻役)",
+            "Aired": "December 17, 2022"
+        },
+        {
+            "Episode": "25",
+            "Title": "\"First Contact\"\nTransliteration: \"Fāsuto Kontakuto\" (Japanese: 接敵作戦ファーストコンタクト)",
+            "Aired": "December 24, 2022[f]"
+        }
+    ],
+    "Spy x Family Season 2": [
+        {
+            "Episode": "26",
+            "Title": "\"Follow Mama and Papa\"\nTransliteration: \"Chichi to Haha o Bikō Seyo\" (Japanese: ちちとははをびこうせよ)",
+            "Aired": "October 7, 2023"
+        },
+        {
+            "Episode": "27",
+            "Title": "\"Bond's Strategy to Stay Alive\"\nTransliteration: \"Bondo no Seizon Senryaku\" (Japanese: ボンドの生存戦略)",
+            "Aired": "October 14, 2023"
+        },
+        {
+            "Episode": "28",
+            "Title": "\"Mission and Family\"\nTransliteration: \"Ninmu to Kazoku\" (Japanese: 任務と家族)",
+            "Aired": "October 21, 2023"
+        },
+        {
+            "Episode": "29",
+            "Title": "\"The Pastry of Knowledge\"\nTransliteration: \"Chie no Kanmi\" (Japanese: 知恵の甘味)",
+            "Aired": "October 28, 2023"
+        },
+        {
+            "Episode": "30",
+            "Title": "\"Plan to Cross the Border\"\nTransliteration: \"Ekkyō Sakusen\" (Japanese: 越境作戦)",
+            "Aired": "November 4, 2023"
+        },
+        {
+            "Episode": "31",
+            "Title": "\"The Fearsome Luxury Cruise Ship\"\nTransliteration: \"Senritsu no Gōka Kyakusen\" (Japanese: 戦慄の豪華客船)",
+            "Aired": "November 11, 2023"
+        },
+        {
+            "Episode": "32",
+            "Title": "\"Who Is This Mission For?\"\nTransliteration: \"Dare ga Tame no Ninmu\" (Japanese: 誰がための任務)",
+            "Aired": "November 18, 2023"
+        },
+        {
+            "Episode": "33",
+            "Title": "\"The Symphony Upon the Ship\"\nTransliteration: \"Senjō no Shinfonī\" (Japanese: 船上の交響曲シンフォニー)",
+            "Aired": "November 25, 2023"
+        },
+        {
+            "Episode": "34",
+            "Title": "\"The Hand That Connects to the Future\"\nTransliteration: \"Mirai o Tsunagu Te\" (Japanese: 未来を繋ぐ手)",
+            "Aired": "December 2, 2023"
+        },
+        {
+            "Episode": "35",
+            "Title": "\"Enjoy the Resort to the Fullest\"\nTransliteration: \"Rizōto o Mankitsu Seyo\" (Japanese: リゾートを満喫せよ)",
+            "Aired": "December 9, 2023"
+        },
+        {
+            "Episode": "36",
+            "Title": "\"Berlint in Love\"\nTransliteration: \"Bārinto Rabu\" (Japanese: バーリント・ラブ)",
+            "Aired": "December 16, 2023"
+        },
+        {
+            "Episode": "37",
+            "Title": "\"Part of the Family\"\nTransliteration: \"Kazoku no Ichiin\" (Japanese: 家族の一員)",
+            "Aired": "December 23, 2023"
+        }
+    ],
+    "Stand My Heroes: Piece of Truth": [
+        {
+            "Episode": "1",
+            "Title": "PIECE 01",
+            "Aired": "Oct 7, 2019"
+        },
+        {
+            "Episode": "2",
+            "Title": "PIECE 02",
+            "Aired": "Oct 14, 2019"
+        },
+        {
+            "Episode": "3",
+            "Title": "PIECE 03",
+            "Aired": "Oct 21, 2019"
+        },
+        {
+            "Episode": "4",
+            "Title": "PIECE 04",
+            "Aired": "Oct 28, 2019"
+        },
+        {
+            "Episode": "5",
+            "Title": "PIECE 05",
+            "Aired": "Nov 4, 2019"
+        },
+        {
+            "Episode": "6",
+            "Title": "PIECE 06",
+            "Aired": "Nov 11, 2019"
+        },
+        {
+            "Episode": "7",
+            "Title": "PIECE 07",
+            "Aired": "Nov 18, 2019"
+        },
+        {
+            "Episode": "8",
+            "Title": "PIECE 08",
+            "Aired": "Nov 25, 2019"
+        },
+        {
+            "Episode": "9",
+            "Title": "PIECE 09",
+            "Aired": "Dec 2, 2019"
+        },
+        {
+            "Episode": "10",
+            "Title": "PIECE 10",
+            "Aired": "Dec 9, 2019"
+        },
+        {
+            "Episode": "11",
+            "Title": "PIECE 11",
+            "Aired": "Dec 16, 2019"
+        },
+        {
+            "Episode": "12",
+            "Title": "PIECE 12",
+            "Aired": "Dec 23, 2019"
+        }
+    ],
+    "Strike the Blood": [
+        {
+            "Episode": "1",
+            "Title": "\"The Right Arm of the Saint I\"\nTransliteration: \"Seija no Migiude Hen Ichi\" (Japanese: 聖者の右腕篇I)",
+            "Aired": "October 4, 2013"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Right Arm of the Saint II\"\nTransliteration: \"Seija no Migiude Hen Ni\" (Japanese: 聖者の右腕篇II)",
+            "Aired": "October 11, 2013"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Right Arm of the Saint III\"\nTransliteration: \"Seija no Migiude Hen San\" (Japanese: 聖者の右腕篇III)",
+            "Aired": "October 18, 2013"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Right Arm of the Saint IV\"\nTransliteration: \"Seija no Migiude Hen Yon\" (Japanese: 聖者の右腕篇IV)",
+            "Aired": "October 25, 2013"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"From the Warlord's Empire I\"\nTransliteration: \"Sen'ō no Shisha Hen Ichi\" (Japanese: 戦王の使者篇I)",
+            "Aired": "November 1, 2013"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"From the Warlord's Empire II\"\nTransliteration: \"Sen'ō no Shisha Hen Ni\" (Japanese: 戦王の使者篇II)",
+            "Aired": "November 8, 2013"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"From the Warlord's Empire III\"\nTransliteration: \"Sen'ō no Shisha Hen San\" (Japanese: 戦王の使者篇III)",
+            "Aired": "November 15, 2013"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"From the Warlord's Empire IV\"\nTransliteration: \"Sen'ō no Shisha Hen Yon\" (Japanese: 戦王の使者篇IV)",
+            "Aired": "November 22, 2013"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Amphisbaena I\"\nTransliteration: \"Tenshi Enjō Hen Ichi\" (Japanese: 天使炎上篇I)",
+            "Aired": "November 29, 2013"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Amphisbaena II\"\nTransliteration: \"Tenshi Enjō Hen Ni\" (Japanese: 天使炎上篇II)",
+            "Aired": "December 6, 2013"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"The Amphisbaena III\"\nTransliteration: \"Tenshi Enjō Hen San\" (Japanese: 天使炎上篇III)",
+            "Aired": "December 13, 2013"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"The Amphisbaena IV\"\nTransliteration: \"Tenshi Enjō Hen Yon\" (Japanese: 天使炎上篇IV)",
+            "Aired": "December 20, 2013"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Labyrinth of the Blue Witch I\"\nTransliteration: \"Aoki Majo no Meikyū Hen Ichi\" (Japanese: 蒼き魔女の迷宮篇I)",
+            "Aired": "January 10, 2014"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"Labyrinth of the Blue Witch II\"\nTransliteration: \"Aoki Majo no Meikyū Hen Ni\" (Japanese: 蒼き魔女の迷宮篇II)",
+            "Aired": "January 17, 2014"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Labyrinth of the Blue Witch III\"\nTransliteration: \"Aoki Majo no Meikyū Hen San\" (Japanese: 蒼き魔女の迷宮篇III)",
+            "Aired": "January 24, 2014"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Fiesta for the Observers I\"\nTransliteration: \"Kansokusha-tachi no Utage Hen Ichi\" (Japanese: 観測者たちの宴篇I)",
+            "Aired": "January 31, 2014"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Fiesta for the Observers II\"\nTransliteration: \"Kansokusha-tachi no Utage Hen Ni\" (Japanese: 観測者たちの宴篇II)",
+            "Aired": "February 7, 2014"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Fiesta for the Observers III\"\nTransliteration: \"Kansokusha-tachi no Utage Hen San\" (Japanese: 観測者たちの宴篇III)",
+            "Aired": "February 14, 2014"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Fiesta for the Observers IV\"\nTransliteration: \"Kansokusha-tachi no Utage Hen Yon\" (Japanese: 観測者たちの宴篇IV)",
+            "Aired": "February 21, 2014"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Return of the Alchemist I\"\nTransliteration: \"Renkinjutsushi no Kikan Hen Ichi\" (Japanese: 錬金術師の帰還篇I)",
+            "Aired": "February 28, 2014"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Return of the Alchemist II\"\nTransliteration: \"Renkinjutsushi no Kikan Hen Ni\" (Japanese: 錬金術師の帰還篇II)",
+            "Aired": "March 7, 2014"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Return of the Alchemist III\"\nTransliteration: \"Renkinjutsushi no Kikan Hen San\" (Japanese: 錬金術師の帰還篇III)",
+            "Aired": "March 14, 2014"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Empire of the Dawn I\"\nTransliteration: \"Akatsuki no Teikoku Hen Ichi\" (Japanese: 暁の帝国篇I)",
+            "Aired": "March 21, 2014"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"Empire of the Dawn II\"\nTransliteration: \"Akatsuki no Teikoku Hen Ni\" (Japanese: 暁の帝国篇II)",
+            "Aired": "March 28, 2014"
+        },
+        {
+            "Episode": "OVA–1",
+            "Title": "\"Kingdom of the Valkyria I\"\nTransliteration: \"Varukyuria no Ōkoku Zenpen\" (Japanese: ヴァルキュリアの王国 前篇)",
+            "Aired": "November 25, 2015"
+        },
+        {
+            "Episode": "OVA–2",
+            "Title": "\"Kingdom of the Valkyria II\"\nTransliteration: \"Varukyuria no Ōkoku Kouhen\" (Japanese: ヴァルキュリアの王国 後篇)",
+            "Aired": "December 23, 2015"
+        }
+    ],
+    "Strike the Blood II": [
+        {
+            "Episode": "OVA–1",
+            "Title": "\"Swords-Shaman of Shadow I\"\nTransliteration: \"Kuro no Ken'nagi-hen I\" (Japanese: 黒の剣巫篇I)",
+            "Aired": "November 23, 2016"
+        },
+        {
+            "Episode": "OVA–2",
+            "Title": "\"Swords-Shaman of Shadow II\"\nTransliteration: \"Kuro no Ken'nagi-hen II\" (Japanese: 黒の剣巫篇II)",
+            "Aired": "November 23, 2016"
+        },
+        {
+            "Episode": "OVA–3",
+            "Title": "\"Swords-Shaman of Shadow III\"\nTransliteration: \"Kuro no Ken'nagi-hen III\" (Japanese: 黒の剣巫篇III)",
+            "Aired": "December 23, 2016"
+        },
+        {
+            "Episode": "OVA–4",
+            "Title": "\"The 4th Primogenitor on the run I\"\nTransliteration: \"Tōbō no Dai yon Shinso-hen I\" (Japanese: 逃亡の第四真祖篇I)",
+            "Aired": "December 23, 2016"
+        },
+        {
+            "Episode": "OVA–5",
+            "Title": "\"The 4th Primogenitor on the run II\"\nTransliteration: \"Tōbō no Dai yon Shinso-hen II\" (Japanese: 逃亡の第四真祖篇II)",
+            "Aired": "March 29, 2017"
+        },
+        {
+            "Episode": "OVA–6",
+            "Title": "\"Knight of the Sinful God I\"\nTransliteration: \"Kyūshin no Kishi-hen I\" (Japanese: 咎神の騎士篇I)",
+            "Aired": "March 29, 2017"
+        },
+        {
+            "Episode": "OVA–7",
+            "Title": "\"Knight of the Sinful God II\"\nTransliteration: \"Kyūshin no Kishi-hen II\" (Japanese: 咎神の騎士篇II)",
+            "Aired": "May 24, 2017"
+        },
+        {
+            "Episode": "OVA–8",
+            "Title": "\"Knight of the Sinful God III\"\nTransliteration: \"Kyūshin no Kishi-hen III\" (Japanese: 咎神の騎士篇III)",
+            "Aired": "May 24, 2017"
+        }
+    ],
+    "Strike the Blood III": [
+        {
+            "Episode": "OVA–1",
+            "Title": "\"Tartaros-Roses I\"\nTransliteration: \"Tarutarosu no bara I\" (Japanese: タルタロスの薔薇篇I)",
+            "Aired": "December 19, 2018"
+        },
+        {
+            "Episode": "OVA–2",
+            "Title": "\"Tartaros-Roses II\"\nTransliteration: \"Tarutarosu no bara II\" (Japanese: タルタロスの薔薇篇II)",
+            "Aired": "December 19, 2018"
+        },
+        {
+            "Episode": "OVA–3",
+            "Title": "\"Tartaros-Roses III\"\nTransliteration: \"Tarutarosu no bara III\" (Japanese: タルタロスの薔薇篇III)",
+            "Aired": "March 27, 2019"
+        },
+        {
+            "Episode": "OVA–4",
+            "Title": "\"The Time of My Life I\"\nTransliteration: \"Ōgon no hibi I\" (Japanese: 黄金の日々篇I)",
+            "Aired": "March 27, 2019"
+        },
+        {
+            "Episode": "OVA–5",
+            "Title": "\"The Time of My Life II\"\nTransliteration: \"Ōgon no hibi II\" (Japanese: 黄金の日々篇II)",
+            "Aired": "May 29, 2019"
+        },
+        {
+            "Episode": "OVA–6",
+            "Title": "\"The Time of My Life III\"\nTransliteration: \"Ogon no hibi III\" (Japanese: 黄金の日々篇III)",
+            "Aired": "May 29, 2019"
+        },
+        {
+            "Episode": "OVA–7",
+            "Title": "\"The War of Original Vampires I\"\nTransliteration: \"Sinso taisen I\" (Japanese: 真祖大戦I)",
+            "Aired": "July 24, 2019"
+        },
+        {
+            "Episode": "OVA–8",
+            "Title": "\"The War of Original Vampires II\"\nTransliteration: \"Sinso taisen II\" (Japanese: 真祖大戦II)",
+            "Aired": "July 24, 2019"
+        },
+        {
+            "Episode": "OVA–9",
+            "Title": "\"The War of Original Vampires III\"\nTransliteration: \"Sinso taisen III\" (Japanese: 真祖大戦III)",
+            "Aired": "September 25, 2019"
+        },
+        {
+            "Episode": "OVA–10",
+            "Title": "\"The War of Original Vampires IV\"\nTransliteration: \"Sinso taisen IV\" (Japanese: 真祖大戦IV)",
+            "Aired": "September 25, 2019"
+        }
+    ],
+    "Strike the Blood IV": [
+        {
+            "Episode": "OVA–1",
+            "Title": "\"Paladiness of Mirage I\"\nTransliteration: \"Kagerō no hijiri kishi-hen I\" (Japanese: 陽炎の聖騎士篇I)",
+            "Aired": "April 8, 2020"
+        },
+        {
+            "Episode": "OVA–2",
+            "Title": "\"Paladiness of Mirage II\"\nTransliteration: \"Kagerō no hijiri kishi-hen II\" (Japanese: 陽炎の聖騎士篇II)",
+            "Aired": "April 8, 2020"
+        },
+        {
+            "Episode": "OVA–3",
+            "Title": "\"Paladiness of Mirage III\"\nTransliteration: \"Kagerō no hijiri kishi-hen III\" (Japanese: 陽炎の聖騎士篇III)",
+            "Aired": "July 29, 2020"
+        },
+        {
+            "Episode": "OVA–4",
+            "Title": "\"Tournament in the Nightmare Night I\"\nTransliteration: \"Owaranai yoru no utage-hen I\" (Japanese: 終わらない夜の宴篇I)",
+            "Aired": "July 29, 2020"
+        },
+        {
+            "Episode": "OVA–5",
+            "Title": "\"Tournament in the Nightmare Night II\"\nTransliteration: \"Owaranai yoru no utage-hen II\" (Japanese: 終わらない夜の宴篇II)",
+            "Aired": "September 30, 2020"
+        },
+        {
+            "Episode": "OVA–6",
+            "Title": "\"Tournament in the Nightmare Night III\"\nTransliteration: \"Owaranai yoru no utage-hen III\" (Japanese: 終わらない夜の宴篇III)",
+            "Aired": "September 30, 2020"
+        },
+        {
+            "Episode": "OVA–7",
+            "Title": "\"Reunion of Vampire Princess I\"\nTransliteration: \"Saikai no kyūketsu hime-hen I\" (Japanese: 再会の吸血姫篇I)",
+            "Aired": "December 23, 2020"
+        },
+        {
+            "Episode": "OVA–8",
+            "Title": "\"Reunion of Vampire Princess II\"\nTransliteration: \"Saikai no kyūketsu hime-hen II\" (Japanese: 再会の吸血姫篇II)",
+            "Aired": "December 23, 2020"
+        },
+        {
+            "Episode": "OVA–9",
+            "Title": "\"Reunion of Vampire Princess III\"\nTransliteration: \"Saikai no kyūketsu hime-hen III\" (Japanese: 再会の吸血姫篇III)",
+            "Aired": "March 24, 2021"
+        },
+        {
+            "Episode": "OVA–10",
+            "Title": "\"Seize the Twelve Beast Vassals I\"\nTransliteration: \"Jū ni no kemono to chi no jūsha ta hen I\" (Japanese: 十二眷獣と血の従者たち篇I)",
+            "Aired": "March 24, 2021"
+        },
+        {
+            "Episode": "OVA–11",
+            "Title": "\"Seize the Twelve Beast Vassals II\"\nTransliteration: \"Jū ni no kemono to chi no jūsha ta hen II\" (Japanese: 十二眷獣と血の従者たち篇II)",
+            "Aired": "June 30, 2021"
+        },
+        {
+            "Episode": "OVA–12",
+            "Title": "\"Seize the Twelve Beast Vassals III\"\nTransliteration: \"Jū ni no kemono to chi no jūsha ta hen III\" (Japanese: 十二眷獣と血の従者たち篇III)",
+            "Aired": "June 30, 2021"
+        }
+    ],
+    "Strike the Blood Final": [
+        {
+            "Episode": "OVA–1",
+            "Title": "\"Returning With Glory I\"\nTransliteration: \"Akatsuki no gaisen-hen I\" (Japanese: 暁の凱旋篇I)",
+            "Aired": "March 30, 2022"
+        },
+        {
+            "Episode": "OVA–2",
+            "Title": "\"Returning With Glory II\"\nTransliteration: \"Akatsuki no gaisen-hen II\" (Japanese: 暁の凱旋篇II)",
+            "Aired": "March 30, 2022"
+        },
+        {
+            "Episode": "OVA–3",
+            "Title": "\"Returning With Glory III\"\nTransliteration: \"Akatsuki no gaisen-hen III\" (Japanese: 暁の凱旋篇III)",
+            "Aired": "July 29, 2022"
+        },
+        {
+            "Episode": "OVA–4",
+            "Title": "\"Returning With Glory IV\"\nTransliteration: \"Akatsuki no gaisen-hen IV\" (Japanese: 暁の凱旋篇IV)",
+            "Aired": "July 29, 2022"
+        }
+    ],
+    "Strike Witches": [
+        {
+            "Episode": "1",
+            "Title": "\"Magical Girl\"\nTransliteration: \"Mahō Shōjo\" (Japanese: 魔法少女)",
+            "Aired": "July 3, 2008"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"That Which I Can Do\"\nTransliteration: \"Watashi ni Dekiru Koto\" (Japanese: 私にできること)",
+            "Aired": "July 10, 2008"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"You're Not Alone\"\nTransliteration: \"Hitori Ja Nai kara\" (Japanese: 一人じゃないから)",
+            "Aired": "July 17, 2008"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Thanks\"\nTransliteration: \"Arigatō\" (Japanese: ありがとう)",
+            "Aired": "July 24, 2008"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Fast, Big, Soft\"\nTransliteration: \"Hayai, Okkii, Yawarakai\" (Japanese: はやい, おっきい, やわらかい)",
+            "Aired": "July 31, 2008"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"We're the Same\"\nTransliteration: \"Issho da yo\" (Japanese: いっしょだよ)",
+            "Aired": "August 7, 2008"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Nice and Breezy\"\nTransliteration: \"Sūsū suru no\" (Japanese: スースーするの)",
+            "Aired": "August 14, 2008"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"I Won't Forget You\"\nTransliteration: \"Kimi o Wasurenai\" (Japanese: 君を忘れない)",
+            "Aired": "August 21, 2008"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"What I Want to Protect\"\nTransliteration: \"Mamoritai Mono\" (Japanese: 守りたいもの)",
+            "Aired": "August 26, 2008"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"I Want You To Believe\"\nTransliteration: \"Shinjite Hoshii\" (Japanese: 信じてほしい)",
+            "Aired": "September 4, 2008"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Into the Sky...\"\nTransliteration: \"Sora e...\" (Japanese: 空へ...)",
+            "Aired": "September 11, 2008"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Strike Witches\"\nTransliteration: \"Sutoraiku Wicchīzu\" (Japanese: ストライクウィッチーズ)",
+            "Aired": "September 18, 2008"
+        }
+    ],
+    "Strike Witches 2": [
+        {
+            "Episode": "1",
+            "Title": "\"Into the Sky Once More\"\nTransliteration: \"Futatabi Sora e\" (Japanese: 再び空へ)",
+            "Aired": "July 8, 2010"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Legendary Witches\"\nTransliteration: \"Densetsu no Majotachi\" (Japanese: 伝説の魔女達)",
+            "Aired": "July 15, 2010"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"That Which We Can Do\"\nTransliteration: \"Issho ni Dekiru Koto\" (Japanese: 一緒にできること)",
+            "Aired": "July 22, 2010"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Hard, Fast, Amazing!\"\nTransliteration: \"Katai, Hayai, Monosugōi\" (Japanese: かたい、はやい、ものすご～い)",
+            "Aired": "July 29, 2010"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"My Romagna\"\nTransliteration: \"Watashi no Romānya\" (Japanese: 私のロマーニャ)",
+            "Aired": "August 5, 2010"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Higher than the Sky\"\nTransliteration: \"Sora yori Takaku\" (Japanese: 空より高く)",
+            "Aired": "August 12, 2010"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"It's All Creepy Crawly\"\nTransliteration: \"Mozomozo Suru no\" (Japanese: モゾモゾするの)",
+            "Aired": "August 19, 2010"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Please Grant Me Wings\"\nTransliteration: \"Tsubasa wo Kudasai\" (Japanese: 翼をください)",
+            "Aired": "August 26, 2010"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Bridge to Tomorrow\"\nTransliteration: \"Asu ni Kakeru Hashi\" (Japanese: 明日に架ける橋)",
+            "Aired": "September 2, 2010"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"500 Overs\"",
+            "Aired": "September 9, 2010"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"To Be Myself\"\nTransliteration: \"Watashi de Aru Tame Ni\" (Japanese: 私であるために)",
+            "Aired": "September 16, 2010"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Beyond the Eternal Skies\"\nTransliteration: \"Sora Yori Towa Ni\" (Japanese: 天空より永遠に)",
+            "Aired": "September 23, 2010"
+        }
+    ],
+    "Strike Witches: Road to Berlin": [
+        {
+            "Episode": "1",
+            "Title": "\"The Magical Girl of the Alps\"\nTransliteration: \"Arupusu no Mahō Shōjo\" (Japanese: アルプスの魔法少女)",
+            "Aired": "October 7, 2020"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Strike Witches Come Together\"\nTransliteration: \"Kessei Sutoraiku Witchīzu\" (Japanese: 結成ストライクウィッチーズ)",
+            "Aired": "October 14, 2020"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"What the Two of Us Can Do\"\nTransliteration: \"Futari Nara Dekiru Koto\" (Japanese: 二人ならできること)",
+            "Aired": "October 21, 2020"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Beyond Two Hundred Miles Per Hour\"\nTransliteration: \"Nihyaku Mairu no Mukō\" (Japanese: 200マイルの向こう)",
+            "Aired": "October 28, 2020"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Queen of Nederland\"\nTransliteration: \"Kwīn obu Nēderuranto\" (Japanese: クィーン・オブ・ネーデルラント)",
+            "Aired": "November 4, 2020"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Hounds of Vengeance\"\nTransliteration: \"Fukushū no Ryōken\" (Japanese: 復讐の猟犬)",
+            "Aired": "November 11, 2020"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"They Go Boing-Boing\"\nTransliteration: \"Poyon Poyon Suru no\" (Japanese: ポヨンポヨンするの)",
+            "Aired": "November 18, 2020"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Fog\"\nTransliteration: \"Za・Foggu\" (Japanese: ザ・フォッグ)",
+            "Aired": "November 25, 2020"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Mina's Sky\"\nTransliteration: \"Mīna no Sora\" (Japanese: ミーナの空)",
+            "Aired": "December 2, 2020"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Shizuka, Come In!\"\nTransliteration: \"Shizuka Ōtō Seyo\" (Japanese: 静夏応答せよ)",
+            "Aired": "December 9, 2020"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Road to Berlin\"\nTransliteration: \"Rōdo tu Berurin\" (Japanese: ロード・トゥ・ベルリン)",
+            "Aired": "December 16, 2020"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"I Still Want to Protect\"\nTransliteration: \"Sore de mo Watashi wa Mamoritai\" (Japanese: それでも私は守りたい)",
+            "Aired": "December 23, 2020"
+        }
+    ],
+    "Subete ga F ni Naru": [
+        {
+            "Episode": "1",
+            "Title": "\"White Meeting\"\n\"Shiroi Deai\" (白い面会)",
+            "Aired": "October 9, 2015"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Azure Encounter\"\n\"Aoiro no Kaikō\" (蒼色の邂逅)",
+            "Aired": "October 16, 2015"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Red Magic\"\n\"Akai Mahō\" (赤い魔法)",
+            "Aired": "October 23, 2015"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Rainbow-Colored Past\"\n\"Nijiiro no Kako\" (虹色の過去)",
+            "Aired": "October 30, 2015"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Silver Hope\"\n\"Gin'iro no Kibō\" (銀色の希望)",
+            "Aired": "November 6, 2015"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Crimson Resolve\"\n\"Shinku no Ketsui\" (真紅の決意)",
+            "Aired": "November 13, 2015"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Gray Boundary\"\n\"Haiiro no Kyōkai\" (灰色の境界)",
+            "Aired": "November 20, 2015"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Purple Dawn\"\n\"Murasakiiro no Yoake\" (紫色の夜明け)",
+            "Aired": "November 27, 2015"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Yellow Blind Spot\"\n\"Kiiro no Shikaku\" (黄色の死角)",
+            "Aired": "December 4, 2015"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Aster-Colored Truth\"\n\"Shion'iro no Shinjitsu\" (紫苑色の真実)",
+            "Aired": "December 11, 2015"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Colorless Weekend\"\n\"Mushoku no Shūmatsu\" (無色の週末)",
+            "Aired": "December 18, 2015"
+        }
+    ],
+    "Sugar Apple Fairy Tale": [
+        {
+            "Episode": "1",
+            "Title": "\"The Scarecrow and the Fairy\"\nTransliteration: \"Kakashi to Yōsei\" (Japanese: かかしと妖精)",
+            "Aired": "January 6, 2023"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Bloody Highway\"\nTransliteration: \"Buradi Kaidō\" (Japanese: ブラディ街道)",
+            "Aired": "January 13, 2023"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Sugar Apple Is the Tree of Betrayal\"\nTransliteration: \"Satō Ringo wa Uragiri no Ki\" (Japanese: 砂糖林檎は裏切りの木)",
+            "Aired": "January 20, 2023"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Fate of the Royal Medal\"\nTransliteration: \"Ōke Kunshō no Yukue\" (Japanese: 王家勲章の行方)",
+            "Aired": "January 27, 2023"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Anne and the Cat's Sugar Confectionery\"\nTransliteration: \"An to Neko no Satōgashiten\" (Japanese: アンと猫の砂糖菓子店)",
+            "Aired": "February 3, 2023"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Castle on the Sea\"\nTransliteration: \"Umibe no Shiro\" (Japanese: 海辺の城)",
+            "Aired": "February 10, 2023"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"A False Farewell\"\nTransliteration: \"Itsuwari no Sayonara\" (Japanese: いつわりのさよなら)",
+            "Aired": "February 17, 2023"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"If I Keep Gazing at You\"\nTransliteration: \"Anata o Mitsume Tsuzukereba\" (Japanese: あなたを見つめつづければ)",
+            "Aired": "February 24, 2023"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Radcliffe Workshop\"\nTransliteration: \"Radokurifu Kōbō\" (Japanese: ラドクリフ工房)",
+            "Aired": "March 3, 2023"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Young Lady of the Paige Workshop\"\nTransliteration: \"Peiji Kōbō no Reijō\" (Japanese: ペイジ工房の令嬢)",
+            "Aired": "March 10, 2023"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"That Which Should Be Made\"\nTransliteration: \"Tsukuru Beki Mono\" (Japanese: つくるべきもの)",
+            "Aired": "March 17, 2023"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"I Didn't Want to Let Go\"\nTransliteration: \"Hanashitakunakatta\" (Japanese: 離したくなかった)",
+            "Aired": "March 24, 2023"
+        }
+    ],
+    "Sugar Apple Fairy Tale Part 2": [
+        {
+            "Episode": "13",
+            "Title": "\"The Lake and the Green Workshop\"\nTransliteration: \"Kosui to Midori no Kōbō\" (Japanese: 湖水と緑の工房)",
+            "Aired": "July 7, 2023"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"Embarking on a Challenge Once Again\"\nTransliteration: \"Futatabi, Idomu Toki\" (Japanese: 再び、挑むとき)",
+            "Aired": "July 14, 2023"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Sugar Confections in the Service of Others\"\nTransliteration: \"Dareka no Tame no Satōgashi\" (Japanese: 誰かのための砂糖菓子)",
+            "Aired": "July 21, 2023"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"The First Silver Sugar\"\nTransliteration: \"Saisho no Gin Satō\" (Japanese: 最初の銀砂糖)",
+            "Aired": "July 28, 2023"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"The Castle with No Crest\"\nTransliteration: \"Monshō Naki Shiro\" (Japanese: 紋章なき城)",
+            "Aired": "August 4, 2023"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Ghosts Aren't Scary\"\nTransliteration: \"Yūrei Nanka Kowakunai\" (Japanese: 幽霊なんかこわくない)",
+            "Aired": "August 11, 2023"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Wanting Even a Cat's Help\"\nTransliteration: \"Neko no Te mo Karitai\" (Japanese: 猫の手も借りたい)",
+            "Aired": "August 18, 2023"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"A Purple Promise\"\nTransliteration: \"Murasaki no Yakusoku\" (Japanese: 紫の約束)",
+            "Aired": "August 25, 2023"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"The Red Fairy\"\nTransliteration: \"Akai Yōsei\" (Japanese: 赤い妖精)",
+            "Aired": "September 1, 2023"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Fairies and Humans and...\"\nTransliteration: \"Yōsei to Hito to\" (Japanese: 妖精と人と)",
+            "Aired": "September 8, 2023"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"The One to Become the Fairy King\"\nTransliteration: \"Yōsei Ō to Naru Mono\" (Japanese: 妖精王となる者)",
+            "Aired": "September 15, 2023"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"A New Form\"\nTransliteration: \"Atarashii Katachi\" (Japanese: 新しいかたち)",
+            "Aired": "September 22, 2023"
+        }
+    ],
+    "Suki na Ko ga Megane wo Wasureta": [
+        {
+            "Episode": "1",
+            "Title": "\"The Girl I Like Forgot Her Glasses\"\nTransliteration: \"Suki na Ko ga Megane o Wasureta\" (Japanese: 好きな子がめがねを忘れた)",
+            "Aired": "July 4, 2023"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"The Girl I Like Asked Me Out\"\nTransliteration: \"Suki na Ko ni Yobidasareta\" (Japanese: 好きな子に呼び出された)",
+            "Aired": "July 11, 2023"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Girl I Like Picked Up a Love Letter\"\nTransliteration: \"Suki na Ko ga Rabu Retā o Hirotta\" (Japanese: 好きな子がラブレターを拾った)",
+            "Aired": "July 18, 2023"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"I Chose a Pair of Glasses for the Girl I Like\"\nTransliteration: \"Suki na Ko no Megane o Eranda\" (Japanese: 好きな子のめがねを選んだ)",
+            "Aired": "July 25, 2023"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"I Met with the Girl I Like on Valentine's Day\"\nTransliteration: \"Suki na Ko to Barentain Dē ni Atta\" (Japanese: 好きな子とバレンタインデーに会った)",
+            "Aired": "August 1, 2023"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"The Girl I Like and I Welcomed the New School Term\"\nTransliteration: \"Suki na Ko to Shin Gakki o Mukaeta\" (Japanese: 好きな子と新学期を迎えた)",
+            "Aired": "August 8, 2023"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"I Brought Home the Girl I Like's Glasses\"\nTransliteration: \"Suki na Ko no Megane o Motte Kaetta\" (Japanese: 好きな子のめがねを持って帰った)",
+            "Aired": "August 15, 2023"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Girl I Like and I Saw a Confession Together\"\nTransliteration: \"Suki na Ko to Kokuhaku o Miteshimatta\" (Japanese: 好きな子と告白を見てしまった)",
+            "Aired": "August 22, 2023"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"I Went on a Field Trip with the Girl I Like\"\nTransliteration: \"Suki na Ko to Kōgai Gakushū ni Itta\" (Japanese: 好きな子と校外学習に行った)",
+            "Aired": "August 29, 2023"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Girl I Like Had a Request\"\nTransliteration: \"Suki na Ko ni Onegai Sareta\" (Japanese: 好きな子にお願いされた)",
+            "Aired": "September 5, 2023"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"On the Day of the Cultural Festival, The Girl I Like and I...\"\nTransliteration: \"Suki na Ko to Bunkasai no Hi ni\" (Japanese: 好きな子と文化祭の日に)",
+            "Aired": "September 12, 2023"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"I Wanted to Practice Cooking with the Girl I Like\"\nTransliteration: \"Suki na Ko to Chōri Jisshū Shitakatta\" (Japanese: 好きな子と調理実習したかった)",
+            "Aired": "September 19, 2023"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"The Girl I Like and I Made a Promise\"\nTransliteration: \"Suki na Ko to Yakusoku o Shita\" (Japanese: 好きな子と約束をした)",
+            "Aired": "September 26, 2023"
+        }
+    ],
+    "Summer Ghost": [
+        {
+            "Episode": "1",
+            "Title": "Movie",
+            "Aired": "Nov 12, 2021"
+        }
+    ],
+    "Summertime Render": [
+        {
+            "Episode": "1",
+            "Title": "\"Goodbye, Summer Days\"\nTransliteration: \"Sayonara Natsu no Hi\" (Japanese: さよなら夏の日)",
+            "Aired": "April 15, 2022"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Shadows\"\nTransliteration: \"Kage\" (Japanese: 影)",
+            "Aired": "April 22, 2022"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Drifting Ashore\"\nTransliteration: \"Hyōchaku\" (Japanese: 漂着)",
+            "Aired": "April 29, 2022"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Jamais-vu\"\nTransliteration: \"Jame-vu\" (Japanese: 未視感ジャメヴ)",
+            "Aired": "May 6, 2022"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Maelstrom\"\nTransliteration: \"Uzu\" (Japanese: 渦)",
+            "Aired": "May 13, 2022"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Orbital Resonance\"\nTransliteration: \"Kidō Kyōmei\" (Japanese: 軌道共鳴)",
+            "Aired": "May 20, 2022"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Deadly Enemy\"\nTransliteration: \"Kyūteki\" (Japanese: 仇敵)",
+            "Aired": "May 27, 2022"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Memento\"\nTransliteration: \"Memento\" (Japanese: メメント)",
+            "Aired": "June 3, 2022"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"My Flowing Tears\"\nTransliteration: \"Nagareyo Waga Namida\" (Japanese: 流れよ我が涙)",
+            "Aired": "June 10, 2022"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Into the Darkness\"\nTransliteration: \"Yami no Naka e\" (Japanese: 闇の中へ)",
+            "Aired": "June 17, 2022"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Dinner Time\"\nTransliteration: \"Shokuji no Jikan\" (Japanese: 食餌しょくじの時間)",
+            "Aired": "June 24, 2022"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Bloody Night\"\nTransliteration: \"Chi no Yoru\" (Japanese: 血の夜)",
+            "Aired": "July 1, 2022"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Friends\"\nTransliteration: \"Tomodachi\" (Japanese: トモダチ)",
+            "Aired": "July 8, 2022"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"to be/not to be\"",
+            "Aired": "July 15, 2022"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Lights, Camera, Action\"\nTransliteration: \"Raitsu, Kamera, Akushon\" (Japanese: ライツ カメラ アクション)",
+            "Aired": "July 22, 2022"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Original\"\nTransliteration: \"Orijinaru\" (Japanese: オリジナル)",
+            "Aired": "July 29, 2022"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Determination\"\nTransliteration: \"Ketsudan\" (Japanese: 決断)",
+            "Aired": "August 5, 2022"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Face to Face\"\nTransliteration: \"Taimen\" (Japanese: 対面)",
+            "Aired": "August 12, 2022"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Made in Black\"\nTransliteration: \"Meido in Burakku\" (Japanese: メイドインブラック)",
+            "Aired": "August 19, 2022"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"All is (not) lost.\"",
+            "Aired": "August 26, 2022"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Shinpei Ajiro's Longest Day\"\nTransliteration: \"Ajiro Shinpei no Ichiban Nagai Hi\" (Japanese: 網代慎平の一番長い日)",
+            "Aired": "September 2, 2022"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Return\"\nTransliteration: \"Hōmukamingu\" (Japanese: 帰還)",
+            "Aired": "September 9, 2022"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Everlasting Night\"\nTransliteration: \"Tokoyo\" (Japanese: 常世)",
+            "Aired": "September 16, 2022"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"Summertime re-rendering\"",
+            "Aired": "September 23, 2022"
+        },
+        {
+            "Episode": "25",
+            "Title": "\"I'm Home\"\nTransliteration: \"Tadaima\" (Japanese: 「ただいま」)",
+            "Aired": "September 30, 2022"
+        }
+    ],
+    "Super Cub": [
+        {
+            "Episode": "1",
+            "Title": "\"The Girl with Nothing\"\nTransliteration: \"Nainai no Onna no Ko\" (Japanese: ないないの女の子)",
+            "Aired": "April 7, 2021"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Reiko\"\nTransliteration: \"Reiko\" (Japanese: 礼子)",
+            "Aired": "April 14, 2021"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Things Received\"\nTransliteration: \"Moratta Mono\" (Japanese: もらったもの)",
+            "Aired": "April 21, 2021"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Job\"\nTransliteration: \"Arubaito\" (Japanese: アルバイト)",
+            "Aired": "April 28, 2021"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Reiko's Summer\"\nTransliteration: \"Reiko no Natsu\" (Japanese: 礼子の夏)",
+            "Aired": "May 5, 2021"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"My Cub\"\nTransliteration: \"Watashi no Kabu\" (Japanese: 私のカブ)",
+            "Aired": "May 12, 2021"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Girl of Summer-Sky Aqua\"\nTransliteration: \"Natsuzora no Iro, Mizuiro no Shōjo\" (Japanese: 夏空の色、水色の少女)",
+            "Aired": "May 19, 2021"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Shii's Place\"\nTransliteration: \"Shii no Basho\" (Japanese: 椎の場所)",
+            "Aired": "May 26, 2021"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"In Ice\"\nTransliteration: \"Kōri no Naka\" (Japanese: 氷の中)",
+            "Aired": "June 2, 2021"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Snow\"\nTransliteration: \"Yuki\" (Japanese: 雪)",
+            "Aired": "June 9, 2021"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"A Distant Spring\"\nTransliteration: \"Tōi Haru\" (Japanese: 遠い春)",
+            "Aired": "June 16, 2021"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Super Cub\"\nTransliteration: \"Sūpā Kabu\" (Japanese: スーパーカブ)",
+            "Aired": "June 23, 2021"
+        }
+    ],
+    "Suzume no Tojimari": [
+        {
+            "Episode": "1",
+            "Title": "Movie",
+            "Aired": "Nov 11, 2022"
+        }
+    ],
+    "Sword Art Online": [
+        {
+            "Episode": "1",
+            "Title": "\"The World of Swords\"\nTransliteration: \"Ken no Sekai\" (Japanese: 剣の世界)",
+            "Aired": "July 28, 2013"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Beater\"\nTransliteration: \"Bītā\" (Japanese: ビーター)",
+            "Aired": "August 4, 2013"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"The Red-Nosed Reindeer\"\nTransliteration: \"Akahana no Tonakai\" (Japanese: 赤鼻のトナカイ)",
+            "Aired": "August 11, 2013"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Black Swordsman\"\nTransliteration: \"Kuro no Kenshi\" (Japanese: 黒の剣士)",
+            "Aired": "August 18, 2013"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Murder in the Safe Zone\"\nTransliteration: \"Kennai Jiken\" (Japanese: 圏内事件)",
+            "Aired": "August 25, 2013"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Illusionary Avenger\"\nTransliteration: \"Maboroshi no Fukushū-sha\" (Japanese: 幻の復讐者)",
+            "Aired": "September 8, 2013"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"The Temperature of the Heart\"\nTransliteration: \"Kokoro no Ondo\" (Japanese: 心の温度)",
+            "Aired": "September 15, 2013"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"The Sword Dance of Black and White\"\nTransliteration: \"Kuro to Shiro no Kenbu\" (Japanese: 黒と白の剣舞)",
+            "Aired": "September 22, 2013"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Blue-Eyed Demon\"\nTransliteration: \"Seigan no Akuma\" (Japanese: 青眼の悪魔)",
+            "Aired": "September 29, 2013"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Crimson Killing Intent\"\nTransliteration: \"Kurenai no Satsui\" (Japanese: 紅の殺意)",
+            "Aired": "October 6, 2013"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Girl of the Morning Dew\"\nTransliteration: \"Asatsuyu no Shōjo\" (Japanese: 朝露の少女)",
+            "Aired": "October 13, 2013"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Yui's Heart\"\nTransliteration: \"Yui no Kokoro\" (Japanese: ユイの心)",
+            "Aired": "October 20, 2013"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Edge of Hell's Abyss\"\nTransliteration: \"Naraku no Fuchi\" (Japanese: 奈落の淵)",
+            "Aired": "October 27, 2013"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"The End of the World\"\nTransliteration: \"Sekai no Shūen\" (Japanese: 世界の終焉)",
+            "Aired": "November 3, 2013"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Return\"\nTransliteration: \"Kikan\" (Japanese: 帰還)",
+            "Aired": "November 10, 2013"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Land of the Fairies\"\nTransliteration: \"Yōsei-tachi no Kuni\" (Japanese: 妖精たちの国)",
+            "Aired": "November 17, 2013"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Captive Queen\"\nTransliteration: \"Toraware no Joō\" (Japanese: 囚われの女王)",
+            "Aired": "November 24, 2013"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"To the World Tree\"\nTransliteration: \"Sekaiju e\" (Japanese: 世界樹へ)",
+            "Aired": "December 1, 2013"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"The Legrue Corridor\"\nTransliteration: \"Rugurū Kairō\" (Japanese: ルグルー回廊)",
+            "Aired": "January 5, 2014[c][37]"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"General of the Blazing Flame\"\nTransliteration: \"Mōen no Shō\" (Japanese: 猛炎の将)",
+            "Aired": "January 12, 2014[39]"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"The Truth About Alfheim\"\nTransliteration: \"Aruvuheimu no Shinjitsu\" (Japanese: アルヴヘイムの真実)",
+            "Aired": "January 19, 2014[41]"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"The Grand Quest\"\nTransliteration: \"Gurando Kuesuto\" (Japanese: グランド・クエスト)",
+            "Aired": "January 26, 2014[43]"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Bonds\"\nTransliteration: \"Kizuna\" (Japanese: 絆)",
+            "Aired": "February 2, 2014[45]"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"Gilded Hero\"\nTransliteration: \"Mekki no Yūsha\" (Japanese: 鍍金の勇者)",
+            "Aired": "February 9, 2014[47]"
+        },
+        {
+            "Episode": "25",
+            "Title": "\"The World Seed\"\nTransliteration: \"Sekai no Shushi\" (Japanese: 世界の種子)",
+            "Aired": "February 16, 2014[49]"
+        }
+    ],
+    "Sword Art Online II": [
+        {
+            "Episode": "26",
+            "Title": "\"The World of Guns\"\nTransliteration: \"Jū no Sekai\" (Japanese: 銃の世界)",
+            "Aired": "March 29, 2015[57]"
+        },
+        {
+            "Episode": "27",
+            "Title": "\"Cold-Hearted Sniper\"\nTransliteration: \"Kōri no Sogeki Shu\" (Japanese: 氷の狙撃手)",
+            "Aired": "April 5, 2015"
+        },
+        {
+            "Episode": "28",
+            "Title": "\"Memories of Blood\"\nTransliteration: \"Senketsu no Kioku\" (Japanese: 鮮血の記憶)",
+            "Aired": "April 12, 2015"
+        },
+        {
+            "Episode": "29",
+            "Title": "\"GGO\"",
+            "Aired": "April 19, 2015"
+        },
+        {
+            "Episode": "30",
+            "Title": "\"Guns and Swords\"\nTransliteration: \"Jū to Ken\" (Japanese: 銃と剣)",
+            "Aired": "April 26, 2015"
+        },
+        {
+            "Episode": "31",
+            "Title": "\"Showdown in the Wilderness[64]\"\nTransliteration: \"Kōya no Kettō\" (Japanese: 曠野の決闘)",
+            "Aired": "May 3, 2015"
+        },
+        {
+            "Episode": "32",
+            "Title": "\"Crimson Memories\"\nTransliteration: \"Kurenai no Kioku\" (Japanese: 紅の記憶)",
+            "Aired": "May 10, 2015"
+        },
+        {
+            "Episode": "33",
+            "Title": "\"Bullet of Bullets\"\nTransliteration: \"Baretto obu Barettsu\" (Japanese: バレット・オブ・バレッツ)",
+            "Aired": "May 17, 2015"
+        },
+        {
+            "Episode": "34",
+            "Title": "\"Death Gun\"\nTransliteration: \"Desu Gan\" (Japanese: デス·ガン)",
+            "Aired": "May 31, 2015"
+        },
+        {
+            "Episode": "35",
+            "Title": "\"Death Chaser\"\nTransliteration: \"Shi no Tsuigeki-sha\" (Japanese: 死の追撃者)",
+            "Aired": "June 7, 2015"
+        },
+        {
+            "Episode": "36",
+            "Title": "\"What It Means to Be Strong\"\nTransliteration: \"Tsuyosa no Imi\" (Japanese: 強さの意味)",
+            "Aired": "June 14, 2015"
+        },
+        {
+            "Episode": "37",
+            "Title": "\"Bullet of a Phantom\"\nTransliteration: \"Maboroshi no Jūdan\" (Japanese: 幻の銃弾)",
+            "Aired": "June 21, 2015"
+        },
+        {
+            "Episode": "38",
+            "Title": "\"Phantom Bullet\"\nTransliteration: \"Fantomu Baretto\" (Japanese: ファントム・バレット)",
+            "Aired": "June 28, 2015"
+        },
+        {
+            "Episode": "39",
+            "Title": "\"One Little Step\"\nTransliteration: \"Chisana Ippo\" (Japanese: 小さな一歩)",
+            "Aired": "July 12, 2015"
+        },
+        {
+            "Episode": "40",
+            "Title": "\"The Queen of the Lake\"\nTransliteration: \"Mizuumi no Joō\" (Japanese: 湖の女王)",
+            "Aired": "July 19, 2015"
+        },
+        {
+            "Episode": "41",
+            "Title": "\"The King of the Giants\"\nTransliteration: \"Kyojin no Ō\" (Japanese: 巨人の王)",
+            "Aired": "July 26, 2015"
+        },
+        {
+            "Episode": "42",
+            "Title": "\"Excalibur\"\nTransliteration: \"Ekusukyaribā\" (Japanese: エクスキャリバー)",
+            "Aired": "August 2, 2015"
+        },
+        {
+            "Episode": "43",
+            "Title": "\"Forest House\"\nTransliteration: \"Mori no Ie\" (Japanese: 森の家)",
+            "Aired": "August 9, 2015"
+        },
+        {
+            "Episode": "44",
+            "Title": "\"Zekken\"\n(Japanese: 絶剣)",
+            "Aired": "August 16, 2015"
+        },
+        {
+            "Episode": "45",
+            "Title": "\"Sleeping Knights\"\nTransliteration: \"Surīpingu Naitsu\" (Japanese: スリーピング・ナイツ)",
+            "Aired": "August 23, 2015"
+        },
+        {
+            "Episode": "46",
+            "Title": "\"Swordsman's Memorial\"\nTransliteration: \"Kenshi no Hi\" (Japanese: 剣士の碑)",
+            "Aired": "August 30, 2015"
+        },
+        {
+            "Episode": "47",
+            "Title": "\"Journey's End\"\nTransliteration: \"Tabiji no Hate\" (Japanese: 旅路の果て)",
+            "Aired": "September 13, 2015"
+        },
+        {
+            "Episode": "48",
+            "Title": "\"Beginning of a Dream\"\nTransliteration: \"Yume no Hajimari\" (Japanese: 夢の始まり)",
+            "Aired": "September 20, 2015"
+        },
+        {
+            "Episode": "49",
+            "Title": "\"Mother's Rosario\"\nTransliteration: \"Mazāzu Rozario\" (Japanese: マザーズ・ロザリオ)",
+            "Aired": "September 27, 2015"
+        }
+    ],
+    "Sword Art Online: Alicization": [
+        {
+            "Episode": "50",
+            "Title": "\"Underworld\"\nTransliteration: \"Andāwārudo\" (Japanese: アンダーワールド)",
+            "Aired": "February 10, 2019[86]"
+        },
+        {
+            "Episode": "51",
+            "Title": "\"The Demon Tree\"\nTransliteration: \"Akuma no Ki\" (Japanese: 悪魔の樹)",
+            "Aired": "February 17, 2019"
+        },
+        {
+            "Episode": "52",
+            "Title": "\"The End Mountains\"\nTransliteration: \"Hate no Sanmyaku\" (Japanese: 果ての山脈)",
+            "Aired": "February 24, 2019"
+        },
+        {
+            "Episode": "53",
+            "Title": "\"Departure\"\nTransliteration: \"Tabidachi\" (Japanese: 旅立ち)",
+            "Aired": "March 3, 2019"
+        },
+        {
+            "Episode": "54",
+            "Title": "\"Ocean Turtle\"\nTransliteration: \"Ōshan Tātoru\" (Japanese: オーシャン・タートル)",
+            "Aired": "March 10, 2019"
+        },
+        {
+            "Episode": "55",
+            "Title": "\"Project Alicization\"\nTransliteration: \"Arishiazēshon Keikaku\" (Japanese: アリシアゼーション計画)",
+            "Aired": "March 24, 2019[j]"
+        },
+        {
+            "Episode": "56",
+            "Title": "\"Swordcraft Academy\"\nTransliteration: \"Ken no Manabiya\" (Japanese: 剣の学び舎)",
+            "Aired": "March 31, 2019"
+        },
+        {
+            "Episode": "57",
+            "Title": "\"Swordsman's Pride\"\nTransliteration: \"Kenshi no Kyōji\" (Japanese: 剣士の矜持)",
+            "Aired": "March 31, 2019"
+        },
+        {
+            "Episode": "58",
+            "Title": "\"Nobleman's Responsibilities\"\nTransliteration: \"Kizoku no Sekimu\" (Japanese: 貴族の責務)",
+            "Aired": "April 7, 2019"
+        },
+        {
+            "Episode": "59",
+            "Title": "\"Taboo Index\"\nTransliteration: \"Kinki Mokuroku\" (Japanese: 禁忌目録)",
+            "Aired": "April 7, 2019"
+        },
+        {
+            "Episode": "60",
+            "Title": "\"Central Cathedral\"\nTransliteration: \"Sentoraru Kasedoraru\" (Japanese: セントラル・カセドラル)",
+            "Aired": "April 14, 2019"
+        },
+        {
+            "Episode": "61",
+            "Title": "\"The Sage of the Library\"\nTransliteration: \"Tosho-shitsu no Kenja\" (Japanese: 図書室の賢者)",
+            "Aired": "April 21, 2019"
+        },
+        {
+            "Episode": "62",
+            "Title": "\"Ruler and Mediator\"\nTransliteration: \"Shihai-sha to Chōtei-sha\" (Japanese: 支配者と調停者)",
+            "Aired": "April 28, 2019"
+        },
+        {
+            "Episode": "63",
+            "Title": "\"The Crimson Knight\"\nTransliteration: \"Guren no Kishi\" (Japanese: 紅蓮の騎士)",
+            "Aired": "May 5, 2019"
+        },
+        {
+            "Episode": "64",
+            "Title": "\"The Relentless Knight\"\nTransliteration: \"Retsujitsu no Kishi\" (Japanese: 烈日の騎士)",
+            "Aired": "May 12, 2019"
+        },
+        {
+            "Episode": "65",
+            "Title": "\"The Osmanthus Knight\"\nTransliteration: \"Kinmokusei no Kishi\" (Japanese: 金木犀の騎士)",
+            "Aired": "May 19, 2019"
+        },
+        {
+            "Episode": "66",
+            "Title": "\"Truce\"\nTransliteration: \"Kyūsen Kyōtei\" (Japanese: 休戦協定)",
+            "Aired": "May 26, 2019"
+        },
+        {
+            "Episode": "67",
+            "Title": "\"The Legendary Hero\"\nTransliteration: \"Densetsu no Eiyū\" (Japanese: 伝説の英雄)",
+            "Aired": "June 2, 2019"
+        },
+        {
+            "Episode": "68",
+            "Title": "\"The Seal of the Right Eye\"\nTransliteration: \"Migime no Fūin\" (Japanese: 右目の封印)",
+            "Aired": "June 9, 2019"
+        },
+        {
+            "Episode": "69",
+            "Title": "\"Synthesis\"\nTransliteration: \"Shinsesaizu\" (Japanese: シンセサイズ)",
+            "Aired": "June 16, 2019"
+        },
+        {
+            "Episode": "70",
+            "Title": "\"The 32nd Knight\"\nTransliteration: \"San jū ni-banme no kishi\" (Japanese: 三十二番目の騎士)",
+            "Aired": "June 23, 2019"
+        },
+        {
+            "Episode": "71",
+            "Title": "\"Titan of the Sword\"\nTransliteration: \"Ken no Kyojin\" (Japanese: 剣の巨人)",
+            "Aired": "June 30, 2019"
+        },
+        {
+            "Episode": "72",
+            "Title": "\"Administrator\"\nTransliteration: \"Adominisutorēta\" (Japanese: アドミニストレータ)",
+            "Aired": "July 7, 2019"
+        },
+        {
+            "Episode": "73",
+            "Title": "\"My Hero\"\nTransliteration: \"Boku no Eiyū\" (Japanese: ぼくの英雄)",
+            "Aired": "July 14, 2019"
+        }
+    ],
+    "Sword Art Online: Alicization - War of Underworld": [
+        {
+            "Episode": "74",
+            "Title": "\"In the Far North\"\nTransliteration: \"Kita no Ji Nite\" (Japanese: 北の地にて)",
+            "Aired": "January 19, 2020[115]"
+        },
+        {
+            "Episode": "75",
+            "Title": "\"Raids\"\nTransliteration: \"Shuugeki\" (Japanese: 襲撃)",
+            "Aired": "January 26, 2020"
+        },
+        {
+            "Episode": "76",
+            "Title": "\"The Final Load Test\"\nTransliteration: \"Saishū Fuka Jikken\" (Japanese: 最終負荷実験)",
+            "Aired": "February 2, 2020"
+        },
+        {
+            "Episode": "77",
+            "Title": "\"Dark Territory\"\nTransliteration: \"Dāku Teritorī\" (Japanese: ダークテリトリー)",
+            "Aired": "February 9, 2020"
+        },
+        {
+            "Episode": "78",
+            "Title": "\"The Night Before Battle\"\nTransliteration: \"Kaisen Zenya\" (Japanese: 開戦前夜)",
+            "Aired": "February 16, 2020"
+        },
+        {
+            "Episode": "79",
+            "Title": "\"Battle of the Knights\"\nTransliteration: \"Kishi-tachi no Tatakai\" (Japanese: 騎士たちの戦い)",
+            "Aired": "February 23, 2020"
+        },
+        {
+            "Episode": "80",
+            "Title": "\"Stigma of the Disqualified\"\nTransliteration: \"Shikkaku-sha no Rakuin\" (Japanese: 失格者の烙印)",
+            "Aired": "March 1, 2020"
+        },
+        {
+            "Episode": "81",
+            "Title": "\"Blood and Life\"\nTransliteration: \"Chi to Inochi\" (Japanese: 血と命)",
+            "Aired": "March 8, 2020"
+        },
+        {
+            "Episode": "82",
+            "Title": "\"Sword and Fist\"\nTransliteration: \"Ken to Ken\" (Japanese: 剣と拳)",
+            "Aired": "March 15, 2020"
+        },
+        {
+            "Episode": "83",
+            "Title": "\"Stacia, the Goddess of Creation\"\nTransliteration: \"Sōsei Shin Suteishia\" (Japanese: 創世神ステイシア)",
+            "Aired": "March 22, 2020"
+        },
+        {
+            "Episode": "84",
+            "Title": "\"Heartless Choice\"\nTransliteration: \"Hijō no Sentaku\" (Japanese: 非情の選択)",
+            "Aired": "March 29, 2020"
+        },
+        {
+            "Episode": "85",
+            "Title": "\"Ray of Light\"\nTransliteration: \"Hitosuji no Hikari\" (Japanese: 一筋の光)",
+            "Aired": "April 5, 2020"
+        }
+    ],
+    "Sword Art Online: Alicization - War of Underworld 2nd Season": [
+        {
+            "Episode": "86",
+            "Title": "\"The War of Underworld\"\nTransliteration: \"Andāwārudo Taisen\" (Japanese: アンダーワールド大戦)",
+            "Aired": "November 8, 2020[13]"
+        },
+        {
+            "Episode": "87",
+            "Title": "\"End to Eternity\"\nTransliteration: \"Mugen no Hate\" (Japanese: 無限の果て)",
+            "Aired": "November 15, 2020"
+        },
+        {
+            "Episode": "88",
+            "Title": "\"Instigation\"\nTransliteration: \"Sendō\" (Japanese: 扇動)",
+            "Aired": "November 22, 2020"
+        },
+        {
+            "Episode": "89",
+            "Title": "\"Code 871\"\nTransliteration: \"Kōdo Hachi-Nana-Ichi\" (Japanese: コード871)",
+            "Aired": "December 6, 2020"
+        },
+        {
+            "Episode": "90",
+            "Title": "\"Prince of Hell\"\nTransliteration: \"Akuma no Ko\" (Japanese: 悪魔の子)",
+            "Aired": "December 13, 2020"
+        },
+        {
+            "Episode": "91",
+            "Title": "\"Memories\"\nTransliteration: \"Kioku\" (Japanese: 記憶)",
+            "Aired": "January 3, 2021"
+        },
+        {
+            "Episode": "92",
+            "Title": "\"Awakening\"\nTransliteration: \"Kakusei\" (Japanese: 覚醒)",
+            "Aired": "January 10, 2021"
+        },
+        {
+            "Episode": "93",
+            "Title": "\"The Night-Sky Blade\"\nTransliteration: \"Yozora no Ken\" (Japanese: 夜空の剣)",
+            "Aired": "January 17, 2021"
+        },
+        {
+            "Episode": "94",
+            "Title": "\"Beyond Time\"\nTransliteration: \"Toki no Kanata\" (Japanese: 時の彼方)",
+            "Aired": "January 24, 2021"
+        },
+        {
+            "Episode": "95",
+            "Title": "\"Alice\"\nTransliteration: \"Arisu\" (Japanese: アリス)",
+            "Aired": "January 31, 2021"
+        },
+        {
+            "Episode": "96",
+            "Title": "\"New World\"\nTransliteration: \"Nyū Wārudo\" (Japanese: ニューワールド)",
+            "Aired": "February 7, 2021"
+        }
+    ],
+    "Synduality: Noir": [
+        {
+            "Episode": "1",
+            "Title": "\"My name is...\"",
+            "Aired": "July 11, 2023"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"My master\"",
+            "Aired": "July 18, 2023"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Behind the mask\"",
+            "Aired": "July 25, 2023"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Wild daisy\"",
+            "Aired": "August 1, 2023"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Drifting the maze\"",
+            "Aired": "August 8, 2023"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Dice is cast\"",
+            "Aired": "August 15, 2023"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"My dear...\"",
+            "Aired": "August 22, 2023"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Pure dream\"",
+            "Aired": "August 29, 2023"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Legendary hero\"",
+            "Aired": "September 5, 2023"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Drifter's pride\"",
+            "Aired": "September 12, 2023"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Storm of A.I.\"",
+            "Aired": "September 19, 2023"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"Mirage of the Ideal\"",
+            "Aired": "September 26, 2023"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"Double cast\"",
+            "Aired": "January 9, 2024"
+        },
+        {
+            "Episode": "14",
+            "Title": "\"Mysterious journey\"",
+            "Aired": "January 16, 2024"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Duel of Fates\"",
+            "Aired": "January 23, 2024"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Noir Rain\"",
+            "Aired": "January 30, 2024"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Greyish zone\"",
+            "Aired": "February 6, 2024"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Beyond the sky\"",
+            "Aired": "February 13, 2024"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Body double\"",
+            "Aired": "February 20, 2024"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Their narratives\"",
+            "Aired": "February 27, 2024"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Your song\"",
+            "Aired": "March 5, 2024"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"Gravity coffin\"",
+            "Aired": "March 12, 2024[e]"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Over the limit\"",
+            "Aired": "March 19, 2024[f]"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"My name is... Noir\nDrifters again\"",
+            "Aired": "March 26, 2024[e]"
+        }
+    ],
+    "Taboo Tattoo": [
+        {
+            "Episode": "1",
+            "Title": "\"Tattoo\"\nTransliteration: \"Jumon\" (Japanese: 呪紋)",
+            "Aired": "July 4, 2016"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Surprise Attack\"\nTransliteration: \"Kyūshū\" (Japanese: 急襲)",
+            "Aired": "July 11, 2016"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Misery Loves Company\"\nTransliteration: \"Dōbyōsōren\" (Japanese: 同病相憐)",
+            "Aired": "July 18, 2016"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"Distance\"\nTransliteration: \"Kyori\" (Japanese: 距離)",
+            "Aired": "July 25, 2016"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"Rescue\"\nTransliteration: \"Dakkan\" (Japanese: 奪還)",
+            "Aired": "August 1, 2016"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Reunion\"\nTransliteration: \"Saikai\" (Japanese: 再会)",
+            "Aired": "August 8, 2016"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Storm\"\nTransliteration: \"Arashi\" (Japanese: 嵐)",
+            "Aired": "August 15, 2016"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Creator\"\nTransliteration: \"Sōzō-sha\" (Japanese: (創造者)",
+            "Aired": "August 22, 2016"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"The Past\"\nTransliteration: \"Kako\" (Japanese: 過去)",
+            "Aired": "August 29, 2016"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"Letter of Challenge\"\nTransliteration: \"Chōsen-jō\" (Japanese: 挑戦状)",
+            "Aired": "September 5, 2016"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"In the Palm of the Hand\"\nTransliteration: \"Shōjō\" (Japanese: 掌上)",
+            "Aired": "September 12, 2016"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"The Deciding Battle\"\nTransliteration: \"Kessen\" (Japanese: 決戦)",
+            "Aired": "September 19, 2016"
+        }
+    ],
+    "Taifuu no Noruda": [
+        {
+            "Episode": "1",
+            "Title": "Movie",
+            "Aired": "Jun 5, 2015"
+        }
+    ],
+    "Tales of Zestiria the Cross": [
+        {
+            "Episode": "1",
+            "Title": "\"Age of Chaos\"\nTransliteration: \"Saiyaku no Jidai\" (Japanese: 災厄の時代)",
+            "Aired": "July 3, 2016"
+        },
+        {
+            "Episode": "2",
+            "Title": "\"Capital of Seraphim\"\nTransliteration: \"Ten no Miyako\" (Japanese: 天の都)",
+            "Aired": "July 10, 2016"
+        },
+        {
+            "Episode": "3",
+            "Title": "\"Elysia\"\nTransliteration: \"Izuchi\" (Japanese: イズチ)",
+            "Aired": "July 17, 2016"
+        },
+        {
+            "Episode": "4",
+            "Title": "\"The Sacred Blade Festival\"\nTransliteration: \"Seiken-sai\" (Japanese: 聖剣祭)",
+            "Aired": "July 24, 2016"
+        },
+        {
+            "Episode": "5",
+            "Title": "\"The Shepherd's Destiny\"\nTransliteration: \"Dōshi no Sadame\" (Japanese: 導師のさだめ)",
+            "Aired": "July 31, 2016"
+        },
+        {
+            "Episode": "6",
+            "Title": "\"Dawn of Chaos\"\nTransliteration: \"Saiyaku no Hajimari\" (Japanese: 災厄のはじまり)",
+            "Aired": "August 7, 2016"
+        },
+        {
+            "Episode": "7",
+            "Title": "\"Velvet Crowe\"\nTransliteration: \"Berubetto Kurau\" (Japanese: ベルベット・クラウ)",
+            "Aired": "August 14, 2016"
+        },
+        {
+            "Episode": "8",
+            "Title": "\"Each One's Feelings\"\nTransliteration: \"Sorezore no Omoi\" (Japanese: それぞれの想い)",
+            "Aired": "August 21, 2016"
+        },
+        {
+            "Episode": "9",
+            "Title": "\"Rayfalke Spiritcrest\"\nTransliteration: \"Reihō Reiforuku\" (Japanese: 霊峰レイフォルク)",
+            "Aired": "August 28, 2016"
+        },
+        {
+            "Episode": "10",
+            "Title": "\"The Plagued City\"\nTransliteration: \"Ekibyō no Machi\" (Japanese: 疫病の街)",
+            "Aired": "September 4, 2016"
+        },
+        {
+            "Episode": "11",
+            "Title": "\"Alisha Diphda\"\nTransliteration: \"Arīsha Difuda\" (Japanese: アリーシャ・ディフダ)",
+            "Aired": "September 11, 2016"
+        },
+        {
+            "Episode": "12",
+            "Title": "\"The War\"\nTransliteration: \"Sensō\" (Japanese: 戦争)",
+            "Aired": "September 18, 2016"
+        },
+        {
+            "Episode": "13",
+            "Title": "\"The Lord of Calamity\"\nTransliteration: \"Saika no Kenshu\" (Japanese: 災禍の顕主)",
+            "Aired": "September 25, 2016"
+        }
+    ],
+    "Tales of Zestiria the Cross 2nd Season": [
+        {
+            "Episode": "14",
+            "Title": "\"World without Malevolence\"\nTransliteration: \"Kegarenaki Sekai\" (Japanese: 穢れなき世界)",
+            "Aired": "January 8, 2017"
+        },
+        {
+            "Episode": "15",
+            "Title": "\"Wind Seraph, Dezel\"\nTransliteration: \"Kaze no Ten-zoku Dezeru\" (Japanese: 風の天族デゼル)",
+            "Aired": "January 15, 2017"
+        },
+        {
+            "Episode": "16",
+            "Title": "\"Each One's Principles\"\nTransliteration: \"Sorezore no Tetsugaku\" (Japanese: それぞれの哲学)",
+            "Aired": "January 22, 2017"
+        },
+        {
+            "Episode": "17",
+            "Title": "\"Revenge\"\nTransliteration: \"Fukushū\" (Japanese: 復讐)",
+            "Aired": "January 29, 2017"
+        },
+        {
+            "Episode": "18",
+            "Title": "\"Justice at Hand rather than Ideal beyond One's Reach\"\nTransliteration: \"Todokanai Risō yori Me no Mae no Seigi\" (Japanese: 届かない理想より目の前の正義)",
+            "Aired": "February 5, 2017"
+        },
+        {
+            "Episode": "19",
+            "Title": "\"Negotiation\"\nTransliteration: \"Shōdan\" (Japanese: 商談)",
+            "Aired": "February 12, 2017"
+        },
+        {
+            "Episode": "20",
+            "Title": "\"Ladylake\"\nTransliteration: \"Redireiku\" (Japanese: レディレイク)",
+            "Aired": "February 19, 2017"
+        },
+        {
+            "Episode": "21",
+            "Title": "\"Purification\"\nTransliteration: \"Jōka\" (Japanese: 浄化)",
+            "Aired": "February 26, 2017"
+        },
+        {
+            "Episode": "22",
+            "Title": "\"The Ideal World\"\nTransliteration: \"Itsuka Yumemita Sekai\" (Japanese: いつか夢見た世界)",
+            "Aired": "March 5, 2017"
+        },
+        {
+            "Episode": "23",
+            "Title": "\"Northern Land\"\nTransliteration: \"Kita no Daichi\" (Japanese: 北の大地)",
+            "Aired": "March 12, 2017"
+        },
+        {
+            "Episode": "24",
+            "Title": "\"Be like the Wind\"\nTransliteration: \"Kaze ni Naru\" (Japanese: 風になる)",
+            "Aired": "March 19, 2017"
+        },
+        {
+            "Episode": "25",
+            "Title": "\"The Chosen Answer\"\nTransliteration: \"Michibiki Dashita Kotae\" (Japanese: 導き出した答え)",
+            "Aired": "March 26, 2017"
+        },
+        {
+            "Episode": "26",
+            "Title": "\"The Legend\"\nTransliteration: \"Denshō\" (Japanese: 伝承)",
+            "Aired": "April 29, 2017[11]"
+        }
     ]
 }
