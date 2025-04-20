@@ -1,7 +1,7 @@
 // import styles from './app.module.scss';
 
 import SearchIcon from '@mui/icons-material/Search';
-import { Chip, FormControl, IconButton, InputAdornment, InputLabel, List, ListItem, ListItemButton, ListItemText, OutlinedInput, ToggleButton, ToggleButtonGroup } from "@mui/material";
+import { Chip, FormControl, IconButton, InputAdornment, InputLabel, List, ListItem, ListItemButton, ListItemText, OutlinedInput, ToggleButton, ToggleButtonGroup, Typography } from "@mui/material";
 import { JSX, useState } from "react";
 import { IList } from "../../list-db/db.model";
 import { AnimeList } from "../../list-db/anime-list.db";
@@ -124,6 +124,9 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
                     label="Search"
                 />
             </FormControl>
+            <Typography sx={{ width: '96%', display: 'block' }} variant='caption' align='right'>
+                Total {list.length} items found
+            </Typography>
             <List dense sx={{ overflowX: `hidden`, overflowY: `scroll`, height: `95%` }}>
                 {
                     list.map(x => (

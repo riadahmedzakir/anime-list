@@ -79,18 +79,56 @@ function scrapeAnimeData() {
 
     const jsonString = JSON.stringify(animeData, null, 2);
     console.log(jsonString);
-
-    // ✅ Alternative Clipboard Method (Works Everywhere)
     const textArea = document.createElement("textarea");
     textArea.value = jsonString;
     document.body.appendChild(textArea);
     textArea.select();
-    document.execCommand("copy"); // Use execCommand to copy
+    document.execCommand("copy");
     document.body.removeChild(textArea);
 
     console.log("✅ Data copied to clipboard!");
     return animeData;
 }
 
-// Run this in the browser console
 scrapeAnimeData();
+
+
+// #########################################################################################################################
+
+function extractEpisodesFromTable(tableSelector) {
+    const table = document.querySelectorAll(tableSelector)[0];
+    if (!table) return [];
+
+    const rows = table.querySelectorAll("tbody tr");
+    let episodes = [];
+
+    for (let i = 1; i < rows.length; i++) {
+        const episodeRow = rows[i];
+
+        const episodeNo = episodeRow.querySelectorAll("th");
+        const columns = episodeRow.querySelectorAll("td");
+        if (columns.length < 2) continue;
+
+        let episode = {
+            Episode: episodeNo[0]?.innerText.trim(),
+            Title: columns[0].innerText.trim(),
+            Aired: columns[columns.length - 1].innerText.trim(),
+        };
+
+        episodes.push(episode);
+    }
+
+    return episodes;
+}
+
+const episodeData = JSON.stringify(extractEpisodesFromTable(".wikitable"), null, 2);
+console.log(episodeData);
+
+const textArea = document.createElement("textarea");
+textArea.value = episodeData;
+document.body.appendChild(textArea);
+textArea.select();
+document.execCommand("copy");
+document.body.removeChild(textArea);
+
+console.log("✅ Data copied to clipboard!");
