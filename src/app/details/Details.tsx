@@ -59,9 +59,14 @@ const Details = (props: DetailstProps): JSX.Element => {
                                                     <CardActionArea>
                                                         <CardMedia
                                                             component="img"
-                                                            height="100%"
-                                                            width="100%"
                                                             image={`./${import.meta.env.BASE_URL}/${item.Cover}.jpg`}
+                                                            alt={item?.Title || 'Image'}
+                                                            sx={{
+                                                                width: '100%',
+                                                                height: 450,
+                                                                objectFit: 'cover',
+                                                                borderRadius: 2
+                                                            }}
                                                         />
                                                     </CardActionArea>
                                                 </Card>

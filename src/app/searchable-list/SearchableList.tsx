@@ -1,15 +1,17 @@
 // import styles from './app.module.scss';
 
 import SearchIcon from '@mui/icons-material/Search';
-import { Chip, FormControl, IconButton, InputAdornment, InputLabel, List, ListItem, ListItemButton, ListItemText, OutlinedInput, ToggleButton, ToggleButtonGroup, Typography } from "@mui/material";
+import { Box, Chip, FormControl, IconButton, InputAdornment, InputLabel, ListItem, ListItemButton, ListItemText, OutlinedInput, ToggleButton, ToggleButtonGroup, Typography } from "@mui/material";
 import { JSX, useState } from "react";
-import { IList } from "../../list-db/db.model";
-import { AnimeList } from "../../list-db/anime-list.db";
-import { HentaiList } from "../../list-db/hentai-list.db";
-import { GameList } from "../../list-db/games-list.db";
+import { FixedSizeList, ListChildComponentProps } from 'react-window';
+import { useContainerHeight } from './../../hooks/useContainerHeight';
 import { EdList } from "../../list-db/3d-list.db";
-import { SearchableListProps } from './SearchableList.props';
+import { AnimeList } from "../../list-db/anime-list.db";
+import { IList } from "../../list-db/db.model";
+import { GameList } from "../../list-db/games-list.db";
+import { HentaiList } from "../../list-db/hentai-list.db";
 import PopOverFilter from './PopOverFilter';
+import { SearchableListProps } from './SearchableList.props';
 
 const SearchableList = (props: SearchableListProps): JSX.Element => {
     const { onSelect } = props;
@@ -17,6 +19,8 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
     const [selectedList, setSelectedList] = useState<Array<IList>>(AnimeList);
     const [list, setList] = useState<Array<IList>>(selectedList);
     const [listType, setListType] = useState<string>('anime');
+    const [selectedItem, setSelectedItem] = useState<IList | null>(null);
+    const [containerRef, containerHeight] = useContainerHeight();
 
     const handleSearch = (event: any) => {
         const searchTerm = event.target.value.trim();
@@ -34,6 +38,7 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
 
     const handleSelect = (item: IList) => {
         onSelect(item, listType);
+        setSelectedItem(item);
     }
 
     const handleFilter = (type: string, value: string) => {
@@ -86,6 +91,28 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
         }
     };
 
+    const renderRow = (props: ListChildComponentProps) => {
+        const { index, style, data } = props;
+        const item = data[index]
+
+        return (
+            <ListItem style={style} key={index} component="div" disablePadding>
+                <ListItemButton
+                    selected={selectedItem?.Title === item?.Title}
+                    onClick={() => handleSelect(item)}
+
+                >
+                    <ListItemText primary={item?.Title} />
+
+                    {
+                        item?.OnDvd ?
+                            <Chip size='small' label="DVD" color="primary" variant="outlined" /> : null
+                    }
+                </ListItemButton>
+            </ListItem>
+        );
+    }
+
     return (
         <>
             <PopOverFilter type={listType} onFilter={handleFilter} />
@@ -127,25 +154,23 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
             <Typography sx={{ width: '96%', display: 'block' }} variant='caption' align='right'>
                 Total {list.length} items found
             </Typography>
-            <List dense sx={{ overflowX: `hidden`, overflowY: `scroll`, height: `95%` }}>
-                {
-                    list.map(x => (
-                        <ListItem key={x.Title}>
-                            <ListItemButton
-                                onClick={() => handleSelect(x)}
-
-                            >
-                                <ListItemText primary={x.Title} />
-
-                                {
-                                    x.OnDvd ?
-                                        <Chip size='small' label="DVD" color="primary" variant="outlined" /> : null
-                                }
-                            </ListItemButton>
-                        </ListItem>
-                    ))
-                }
-            </List>
+            <Box
+                ref={containerRef}
+                sx={{ height: '80vh', width: '100%', bgcolor: 'background.paper' }}
+            >
+                {containerHeight > 0 && (
+                    <FixedSizeList
+                        height={containerHeight}
+                        width="97%"
+                        itemSize={60}
+                        itemCount={list.length}
+                        itemData={list}
+                        overscanCount={5}
+                    >
+                        {renderRow}
+                    </FixedSizeList>
+                )}
+            </Box>
         </>
     );
 }
