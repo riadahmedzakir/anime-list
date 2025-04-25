@@ -30293,7 +30293,45 @@ export const AnimeList: Array<IList> = [
             "Urban Fantasy"
         ],
         "Cover": "134577l",
-        "Related": []
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Ore dake Level Up na Ken Season 2: Arise from the Shadow`
+            }
+        ]
+    },
+    {
+        "Title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+        "AlternateTitles": [
+            "Solo Leveling Season 2: Arise from the Shadow",
+            "Solo Leveling Second Season",
+            "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+        ],
+        "Descriptions": [
+            "Sung Jin-Woo, dubbed the weakest hunter of all mankind, grows stronger by the day with the supernatural powers he has gained. However, keeping his skills hidden becomes more difficult as dungeon-related incidents pile up around him.",
+            "When Jin-Woo and a few other low-ranked hunters are the only survivors of a dungeon that turns out to be a bigger challenge than initially expected, he draws attention once again, and hunter guilds take an increased interest in him. Meanwhile, a strange hunter who has been lost for ten years returns with a dire warning about an upcoming catastrophic event. As the calamity looms closer, Jin-Woo must continue leveling up to make sure nothing stops him from reaching his ultimate goal—saving the life of his mother."
+        ],
+        "Episodes": 13,
+        "Aired": "Jan 5, 2025 to Mar 30, 2025",
+        "Studios": [
+            "A-1 Pictures"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Adult Cast",
+            "Urban Fantasy"
+        ],
+        "Cover": "145502l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Ore dake Level Up na Ken`
+            }
+        ]
     },
     {
         "Title": "Somali to Mori no Kamisama",
@@ -31550,7 +31588,41 @@ export const AnimeList: Array<IList> = [
             "Mecha"
         ],
         "Cover": "134806l",
-        "Related": []
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Synduality: Noir Part 2`
+            }
+        ]
+    },
+    {
+        "Title": "Synduality: Noir Part 2",
+        "AlternateTitles": [
+            "SYNDUALITY Noir 第2クール"
+        ],
+        "Descriptions": [
+            "Despite returning victorious from a dangerous struggle, Kanata and his friends have, in a sense, lost a key ally, the amnesiac magus Noir. Having partially recovered her memory, Noir reverted back to her former personality: that of Mystere, who acts in a patronizing manner toward her master Kanata. However, Mystere remembers detecting a signal from Histoire, a mystical city, during her former life as an artificially intelligent magus.",
+            "Meanwhile, Tokio disappears from Rock Town while hunting down the ghosts of his past; however, shocking revelations await the deeper his search goes. As Kanata, his childhood friend Ellie, and the magus diva Ciel set out for Histoire, a hostile organization named Ideal sends assassins after them. If Kanata wants to stand a chance at accomplishing his dream, he must uncover the unpleasant truth about Ideal—and some of his closest allies."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 9, 2024 to Mar 26, 2024",
+        "Studios": [
+            "8bit"
+        ],
+        "Genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "Mecha"
+        ],
+        "Cover": "140511l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Synduality: Noir`
+            }
+        ]
     },
     {
         "Title": "Taboo Tattoo",
@@ -39555,7 +39627,42 @@ export const AnimeList: Array<IList> = [
             "School"
         ],
         "Cover": "93571l",
-        "Related": []
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Tsurune: Tsunagari no Issha`
+            }
+        ]
+    },
+    {
+        "Title": "Tsurune: Tsunagari no Issha",
+        "AlternateTitles": [
+            "Tsurune - The Linking Shot -",
+            "Tsurune 2nd Season",
+            "ツルネ ―つながりの一射―"
+        ],
+        "Descriptions": [
+            "Despite the prefectural tournament's breathtaking conclusion, the Kazemai High School Kyudo Club has no time to celebrate. With the national competition right around the corner, the club is determined to prove that their initial victory was not a mere fluke.",
+            "With his passion for the sport reignited, Minato Narumiya earnestly prepares for the upcoming competition with his teammates, who are equally motivated to win. As the much-anticipated tournament begins, the members of Kazemai's kyudo team fight to stay on target with their ambitious goal. But when old acquaintances reappear as difficult opponents, the boys find that winning the nationals will require more dedication and effort than ever before."
+        ],
+        "Episodes": 13,
+        "Aired": "Jan 5, 2023 to Mar 30, 2023",
+        "Studios": [
+            "Kyoto Animation"
+        ],
+        "Genre": [
+            "Sports"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "131486l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Tsurune: Kazemai Koukou Kyuudou-bu`
+            }
+        ]
     },
     {
         "Title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
@@ -49719,5 +49826,3737 @@ export const AnimeList: Array<IList> = [
         ],
         "Cover": "119495l",
         "Related": []
-    }
+    },
+    {
+        "Title": "Pandora Hearts",
+        "AlternateTitles": [
+            "Pandora Hearts",
+            "パンドラハーツ"
+        ],
+        "Descriptions": [
+            "To young Oz Vessalius, heir to the Vessalius Duke House, the perilous world called the Abyss is nothing more than a folktale used to scare misbehaving children. However, when Oz's coming-of-age ceremony is interrupted by the malicious Baskerville Clan intent on banishing him into the depths of the Abyss, the Vessalius heir realizes that his peaceful life of luxury is at its end. Now, he must confront the world of the Abyss and its dwellers, the monstrous \"Chains,\" which are both not quite as fake as he once believed.",
+            "Based on the supernatural fantasy manga of the same name, Pandora Hearts tells the story of fifteen-year-old Oz's journey to discover the meaning behind the strange events that have overtaken his life. Assisted by a mysterious Chain named Alice, whose nickname is \"Bloodstained Black Rabbit,\" and members of a clandestine organization known as \"Pandora,\" Oz begins to realize his existence may have more meaning than he could have ever imagined."
+        ],
+        "Episodes": 25,
+        "Aired": "Apr 3, 2009 to Sep 25, 2009",
+        "Studios": [
+            "Xebec"
+        ],
+        "Genre": [
+            "Adventure",
+            "Fantasy",
+            "Mystery"
+        ],
+        "Theme": [],
+        "Cover": "75535l",
+        "Related": []
+    },
+    {
+        "Title": "Papa no Iukoto wo Kikinasai!",
+        "AlternateTitles": [
+            "Listen to Me, Girls. I Am Your Father!",
+            "Papakiki, Listen to Me, Girls, I'm Your Father!",
+            "パパのいうことを聞きなさい！"
+        ],
+        "Descriptions": [
+            "Yuuta Segawa has just started his freshman year of university. One day, his sister Yuri, who raised him after their parents died, asks him to take care of her daughters Hina, Sora and Miu while she and her husband go overseas on a business trip. Yuuta grudgingly accepts, but tragedy strikes when their plane goes missing and all passengers are presumed dead. In an effort to prevent the three girls from being split up, Yuuta goes against their family and takes them in, just as his sister took him in when he had no one else.",
+            "Now the four find themselves in a new and peculiar situation: Yuuta must learn how to balance his new responsibilities—as the newest member of the Street Observation Research Society, a club for people watching, and also as a father figure—while Sora, Miu, and Hina come to terms with the loss of their parents."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 11, 2012 to Mar 28, 2012",
+        "Studios": [
+            "feel."
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "Theme": [
+            "Childcare"
+        ],
+        "Cover": "78214l",
+        "Related": []
+    },
+    {
+        "Title": "Phantom: Requiem for the Phantom",
+        "AlternateTitles": [
+            "Phantom: Requiem for the Phantom",
+            "Phantom 〜Requiem for the Phantom〜"
+        ],
+        "Descriptions": [
+            "Mafia is rife in America where assassinations are a regular occurrence on the streets. Inferno, a mysterious company, is behind most of these dealings through the use of their near-invincible human weapon, \"Phantom.\"",
+            "One day, a Japanese tourist accidentally witnesses Phantom's latest murder. Desperate to escape, the tourist hides in a secluded building. However, Phantom, revealed to be a young woman named Ein, and the leader of Inferno \"Scythe Master\" captures the tourist and brainwashes him.",
+            "Given the name \"Zwei,\" this once peaceful tourist is now a puppet of Inferno with no memories. Drawn into a world of lies, deceit, and violence, Zwei must fight to survive, hopefully to one day regain his memories and escape from this world where he is constantly on the brink of death."
+        ],
+        "Episodes": 26,
+        "Aired": "Apr 3, 2009 to Sep 25, 2009",
+        "Studios": [
+            "Bee Train"
+        ],
+        "Genre": [
+            "Action",
+            "Drama",
+            "Suspense"
+        ],
+        "Theme": [
+            "Organized Crime"
+        ],
+        "Cover": "22470l",
+        "Related": []
+    },
+    {
+        "Title": "Photokano",
+        "AlternateTitles": [
+            "Photo Kano",
+            "Foto Kano, Photograph Girlfriend",
+            "フォトカノ"
+        ],
+        "Descriptions": [
+            "High school student Kazuya Maeda finds his daily life dull and meaningless. This changes right before the end of his summer break when he receives an old camera from his father. Initially hesitant, Kazuya decides to experiment with photography and starts looking for potential models for his pictures.",
+            "Kazuya is approached by various girls willing to model for him: Haruka Niimi, his popular childhood friend; Nonoka Masaki, the athletic ace pitcher of the softball club; Aki Muroto, the Student Council president; Hikari Sanehara, a fellow photography enthusiast; Tomoe Misumi, his timid classmate; Rina Yunoki, the only member of the Cooking Research Society; and Mai Sakura, a friend of his sister.",
+            "As he pursues his new hobby, Kazuya feels like every day becomes more vibrant and meaningful. However, his continued interactions with the girls lead him to wonder if they want to be involved in other areas of his life besides his photography."
+        ],
+        "Episodes": 13,
+        "Aired": "Apr 5, 2013 to Jun 28, 2013",
+        "Studios": [
+            "Madhouse"
+        ],
+        "Genre": [
+            "Romance",
+            "Ecchi"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "45558l",
+        "Related": []
+    },
+    {
+        "Title": "Princess Lover!",
+        "AlternateTitles": [
+            "Princess Lover!",
+            "プリンセスラバー!"
+        ],
+        "Descriptions": [
+            "Following an automobile accident that claims the life of his parents, Teppei Arima is taken in by his grandfather and introduced to the world of the rich and the elite. Compared to his humble upbringing, Isshin Arima's lavish lifestyle surprises and stuns the young teenager. In return for the gracious hospitality, Teppei is expected to continue the family business by replacing his grandfather as the head of Arima Financial Combine, and to prepare him for these responsibilities, he is enrolled into an esteemed high school. Along with his recently acquired celebrity status and affluence, Teppei is informed of an arranged marriage with the equally prosperous Sylvia van Hossen, thus, beginning the thrilling escapades of his new life!"
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 6, 2009 to Sep 21, 2009",
+        "Studios": [
+            "GoHands"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem",
+            "School"
+        ],
+        "Cover": "75519l",
+        "Related": []
+    },
+    {
+        "Title": "Pumpkin Scissors",
+        "AlternateTitles": [
+            "PumpSci",
+            "パンプキン・シザーズ"
+        ],
+        "Descriptions": [
+            "Three years ago, the long war between the Royal Empire and the Republic of Frost came to an end. With both nations a long way from recovery, a passionate young woman named Alice L. Malvin leads the Pumpkin Scissors, a unit of the imperial army specializing in war relief.",
+            "During a mission to assist a village occupied by renegade soldiers, Alice meets Randal Oland, a scarred former soldier with a sordid past and kind heart. Encouraged by the efforts of the Pumpkin Scissors, he joins the team on their mission. During the assault, however, Randal enters a trance-like state prompted by a mysterious blue lantern. As a result, he acquires monstrous strength and decimates the enemy forces.",
+            "Despite having witnessed Randal's disturbing transformation, Alice invites him to join her squandrant, confident that his gentle nature will prevail and make him a perfect fit for the Pumpkin Scissors."
+        ],
+        "Episodes": 24,
+        "Aired": "Oct 3, 2006 to Mar 18, 2007",
+        "Studios": [
+            "Gonzo",
+            "AIC"
+        ],
+        "Genre": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "Theme": [
+            "Military"
+        ],
+        "Cover": "75181l",
+        "Related": []
+    },
+    {
+        "Title": "Queen's Blade: Grimoire",
+        "AlternateTitles": [
+            "クイーンズブレイド グリムワール"
+        ],
+        "Descriptions": [
+            "The story takes place after the wandering warrior Leina's championship has ended. The royal court's magician Alicia uses black magic and opens a doorway to another dimension. From that door, a rabbit lures Alicia into another dimension called Melfairland. Melfairland is holding a tournament of its own to award out a Queen's Blade, and Alicia enters the tournament in order to find a way to return to her own world.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 2,
+        "Aired": "Jan 29, 2016 to Sep 28, 2016",
+        "Studios": [
+            "Arms",
+            "asread.",
+            "Fortes"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "Theme": [],
+        "Cover": "141466l",
+        "Related": [
+            {
+                Type: `Alternative Version`,
+                Title: `Queen's Blade: Rurou no Senshi`
+            }
+        ]
+    },
+    {
+        "Title": "Queen's Blade: Rurou no Senshi",
+        "AlternateTitles": [
+            "Queen's Blade: The Exiled Virgin",
+            "Queen's Blade, Sentou Kyoukain Alain",
+            "クイーンズブレイド 流浪の戦士"
+        ],
+        "Descriptions": [
+            "In a land where a queen is chosen every few years solely by winning a tournament, there can be no short supply of formidable opponents. For one woman warrior however, an early defeat clearly shows her that she is lacking in experience though she may be bountiful in body.",
+            "Fortunately, while defeat could spell one's doom, her life is saved by a powerful stranger. But unfortunately for this savior, less-than-pure motives and shrewd family members mean her reward is a prison cell. Her release is prompt when the unseasoned warrior she saved, tired of her current lifestyle of nobility, sets off to prove herself.",
+            "(Source: Media Blasters)"
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 2, 2009 to Jun 18, 2009",
+        "Studios": [
+            "Arms"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "Theme": [],
+        "Cover": "12410l",
+        "Related": [
+            {
+                Type: `Alternative Version`,
+                Title: `Queen's Blade: Grimoire`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Queen's Blade: Gyokuza wo Tsugu Mono`
+            }
+        ]
+    },
+    {
+        "Title": "Queen's Blade: Gyokuza wo Tsugu Mono",
+        "AlternateTitles": [
+            "Queen's Blade: Inheritor of the Throne",
+            "Queen's Blade 2, Queen's Blade: Gyokuza wo Tsugumono, Queen's Blade: The Successor of the Throne, Queen's Blade and the Evil Eye",
+            "クイーンズブレイド 玉座を継ぐ者"
+        ],
+        "Descriptions": [
+            "After experiencing the numerous trials encountered on her journey, Reina has grown as a warrior. Determined to take part in the Queen's Blade tournament, she arrives at the capital city Gainos, where Queen Aldora awaits. There gathers a number of beautiful warriors who, like Reina, are there for the Queen's Blade.",
+            "Amongst them is Reina's sister, Claudette, determined to restore the glory of House Vance; Tomoe and Shizuka, who are both fighting for their homeland of Hinomoto; Nanael who has been ordered to participate by the Archangel; and the subordinates of the Marshland Witch.",
+            "All these beautiful fighters who gather in Gainos have been one objective, to win through the Queen's Blade, the tournament to select the strongest, most beautiful queen. Who would ascend to that glorious throne? That can only be determined via battle.",
+            "(Source: AnimeNfo)"
+        ],
+        "Episodes": 12,
+        "Aired": "Sep 24, 2009 to Dec 10, 2009",
+        "Studios": [
+            "Arms"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "Theme": [],
+        "Cover": "75171l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Queen's Blade: Rurou no Senshi`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Queen's Blade: Utsukushiki Toushi-tachi`
+            }
+        ]
+    },
+    {
+        "Title": "Queen's Blade: Utsukushiki Toushi-tachi",
+        "AlternateTitles": [
+            "Queen's Blade: Beautiful Warriors",
+            "Queen's Blade OVA, Utsukushiki Toshi-tachi, Utsukushiki Toushi-tachi, Queen's Blade: Beautiful Fighters",
+            "クイーンズブレイド 美しき闘士たち"
+        ],
+        "Descriptions": [
+            "Queen's Blade OVA. Contains short stories from the lives of the warriors after the Queen's Blade competition."
+        ],
+        "Episodes": 6,
+        "Aired": "Aug 8, 2010 to Mar 14, 2011",
+        "Studios": [
+            "Arms"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "Theme": [],
+        "Cover": "34325l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Queen's Blade: Gyokuza wo Tsugu Mono`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Queen's Blade OVA`
+            }
+        ]
+    },
+    {
+        "Title": "Queen's Blade OVA",
+        "AlternateTitles": [
+            "Queen's Blade OVA, Queen's Blade: Rebellion OVA",
+            "クイーンズブレイド"
+        ],
+        "Descriptions": [
+            "OVAs bundled with the Queen's Blade Premium Visual Book and the Queen's Blade Rebellion Premium Visual Book. Both of the episodes will be based on Queen's Blade Rebellion, a sequel to Queen's Blade: Utsukushiki Toushitachi."
+        ],
+        "Episodes": 2,
+        "Aired": "Oct 29, 2011 to Jan 28, 2012",
+        "Studios": [
+            "Arms"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "Theme": [],
+        "Cover": "123663l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Queen's Blade: Utsukushiki Toushi-tachi`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Queen's Blade: Vanquished Queens`
+            }
+        ]
+    },
+    {
+        "Title": "Queen's Blade: Vanquished Queens",
+        "AlternateTitles": [
+            "Queen's Blade",
+            "ヴァンキッシュド・クイーンズ"
+        ],
+        "Descriptions": [
+            "Vanquished Queens OVAs depict what happened to various characters who were absent in Queen's Blade: Rebellion and what happened to them after Queen's Blade: Utsukushiki Toushitachi."
+        ],
+        "Episodes": 4,
+        "Aired": "Mar 29, 2013 to Sep 30, 2014",
+        "Studios": [
+            "Arms",
+            "Hoods Entertainment"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "Theme": [],
+        "Cover": "48917l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Queen's Blade OVA`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Queen's Blade: Rebellion`
+            }
+        ]
+    },
+    {
+        "Title": "Queen's Blade: Rebellion",
+        "AlternateTitles": [
+            "クイーンズブレイド リベリオン"
+        ],
+        "Descriptions": [
+            "Power corrupts, and it when it appears that the once noble Queen Claudette's ways have turned to oppression and heretical persecution, it's up to a new generation of warriors to step up to the plate armor to bear arms and bare their naked fury in open rebellion! The odds may seem unfairly stacked in favor of the Amazonian ranks of the queen, doubly supported by her power of writ and assassins. But the incredible wits and assets of the dazzling array of daring damsels willing to risk their gorgeous skins and put their lithesome bodies on line against her, might just expose a few unexpected weaknesses in the queen's support!",
+            "(Source: Sentai Filmworks)"
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 3, 2012 to Jun 19, 2012",
+        "Studios": [
+            "Arms"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Ecchi"
+        ],
+        "Theme": [],
+        "Cover": "75502l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Queen's Blade: Vanquished Queens`
+            }
+        ]
+    },
+    {
+        "Title": "Ragna Crimson",
+        "AlternateTitles": [
+            "ラグナクリムゾン"
+        ],
+        "Descriptions": [
+            "Said to be humanity's natural enemy, formidable dragons that belong to an ancient bloodline roam the world. Only two ways prove effective to kill a dragon: freezing their blood with silverine—an aura that comes from silver weapons—or letting their bodies be incinerated by sunlight.",
+            "Young hunter prodigy Leonica is accompanied by her close friend Ragna, who appears to lack the skills necessary in their profession. Moreover, many shun Ragna, considering him cursed because dragons always seem to attack him and slaughter his close ones. Nevertheless, Leonica sees potential in Ragna and gladly partners up with him. Likewise, Ragna feels certain that Leonica is immune to his misfortune thanks to her incredible strength.",
+            "His confidence is shaken, however, when Ragna dreams of Leonica's death, believing this to be a prophecy. As the destined day arrives, he comes face-to-face with his future self, who bestows him enormous power and memories from the future to ensure Leonica's safety. In order to succeed, Ragna must join forces with a mysterious figure known as Crimson and eradicate all dragons for good."
+        ],
+        "Episodes": 24,
+        "Aired": "Oct 1, 2023 to Mar 31, 2024",
+        "Studios": [
+            "SILVER LINK."
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy"
+        ],
+        "Theme": [],
+        "Cover": "140359l",
+        "Related": []
+    },
+    {
+        "Title": "Lime-iro Senkitan",
+        "AlternateTitles": [
+            "Raimuiro Senkitan, Lime-Colored History of War, Lime-iro Senkitan: Meiji Nippon, Otome Sakimorisu.",
+            "らいむいろ戦奇譚"
+        ],
+        "Descriptions": [
+            "Around the the 37th year of the Meiji Era (1904), in the midst of the Russo-Japanese war, the small Japanese army, in need of assistance, uses its special flying (thanks to a benevolent demon) ship, the Amanohara, to attack Russia's major base at Port Arthur (Lushun).",
+            "Umakai Shintaro, a Russian diplomat originally from Japan, defects and goes to Sapporo to teach at a girls academy. However, that girls academy is not typical—it is on board the Amanohara, and the five girls Shintaro teaches are known as the Raimu Unit—girls with the ability to summon powerful beings to fight for them. Shintaro eventually becomes their teacher and general in battle, and so the six embark on a weird and excessively erotic journey, as Shintaro helps the girls overcome their weaknesses, become stronger for the final stand at Lushun, and also understand the motives of the \"Russian Spiritual Corps\" that assist the opponent, which, unfortunately, has one member whom Shintaro knew well...",
+            "(Source: ANN)"
+        ],
+        "Episodes": 13,
+        "Aired": "Jan 4, 2003 to Mar 29, 2003",
+        "Studios": [
+            "Studio Hibari"
+        ],
+        "Genre": [
+            "Drama",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem",
+            "Historical",
+            "Mecha"
+        ],
+        "Cover": "75503l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Lime-iro Senkitan: Nankoku Yume Roman`
+            }
+        ]
+    },
+    {
+        "Title": "Lime-iro Senkitan: Nankoku Yume Roman",
+        "AlternateTitles": [
+            "Lime Iro Senkitan Nankoku Yume Roman, Raimuiro Senkitan: The South Island Dream Romantic Adventure (OAV), Southern Romance Story",
+            "らいむいろ戦奇譚 南国夢浪漫"
+        ],
+        "Descriptions": [
+            "With the battleship Amanohara seriously damaged and in need of repair, it lands on an island where a Gogyou festival has just begun. Shintaro Umakai and his five female students, known as Raimu Unit, enjoy a period of peace on the island. However, the enemy still pursues them. Umakai and his unit deal with the enemy while the five girls try to draw his attention.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 2,
+        "Aired": "Apr 23, 2004 to Jun 25, 2004",
+        "Studios": [
+            "Studio Hibari"
+        ],
+        "Genre": [
+            "Action",
+            "Comedy",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Mecha"
+        ],
+        "Cover": "75505l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Lime-iro Senkitan`
+            }
+        ]
+    },
+    {
+        "Title": "RD Sennou Chousashitsu",
+        "AlternateTitles": [
+            "Real Drive",
+            "RD 潜脳調査室"
+        ],
+        "Descriptions": [
+            "2061 AD. Fifty years have passed since mankind developed the Network society. It was anticipated that this new infrastructure would realize a utopia where people connected with each other at the level of consciousness. However, new social problems such as personal data leaks and proliferation of manipulated information began to surface. Nevertheless, people still relied on the Network to exchange information, and proved unable to opt to abandon it.",
+            "In due course, a new Network realm with more effective security measures was developed. This was called Meta Real Network, usually abbreviated as \"the Metal.\"",
+            "The Metal accommodated personal memory data within protected virtual stand-alone organic cyber enclaves called bubble shells and eventually pervaded the everyday lives of people.",
+            "However, people gradually learned to release and explode their instincts within the secure environment of the Metal. The unleashed instincts pushed each individual's consciousness to drown in the sea of information and to be exposed to the pressures of desire. Meanwhile, norms and regulations continued to bind their real world lives. Thus, strange friction between the two worlds began to manifest themselves as aberrations beyond the bounds of the imaginable.",
+            "Experts who challenged the deep sea of the Metal to investigate and decipher such aberrations were called cyber divers.",
+            "This is a story of a cyber diver, Masamichi Haru, who investigates the incidents that lie between Reality and the Metal.",
+            "(Source: Production I.G)"
+        ],
+        "Episodes": 26,
+        "Aired": "Apr 9, 2008 to Oct 1, 2008",
+        "Studios": [
+            "Production I.G"
+        ],
+        "Genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "Theme": [],
+        "Cover": "18929l",
+        "Related": []
+    },
+    {
+        "Title": "Rec",
+        "AlternateTitles": [
+            "Rec",
+            "レック"
+        ],
+        "Descriptions": [
+            "After being stood up for a movie date, marketing employee Fumihiko Matsumaru is about to throw away his tickets when he is stopped by a girl who implores him to let her accompany him instead. Thanks to his upbeat and eccentric companion Aka Onda, an aspiring voice actress, Fumihiko enjoys his evening. While walking home together, they find out that they live in the same neighborhood. Mere hours later, Fumihiko wakes up from a nightmare and hears sirens outside his window. Going outside to check the situation, he sees that Aka's apartment has burned down, along with all her possessions. Fumihiko invites the distressed Aka to stay at his place, leading to them sleeping together.",
+            "In the aftermath of that fateful night, their personal and professional lives become inextricably intertwined. Not only do they begin living together platonically despite their one-night stand, they also discover that Aka will be voicing the mascot Fumihiko designed for his company's newest product. While trying to keep their live-in relationship under wraps for fear of scrutiny, the two begin to support each other throughout the difficulties in their respective careers."
+        ],
+        "Episodes": 9,
+        "Aired": "Feb 3, 2006 to Mar 31, 2006",
+        "Studios": [
+            "Shaft"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "Theme": [
+            "Adult Cast",
+            "Showbiz"
+        ],
+        "Cover": "124243l",
+        "Related": []
+    },
+    {
+        "Title": "RDG: Red Data Girl",
+        "AlternateTitles": [
+            "Red Data Girl",
+            "RDG",
+            "RDG レッドデータガール"
+        ],
+        "Descriptions": [
+            "Fifteen-year-old Izumiko Suzuhara just wants to be a normal girl, but that is easier said than done. Raised in a shrine deep in the mountains, she grew up extremely sheltered and painfully shy. She also has the unfortunate tendency to destroy any electronic device simply by touching it.",
+            "Despite this, she still wants to try and change her life. To mark her determination to follow through on this transformation, Izumiko begins by cutting her bangs, which shocks both her classmates and protectors. And that's only the start! Her guardian, Yukimasa Sagara, forces his son, Miyuki, to come to the mountain shrine and become Izumiko's lifelong servant and protector. Too bad Izumiko and Miyuki cannot stand each other. They have known each other since they were children, and Miyuki bullied her terribly. He simply does not understand what is so special about Izumiko. His father calls Izumiko a goddess, but that cannot be true…can it? Will Izumiko and Miyuki work past their differences? Is she actually a literal goddess? Find out in RDG: Red Data Girl!"
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 4, 2013 to Jun 20, 2013",
+        "Studios": [
+            "P.A. Works"
+        ],
+        "Genre": [
+            "Drama",
+            "Romance",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Mythology",
+            "School"
+        ],
+        "Cover": "50313l",
+        "Related": []
+    },
+    {
+        "Title": "Rescue Me!",
+        "AlternateTitles": [
+            "れすきゅーME!"
+        ],
+        "Descriptions": [
+            "Masayuki Mizutani is looking forward to some time to himself when his parents leave on an extended business trip. Instead, he arrives home to see one of his schoolmates, Sayaka Shimizu, greeting him at the door in barely more than an apron! Sayaka is a family friend who was asked by Masayuki's parents to look after him while they were away, and to accomplish this mission, she has fully dedicated herself—mind, body, and soul.",
+            "But when other young girls try to approach Masayuki and his newfound freedom, Sayaka vows to do whatever it takes to keep him all to herself."
+        ],
+        "Episodes": 1,
+        "Aired": "Jun 20, 2013",
+        "Studios": [
+            "Hoods Entertainment"
+        ],
+        "Genre": [
+            "Comedy",
+            "Erotica"
+        ],
+        "Theme": [
+            "Harem",
+            "School"
+        ],
+        "Cover": "52033l",
+        "Related": []
+    },
+    {
+        "Title": "Mnemosyne: Mnemosyne no Musume-tachi",
+        "AlternateTitles": [
+            "Rin: Daughters of Mnemosyne",
+            "Mnemosyne: Daughters of Mnemosyne",
+            "Mnemosyne－ムネモシュネの娘たち－"
+        ],
+        "Descriptions": [
+            "Immortality is something many people would wish for. But would it be such a coveted ability if people knew they would be subject to countless attacks because of it? Such is the case for Rin Asougi, an immortal private investigator, because there is no shortage of people who want her dead. Over the centuries, she has met many grisly ends, but each time, she returns to life as if nothing had happened.",
+            "In 1990, while looking for a lost cat, Rin runs into Kouki Maeno, a man who feels that his memories are wrong. Agreeing to help him, Rin discovers that Kouki is not what he seems, all the while drawing closer to her true enemy. This adversary knows Rin and her kind all too well, and if she dies by his hand, she may stay dead permanently."
+        ],
+        "Episodes": 6,
+        "Aired": "Feb 4, 2008 to Jul 7, 2008",
+        "Studios": [
+            "Xebec"
+        ],
+        "Genre": [
+            "Action",
+            "Girls Love",
+            "Horror",
+            "Sci-Fi",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Adult Cast",
+            "Gore"
+        ],
+        "Cover": "19310l",
+        "Related": []
+    },
+    {
+        "Title": "Rio: Rainbow Gate!",
+        "AlternateTitles": [
+            "Rio - Rainbow Gate!: Reshuffle",
+            "Rio - Rainbow Gate",
+            "リオ レインボーゲート!"
+        ],
+        "Descriptions": [
+            "The \"Howard Resort Hotel\" is an entertainment destination where people gather from around the world to grab huge fortunes. In the casino is a beautiful female dealer named Rio Rollins, known far and wide as the \"Goddess of Victory\".",
+            "In order to approach closer to her mother, one of history's greatest dealers, she does battle to gather up the legendary cards called \"gates\". Those who gather all 13 gate cards are presented with the title MVCD (Most Valuable Casino Dealer), proof that they are a top dealer.",
+            "Set in a vast resort, an exciting battle begins with rival dealers that'll take your breath away! Throw in some \"supreme comedy\" and a story that makes you cry when you least expect it, these cute and sexy girls will explode off your screen! With everyone's cheer of \"Leave it to Rio!\", Lady Luck'll be with you, too!"
+        ],
+        "Episodes": 13,
+        "Aired": "Jan 4, 2011 to Mar 29, 2011",
+        "Studios": [
+            "Xebec"
+        ],
+        "Genre": [
+            "Comedy",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Strategy Game"
+        ],
+        "Cover": "27707l",
+        "Related": []
+    },
+    {
+        "Title": "Ro-Kyu-Bu!",
+        "AlternateTitles": [
+            "Ro-Kyu-Bu ~ Fast Break!",
+            "Rou-Kyuu-Bu!, Rou-Kyu-Bu!, Ro-Kyu-Bu: Fast Break",
+            "ロウきゅーぶ!"
+        ],
+        "Descriptions": [
+            "Subaru Hasegawa has the ambition to become one of the best basketball superstars of all time. However, this comes to an apparent halt when his school's basketball team ceases activities for a year. Shocked by the news, he decides not to involve himself in basketball anymore.",
+            "One day, his aunt Mihoshi Takamura invites him to coach the Keishin Academy girls’ basketball team on how to play the sport, and he reluctantly agrees. He meets sixth-graders Tomoka Minato, Maho Misawa, Airi Kashii, Hinata Hakamada and Saki Nagatsuki, and begins training them in the sport with one goal: to defeat all strong opponents along the way.",
+            "Ro-Kyu-Bu! follows the effort of five elementary girls and their coach as they improve their cute style of playing basketball."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 1, 2011 to Sep 23, 2011",
+        "Studios": [
+            "Project No.9",
+            "Studio Blanc."
+        ],
+        "Genre": [
+            "Comedy",
+            "Sports",
+            "Ecchi"
+        ],
+        "Theme": [
+            "School",
+            "Team Sports"
+        ],
+        "Cover": "32643l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Ro-Kyu-Bu! SS`
+            }
+        ]
+    },
+    {
+        "Title": "Ro-Kyu-Bu! SS",
+        "AlternateTitles": [
+            "Second Season - Shogakusei wa Saiko daze!",
+            "ロウきゅーぶ! SS"
+        ],
+        "Descriptions": [
+            "After their loss against Suzuridani Academy, the members of the Keishin Academy girls' basketball team—Tomoka Minato, Maho Misawa, Airi Kashii, Hinata Hakamada, and Saki Nagatsuka, along with their coach, Subaru Hasegawa—exert more of their time and effort in improving in the sport day by day. However, this time around, new rivals with strengths possibly exceedings theirs and friends appear on their way to the top."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 5, 2013 to Sep 27, 2013",
+        "Studios": [
+            "Barnum Studio",
+            "Project No.9"
+        ],
+        "Genre": [
+            "Comedy",
+            "Sports",
+            "Ecchi"
+        ],
+        "Theme": [
+            "School",
+            "Team Sports"
+        ],
+        "Cover": "50075l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Ro-Kyu-Bu!`
+            }
+        ]
+    },
+    {
+        "Title": "Saishuu Heiki Kanojo",
+        "AlternateTitles": [
+            "She, The Ultimate Weapon",
+            "SaiKano, Saishuuheiki Kanojo: The Last Love Song on This Little Planet",
+            "最終兵器彼女"
+        ],
+        "Descriptions": [
+            "Chise is an ordinary schoolgirl: small, frail, and not particularly intelligent. Her greatest joy is her budding romance with her classmate and childhood friend, Shuuji. They both live in a small military town in Hokkaido, where high schoolers have few concerns other than who is dating whom and complaining about the steep climb up \"Hell Hill\" every day before school.",
+            "One day, Shuuji and his friends make a trip to Sapporo to buy gifts for their girlfriends. A massive air raid on Sapporo that day kills thousands, including one of Shuuji's friends, and signals the beginning of a war. Fleeing from the carnage, Shuuji spots Chise, though now she has steel wings and a massive gun where her right arm should be. Against her will, she has been transformed into the ultimate cyborg weapon, capable of leveling entire cities.",
+            "As the war rages closer and closer to their hometown, Chise and Shuuji's relationship is strained by her transformation, and they are left to wonder whether she is even still human."
+        ],
+        "Episodes": 13,
+        "Aired": "Jul 2, 2002 to Sep 24, 2002",
+        "Studios": [
+            "Gonzo"
+        ],
+        "Genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "Military",
+            "School"
+        ],
+        "Cover": "131389l",
+        "Related": []
+    },
+    {
+        "Title": "Sakura Trick",
+        "AlternateTitles": [
+            "Sakura Trick",
+            "桜Trick"
+        ],
+        "Descriptions": [
+            "Having been best friends since middle school, Haruka Takayama and Yuu Sonoda plan to attend Misato West High School together. However, despite being assigned to the same class, a cruel twist of fate has them seated on the opposite ends of their classroom! To make matters worse, their school will shut down in three years, making them the final intake of first-year students. Undeterred by this chain of unfortunate events, Haruka is set on sticking with Yuu, striving to create many wonderful memories with her.",
+            "Much to Haruka's jealousy however, Yuu's easygoing demeanor quickly attracts the attention of their female classmates. Sympathizing with her friend's growing insecurity, Yuu ends up sharing a deep, affectionate kiss with her in an empty classroom. The act intensifies their bond as \"special friends,\" gradually revealing a different aspect to their unique friendship while also inviting new conflicts."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 10, 2014 to Mar 28, 2014",
+        "Studios": [
+            "Studio Deen"
+        ],
+        "Genre": [
+            "Comedy",
+            "Girls Love"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "55449l",
+        "Related": []
+    },
+    {
+        "Title": "Sakura-sou no Pet na Kanojo",
+        "AlternateTitles": [
+            "The Pet Girl of Sakurasou",
+            "Sakurasou no Pet na Kanojo",
+            "さくら荘のペットな彼女"
+        ],
+        "Descriptions": [
+            "At Suimei High, the Sakura-sou dormitory is infamous for housing the school's most notorious delinquents. Thus, when the relatively tame Sorata Kanda is transferred to the dorm, escaping this insane asylum becomes his foremost goal. Trapped there for the time being, he must learn how to deal with his fellow residents, including bubbly animator Misaki Kamiigusa, charming playboy writer Jin Mitaka, and the ever-reclusive Ryuunosuke Akasaka. Surrounded by weirdness, Sorata frequently finds respite in his interactions with his one \"normal\" friend, aspiring voice actress Nanami Aoyama.",
+            "When Mashiro Shiina—a new foreign exchange student—joins the dormitory, Sorata is instantly enraptured by her beauty. Underneath her otherworldly appearance, Mashiro is an autistic savant, capable of world-renowned brilliance in her art, yet unable to perform simple daily tasks. After Sorata ends up in charge of taking care of Mashiro, the two inevitably grow closer, with Sorata's initial desire to escape the dormitory becoming a forgotten goal.",
+            "Despite their eccentricities, every resident is incredible in their own field, leaving Sorata to contend with his own lack of any particular skill. With brilliance all around him, he thus strives to become an equal to their talent. Revolving around the hardships and joys of its colorful cast, Sakura-sou no Pet na Kanojo is a heartwarming coming-of-age tale of friendship, love, ambition, and heartbreak—through the lens of an ordinary person surrounded by the extraordinary."
+        ],
+        "Episodes": 24,
+        "Aired": "Oct 9, 2012 to Mar 26, 2013",
+        "Studios": [
+            "J.C.Staff"
+        ],
+        "Genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Theme": [
+            "School",
+            "Visual Arts"
+        ],
+        "Cover": "43643l",
+        "Related": []
+    },
+    {
+        "Title": "Samurai Champloo",
+        "AlternateTitles": [
+            "Samurai Champloo",
+            "SAMURAI CHAMPLOO",
+            "サムライチャンプルー"
+        ],
+        "Descriptions": [
+            "Fuu Kasumi is a young and clumsy waitress who spends her days peacefully working in a small teahouse. That is, until she accidentally spills a drink all over one of her customers! With a group of samurai now incessantly harassing her, Fuu desperately calls upon another samurai in the shop, Mugen, who quickly defeats them with his wild fighting technique, utilizing movements reminiscent to that of breakdancing. Unfortunately, Mugen decides to pick a fight with the unwilling ronin Jin, who wields a more precise and traditional style of swordfighting, and the latter proves to be a formidable opponent. The only problem is, they end up destroying the entire shop as well as accidentally killing the local magistrate's son.",
+            "For their crime, the two samurai are captured and set to be executed. However, they are rescued by Fuu, who hires the duo as her bodyguards. Though she no longer has a place to return to, the former waitress wishes to find a certain samurai who smells of sunflowers and enlists the help of the now exonerated pair to do so. Despite initially disapproving of this idea, the two eventually agree to assist the girl in her quest; thus, the trio embark upon an adventure to find this mysterious warrior—that is, if Fuu can keep Mugen and Jin from killing each other.",
+            "Set in an alternate Edo Period of Japan, Samurai Champloo follows the journey of these three eccentric individuals in an epic quest full of action, comedy, and dynamic sword fighting, all set to the beat of a unique hip-hop infused soundtrack."
+        ],
+        "Episodes": 26,
+        "Aired": "May 20, 2004 to Mar 19, 2005",
+        "Studios": [
+            "Manglobe"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Theme": [
+            "Historical",
+            "Samurai"
+        ],
+        "Cover": "144789l",
+        "Related": []
+    },
+    {
+        "Title": "Sasami-san@Ganbaranai",
+        "AlternateTitles": [
+            "Sasami-san at Ganbaranai, Sasami-san@Unmotivated",
+            "ささみさん@がんばらない"
+        ],
+        "Descriptions": [
+            "The Japanese call them hikikomori—people who've become so withdrawn socially that they refuse to leave their homes for weeks and even months at a time. For Sasami Tsukuyomi, who's attempting to pass her first year of high school despite being a shut in, it's more than just a word. Fortunately though, she lives with her older brother Kamiomi, who just happens to be a teacher at the school Sasami is supposed to attend. Not to mention, her \"Brother Surveillance Tool\" which lets her view the outside world via her computer and will, theoretically, allow her to readjust to interfacing with people again. What it mainly does, however, is let her view her brother's interactions with the three very odd Yagami sisters, who inexplicably seem to have had their ages reversed and have various types of \"interest\" in Kamiomi. And then things start to get really weird... Magical powers? Everything turning into chocolate? Is life via the web warping Sasami's brain, or is it the universe that's going crazy?",
+            "(Source: Sentai Filmworks)"
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 11, 2013 to Mar 29, 2013",
+        "Studios": [
+            "Shaft"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+        ],
+        "Theme": [],
+        "Cover": "53951l",
+        "Related": []
+    },
+    {
+        "Title": "Sasayaku You ni Koi wo Utau",
+        "AlternateTitles": [
+            "Whisper Me a Love Song",
+            "Whispering You a Love Song, Sasakoi",
+            "ささやくように恋を唄う"
+        ],
+        "Descriptions": [
+            "Himari Kino is a cheerful and outgoing girl who is able to make friends with anyone she wants. When she enrolls in high school and attends the freshman opening ceremony, Himari falls in love with Yori Asanagi, a reserved upperclassman, during Yori's band performance. After the show, Himari blurts out her love, but Yori is inexperienced when it comes to romance.",
+            "Yori, who did not expect this outcome at all, looks for answers from her friends and music. She decides to respond to Himari's confession, and to her surprise, Yori discovers that Himari fell in love with her music and performance rather than Yori as a person.",
+            "Despite the shock, Yori desires to make Himari truly fall in love with her. The duo spend time together after school on the rooftop, where Yori usually plays her guitar with hopes to change Himari's feelings for her."
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 14, 2024 to Dec 29, 2024",
+        "Studios": [
+            "Yokohama Animation Laboratory",
+            "Cloud Hearts"
+        ],
+        "Genre": [
+            "Drama",
+            "Girls Love"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "141858l",
+        "Related": []
+    },
+    {
+        "Title": "School Days",
+        "AlternateTitles": [
+            "School Days",
+            "スクールデイズ"
+        ],
+        "Descriptions": [
+            "High school student Makoto Itou first notices Kotonoha Katsura at the start of his second semester, freshman year. Immediately, he becomes entranced by her beauty, but his bashfulness doesn't allow him to approach her, even though they ride the same train every day. Instead, he snaps a photo of her in secret and sets it as his cell phone's wallpaper: a charm that, if kept under wraps, would supposedly help you realize your love. However, classmate Sekai Saionji spots the picture, but instead of ratting him out, she offers to help set him up with Kotonoha—going so far as befriending her just for him. Thus, the trio begins a rather impromptu friendship.",
+            "School Days follows the lives of these three teenagers as they traverse the joys and hardships that come with being a high schooler. In a story alive and brimming with romance and melancholy, the tale of these three students will linger in memory long after the momentous conclusion."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 4, 2007 to Sep 27, 2007",
+        "Studios": [
+            "TNK"
+        ],
+        "Genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Theme": [
+            "Harem",
+            "School"
+        ],
+        "Cover": "9616l",
+        "Related": []
+    },
+    {
+        "Title": "Seiken no Blacksmith",
+        "AlternateTitles": [
+            "The Sacred Blacksmith",
+            "Seiken no Katanakaji",
+            "聖剣の刀鍛冶（ブラックスミス）"
+        ],
+        "Descriptions": [
+            "Forty-four years ago, the surviving nations of the Valbanil War declared peace and forbade the use of the devastating demon contracts that ravaged the land. Now, inexperienced knight Cecily Cambell is eager to follow the example of her family and protect the people of the city using the sword she inherited from her father.",
+            "Her first challenge arises in the market. A crazed swordsman wreaks havoc upon civilians and Cecily jumps into action to restore order. Overwhelmed, her weapon shatters, but a skilled stranger wielding a strange-looking sword intervenes. With the situation diffused, Cecily heads to a local blacksmith in an effort to restore her family heirloom. However, she finds out that her savior—the blacksmith Luke Ainsworth—may be the only person capable of such intricate repairs. Determined to have her treasured sword repaired, she seeks out the man who rescued her.",
+            "However, a group of bandits suddenly attack a convoy headed for the city. The assailants look inhuman, and an ice demon appears. Luke suspects the use of a demon contract and calls upon a sacred power to defeat them. Meanwhile, a shadowy hooded figure lurks, watching from a distance. Who is this mysterious evildoer, and what does his appearance mean for the pair?"
+        ],
+        "Episodes": 12,
+        "Aired": "Oct 3, 2009 to Dec 19, 2009",
+        "Studios": [
+            "Manglobe"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Theme": [],
+        "Cover": "21103l",
+        "Related": []
+    },
+    {
+        "Title": "Seikon no Qwaser",
+        "AlternateTitles": [
+            "The Qwaser of Stigmata",
+            "聖痕のクェイサー"
+        ],
+        "Descriptions": [
+            "When Tomo Yamanobe's father—the former headmaster of Saint Mikhailov Academy—disappeared, he left nothing behind except for a piece of art called the \"icon.\" Soon after his disappearance, rumors of a serial killer attacking female students of the academy began to spread.",
+            "As Tomo and her sister Mafuyu Oribe head home after being tormented at school, Tomo trips over an injured silver-haired boy who abruptly vanishes while being tended to. Mafuyu goes to look for him, only to discover that the church holding the icon is burning down. When she tries to save the painting, the rumored serial killer suddenly attacks her with a mysterious ability to control magnesium. Appearing out of nowhere, the silver-haired boy, who can control iron, rescues Mafuyu.",
+            "Mafuyu finds out that the boy, named Alexander Nikolaevich \"Sasha\" Hell, is a \"qwaser\"—a being who is capable of controlling an element through the power of \"soma,\" received through the act of breastfeeding. Confused by the ordeal, Mafuyu attempts to move past it with little luck, as Sasha transfers to her class the next day. What will become of Tomo and Mafuyu's normal school life with the danger of other qwasers looming close to them?"
+        ],
+        "Episodes": 24,
+        "Aired": "Jan 10, 2010 to Jun 20, 2010",
+        "Studios": [
+            "Hoods Entertainment"
+        ],
+        "Genre": [
+            "Action",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Gore",
+            "Harem",
+            "School",
+            "Super Power"
+        ],
+        "Cover": "103629l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Seikon no Qwaser II`
+            }
+        ]
+    },
+    {
+        "Title": "Seikon no Qwaser II",
+        "AlternateTitles": [
+            "The Qwaser of Stigmata II",
+            "聖痕のクェイサー II"
+        ],
+        "Descriptions": [
+            "Sasha is partnered with Hana as his new Maria. They infiltrate an all-girls academy, forcing Sasha to crossdress, in search of a Qwaser-related artifact called the Magdalena of Thunder which has appeared in one of the students. However, they have some competition in their search of it.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 12, 2011 to Jun 28, 2011",
+        "Studios": [
+            "Hoods Entertainment"
+        ],
+        "Genre": [
+            "Action",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Gore",
+            "Harem",
+            "School",
+            "Super Power"
+        ],
+        "Cover": "75450l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Seikon no Qwaser`
+            }
+        ]
+    },
+    {
+        "Title": "Seirei no Moribito",
+        "AlternateTitles": [
+            "Moribito - Guardian of the Spirit",
+            "Guardian of the Sacred Spirit",
+            "精霊の守り人"
+        ],
+        "Descriptions": [
+            "On the precipice of a cataclysmic drought, the Star Readers of the Shin Yogo Empire must devise a plan to avoid widespread famine. It is written in ancient myths that the first emperor, along with eight warriors, slew a water demon to avoid a great drought and save the land that was to become Shin Yogo. If a water demon was to appear once more, its death could bring salvation. However, the water demon manifests itself within the body of the emperor's son, Prince Chagum—by the emperor's order, Chagum is to be sacrificed to save the empire.",
+            "Meanwhile, a mysterious spear-wielding mercenary named Balsa arrives in Shin Yogo on business. After saving Chagum from a thinly veiled assassination attempt, she is tasked by Chagum's mother to protect him from the emperor and his hunters. Bound by a sacred vow she once made, Balsa accepts.",
+            "Seirei no Moribito follows Balsa as she embarks on her journey to protect Chagum, exploring the beauty of life, nature, family, and the bonds that form between strangers."
+        ],
+        "Episodes": 26,
+        "Aired": "Apr 7, 2007 to Sep 29, 2007",
+        "Studios": [
+            "Production I.G"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Theme": [],
+        "Cover": "50337l",
+        "Related": []
+    },
+    {
+        "Title": "Sekai de Ichiban Tsuyoku Naritai!",
+        "AlternateTitles": [
+            "Wanna Be the Strongest in the World",
+            "SekaTsuyo",
+            "世界でいちばん強くなりたい!"
+        ],
+        "Descriptions": [
+            "Hagiwara Sakura and Miyazawa Elena are the leading members of a popular idol group, Sweet Diva. One day, Elena is injured by the attack of a female pro-wrestler Kazama Rio during the recording of a TV program. Sakura gets mad at Rio and gives her a dropkick. To avenge Elena, Sakura enters the female pro-wrestling matches."
+        ],
+        "Episodes": 12,
+        "Aired": "Oct 6, 2013 to Dec 22, 2013",
+        "Studios": [
+            "Arms"
+        ],
+        "Genre": [
+            "Sports",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Combat Sports"
+        ],
+        "Cover": "52633l",
+        "Related": []
+    },
+    {
+        "Title": "Sekirei",
+        "AlternateTitles": [
+            "Sekirei",
+            "Wagtail",
+            "セキレイ"
+        ],
+        "Descriptions": [
+            "Struggling yet brilliant 19-year-old Minato Sahashi has failed his college entrance exams for the second time, resulting in him being regarded as worthless by those around him. However, the course of his seemingly bleak future is altered dramatically when a beautiful, supernatural woman falls from the sky and into his life. That woman, Musubi, is a unique being known as a \"Sekirei,\" a humanoid extraterrestrial with extraordinary abilities. These aliens are known for kissing humans carrying the Ashikabi gene in order to awaken additional latent powers deep within.",
+            "Recognizing the potential within the seemingly insignificant youth, Musubi kisses the bewildered Minato, initiating a bond between the two of them. This drags him into the high-stakes world of the Sekirei, where he and his new partner must compete against others in a battle for survival called the \"Sekirei Plan.\" However, unbeknownst to the contestants, there is far more at risk that what the competition initially entailed."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 2, 2008 to Sep 17, 2008",
+        "Studios": [
+            "Seven Arcs"
+        ],
+        "Genre": [
+            "Action",
+            "Comedy",
+            "Romance",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem",
+            "Super Power"
+        ],
+        "Cover": "75177l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Sekirei: Pure Engagement`
+            }
+        ]
+    },
+    {
+        "Title": "Sekirei: Pure Engagement",
+        "AlternateTitles": [
+            "Sekirei: Pure Engagement",
+            "Sekirei 2",
+            "セキレイ～Pure Engagement～"
+        ],
+        "Descriptions": [
+            "The second stage of the battle royale known as the Sekirei Plan is underway. Shintou Teito has been closed off; no Sekirei or Ashikabi may leave. Minato Sahashi and his harem of Sekirei must now prepare to fight new battles as changes to the rules are put into place. However, not all groups will return to the battle: some Sekirei are loved very much by their Ashikabi partners, who would rather forfeit the prize than see them perish.",
+            "In the midst of the action, someone close to Minato may be more involved than he had ever imagined, and threats lurk around every corner. There are even rumors that the \"Single Numbers,\" the most powerful type of Sekirei, have entered the fray. In the eyes of the \"Game Master\" Minaka Hiroto, everything is proceeding according to plan."
+        ],
+        "Episodes": 13,
+        "Aired": "Jul 4, 2010 to Sep 26, 2010",
+        "Studios": [
+            "Seven Arcs"
+        ],
+        "Genre": [
+            "Action",
+            "Comedy",
+            "Romance",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem",
+            "Super Power"
+        ],
+        "Cover": "75178l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Sekirei`
+            }
+        ]
+    },
+    {
+        "Title": "Sengoku Basara",
+        "AlternateTitles": [
+            "Sengoku Basara: Samurai Kings",
+            "戦国BASARA"
+        ],
+        "Descriptions": [
+            "In the Sengoku period, the struggle for power and unification has brought endless bloodshed to the unstable Japan. Out of all the warring generals, Nobunaga Oda—the \"Demon King of Owari\"—has established himself as the strongest ruler. Friend or foe, he is determined to crush anyone who stands in his way of creating a tyrannical central government.",
+            "The only two who dare rebel against Oda are the \"One-eyed Dragon of Oshu\" Masamune Date, and the distinguished but hot-blooded warrior of the Takeda clan, Yukimura Sanada. Though they share the goal of preventing Oda from unifying the domains, Masamune and Yukimura cannot see eye-to-eye. Equally skilled in combat, mutual admiration for one another causes these two feuding warriors to forge a fierce rivalry, thwarting any attempts to form a united front against the Demon King of Owari.",
+            "With Oda's forces closing in on their respective territories, Masamune and Yukimura reluctantly learn to put aside their differences and fight together against the threatening usurpator."
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 2, 2009 to Jun 18, 2009",
+        "Studios": [
+            "Production I.G"
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Historical",
+            "Martial Arts",
+            "Samurai"
+        ],
+        "Cover": "11962l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Sengoku Basara Ni`
+            }
+        ]
+    },
+    {
+        "Title": "Sengoku Basara Ni",
+        "AlternateTitles": [
+            "Sengoku Basara: Samurai Kings 2",
+            "Sengoku Basara Two, Sengoku Basara 2",
+            "戦国BASARA 弐"
+        ],
+        "Descriptions": [
+            "The deadly confrontation with the Devil King, Oda Nobunaga is over, but the struggle for supremacy continues in Warring Countries-era Japan, as the armies of Takeda Shingen and Uesugi Kenshin repeatedly engage battle at Kawanakajima.",
+            "Meanwhile, on the easternmost side of the battlefield, two outstanding characters bound by destiny—one clad in azure and the other in crimson—are about to clash in a long-awaited, decisive duel.",
+            "Then a sudden dispatch informs that a huge army has surrounded the forces of Takeda, Uesugi and Date at Kakanakajima. Their leader is Toyotomi Hideyoshi, the man who inherited Nobunaga's dreams and ambitions, and who is now going to bring havoc over Japan once again!",
+            "(Source: Production I.G)"
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 11, 2010 to Sep 26, 2010",
+        "Studios": [
+            "Production I.G"
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Historical",
+            "Martial Arts",
+            "Samurai"
+        ],
+        "Cover": "80999l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Sengoku Basara`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Sengoku Basara Movie: The Last Party`
+            }
+        ]
+    },
+    {
+        "Title": "Sengoku Basara Movie: The Last Party",
+        "AlternateTitles": [
+            "Sengoku Basara - Samurai Kings: The Movie",
+            "Gekijouban Sengoku Basara: The Last Party",
+            "劇場版 戦国BASARA -The Last Party-"
+        ],
+        "Descriptions": [
+            "The story of the film is set after the conflict instigated by Toyotomi Hideyoshi ended, but not before the Battle of Sekigahara determines who shall be the Shogun of Japan.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 1,
+        "Aired": "Jun 4, 2011",
+        "Studios": [
+            "Production I.G"
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Historical",
+            "Martial Arts",
+            "Samurai"
+        ],
+        "Cover": "27968l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Sengoku Basara Ni`
+            },
+            {
+                Type: `Alternative Version`,
+                Title: `Sengoku Basara: Judge End`
+            }
+        ]
+    },
+    {
+        "Title": "Sengoku Basara: Judge End",
+        "AlternateTitles": [
+            "Sengoku BASARA: End of Judgement",
+            "戦国BASARA Judge End"
+        ],
+        "Descriptions": [
+            "Based on CAPCOM's 2010 game Sengoku Basara 3 (Sengoku Basara: Samurai Heroes), Sengoku Basara: Judge End will depict the epic Battle of Sekigahara.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 6, 2014 to Sep 28, 2014",
+        "Studios": [
+            "Telecom Animation Film"
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Historical",
+            "Martial Arts",
+            "Samurai"
+        ],
+        "Cover": "62511l",
+        "Related": [
+            {
+                Type: `Alternative Version`,
+                Title: `Sengoku Basara Movie: The Last Party`
+            }
+        ]
+    },
+    {
+        "Title": "Senkou no Night Raid",
+        "AlternateTitles": [
+            "Night Raid 1931",
+            "閃光のナイトレイド"
+        ],
+        "Descriptions": [
+            "The year is 1931. The city is Shanghai. Ten years before America will enter World War II, the hydra's teeth planted by the first great global conflict are beginning to germinate. Hatching like spiders, they weave the complex web of plots and conspiracies destined to inevitably draw entire nations to the brink of destruction. Caught in the heart of these webs, desperately seeking to separate lies from truth, is \"Sakurai Kikan,\" an ultra-secret intelligence agency staffed by extraordinarily talented individuals with abilities far beyond those of normal humans. Their duty: to stop the darkest plots and eliminate the greatest threats. But in a city built on intrigue, can even a team of clairvoyants, telepaths and espers stand against the ultimate forces of destiny?",
+            "(Source: Sentai Filmworks)"
+        ],
+        "Episodes": 13,
+        "Aired": "Apr 6, 2010 to Jun 29, 2010",
+        "Studios": [
+            "A-1 Pictures"
+        ],
+        "Genre": [
+            "Action"
+        ],
+        "Theme": [
+            "Historical",
+            "Military",
+            "Super Power"
+        ],
+        "Cover": "24229l",
+        "Related": []
+    },
+    {
+        "Title": "Seto no Hanayome",
+        "AlternateTitles": [
+            "My Bride is a Mermaid",
+            "The Inland Sea Bride",
+            "瀬戸の花嫁"
+        ],
+        "Descriptions": [
+            "During his summer vacation, middle school student Nagasumi Michishio travels to the Seto Inland Sea. One day, while swimming at Mio Sun Beach, his leg suddenly cramps. No one is close enough to notice his desperate screams for help, and so he sinks into the ocean, where he is left to drown alone. Just as he loses consciousness, however, a mermaid appears and saves his life.",
+            "That night, Nagasumi is visited by his savior, a girl who introduces herself as Sun Seto—a mermaid from a yakuza family. As it turns out, under mermaid law, a mermaid whose identity is revealed to a human must be punished by execution. To avoid this harrowing outcome, the Seto family propose a solution: Nagasumi must marry Sun or die at the hands of Gouzaburou, Sun's father and boss of the Seto clan. Faced with no other option, Nagasumi takes her hand in marriage.",
+            "Now, the newlyweds face the difficult task of keeping their relationship secret. Between Gouzaburou's unending attempts on Nagasumi's life and the eccentric antics of a slew of antagonists, a genuine and innocent love blossoms between the pair as they adapt to their new life."
+        ],
+        "Episodes": 26,
+        "Aired": "Apr 2, 2007 to Oct 1, 2007",
+        "Studios": [
+            "Gonzo",
+            "AIC"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Organized Crime",
+            "Parody",
+            "School"
+        ],
+        "Cover": "146854l",
+        "Related": []
+    },
+    {
+        "Title": "Shakugan no Shana",
+        "AlternateTitles": [
+            "Shakugan no Shana: Season I",
+            "Burning-Eyed Shana",
+            "灼眼のシャナ"
+        ],
+        "Descriptions": [
+            "The world has become a slaughtering ground for the Crimson Denizens, mysterious beings from a parallel universe who thrive on the life energy of humans. These merciless murderers only leave behind scant remainders of souls called \"Torches,\" which are mere residues that will eventually be destroyed, along with the very fact of the victims' existence from the minds of the living. In an ambitious endeavor to put an end to this invisible, hungry massacre, warriors called Flame Hazes relentlessly fight these monsters.",
+            "One fateful day, Yuuji Sakai ceases to be a regular high schooler—he becomes trapped in a crevice of time and is suddenly attacked by a Denizen. Coming to his rescue just in the nick of time is a nameless hunter who seems no different from an ordinary young girl except for her blazing eyes and burning crimson hair. However, before Yuuji can learn anything more about his situation, he discovers that he has already been reduced to a Torch—merely a scrap of memory waiting to be extinguished."
+        ],
+        "Episodes": 24,
+        "Aired": "Oct 6, 2005 to Mar 23, 2006",
+        "Studios": [
+            "J.C.Staff"
+        ],
+        "Genre": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "Theme": [
+            "School",
+            "Urban Fantasy"
+        ],
+        "Cover": "98656l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Shakugan no Shana II (Second)`
+            }
+        ]
+    },
+    {
+        "Title": "Shakugan no Shana II (Second)",
+        "AlternateTitles": [
+            "Shakugan no Shana: Season II",
+            "Shakugan no Shana 2",
+            "灼眼のシャナII –Second–"
+        ],
+        "Descriptions": [
+            "Denizens from the Crimson Realm continue to infiltrate Misaki City and steal life energy from humans. To combat this threat, Flame Hazes are tasked with saving humans from losing their existences. But while it is a Flame Haze's duty to protect humans, Shana—the \"Flame-Haired Burning-Eyed Hunter\"—seems to be focusing her attention on one human in particular: Yuuji Sakai, a teenage boy who was unwittingly dragged into the fight between Crimson Denizens and Flame Hazes. Since her first encounter with Yuuji, Shana has started to see him as more than just a friend. In fact, Yuuji wonders if Shana might have revealed her feelings to him once before, but it is difficult for him to confirm due to her hot-and-cold personality. Nonetheless, their days pass like any other, until a new transfer student arrives at their high school—one who bears a striking resemblance to an old enemy.",
+            "Yuuji and Shana have no time to dance around their feelings for each other; while their adversaries from the Bal Masqué organization plan their next attack, the two must keep their guard up as they explore the origin behind the coveted magical object within Yuuji's body, the \"Midnight Lost Child.\""
+        ],
+        "Episodes": 24,
+        "Aired": "Oct 5, 2007 to Mar 28, 2008",
+        "Studios": [
+            "J.C.Staff"
+        ],
+        "Genre": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "Theme": [
+            "School",
+            "Urban Fantasy"
+        ],
+        "Cover": "22083l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Shakugan no Shana`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Shakugan no Shana III (Final)`
+            }
+        ]
+    },
+    {
+        "Title": "Shakugan no Shana III (Final)",
+        "AlternateTitles": [
+            "Shakugan no Shana: Season III",
+            "Shakugan no Shana Third, Shakugan no Shana 3",
+            "灼眼のシャナIII –Final–"
+        ],
+        "Descriptions": [
+            "Yuji disappeared the fateful night he was supposed to choose between a life combating evil by Shana's side or as a normal teenager. He returns from near-death to lead the Crimson Denizens in a dubious plot to bring peace to the universe, but Shana isn't fooled. In an explosive reunion, the fiery warrior faces her unlikeliest of foes while Flame Hazes from across the world join forces to ignite a war that will determine the fate of all supernatural kind.",
+            "(Source: FUNimation)"
+        ],
+        "Episodes": 24,
+        "Aired": "Oct 8, 2011 to Mar 24, 2012",
+        "Studios": [
+            "J.C.Staff"
+        ],
+        "Genre": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "Theme": [
+            "School",
+            "Urban Fantasy"
+        ],
+        "Cover": "32539l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Shakugan no Shana II (Second)`
+            }
+        ]
+    },
+    {
+        "Title": "Shigurui",
+        "AlternateTitles": [
+            "Shigurui: Death Frenzy",
+            "Crazy for Death",
+            "シグルイ"
+        ],
+        "Descriptions": [
+            "At the beginning of the Edo Era, when people enjoyed a time of peace, Lord Tokugawa Tadanaga holds a fighting tournament. In the past, matches were fought with wooden swords. This time, real swords will be used.",
+            "One-armed Fujiki Gennosuke and blind Irako Seigen will fight each other in this match. Both are disciples of Iwamoto Kogan, who is known as Japan's greatest swordsman. Each of them are determined to prove himself the successor of Iwamoto's school. However, there can only be one champion.",
+            "So begins a story of intertwining fates, conflict, and strange destinies.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 19, 2007 to Oct 11, 2007",
+        "Studios": [
+            "Madhouse"
+        ],
+        "Genre": [
+            "Action",
+            "Drama",
+            "Suspense"
+        ],
+        "Theme": [
+            "Adult Cast",
+            "Gore",
+            "Historical",
+            "Martial Arts",
+            "Psychological",
+            "Samurai"
+        ],
+        "Cover": "115872l",
+        "Related": []
+    },
+    {
+        "Title": "Shiki",
+        "AlternateTitles": [
+            "Shiki",
+            "Corpse Demon",
+            "屍鬼"
+        ],
+        "Descriptions": [
+            "Life is idyllic and unassuming in the small town of Sotoba, a simple place where everyone knows everyone. However, tragedy strikes when Megumi Shimizu, a young girl with high aspirations, unexpectedly passes away from an unnamed illness. Over the torrid summer months, as more unexplained deaths crop up around the village, the town's doctor—Toshio Ozaki—begins to suspect that something more sinister than a mere disease is at play.",
+            "Toshio teams up with Natsuno Yuuki, an apathetic and aloof teenager, and siblings Kaori and Akira Tanaka, two of Megumi's friends, to unravel the dark mystery behind the deaths in Sotoba. With their combined efforts, the investigation leads them toward an eerie secret pertaining to the new family in the Kanemasa mansion."
+        ],
+        "Episodes": 22,
+        "Aired": "Jul 9, 2010 to Dec 31, 2010",
+        "Studios": [
+            "Daume"
+        ],
+        "Genre": [
+            "Horror",
+            "Mystery",
+            "Supernatural",
+            "Suspense"
+        ],
+        "Theme": [
+            "Gore",
+            "Psychological",
+            "Vampire"
+        ],
+        "Cover": "23690l",
+        "Related": []
+    },
+    {
+        "Title": "Shinsekai yori",
+        "AlternateTitles": [
+            "From the New World",
+            "Shin Sekai Yori",
+            "新世界より"
+        ],
+        "Descriptions": [
+            "In the year 2011, a small percentage of humans began manifesting psychokinetic abilities known as \"Cantus.\" Over a millennium later, in the small town of Kamisu 66, Saki Watanabe is the last of her friends to awaken her powers and join the Sage Academy, a school for psychics like her. Although everyone at the institution has Cantus, they are not all equal; shortly after Saki enrolls, one of her classmates who is regarded as being weaker than the others suddenly disappears.",
+            "Walking home one day with her friends—the determined Maria Akizuki, the intelligent Shun Aonuma, the observant Satoru Asahina, and the timid Mamoru Itou—she comes across two unfamiliar creatures known as \"Monster Rats.\" These beings resemble moles and worship those with Cantus as gods. As a result, when Saki uses her abilities to save one from trouble, she is met with exceptional gratitude.",
+            "Now unsure about the Monster Rats' place in society, Saki and her friends find out about another disappearance. As time passes, they slowly look for answers to the mysteries that surround them and begin to realize that this seemingly \"perfect\" new world masks humanity's dark past."
+        ],
+        "Episodes": 25,
+        "Aired": "Sep 29, 2012 to Mar 23, 2013",
+        "Studios": [
+            "A-1 Pictures"
+        ],
+        "Genre": [
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Sci-Fi",
+            "Suspense"
+        ],
+        "Theme": [
+            "Psychological"
+        ],
+        "Cover": "136389l",
+        "Related": []
+    },
+    {
+        "Title": "Shingetsutan Tsukihime",
+        "AlternateTitles": [
+            "Lunar Legend Tsukihime",
+            "Tsukihime - Lunar Legend, Lunar Legend Moon Princess, Moon Princess, True Lunar Chronicle Tsukihime, Lunar Legends",
+            "真月譚 月姫"
+        ],
+        "Descriptions": [
+            "Shiki Toono wakes up in a hospital ward with the ability to see invisible lines. These thin threads, which make up all matter in Shingetsutan, instantly destroy an object when severed. Shiki discovers that if he traces the lines of something, its destruction soon follows. While keeping his supernatural vision a secret, Shiki proceeds to live his sophomore life in peace. However, this peace is short-lived when Shiki encounters a mysterious woman with bright red eyes on his way back from school. Following a sudden psychotic lapse, he appears to kill the woman, and passes out shortly after. As if things couldn't get any worse, Shiki is assailed by a pair of demonic hounds the next day—facing certain death, Shiki is saved by the timely arrival of the same woman from yesterday. She introduces herself as Arcueid Brunestud, a vampire princess. Deciding to team up, Shiki and Arcueid embark on a journey to uncover the truth behind their lineage and the recent string of murders around town."
+        ],
+        "Episodes": 12,
+        "Aired": "Oct 10, 2003 to Dec 26, 2003",
+        "Studios": [
+            "J.C.Staff"
+        ],
+        "Genre": [
+            "Action",
+            "Horror",
+            "Mystery",
+            "Romance",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Vampire"
+        ],
+        "Cover": "20669l",
+        "Related": []
+    },
+    {
+        "Title": "Shining Hearts: Shiawase no Pan",
+        "AlternateTitles": [
+            "Shining Hearts: Bread of Happiness",
+            "シャイニング・ハーツ 〜幸せのパン〜"
+        ],
+        "Descriptions": [
+            "One day, a mysterious girl named Kaguya was washed ashore the island of Wyndaria after a great storm. She encounters Rick, a swordsman who wound up working at the island's bakery. Apparently, Kaguya is suffering from having lost her memories and emotions. In addition, the usually peaceful Wyndaria is now swarming with pirates who came seeking for the special spirit stone that is worn around Kaguya's neck. Knowing the situation, Rick and his co-workers, Nellis, Amyl, and Aerie decided to bring back peace to island and help Kaguya regain her lost memories and emotions.",
+            "(Source: Wikipedia)"
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 13, 2012 to Jun 30, 2012",
+        "Studios": [
+            "Production I.G"
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy",
+            "Gourmet"
+        ],
+        "Theme": [
+            "Isekai",
+            "Workplace"
+        ],
+        "Cover": "38329l",
+        "Related": []
+    },
+    {
+        "Title": "Shinrei Tantei Yakumo",
+        "AlternateTitles": [
+            "Psychic Detective Yakumo",
+            "Shinrei Tantei Yakumo",
+            "心霊探偵 八雲"
+        ],
+        "Descriptions": [
+            "Haruka Ozawa's sophomore year is getting seriously scary. One of her friends is possessed, another has committed suicide and Haruka could be the next one to flunk the still-breathing test. Her only way out of this potentially lethal dead end? Yakumo Saito, an enigmatic student born with a mysterious red eye that allows him to see and communicate with the dead. But the deceased don't always desist and some killers are more than ready to kill again to keep dead men from telling any more tales. That doesn't stop Haruka's knack for digging up buried secrets, and there's even more evidence of bodies being exhumed by both Yakumo's police contact and an investigative journalist with a newly made corpse in her closet! Can this pair of anything but normal paranormal detectives solve the ultimate dead case files or will they end up in cold storage themselves?",
+            "(Source: Sentai Filmworks)"
+        ],
+        "Episodes": 13,
+        "Aired": "Oct 3, 2010 to Dec 26, 2010",
+        "Studios": [
+            "Bee Train"
+        ],
+        "Genre": [
+            "Horror",
+            "Mystery",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Adult Cast",
+            "Detective"
+        ],
+        "Cover": "35829l",
+        "Related": []
+    },
+    {
+        "Title": "Shounen Onmyouji",
+        "AlternateTitles": [
+            "Shonen Onmyoji",
+            "The Young Spirit Master, Teenager Onmyoji, Shonen Onmyouji",
+            "少年陰陽師"
+        ],
+        "Descriptions": [
+            "Masahiro is the grandson of the great onmyouji, Abe no Seimei. However, he lost his sixth sense that enables him to see supernatural beings, which is very important for an onmyouji. Thus, he is left with no choice but to try and pick a different career. But one day, a strange mononoke appears, which he names Mokkun, who shows him his true potential powers after fighting a demon. With the assistance of Mokkun, his quest to become the greatest onmyouji begins."
+        ],
+        "Episodes": 26,
+        "Aired": "Oct 4, 2006 to Mar 28, 2007",
+        "Studios": [
+            "Studio Deen"
+        ],
+        "Genre": [
+            "Action",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Historical",
+            "Mythology"
+        ],
+        "Cover": "106109l",
+        "Related": []
+    },
+    {
+        "Title": "Shuffle!",
+        "AlternateTitles": [
+            "Shuffle!",
+            "SHUFFLE! (シャッフル!)"
+        ],
+        "Descriptions": [
+            "In present times, Gods and Demons coexist together with Humans after the door between each of these worlds had opened. Tsuchimi Rin is a normal young high school student attending Verbena Academy, spending his days living peacefully with his childhood friend Kaede. Unexpectedly, one day the King of Gods, the King of Demons and their families move into be Rin's next door neighbors. Apparently the daughter of the Gods, Sia, and the daughter of the demons, Nerine, are both deeply in love with Rin after having met him in the past. Along with his playful friendship with upperclassmen Asa and his encounter with the silent but cute Primula, Rin has much on his hands dealing with the affections of each of these girls. Based on the eroge by Navel."
+        ],
+        "Episodes": 24,
+        "Aired": "Jul 8, 2005 to Jan 6, 2006",
+        "Studios": [
+            "asread."
+        ],
+        "Genre": [
+            "Comedy",
+            "Fantasy",
+            "Romance",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem",
+            "School",
+            "Urban Fantasy"
+        ],
+        "Cover": "133860l",
+        "Related": []
+    },
+    {
+        "Title": "Shuffle! Memories",
+        "AlternateTitles": [
+            "シャッフル！メモリーズ"
+        ],
+        "Descriptions": [
+            "A recap of the Shuffle world, set ten years in the future. Gods, Demons, and Humans freely visit the other worlds as if traveling overseas, and romance is in the air. Demons, Gods, And Humans together have been falling in love and creating new families, breaking down the wall that once seperated them. Past memories are visited by Rin Tsuchimi and the events that occured between him and Lisianthus, Nerine, Kaede, Asa, and Primula.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 8, 2007 to Mar 26, 2007",
+        "Studios": [
+            "asread."
+        ],
+        "Genre": [
+            "Comedy",
+            "Fantasy",
+            "Romance",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem",
+            "School",
+            "Urban Fantasy"
+        ],
+        "Cover": "19286l",
+        "Related": []
+    },
+    {
+        "Title": "Shukufuku no Campanella",
+        "AlternateTitles": [
+            "Blessing of the Campanella",
+            "La Campanella Della Benedizione",
+            "祝福のカンパネラ"
+        ],
+        "Descriptions": [
+            "The story takes place in a trading city Ert'Aria. Leicester Maycraft is an item engineer belonging to an adventurer guild \"Oasis.\" One night, he is at a party with his friends to see a meteor stream on the rooftop of a chapel. One meteor grazes them and hits the steeple of the chapel. There he finds a secret room and a sleeping girl. The girl wakes up and says \"You must be my father!\" The encounter with the mysterious girl brings an unexpected adventure to Leicester."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 3, 2010 to Sep 18, 2010",
+        "Studios": [
+            "AIC"
+        ],
+        "Genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "75556l",
+        "Related": []
+    },
+    {
+        "Title": "Shuumatsu Train Doko e Iku?",
+        "AlternateTitles": [
+            "Train to the End of the World",
+            "Where Does the Doomsday Train Go?",
+            "終末トレインどこへいく？"
+        ],
+        "Descriptions": [
+            "The introduction of 7G Network technology promised miraculous technological advancements; however, the aftermath of its launch plunged Japan into chaos. From drastic changes to the terrain to bizarre mutations among people, the way of life is overwritten with new rules. The town of Agano is one of the few remaining settlements, and its citizens aged 21 and above have transformed into animals.",
+            "Shizuru Chikura, a high school student from Agano, is desperately searching for her friend, Youka Nakatomi. Coming across a picture in a newspaper placing Youka in Ikebukuro, Shizuru starts packing for a trip. But with public transportation effectively shut down, her options are limited. Fortunately, Tairo Zenjirou, a senile old conductor and the only human adult in town, comes to the rescue when he teaches her how to operate an abandoned train.",
+            "With her destination set, Shizuru ventures off on a journey to find her missing friend. On the day of departure, however, her other classmates—Nadeshiko Hoshi, Reimi Kuga, and Akira Shinonome—decide to tag along at the last minute as they embark on this one-track adventure that might expose them to dangers far surpassing anything they have encountered in Agano."
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 1, 2024 to Jun 24, 2024",
+        "Studios": [
+            "EMT Squared"
+        ],
+        "Genre": [
+            "Adventure"
+        ],
+        "Theme": [],
+        "Cover": "137450l",
+        "Related": []
+    },
+    {
+        "Title": "Skip Beat!",
+        "AlternateTitles": [
+            "Skip Beat!",
+            "スキップ・ビート！"
+        ],
+        "Descriptions": [
+            "Day in and day out, Kyouko Mogami works multiple jobs to support her childhood friend, Shoutarou \"Shou\" Fuwa, in his rise to stardom as an idol. She never complains about her way of life, as she is deeply infatuated with Shou and would go to the ends of the world for him. However, her heart is broken when she overhears Shou talk about how he views her as nothing more than a maid he cares little for.",
+            "Angered over being used, Kyouko flies into a rage and swears to get revenge on her former crush by entering the world of showbiz to surpass him. Joining the relentless and unforgiving entertainment industry proves to be a challenge, as she continuously meets people who force her out of her comfort zone. But for the sake of vengeance, Kyouko is determined to push herself and rise to the top."
+        ],
+        "Episodes": 25,
+        "Aired": "Oct 6, 2008 to Mar 30, 2009",
+        "Studios": [
+            "HAL Film Maker"
+        ],
+        "Genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Theme": [
+            "Love Polygon",
+            "Showbiz"
+        ],
+        "Cover": "84022l",
+        "Related": []
+    },
+    {
+        "Title": "Sora no Manimani",
+        "AlternateTitles": [
+            "At The Mercy of The Sky",
+            "Chuu no Manimani",
+            "宙のまにまに"
+        ],
+        "Descriptions": [
+            "Saku Ooyagi returns to his hometown after seven years and is soon reacquainted with his childhood friend, Mihoshi Akeno. The reunion is far from merry since the last memory they have of each other is of her falling off a tree and him saving her. In any case, Mihoshi is determined to improve their relationship and forces Saku to join the astronomy club she founded."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 7, 2009 to Sep 22, 2009",
+        "Studios": [
+            "Studio Comet"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "75491l",
+        "Related": []
+    },
+    {
+        "Title": "Sora no Otoshimono",
+        "AlternateTitles": [
+            "Heaven's Lost Property",
+            "Lost Property of the Sky, Misplaced by Heaven",
+            "そらのおとしもの"
+        ],
+        "Descriptions": [
+            "Ever since he was a child, Tomoki Sakurai has always woke up with tears after a dream of an angel. His childhood friend Sohara Mitsuki worries about this and decides to seek the help of Eishirou Sugata, an eccentric sky maniac. He concludes that Tomoki's dream is undoubtedly connected to what is known as the New World, a floating anomaly that scientists have failed to understand.",
+            "Recruiting the New World Discovery Club's first members, Eishirou schedules a time to meet up in order to observe the mystery in the sky. That day, Tomoki's peaceful life is changed forever when a strange girl falls from the sky and begins to call him master.",
+            "Sora no Otoshimono follows the daily activities of the New World Discovery Club as they begin to learn more about the Angeloids that have arrived on Earth."
+        ],
+        "Episodes": 13,
+        "Aired": "Oct 5, 2009 to Dec 28, 2009",
+        "Studios": [
+            "AIC ASTA"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "50307l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Sora no Otoshimono Forte`
+            }
+        ]
+    },
+    {
+        "Title": "Sora no Otoshimono Forte",
+        "AlternateTitles": [
+            "Heaven's Lost Property Forte",
+            "Sora no Otoshimono: f, Lost Property of the Sky 2, Misplaced by Heaven 2, Heaven's Lost Property 2",
+            "そらのおとしものf（フォルテ）"
+        ],
+        "Descriptions": [
+            "Sakurai Tomoki has settled into his life with the two angeloids, Ikaros and Nymph, and is enjoying himself immensely. However, he keeps having weird dreams and asks all of his friends to help him investigate the cause.",
+            "Nymph conjures up a device that enables people, but not angeloids, to enter other people's dreams. The device malfunctions at first but eventually they get to what was supposed to be Tomoki's dream but discover that something is very wrong with it.",
+            "Later, a meteor comes crashing down from the skies at the site of the large cherry blossom tree where Tomoki first discovered Ikaros. An extremely well endowed blonde angeloid with a huge sword emerges from the meteor and sets off in search of Tomoki!"
+        ],
+        "Episodes": 12,
+        "Aired": "Oct 2, 2010 to Dec 18, 2010",
+        "Studios": [
+            "AIC ASTA"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "50309l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Sora no Otoshimono`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Sora no Otoshimono: Tokeijikake no Angeloid`
+            }
+        ]
+    },
+    {
+        "Title": "Sora no Otoshimono: Tokeijikake no Angeloid",
+        "AlternateTitles": [
+            "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
+            "Gekijouban Sora no Otoshimono: Tokeijikake no Angeloid, Sora no Otoshimono: The Movie, Lost Property of the Sky Movie, Misplaced by Heaven",
+            "劇場版 そらのおとしもの 時計じかけの哀女神（エンジェロイド）"
+        ],
+        "Descriptions": [
+            "Movie adaptation of the Sora no Otoshimono manga, based on Kazane Hiyori's arc."
+        ],
+        "Episodes": 1,
+        "Aired": "Jun 25, 2011",
+        "Studios": [
+            "AIC ASTA"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "112732l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Sora no Otoshimono Forte`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Sora no Otoshimono Final: Eternal My Master`
+            }
+        ]
+    },
+    {
+        "Title": "Sora no Otoshimono Final: Eternal My Master",
+        "AlternateTitles": [
+            "Heaven's Lost Property: My Eternal Master",
+            "Sora no Otoshimono Final: Eien no Watashi no Torikago, Sora no Otoshimono 3",
+            "そらのおとしものＦｉｎａｌ永遠の私の鳥籠［エターナルマイマスター］"
+        ],
+        "Descriptions": [
+            "The second movie of Sora no Otoshimono that concludes the anime series."
+        ],
+        "Episodes": 1,
+        "Aired": "Apr 26, 2014",
+        "Studios": [
+            "Production IMS"
+        ],
+        "Genre": [
+            "Comedy",
+            "Sci-Fi",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "112798l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Sora no Otoshimono: Tokeijikake no Angeloid`
+            }
+        ]
+    },
+    {
+        "Title": "So Ra No Wo To",
+        "AlternateTitles": [
+            "Sound of the Sky",
+            "So-Ra-No-Wo-To, Soranowoto, Sora no Woto, Sora no Oto",
+            "ソ・ラ・ノ・ヲ・ト"
+        ],
+        "Descriptions": [
+            "On the outskirts of the country of Helvetia rests the tranquil town of Seize. Upon its cobbled streets, citizens go about their daily lives, undisturbed by the increasingly tense military relations between Helvetia and the neighboring Roman Empire.",
+            "It is under these circumstances that the 1121st platoon of the Helvetian army, stationed at the Clocktower Fortress in Seize, receives a new recruit in the young and spirited Kanata Sorami. Having joined the military to fulfill her dream of learning to play the bugle, she excitedly accepts the tutelage of the Sergeant Major, Rio Kazumiya, who happens to be a skilled trumpeter. Working alongside them are the aloof mechanic, Noël Kannagi, the feisty gunner, Kureha Suminoya, and the compassionate Captain Felicia Heideman; together, they experience the beauty of life in Seize and the lasting joy of a community that has persevered in spite of the crumbling world around them."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 5, 2010 to Mar 23, 2010",
+        "Studios": [
+            "A-1 Pictures"
+        ],
+        "Genre": [
+            "Sci-Fi",
+            "Slice of Life"
+        ],
+        "Theme": [
+            "CGDCT",
+            "Iyashikei",
+            "Military",
+            "Music"
+        ],
+        "Cover": "81654l",
+        "Related": []
+    },
+    {
+        "Title": "Special A",
+        "AlternateTitles": [
+            "Special A (S.A)",
+            "S.A., Special A Class",
+            "スペシャル・エー"
+        ],
+        "Descriptions": [
+            "Hikari Hanazono has always been able to do things that normal people cannot. As a child, she assumed no one could beat her—until she met Kei Takishima. Thinking she would win, Hikari challenged him to a match. But things didn’t go as planned; she lost not once but each time she rechallenged him. From that point on, she has sworn to best Kei at everything, ranging from academics to athletics.",
+            "To achieve her goal, Hikari enrolls in the same school as Kei—Hakusenkan, a prestigious institute for the wealthy. As a pair, they hold the top two rankings in school and are among seven of the academy's best students in a class known as Special A.",
+            "While Hikari treats Kei as a rival, she is completely oblivious that he harbors hidden feelings for her. Together, the members of Special A deal with competition, friendship, and just a bit of love."
+        ],
+        "Episodes": 24,
+        "Aired": "Apr 7, 2008 to Sep 15, 2008",
+        "Studios": [
+            "Gonzo",
+            "AIC"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "20876l",
+        "Related": []
+    },
+    {
+        "Title": "Strawberry Panic",
+        "AlternateTitles": [
+            "Strawberry Panic",
+            "ストロベリー・パニック"
+        ],
+        "Descriptions": [
+            "Nagisa Aoi begins her new school life as a transfer student at St. Miator’s Girls Academy, one of three prestigious all-girls institutions atop Astraea Hill. Getting lost on her first day, Nagisa encounters a mysterious student whose elegance and charm is so bewitching, she ends up in the infirmary.",
+            "There to greet her when she awakens is Tamao Suzumi, her roommate, who enthusiastically introduces Nagisa to the daily life and social structure on campus. Most notably, Tamao informs her of the existence of an exceptional student representative among all three schools—the Etoile, or \"star.\" Eager to meet this person, Nagisa learns that the ethereal beauty she met earlier, Shizuma Hanazono, is the one and only Etoile herself! Not only that, Shizuma seems openly interested in Nagisa! Her interactions with Shizuma naturally make her a hot topic on campus; yet despite being so captivated, Nagisa can’t help but wonder if something is off.",
+            "Strawberry Panic! follows the everyday routines of Nagisa, Shizuma, and her friends at St. Miator’s, St. Spica, and St. Lulim as they navigate through the challenge of relationships while confronting hidden feelings, lingering regrets, and new possibilities."
+        ],
+        "Episodes": 26,
+        "Aired": "Apr 4, 2006 to Sep 26, 2006",
+        "Studios": [
+            "Madhouse"
+        ],
+        "Genre": [
+            "Drama",
+            "Girls Love"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "110686l",
+        "Related": []
+    },
+    {
+        "Title": "Suisei no Gargantia",
+        "AlternateTitles": [
+            "Gargantia on the Verdurous Planet",
+            "Suisei no Galgantia",
+            "翠星のガルガンティア"
+        ],
+        "Descriptions": [
+            "In the distant future, a majority of humans have left the Earth, and the Galactic Alliance of Humanity is founded to guide exploration and ensure the prosperity of mankind. However, a significant threat arises in the form of strange creatures called Hideauze, resulting in an interstellar war to prevent humanity's extinction. Armed with Chamber, an autonomous robot, 16-year-old lieutenant Ledo of the Galactic Alliance joins the battle against the monsters. In an unfortunate turn of events, Ledo loses control during the battle and is cast out to the far reaches of space, crash-landing on a waterlogged Earth.",
+            "On the blue planet, Gargantia—a large fleet of scavenger ships—comes across Chamber and retrieves it from the ocean, thinking they have salvaged something of value. Mistaking their actions for hostility, Ledo sneaks aboard and takes a young messenger girl named Amy hostage, only to realize that the residents of Gargantia are not as dangerous as he had believed. Faced with uncertainty, and unable to communicate with his comrades in space, Ledo attempts to get his bearings and acclimate to a new lifestyle. But his peaceful days are about to be short-lived, as there is more to this ocean-covered planet than meets the eye."
+        ],
+        "Episodes": 13,
+        "Aired": "Apr 7, 2013 to Jun 30, 2013",
+        "Studios": [
+            "Production I.G"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "Mecha"
+        ],
+        "Cover": "48817l",
+        "Related": []
+    },
+    {
+        "Title": "Summer Wars",
+        "AlternateTitles": [
+            "Summer Wars",
+            "サマーウォーズ"
+        ],
+        "Descriptions": [
+            "OZ, a virtual world connected to the internet, has become extremely popular worldwide as a spot for people to engage in a large variety of activities, such as playing sports or shopping, through avatars created and customized by the user. OZ also possesses a near impenetrable security due to its strong encryption, ensuring that any personal data transmitted through the networks will be kept safe in order to protect those who use it. Because of its convenient applications, the majority of society has become highly dependent on the simulated reality, even going as far as entrusting the system with bringing back the unmanned asteroid explorer, Arawashi.",
+            "Kenji Koiso is a 17-year-old math genius and part-time OZ moderator who is invited by his crush Natsuki Shinohara on a summer trip. But unbeknownst to him, this adventure requires him to act as her fiancé. Shortly after arriving at Natsuki's family's estate, which is preparing for her great-grandmother's 90th birthday, he receives a strange, coded message on his cell phone from an unknown sender who challenges him to solve it. Kenji is able to crack the code, but little does he know that his math expertise has just put Earth in great danger."
+        ],
+        "Episodes": 1,
+        "Aired": "Aug 1, 2009",
+        "Studios": [
+            "Madhouse"
+        ],
+        "Genre": [
+            "Award Winning",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "Theme": [],
+        "Cover": "116751l",
+        "Related": []
+    },
+    {
+        "Title": "SoniAni: Super Sonico The Animation",
+        "AlternateTitles": [
+            "Soni-Ani: Super Sonico The Animation",
+            "そにアニ -SUPER SONICO THE ANIMATION-"
+        ],
+        "Descriptions": [
+            "Super Sonico is a clutzy, adorable, and well-endowed 18-year old girl. She's a complete sucker for anything cute, especially stray cats, all of which she giddily adopts. However, though Sonico should be enjoying a carefree and simple lifestyle as a young college student, her life is really anything but easy: she must balance being a professional model, working part-time at her grandmother's restaurant, and practicing guitar and performing concerts with her friends Suzu Fujimi and Fuuri Watanuki in their band, First Astronomical Velocity—all while attending college. SoniAni: Super Sonico the Animation follows Sonico as she faces daunting challenges in her search for her place in the world, even when her days are brimming with love and happiness."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 6, 2014 to Mar 24, 2014",
+        "Studios": [
+            "White Fox"
+        ],
+        "Genre": [
+            "Comedy"
+        ],
+        "Theme": [
+            "Adult Cast",
+            "Music"
+        ],
+        "Cover": "56987l",
+        "Related": []
+    },
+    {
+        "Title": "Taimadou Gakuen 35 Shiken Shoutai",
+        "AlternateTitles": [
+            "Anti-Magic Academy: The 35th Test Platoon",
+            "Taimadou Gakuen Sanjuugo Shiken Shoutai",
+            "対魔導学園35試験小隊"
+        ],
+        "Descriptions": [
+            "In a world plagued by magical dangers and threats, there exist special warriors—known as Inquisitors—who are tasked with non-violently preventing these threats and nefarious actions. The Anti-Magic Academy is a specialized school built to educate and train these Inquisitors, which splits its students into small squads in order to train them to work together. Among these talented squads is the 35th Test Platoon, also known as the \"Small Fry Platoon\" due to its low ranking and incompetent members.",
+            "However, everything changes when Ouka Ootori, a powerful yet rebellious former Inquisitor, is forced into joining due to her tendency to break rules and committing a serious violation: the killing of a witch. Tempers flare upon her arrival, as she clashes with their clumsy captain Takeru Kusanagi and argues with the rest of the squad over her views on witches. This eclectic group has a long way to go if they wish to succeed and climb the ranks at the Anti-Magic Academy: they must first set aside their differences and come to work together as a team."
+        ],
+        "Episodes": 12,
+        "Aired": "Oct 8, 2015 to Dec 24, 2015",
+        "Studios": [
+            "SILVER LINK."
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy",
+            "Romance",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem",
+            "Military",
+            "Urban Fantasy"
+        ],
+        "Cover": "76211l",
+        "Related": []
+    },
+    {
+        "Title": "Tantei Team KZ Jiken Note",
+        "AlternateTitles": [
+            "探偵チームＫＺ（カッズ）事件ノート"
+        ],
+        "Descriptions": [
+            "Aya Tachibana is a sixth-grader who frets and obsesses over friends, family, grades, and more. One day, she joins the \"Tantei Team KZ\" with four very idiosyncratic boys she met at cram school. There is the glib and attention-grabbing leader Kazuomi Wakatake, the mysterious \"expert of personal relationships\" Takakazu Kuroki, the smart and stoic math genius Kazunori Uesugi, and the sweet-hearted Kazuhiko Kozuka who is good at social matters and science. Aya finds her place among them as the \"language expert.\" \"Tantei Team KZ\" gets involved in modern-day cases, and even if they bicker from time to time, they collaborate by pooling each of their talents and skills to solve these cases.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 16,
+        "Aired": "Oct 7, 2015 to Jan 27, 2016",
+        "Studios": [
+            "Signal.MD"
+        ],
+        "Genre": [
+            "Mystery"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "76574l",
+        "Related": []
+    },
+    {
+        "Title": "Tatakau Shisho: The Book of Bantorra",
+        "AlternateTitles": [
+            "Armed Librarians: The Book of Bantorra",
+            "Tatakau Shisho, Tatakau Shisho to Koisuru Bakudan, Fighting Librarians",
+            "戦う司書 The Book of Bantorra"
+        ],
+        "Descriptions": [
+            "In a world where dead people turn into books and are stored in the Bantorra Library where anyone who reads a book can learn their past, Bantorra Library is maintained by Armed Librarians who wield psychic powers and their enemy is a religious society known as Sindeki Kyoudan."
+        ],
+        "Episodes": 27,
+        "Aired": "Oct 2, 2009 to Apr 2, 2010",
+        "Studios": [
+            "David Production"
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Adult Cast",
+            "Super Power"
+        ],
+        "Cover": "22769l",
+        "Related": []
+    },
+    {
+        "Title": "Tayutama: Kiss on My Deity",
+        "AlternateTitles": [
+            "Tayutama",
+            "タユタマ -Kiss on my Deity-"
+        ],
+        "Descriptions": [
+            "Yuuri Mito is a typical, normal Japanese teenager. He goes to school, works on people's motorcycles and performs exorcisms. Okay, that last part's a little bit unusual, but his family lives in a shrine and they do that sort of thing. Still, you would think he'd know enough to be careful with an ancient relic he finds in the woods, especially when a mysterious goddess appears and tells him to leave it alone. Unfortunately, despite Mito's best efforts, the seal gets broken anyway and a number of dangerous \"tayuti\" that it held in stasis get loose. This is bad. Mito also ends up with a beautiful goddess girl who decides that she's going to marry him. This might not be so bad. if he wasn't already caught up in the middle of a war between the entities he's released. The flesh may be weak but the spirit's more than willing to compensate.",
+            "(Source: Sentai Filmworks)"
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 6, 2009 to Jun 22, 2009",
+        "Studios": [
+            "SILVER LINK."
+        ],
+        "Genre": [
+            "Romance",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "11972l",
+        "Related": []
+    },
+    {
+        "Title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+        "AlternateTitles": [
+            "Tearmoon Empire",
+            "Tearmoon Empire Story",
+            "ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～"
+        ],
+        "Descriptions": [
+            "Due to poor finances, an epidemic, and famine, the once prosperous Tearmoon Empire ultimately falls to a revolution instigated by its citizens and supported by neighboring nations. The rebellion also brings dire consequences for Mia Luna Tearmoon, the empire's extremely spoiled princess, who endures three years in the dungeons before facing execution.",
+            "By some miracle, Mia finds herself reincarnated as her 12-year-old self, retaining full memories of everything that had transpired. With the pain of the guillotine blade freshly imprinted on her neck, Mia is determined to use this second chance at life to avoid the grim fate that awaits her. She utilizes all her knowledge to improve the state of the kingdom and gather personal allies, inadvertently winning over the people's hearts and becoming beloved as a saint."
+        ],
+        "Episodes": 12,
+        "Aired": "Oct 8, 2023 to Dec 24, 2023",
+        "Studios": [
+            "SILVER LINK."
+        ],
+        "Genre": [
+            "Comedy"
+        ],
+        "Theme": [
+            "Time Travel",
+            "Villainess"
+        ],
+        "Cover": "139910l",
+        "Related": []
+    },
+    {
+        "Title": "Tears to Tiara",
+        "AlternateTitles": [
+            "Tears to Tiara",
+            "ティアーズ・トゥ・ティアラ"
+        ],
+        "Descriptions": [
+            "As the Holy Empire rises to power, the neighboring lands begin to gradually fall under its control. The Empire's conquest eventually reaches the small island of Erin, home to the Gael tribe. There, a priestess named Riannon is kidnapped to be offered as a living sacrifice to the demon king Arawn, a malevolent being rumored to have caused untold destruction in the past.",
+            "Riannon's brother, First Warrior Arthur, rescues her, when Arawn suddenly materializes before them as a handsome grey-haired man. Hiding his true identity and remaining enigmatic, Arawn pledges his power and leadership to the tribe's cause and joins Arthur, Riannon, and their merry band of friends—including a talented swordsman, an agile hunter, and a group of ecstatic pixies—as they fight back against the Empire, while uncovering the dark secrets of the land along the way."
+        ],
+        "Episodes": 26,
+        "Aired": "Apr 6, 2009 to Sep 28, 2009",
+        "Studios": [
+            "White Fox"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Theme": [],
+        "Cover": "78309l",
+        "Related": []
+    },
+    {
+        "Title": "Tengoku Daimakyou",
+        "AlternateTitles": [
+            "Heavenly Delusion",
+            "天国大魔境"
+        ],
+        "Descriptions": [
+            "Fifteen years ago, disaster struck human civilization, and now dangerous man-eating monsters roam the ravaged lands, posing an existential threat to the remaining survivors. Amid this turmoil, an isolated facility shelters children and nurtures them in peace. However, as a few among them find out about the world beyond the narrow periphery of their nursery's walls, their curiosity about it slowly grows.",
+            "Meanwhile, in the outside world, young survivors Maru and Kiruko band together to search for a special place called Heaven, each for their own reasons. Carrying past burdens and tragic secrets, the two hope to find answers to the cruelty they have experienced in their lives and in the world, which still remains in tatters."
+        ],
+        "Episodes": 13,
+        "Aired": "Apr 1, 2023 to Jun 24, 2023",
+        "Studios": [
+            "Production I.G"
+        ],
+        "Genre": [
+            "Adventure",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "Theme": [],
+        "Cover": "129439l",
+        "Related": []
+    },
+    {
+        "Title": "Tenjou Tenge",
+        "AlternateTitles": [
+            "Tenjho Tenge",
+            "Heaven and Earth, Tenjo Tenge",
+            "天上天下"
+        ],
+        "Descriptions": [
+            "For some people, high school represents the opportunity for a fresh start. You can take new classes and make new friends. For Souichiro Nagi and Bob Makihara, though, high school means something different: the chance to become the top fighters in the entire student body! Too bad Toudou Academy is the hardest possible place to realize their dreams. Their new high school is no ordinary academic institution. Rather than concentrating on classic subjects like math and science, Toudou Academy was created for the sole purpose of reviving the martial arts in Japan!",
+            "As a result, Souichiro's aspirations to become top dog are cut short when he runs afoul of Masataka Takayanagi and Maya Natsume. The two upperclassmen easily stop the freshmen duo's rampage across school, but rather than serving as a deterrent, it only stokes their competitive fire. What kind of monstrous fighters attend Toudou Academy? Are there any stronger than Masataka and Maya? And why in the world is Maya's younger sister stalking Souichiro? Learn the answers to these questions and more in Tenjou Tenge!"
+        ],
+        "Episodes": 24,
+        "Aired": "Apr 2, 2004 to Sep 17, 2004",
+        "Studios": [
+            "Madhouse"
+        ],
+        "Genre": [
+            "Action",
+            "Drama",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Delinquents",
+            "Martial Arts",
+            "School",
+            "Super Power"
+        ],
+        "Cover": "101835l",
+        "Related": []
+    },
+    {
+        "Title": "Temple",
+        "AlternateTitles": [
+            "TenPuru: No One Can Live on Loneliness",
+            "てんぷる"
+        ],
+        "Descriptions": [
+            "From a young age, Akemitsu Akagami was taught by his father that people can never live alone. But underneath the seemingly prudent advice lies a truth that corrupts it—sons of the Akagami lineage are infamous for being heinous playboys. Determined to clear the notoriety of his family name, Akemitsu keeps his distance from girls throughout his life, only to become a victim of his bloodline's instincts, as he falls in love at first sight.",
+            "In a last-ditch effort to rid himself of these desires, Akemitsu travels to a nearby temple in hopes of receiving Buddhist training. However, chaos ensues when the girl he had fallen for greets him at the door. After the commotion settles, he discovers the temple is actually a nunnery from which his father had borrowed millions before fleeing. Now working at the nunnery to repay the outstanding debts, Akemitsu tries his best to compose himself and stay celibate while being surrounded by lovely girls of all kinds."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 9, 2023 to Sep 24, 2023",
+        "Studios": [
+            "Gekkou"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem"
+        ],
+        "Cover": "136896l",
+        "Related": []
+    },
+    {
+        "Title": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+        "AlternateTitles": [
+            "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World",
+            "Tensei Kenjya no Isekai Life",
+            "転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～"
+        ],
+        "Descriptions": [
+            "After working himself to death in a hostile corporate environment, Yuuji Sano gets a second chance when he transmigrates to a game-like fantasy world. Although he wishes to lead an unassuming life, Yuuji learns that he has the title of a Monster Tamer, the weakest rank of adventurer. With his newfound skills, he tames a number of slimes around him and, with their help, acquires magical powers to become a Sage—a second profession that capitalizes on such potential.",
+            "Even after gaining overwhelming strength, the scars from the life Yuuji left behind keep him from going all out. However, he might not be able to hide his abilities for much longer, as unforeseen dangers threaten to destroy the world that is now his only home."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 4, 2022 to Sep 12, 2022",
+        "Studios": [
+            "Revoroot"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Isekai"
+        ],
+        "Cover": "148868l",
+        "Related": []
+    },
+    {
+        "Title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+        "AlternateTitles": [
+            "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far",
+            "Chronicles of an Aristocrat Reborn in Another World: The Apostle of the Gods Who Know No Self-Restraint",
+            "転生貴族の異世界冒険録～自重を知らない神々の使徒～"
+        ],
+        "Descriptions": [
+            "On his way to a convenience store, Kazuya Shiina tries to defend two young girls from an armed assailant, only to end up getting stabbed himself and dying on the spot. This good deed allows him to be reborn with all his memories in another world as Cain von Silford, the third son of a margrave.",
+            "When Cain turns five, a baptismal ceremony in the church grants him an audience to the seven gods who preside over the world. Not only do the gods fill him in on the circumstances of his reincarnation, but they also give Cain their respective divine protections—allowing him to use cheat-like abilities in swordsmanship, magic, and many other aspects.",
+            "With these blessings, Cain sets out to live a fulfilling life that he deems a dream come true. However, it soon becomes clear that the gods have more plans for him than just a haphazard bestowal of overwhelming power."
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 3, 2023 to Jun 19, 2023",
+        "Studios": [
+            "Magic Bus",
+            "EMT Squared"
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy",
+            "Romance"
+        ],
+        "Theme": [
+            "Harem",
+            "Isekai",
+            "Reincarnation"
+        ],
+        "Cover": "134000l",
+        "Related": []
+    },
+    {
+        "Title": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+        "AlternateTitles": [
+            "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+            "Tenten Kakumei, MagiRevo",
+            "転生王女と天才令嬢の魔法革命"
+        ],
+        "Descriptions": [
+            "Princess Anisphia \"Anis\" Wynn Palletia has always dreamed of flying through the sky, even though the people of her kingdom consider it a silly ambition. Also at odds with her goal is the fact that Anis is incapable of using magic despite her noble status. Refusing to give up so easily, she renounces her right to the throne, and focuses on developing \"magicology\" by combining various resources with knowledge from her previous life on Earth.",
+            "Due to Anis' nature, responsibility for the kingdom's future is passed onto her younger brother, Algard. Pushed into a political marriage with Euphyllia Magenta, a girl he hardly knows, Algard rebels by spending more time with a commoner girl than his fiancée. After Euphyllia tries to intervene, Algard publicly calls off their marriage and denounces his ex-fiancée as a bully.",
+            "After crashing into the banquet where Algard makes the announcement, Anis rescues Euphyllia on the flying broom she is testing. She decides to make Euphyllia her assistant, which the other girl reluctantly agrees to. Although their partnership appears random at first, Anis has an ulterior motive for wanting Euphyllia's company."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 4, 2023 to Mar 22, 2023",
+        "Studios": [
+            "Diomedéa"
+        ],
+        "Genre": [
+            "Fantasy",
+            "Girls Love"
+        ],
+        "Theme": [
+            "Isekai",
+            "Reincarnation"
+        ],
+        "Cover": "126928l",
+        "Related": []
+    },
+    {
+        "Title": "Tenshi no 3P!",
+        "AlternateTitles": [
+            "Angel's 3Piece!",
+            "Tenshi no Three Piece!",
+            "天使の3P！〈スリーピース〉"
+        ],
+        "Descriptions": [
+            "Since entering high school, Kyou Nukui has not attended a single class. Instead, he spends his days locked in his bedroom composing music and posting it on the internet accompanied by his only friend's drawings, an artist with the pseudonym \"Kiriyume.\" One day, Kyou hesitantly uploads his newest composition, and first departure from his typical style, TR03. Additionally, he does not upload under his usual handle \"HibikiP,\" but simply under the name \"me,\" and without a drawing from his mysterious friend.",
+            "Shortly after, Kyou receives a very polite email, not only praising his music but also somehow discerning that he is, in fact, the composer behind TR03. The e-mail also asks for a meetup in a nearby park, to which he cautiously decides to go. To his surprise, however, he finds three elementary school girls at the meeting place! Suddenly, Jun Gotou, Nozomi Momijidani, and Sora Kaneshiro ask for his help to hold a concert in their home, an old church now used as an orphanage. And though Kyou is reluctant at first, after seeing their musical abilities, he eventually decides to accept their proposal.",
+            "Based on the light novel of the same name by the award-winning Sagu Aoyama, Tenshi no 3P! follows Kyou as these three angels change his life."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 10, 2017 to Sep 25, 2017",
+        "Studios": [
+            "Project No.9"
+        ],
+        "Genre": [],
+        "Theme": [
+            "Music",
+            "School"
+        ],
+        "Cover": "86831l",
+        "Related": []
+    },
+    {
+        "Title": "Teppen!!!!!!!!!!!!!!!",
+        "AlternateTitles": [
+            "Teppen—!!!!!!!!!!!!!!! Laughing 'til You Cry",
+            "てっぺんっ!!!!!!!!!!!!!!!"
+        ],
+        "Descriptions": [
+            "The Teppen Grand Prix is a competition established out of an appreciation for stand-up comedy. As devoted fans of such performances, Yayoi Sakamoto and her two friends—Yomogi Takahashi and Yuzu Hosono—form the stand-up trio Young Wai-Wai. After qualifying for the final round in the prix, the three go up against other comedic trios, but only one group can emerge victorious.",
+            "With participants housed in a famous dorm where many comedians before them have lodged, the contestants' time living at the establishment will give them a chance to prove they have what it takes to make their audience laugh until they cry!"
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 2, 2022 to Sep 24, 2022",
+        "Studios": [
+            "Drive"
+        ],
+        "Genre": [
+            "Comedy"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "124393l",
+        "Related": []
+    },
+    {
+        "Title": "Terra Formars",
+        "AlternateTitles": [
+            "TERRA FORMARS [テラフォーマーズ]"
+        ],
+        "Descriptions": [
+            "During the 21st century, humanity attempted to colonize Mars by sending two species which could endure the harsh environment of the planet to terraform it—algae and cockroaches. However, they did not anticipate the species' remarkable ability to adapt. Now in the 26th century, a lethal disease known as the Alien Engine Virus has arrived on Earth, and the cure is suspected to be found only on Mars. The problem is, Mars in the present is overrun by creatures known as \"Terraformars,\" incredibly powerful and intelligent humanoid cockroaches that mutated from those originally sent to the planet.",
+            "The Annex I team, consisting of a hundred men and women genetically enhanced with characteristics of powerful organisms from earth, has been sent to Mars on a mission to find the cause of the Alien Engine Virus and to help cure humanity—signalling the start of the crew's fight for survival."
+        ],
+        "Episodes": 13,
+        "Aired": "Sep 27, 2014 to Dec 20, 2014",
+        "Studios": [
+            "LIDENFILMS"
+        ],
+        "Genre": [
+            "Action",
+            "Horror",
+            "Sci-Fi",
+            "Suspense"
+        ],
+        "Theme": [
+            "Gore",
+            "Space",
+            "Survival"
+        ],
+        "Cover": "67117l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Terra Formars: Revenge`
+            }
+        ]
+    },
+    {
+        "Title": "Terra Formars: Revenge",
+        "AlternateTitles": [
+            "Terra Formars 2nd Season, Terraformars 2",
+            "テラフォーマーズ リベンジ"
+        ],
+        "Descriptions": [
+            "In Terra Formars Revenge, the crew members of the Annex I continue to fight against Terraformars—the large humanoid cockroaches that evolved from the ones sent to Mars centuries ago. However, far from discovering the cure for the lethal Alien Engine Virus that has been plaguing Earth, the Annex I team have learned that some squadrons have agendas from their own countries. Now, the squadrons must not only fight against the Terraformars for their survival, but also each other in the never-ending battle for international dominance."
+        ],
+        "Episodes": 13,
+        "Aired": "Apr 2, 2016 to Jun 25, 2016",
+        "Studios": [
+            "TYO Animations",
+            "LIDENFILMS"
+        ],
+        "Genre": [
+            "Action",
+            "Horror",
+            "Sci-Fi",
+            "Suspense"
+        ],
+        "Theme": [
+            "Gore",
+            "Space",
+            "Survival"
+        ],
+        "Cover": "78566l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Terra Formars`
+            }
+        ]
+    },
+    {
+        "Title": "Nagato Yuki-chan no Shoushitsu",
+        "AlternateTitles": [
+            "The Disappearance of Nagato Yuki-chan",
+            "The Vanishing of Nagato Yuki-chan",
+            "長門有希ちゃんの消失"
+        ],
+        "Descriptions": [
+            "In a familiar yet different universe, shy bookworm and gamer Yuki Nagato is the president of North High School's Literary Club. Her friends, the overly-cautious Ryouko Asakura and completely average Kyon, are the only other members of the club. Nevertheless, Yuki enjoys the peace and quiet she shares with them, especially when she is with Kyon, whom she has a crush on. Added to the mix are Tsuruya and Mikuru Asahina, two friends with opposite personalities who frequently stop by the Literary Club.",
+            "While walking back to her apartment on a cold December day, Yuki is coerced into drawing strange symbols on the ground by a girl supposedly attempting to capture Santa Claus. The girl introduces herself as Haruhi Suzumiya, an eccentric student from the prestigious Kouyouen Academy who is on the hunt for aliens, time travelers, and espers. When Haruhi and her friend Itsuki Koizumi make a sudden appearance in the clubroom, they declare themselves as official members of the Literary Club, with Haruhi taking up residence as the executive president.",
+            "With the tranquil days of the Literary Club now behind them, Yuki and her friends get caught up in a series of misadventures under Haruhi's leadership—with each incident bringing Yuki and Kyon closer than ever before."
+        ],
+        "Episodes": 16,
+        "Aired": "Apr 4, 2015 to Jul 18, 2015",
+        "Studios": [
+            "Satelight"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "73527l",
+        "Related": []
+    },
+    {
+        "Title": "Oroka na Tenshi wa Akuma to Odoru",
+        "AlternateTitles": [
+            "The Foolish Angel Dances with the Devil",
+            "The Foolish Angel Dances with Demons, Kanaten",
+            "愚かな天使は悪魔と踊る"
+        ],
+        "Descriptions": [
+            "Losing their war against Heaven's angel army, the demons of Hell are on the cusp of collapse. As a last ditch attempt to turn the tides of the war, the demons send Akutsu Masatora to the mortal plane on Earth to save their homeland from the angels. Disguising himself as a high school student, Akutsu seeks to recruit someone with the capability to lead the demons to victory.",
+            "Akutsu does not have to look far: among his classmates is the magnificent Lily Amane, a transfer student who seems like the perfect candidate for Akutsu's plans. But as luck would have it, Lily is one of the very angels that Akutsu is meant to be fighting against, and his attempt to recruit her might end up being the biggest blunder in the failing war. Worse yet, Akutsu may fall in love with his own worst enemy."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 9, 2024 to Mar 26, 2024",
+        "Studios": [
+            "Children's Playground Entertainment"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Mythology",
+            "School"
+        ],
+        "Cover": "139271l",
+        "Related": []
+    },
+    {
+        "Title": "Kotonoha no Niwa",
+        "AlternateTitles": [
+            "The Garden of Words",
+            "Koto no Ha no Niwa, The Garden of Kotonoha",
+            "言の葉の庭"
+        ],
+        "Descriptions": [
+            "On a rainy morning in Tokyo, Takao Akizuki, an aspiring shoemaker, decides to skip class to sketch designs in a beautiful garden. This is where he meets Yukari Yukino, a beautiful yet mysterious woman, for the very first time. Offering to make her new shoes, Takao continues to meet with Yukari throughout the rainy season, and without even realizing it, the two are able to alleviate the worries hidden in their hearts just by being with each other. However, their personal struggles have not disappeared completely, and as the end of the rainy season approaches, their relationship will be put to the test."
+        ],
+        "Episodes": 1,
+        "Aired": "May 31, 2013",
+        "Studios": [
+            "CoMix Wave Films"
+        ],
+        "Genre": [
+            "Award Winning",
+            "Drama",
+            "Romance"
+        ],
+        "Theme": [
+            "Visual Arts"
+        ],
+        "Cover": "112995l",
+        "Related": []
+    },
+    {
+        "Title": "Toki wo Kakeru Shoujo",
+        "AlternateTitles": [
+            "The Girl Who Leapt Through Time",
+            "Toki wo Kakeru Shojo, TokiKake, Toki o Kakeru Shojo, The Girl Who Cut Time, The Little Girl Who Conquered Time",
+            "時をかける少女"
+        ],
+        "Descriptions": [
+            "Makoto Konno is in her last year of high school, but is having a hard time deciding what to do with her future. In between enduring the pressure of her teachers and killing time with her best friends, Makoto's life suddenly changes when she accidentally discovers that she is capable of literally leaping through time.",
+            "Toki wo Kakeru Shoujo follows Makoto as she plays around with her newfound power. However, she soon learns the hard way that every choice has a consequence, and time is a lot more complicated than it may seem."
+        ],
+        "Episodes": 1,
+        "Aired": "Jul 15, 2006",
+        "Studios": [
+            "Madhouse"
+        ],
+        "Genre": [
+            "Award Winning",
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "School",
+            "Time Travel"
+        ],
+        "Cover": "5312l",
+        "Related": []
+    },
+    {
+        "Title": "Ueki no Housoku",
+        "AlternateTitles": [
+            "The Law of Ueki",
+            "うえきの法則"
+        ],
+        "Descriptions": [
+            "Unbeknownst to most humans, a bizarre tournament is held to decide the next ruler of the Heavenly World. In this tournament, 100 Heavenly Beings known as the \"God Candidates\" are required to search among the middle school students on Earth, and transfer their powers to a student of their choice. The chosen ones will then battle each other, representing their God Candidates. The victor of this tournament will be awarded the \"Blank Talent\"—allowing them to choose any one unique ability they so desire—while the God Candidate they represent will obtain the position of \"God\" and become the king of the Heavenly World.",
+            "Participating in this grand tournament is Kousuke Ueki, a middle school student who is given the power to turn trash into trees by his homeroom teacher, Kobayashi. Despite the concerns of his classmate, Ai Mori, Ueki embarks on a journey to pursue his own sense of justice after witnessing the people around him misusing their powers for selfish purposes. But as he encounters talented power users such as Seiichirou Sano, Rinko Jerrard, Robert Haydn, and Hideyoshi Soya, he realizes that achieving his goal might be harder than it seems."
+        ],
+        "Episodes": 51,
+        "Aired": "Apr 4, 2005 to Mar 27, 2006",
+        "Studios": [
+            "Studio Deen"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Super Power"
+        ],
+        "Cover": "20596l",
+        "Related": []
+    },
+    {
+        "Title": "The New Gate",
+        "AlternateTitles": [
+            "The New Gate",
+            "THE NEW GATE"
+        ],
+        "Descriptions": [
+            "Trapped with thousands of people in The New Gate, a virtual reality game, the elite player Shinya Kiritani resolves to clear the game and finally return home. However, after he manages to single-handedly defeat the final boss, Shinya is transported to a new world—seemingly indistinguishable from the one he just escaped.",
+            "Shinya discovers that as long as the game menu and his skills are unchanged, he cannot leave this oddly familiar world. In his search of a way to break out from this new dimensional prison, Shinya encounters Tiera Lucent, a hotel receptionist who happens to be a protégée of Schnee Raizar—one of Shinya's former party members. With this glimmer of hope, Shinya strives to reunite with Schnee and find out the truth about The New Gate."
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 14, 2024 to Jun 30, 2024",
+        "Studios": [
+            "Yokohama Animation Laboratory",
+            "Cloud Hearts"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Isekai"
+        ],
+        "Cover": "141857l",
+        "Related": []
+    },
+    {
+        "Title": "Toaru Hikuushi e no Koiuta",
+        "AlternateTitles": [
+            "The Pilot's Love Song",
+            "Love Song of a Certain Pilot",
+            "とある飛空士への恋歌"
+        ],
+        "Descriptions": [
+            "In order to uncover the \"end of the sky,\" as spoken of in ancient mythology, Kal-el Albus is sent to Isla, an island in the sky. There he attends Cadoques High's Aerial Division, where he enjoys a carefree life with his schoolmates. That is...until a surprise attack by the air tribe drags Isla into a bloody war.",
+            "(Source: NIS America)"
+        ],
+        "Episodes": 13,
+        "Aired": "Jan 6, 2014 to Mar 31, 2014",
+        "Studios": [
+            "TMS Entertainment"
+        ],
+        "Genre": [
+            "Adventure",
+            "Drama",
+            "Romance"
+        ],
+        "Theme": [],
+        "Cover": "56939l",
+        "Related": []
+    },
+    {
+        "Title": "Kumo no Mukou, Yakusoku no Basho",
+        "AlternateTitles": [
+            "The Place Promised in Our Early Days",
+            "Beyond the Clouds, The Promised Place",
+            "雲のむこう、約束の場所"
+        ],
+        "Descriptions": [
+            "Hiroki Fujisawa and Takuya Shirakawa harbor admiration for two things in their life: their classmate Sayuri Sawatari and the vast Ezo Tower that stands boundlessly across the Tsugaru Strait. Fascinated by the limitless structure beyond their reach, Hiroki and Takuya begin constructing an aeroplane from a fallen drone they discovered—naming it the Bella Ciela—to fulfill their dream of one day reaching the sky-scraping top of the tower. Later joined by the girl they love, Hiroki and Takuya promise Sayuri to fly with her to the seemingly otherworldly top together. However, Japan has suffered a North-South partitioning that has fueled conflict near the base of the tower, which marks the border between the America-controlled Southern islands and the Northern lands occupied by the Soviet Union.",
+            "Further along, Sayuri suddenly disappears, and Hiroki and Takuya never see her again. Unbeknownst to them, she fell victim to a sleeping disorder that left her comatose for the past three years. Although Hiroki and Takuya later learn about Sayuri's condition, they also discover that the girl's unconscious state is oddly linked to the same tower the trio had promised to conquer together."
+        ],
+        "Episodes": 1,
+        "Aired": "Nov 20, 2004",
+        "Studios": [
+            "CoMix Wave Films"
+        ],
+        "Genre": [
+            "Award Winning",
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "Military"
+        ],
+        "Cover": "133738l",
+        "Related": []
+    },
+    {
+        "Title": "Toaru Hikuushi e no Tsuioku",
+        "AlternateTitles": [
+            "The Princess and the Pilot",
+            "To Aru Hikuushi e no Tsuioku, Recollection of a Certain Airship Pilot",
+            "とある飛空士への追憶"
+        ],
+        "Descriptions": [
+            "The war between the Levamme Empire and the Amatsukami Imperium has been raging for years. In the midst of this struggle, the prince of the Levamme Empire declares his love for Juana del Moral and vows to end the war in one year, as part of his marriage proposal. When the Amatsukami catch wind of this, they assault the del Moral residence, targeting Juana's life. As a last ditch effort to bring the prince his bride, the San Maltilia Airforce hires a mercenary of mixed blood—a bestado—to fly Juana to the Levamme capital in secret. The pilot, Charles, accepts the mission...but traversing an ocean alone, into enemy territory, proves a much more dangerous ordeal than anyone could have anticipated.",
+            "(Source: NIS America)"
+        ],
+        "Episodes": 1,
+        "Aired": "Oct 1, 2011",
+        "Studios": [
+            "Madhouse"
+        ],
+        "Genre": [
+            "Adventure",
+            "Romance"
+        ],
+        "Theme": [
+            "Adult Cast",
+            "Military"
+        ],
+        "Cover": "36903l",
+        "Related": []
+    },
+    {
+        "Title": "Rolling☆Girls",
+        "AlternateTitles": [
+            "The Rolling Girls",
+            "ローリング☆ガールズ"
+        ],
+        "Descriptions": [
+            "In a dystopian future where Japan's political organization has crumbled after the Great Tokyo War, Japan is broken up into 10 independent nations, with each nation controlled by a gang led by a \"Best,\" a human-proclaimed prophet with destructive superpowers. Nozomi Moritomo is a \"Rest\"—a normal girl that has just started out as a rookie in the local gang. She wants to help the Best Masami Utoku, her childhood friend and role model, in the ongoing territorial dispute.",
+            "When Masami becomes severely injured and unable to fight, Nozomi decides to go on a mission to complete the requests sent to Masami from all over Japan. Along the way, she meets Yukina Kosaka, a shy girl with no sense of direction; Ai Hibiki, an upbeat girl who loves eating; and Chiaya Misono, a quiet and mysterious girl that wears a gas mask. Together, the four girls travel all over the country on their motorcycles while getting involved in territorial wars, disagreements, and even suspicious conspiracies."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 11, 2015 to Mar 29, 2015",
+        "Studios": [
+            "Wit Studio"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "CGDCT",
+            "Super Power"
+        ],
+        "Cover": "71527l",
+        "Related": []
+    },
+    {
+        "Title": "\"1-punkan dake Furete mo Ii yo...\" Share House no Himitsu Rule.",
+        "AlternateTitles": [
+            "The Share House's Secret Rule",
+            "「1分間だけ触れてもいいよ...」シェアハウスの秘密ルール."
+        ],
+        "Descriptions": [
+            "After moving into a new share house, Ryota Ochi meets two beautiful housemates…who order him to do housework day in and day out! He's soon had enough, and is just about to move out when the two girls offer him a deal—for every minute of housework he does, they allow him to \"have fun\" with them for one minute!",
+            "(Source: Suiseisha)"
+        ],
+        "Episodes": 8,
+        "Aired": "Jan 5, 2025 to Mar 10, 2025",
+        "Studios": [
+            "Studio LEO"
+        ],
+        "Genre": [
+            "Hentai"
+        ],
+        "Theme": [
+            "Love Polygon"
+        ],
+        "Cover": "147203l",
+        "Related": []
+    },
+    {
+        "Title": "Kami nomi zo Shiru Sekai",
+        "AlternateTitles": [
+            "The World God Only Knows",
+            "Kaminomi",
+            "神のみぞ知るセカイ"
+        ],
+        "Descriptions": [
+            "Keima Katsuragi, known online as the legendary \"God of Conquest,\" can conquer any girl's heart—in dating sim games, at least. In reality, he opts for the two-dimensional world of gaming over real life because he is an unhealthily obsessed otaku of galge games (a type of Japanese video game centered on interactions with attractive girls).",
+            "When he arrogantly accepts an anonymous offer to prove his supremacy at dating sim games, Keima is misled into aiding a naive and impish demon from hell named Elucia \"Elsie\" de Lute Ima with her mission: retrieving runaway evil spirits who have escaped from hell and scattered themselves throughout the human world. Keima discovers that the only way to capture these spirits is to conquer what he hates the most: the unpredictable hearts of three-dimensional girls! Shackled to Elsie via a deadly collar, Keima now has his title of \"God of Conquest\" put to the ultimate test as he is forced to navigate through the hearts of a multitude of real-life girls."
+        ],
+        "Episodes": 12,
+        "Aired": "Oct 7, 2010 to Dec 23, 2010",
+        "Studios": [
+            "Manglobe"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Harem",
+            "Otaku Culture"
+        ],
+        "Cover": "40481l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Kami nomi zo Shiru Sekai II`
+            }
+        ]
+    },
+    {
+        "Title": "Kami nomi zo Shiru Sekai II",
+        "AlternateTitles": [
+            "The World God Only Knows II",
+            "Kami nomi zo Shiru Sekai 2, Kaminomi II, The World God Only Knows 2",
+            "神のみぞ知るセカイ II"
+        ],
+        "Descriptions": [
+            "Keima Katsuragi, the \"God of Conquest,\" returns to his quest of expelling runaway spirits that have possessed the hearts of women. Still stuck in his contract with the demon Elsie, he must continue to utilize the knowledge he has gained from mastering multitudes of dating simulators and chase out the phantoms that reside within by capturing the hearts of that which he hates most: three-dimensional girls.",
+            "However, the God of Conquest has his work cut out for him. From exorcising karate practitioners and student teachers to the arrival of Elsie's best friend from Hell, he is up against a wide array of girls that will test his wit and may even take him by surprise. Though he would much rather stick to the world of 2D, he is trapped in lousy reality, and so Keima must trudge forward in his conquest of love."
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 12, 2011 to Jun 28, 2011",
+        "Studios": [
+            "Manglobe"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Harem",
+            "Otaku Culture"
+        ],
+        "Cover": "30030l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Kami nomi zo Shiru Sekai`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Kami nomi zo Shiru Sekai: Megami-hen`
+            }
+        ]
+    },
+    {
+        "Title": "Kami nomi zo Shiru Sekai: Megami-hen",
+        "AlternateTitles": [
+            "The World God Only Knows: Goddesses",
+            "Kami nomi zo Shiru Sekai III, Kami nomi zo Shiru Sekai 3, Kaminomi III, Kaminomi 3, The World God Only Knows III, The World God Only Knows 3",
+            "神のみぞ知るセカイ 女神篇"
+        ],
+        "Descriptions": [
+            "Having freed a myriad of women from the runaway spirits possessing their hearts, the \"God of Conquest\" Keima Katsuragi is confronted with a new task: find the Jupiter Sisters, the goddesses that sealed Old Hell in the past. Diana, the goddess that resides inside his childhood friend Tenri Ayukawa, explains that they have taken shelter in the hearts of the girls he had assisted previously. Moreover, once Diana and her sisters are reunited, their power can seal the runaway spirits away for good and relieve Keima of his exorcising duties. Though he is initially reluctant to get involved in yet another chore, everything changes when tragedy befalls one of the hosts.",
+            "Discovering that the goddesses are being targeted by a mysterious organization known as Vintage, Keima is caught in a race against time to reunite the sisters and rescue the girl who has already fallen prey. With deeper resolve than ever before, Keima works together with demons Elsie and Haqua to recapture the hearts of the girls he had charmed in the past. However, the road ahead is a difficult one, as he is soon met with the consequences of his previous conquests."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 9, 2013 to Sep 24, 2013",
+        "Studios": [
+            "Manglobe"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance",
+            "Supernatural"
+        ],
+        "Theme": [
+            "Harem",
+            "Otaku Culture"
+        ],
+        "Cover": "51949l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Kami nomi zo Shiru Sekai II`
+            }
+        ]
+    },
+    {
+        "Title": "Kono Minikuku mo Utsukushii Sekai",
+        "AlternateTitles": [
+            "This Ugly Yet Beautiful World",
+            "この醜くも美しい世界"
+        ],
+        "Descriptions": [
+            "High school student Takeru Takemoto works part time as a (motor)bike courier. During one of his deliveries, he saw a mysterious light passing him and fell into a forest. What he had found was a beautiful girl coming out from a glowing cocoon, calling herself \"Hikari.\" While Takeru was quite embarrassed because of Hikari's nudity, a strange monster suddenly showed up and immediately attacked the two. Both Takeru and Hikari demonstrated the power of their other selves before Takeru had a clue of what's going on.",
+            "(Source: ANN)"
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 2, 2004 to Jun 18, 2004",
+        "Studios": [
+            "Gainax",
+            "Shaft"
+        ],
+        "Genre": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Sci-Fi",
+            "Ecchi"
+        ],
+        "Theme": [],
+        "Cover": "145408l",
+        "Related": []
+    },
+    {
+        "Title": "Toaru Ossan no VRMMO Katsudouki",
+        "AlternateTitles": [
+            "A Playthrough of a Certain Dude's VRMMO Life",
+            "A Certain Middle-Aged Man's VRMMO Activity Log",
+            "とあるおっさんのVRMMO活動記"
+        ],
+        "Descriptions": [
+            "A new type of VRMMO called \"One More Free Life Online\" is out. He logs in as a young boy avatar called \"Earth.\" Taichi Tanaka (38, single) has a regular office job and enjoys playing video games in his free time. In a world where the player is free to do as they wish, he decides to master a skill that's been deemed to be useless! He makes potions that are too much of a hassle to make, cooks food that is excessively too good, and uses bizarre original weapons to hunt monsters...",
+            "(Source: Alpha Manga)"
+        ],
+        "Episodes": 12,
+        "Aired": "Oct 3, 2023 to Dec 19, 2023",
+        "Studios": [
+            "Maho Film"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Video Game"
+        ],
+        "Cover": "138531l",
+        "Related": []
+    },
+    {
+        "Title": "Toji no Miko",
+        "AlternateTitles": [
+            "Katana Maidens: Toji no Miko",
+            "Sword User Shrine Maiden, The Shrine Maiden Swordwielders",
+            "刀使ノ巫女"
+        ],
+        "Descriptions": [
+            "Throughout history, an elite group of shrine maidens known as \"Toji\" have saved the world from \"Aratama,\" strange and malevolent beings bent on destroying humanity. In modern times, these warriors have been assigned to a special police squad to exterminate Aratama. The government has also set up five elite schools across the country to provide young girls the necessary sword fighting skills to eradicate these monsters and eventually join their fellow Toji in protecting the world.",
+            "A student of one of those five schools, Kanami Etou is chosen to represent Minoseki Academy in a sword fighting tournament, where she meets the mysterious Hiyori Juujou. Although Kanami and Hiyori rise to the top of the tournament, their battle takes an unexpected turn, throwing the world of the Toji into chaos. Likely that the Toji are facing betrayal from within, the two are forced to flee the tournament, clashing with former comrades on the way."
+        ],
+        "Episodes": 24,
+        "Aired": "Jan 5, 2018 to Jun 22, 2018",
+        "Studios": [
+            "Studio Gokumi"
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Urban Fantasy"
+        ],
+        "Cover": "89885l",
+        "Related": []
+    },
+    {
+        "Title": "Tokyo ESP",
+        "AlternateTitles": [
+            "Tokyo ESP",
+            "東京ESP"
+        ],
+        "Descriptions": [
+            "Rinka Urushiba works part time as a waitress to help out her unemployed father. By all accounts, her life in Tokyo is a relatively normal one—but her sense of normalcy begins to fade when she inexplicably sees a flying penguin one day. Chasing it all the way to the top of a building, she encounters more surprises, including flying goldfish and another person—a classmate named Kyoutarou Azuma—who can also see these strange things. After Rinka passes out when a goldfish phases through her, she wakes up an esper with the ability to phase her body through solid matter.",
+            "However, her newfound ability is not the only strange thing about her: when she uses her powers, her hair turns white. Deciding reluctantly to use this new gift to help the city, she becomes Tokyo's new hero, dubbed the \"White Girl.\" Along with Kyoutarou, who gained the power of teleportation, Rinka begins righting the wrongs in the city while fighting other espers who have much less noble intentions."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 12, 2014 to Sep 27, 2014",
+        "Studios": [
+            "Xebec"
+        ],
+        "Genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "Super Power"
+        ],
+        "Cover": "64587l",
+        "Related": []
+    },
+    {
+        "Title": "Tokyo Mew Mew New ♡",
+        "AlternateTitles": [
+            "Tokyo Mew Mew New",
+            "東京ミュウミュウ にゅ～♡"
+        ],
+        "Descriptions": [
+            "Ichigo Momomiya is excited to start high school and fall in love. She is in luck when she meets the popular and good-looking Masaya Aoyama, and she immediately develops a crush on him. When Ichigo learns that Aoyama is passionate about the environment, she seizes the chance to ask him out thanks to some tickets to an exhibition about endangered animals.",
+            "During their date, Ichigo is struck by a mysterious light and faints. Waking up to the sight of Aoyama, she remains unharmed—but they both must escape from a giant rat-like creature after it injures Aoyama. To save her crush, Ichigo awakens her powers and transforms into a heroine with the skills of a cat.",
+            "After she defeats the monster, researchers Ryou Shirogane and Keiichiro Akasaka explain that Ichigo was chosen to become a part of the Mew Project: a group of five magical girls whose DNA has been infused with those of certain endangered species. Now, Ichigo must find the rest of her teammates to defeat the Chimera Anima—beings infected by aliens who want to take over the world—before it is too late."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 6, 2022 to Sep 21, 2022",
+        "Studios": [
+            "Yumeta Company",
+            "Graphinica"
+        ],
+        "Genre": [
+            "Romance",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "Mahou Shoujo"
+        ],
+        "Cover": "116704l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Tokyo Mew Mew New ♡ 2nd Season`
+            }
+        ]
+    },
+    {
+        "Title": "Tokyo Mew Mew New ♡ 2nd Season",
+        "AlternateTitles": [
+            "東京ミュウミュウ にゅ～♡"
+        ],
+        "Descriptions": [
+            "After a successful showdown at Tokyo Tower, the Mew Mew girls enjoy a temporary respite. Now that Ichigo Momomiya and Masaya Aoyama have confessed their feelings to each other, Ichigo is overjoyed to spend time with her new boyfriend. However, their quick break gets interrupted, and soon the girls must battle against the Chimera Anima yet again. When things go awry in the ensuing fight, Ichigo is placed in grave danger.",
+            "Just when things look most bleak, the mysterious Blue Knight arrives and saves Ichigo, proclaiming that he was born to protect her, before disappearing into thin air. With the fate of the world on their shoulders and the identity of the Blue Knight in question, the Mew Mew girls must strive to create balance between alien-fighting and their personal lives."
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 5, 2023 to Jun 21, 2023",
+        "Studios": [
+            "Yumeta Company",
+            "Graphinica"
+        ],
+        "Genre": [
+            "Romance",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "Mahou Shoujo"
+        ],
+        "Cover": "133807l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Tokyo Mew Mew New ♡`
+            }
+        ]
+    },
+    {
+        "Title": "Tokyo Ravens",
+        "AlternateTitles": [
+            "Tokyo Ravens",
+            "東京レイヴンズ"
+        ],
+        "Descriptions": [
+            "Onmyoudou magic was once a powerful technique used by the Japanese during the second World War in order for them to gain the upper hand and establish their nation as a formidable force. But Japan was quickly defeated after the revered onmyouji Yakou Tsuchimikado caused the \"Great Spiritual Disaster,\" an event which plagues Tokyo to this very day. As a result of this mishap, the Onmyou Agency was established in order to exorcise further spiritual disasters and combat the demons that would make their way into the world.",
+            "Now, Onmyoudou has become far more modern, simplified, and refined for use in a wide variety of applications such as medicine and technology. However, not everyone is able to utilize the magic, as is the case with Harutora, a member of the Tsuchimikado's branch family. Despite an old promise to protect Natsume, the heir of the Tsuchimikado's main family and Yakou's supposed reincarnation, as her familiar, Harutora has no talent and chooses to live a normal life instead. But when a prominent member of the Onmyou Agency attempts to recreate the same experiment which led to Japan's downfall, he decides to make good on his word and fight by Natsume's side."
+        ],
+        "Episodes": 24,
+        "Aired": "Oct 9, 2013 to Mar 26, 2014",
+        "Studios": [
+            "8bit"
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy",
+            "Romance"
+        ],
+        "Theme": [
+            "School",
+            "Urban Fantasy"
+        ],
+        "Cover": "92768l",
+        "Related": []
+    },
+    {
+        "Title": "Tokyo Revengers",
+        "AlternateTitles": [
+            "Tokyo Revengers",
+            "東京リベンジャーズ"
+        ],
+        "Descriptions": [
+            "Takemichi Hanagaki's second year of middle school was the highest point in his life. He had respect, a gang of friends he could count on, and even a girlfriend. But that was twelve years ago. Today, he's a nobody: a washed-up nonentity made fun of by children and always forced to apologize to his younger boss. A sudden news report on the Tokyo Manji Gang's cruel murder of the only girlfriend he ever had alongside her brother only adds insult to injury. Half a second before a train ends his pitiful life for good, Takemichi flashes back to that same day 12 years ago, when he was still dating Hinata Tachibana.",
+            "After being forced to relive the very same day that began his downward spiral, Takemichi meets Hinata's younger brother. Without thinking, he admits to his seeming death before flashing back to the past. Takemichi urges him to protect his sister before inexplicably returning to the future. Miraculously, he is not dead. Stranger still, the future has changed. It seems as though Takemichi can alter the flow of time. Given the chance to prevent his ex-girlfriend's tragic death at the hands of the Tokyo Manji Gang, Takemichi decides to fly through time to change the course of the future."
+        ],
+        "Episodes": 24,
+        "Aired": "Apr 11, 2021 to Sep 19, 2021",
+        "Studios": [
+            "LIDENFILMS"
+        ],
+        "Genre": [
+            "Action",
+            "Drama"
+        ],
+        "Theme": [
+            "Delinquents",
+            "Time Travel"
+        ],
+        "Cover": "113397l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Tokyo Revengers: Seiya Kessen-hen`
+            }
+        ]
+    },
+    {
+        "Title": "Tokyo Revengers: Seiya Kessen-hen",
+        "AlternateTitles": [
+            "Tokyo Revengers: Christmas Showdown",
+            "東京リベンジャーズ 聖夜決戦編"
+        ],
+        "Descriptions": [
+            "In spite of his best time-leaping efforts, Takemichi Hanagaki continuously fails to prevent the present-day death of Hinata Tachibana, his adolescent love. The adult Takemichi grapples with grief and the ramifications of the Tokyo Manji gang's criminal empire—an unintended product of his timeline meddling. Though the gang once operated under the idealistic Manjirou \"Mikey\" Sano, it has now been taken over by the malicious Tetta Kisaki and, as a result, has abandoned its original optimistic intent.",
+            "Despite feeling hopeless, Takemichi travels to the past once again to investigate Black Dragon, a rival motorcycle gang whose actions ultimately lead to Hinata's demise. There, he meets the young Hakkai Shiba, a fellow gang member whose older brother, Taiju, tyrannically rules Black Dragon. When Taiju brutally beats Takemichi in a one-sided street brawl, Hakkai attempts to withdraw from Tokyo Manji in apology—an act that Takemichi must prevent to spare Hakkai a grim future.",
+            "Through a shared tragedy, Takemichi bonds with Chifuyu Matsuno, establishing a close comradery both boys desperately need. With Chifuyu on his side, Takemichi works to unravel the fates of Black Dragon's members, fighting to create a happy future for his loved ones."
+        ],
+        "Episodes": 13,
+        "Aired": "Jan 8, 2023 to Apr 2, 2023",
+        "Studios": [
+            "LIDENFILMS"
+        ],
+        "Genre": [
+            "Action",
+            "Drama"
+        ],
+        "Theme": [
+            "Delinquents",
+            "Time Travel"
+        ],
+        "Cover": "132313l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Tokyo Revengers`
+            },
+            {
+                Type: `Sequel (TV)`,
+                Title: `Tokyo Revengers: Tenjiku-hen`
+            }
+        ]
+    },
+    {
+        "Title": "Tokyo Revengers: Tenjiku-hen",
+        "AlternateTitles": [
+            "Tokyo Revengers: Tenjiku Arc",
+            "Tokyo Revengers Third Season",
+            "東京リベンジャーズ 天竺編"
+        ],
+        "Descriptions": [
+            "After succeeding in their winter conflict against Taiju Shiba and his Black Dragons, the Tokyo Manji Gang absorbs their group's remaining members. Due to his heroic courage and indomitable spirit, Takemichi Hanagaki should have accomplished his goal of defeating the tragic fate awaiting his girlfriend, Hinata Tachibana.",
+            "In reality, Takemichi's troubles are far from over. Although Takemichi's actions have exposed Tetta Kisaki's treachery, the conniving schemer has found power elsewhere: Tenjiku, a dangerous gang led by the enigmatic Izana Kurokawa. Izana sets his sights on Manjirou \"Mikey\" Sano, pursuing a vicious interest in the Tokyo Manji Gang's aloof leader.",
+            "In the future, Takemichi discovers that the machinations of Izana and Kisaki led to Mikey's moral ruin—a downfall that directly results in Hinata's death. Unfortunately, a terrible loss robs Takemichi of his time-leaping ability, stranding him in the past with one final chance to rescue everyone he loves."
+        ],
+        "Episodes": 13,
+        "Aired": "Oct 4, 2023 to Dec 27, 2023",
+        "Studios": [
+            "LIDENFILMS"
+        ],
+        "Genre": [
+            "Action",
+            "Drama"
+        ],
+        "Theme": [
+            "Delinquents",
+            "Time Travel"
+        ],
+        "Cover": "138322l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Tokyo Revengers: Seiya Kessen-hen`
+            }
+        ]
+    },
+    {
+        "Title": "Tomo-chan wa Onnanoko!",
+        "AlternateTitles": [
+            "Tomo-chan Is a Girl!",
+            "トモちゃんは女の子！"
+        ],
+        "Descriptions": [
+            "Childhood friends Tomo Aizawa and Junichirou \"Jun\" Kubota do everything together, whether it be training or just enjoying a fun day out. Anyone would think that these two are best friends for life. The only issue is that the tomboyish Tomo is in love with Jun, but he regards her like a brother.",
+            "At the start of their first year of high school, Tomo confesses her feelings to Jun. However, her rough mannerisms and lack of hesitance to throw a punch do nothing to sway Jun's heart. Realizing that he will remain indifferent to her affections unless she does something about it, Tomo must find a way to knock some sense into Jun and open his eyes to what is right in front of him."
+        ],
+        "Episodes": 13,
+        "Aired": "Jan 5, 2023 to Mar 30, 2023",
+        "Studios": [
+            "Lay-duce"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "131828l",
+        "Related": []
+    },
+    {
+        "Title": "Tomodachi Game",
+        "AlternateTitles": [
+            "Tomodachi Game",
+            "Friends Game",
+            "トモダチゲーム"
+        ],
+        "Descriptions": [
+            "High school student Yuuichi Katagiri cherishes his close circle of friends, composed of four classmates: Yutori Kokorogi, Shiho Sawaragi, Makoto Shibe, and Tenji Mikasa. However, when the funds for the upcoming school trip are stolen, the incident causes Shiho and Makoto—who had been tasked with collecting the money—to distance themselves from the rest of their class.",
+            "Soon after, Yuuichi and his friends are deceived into meeting up and knocked unconscious by unknown assailants. After waking, the group find themselves confined in a white room with controversial figure Manabu-kun, who reveals that one of the five has gathered them together to clear their personal debt of twenty million yen. To pay off the amount, they must participate in a variety of psychological games that will test the true nature of their friendship and humanity.",
+            "Distressed and isolated from the outside world, Yuuichi and his friends need to cooperate to complete the games. But as their concealed feelings and problematic pasts begin to surface, their seemingly unbreakable bond may soon shatter into irreparable pieces."
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 6, 2022 to Jun 22, 2022",
+        "Studios": [
+            "Okuruto Noboru"
+        ],
+        "Genre": [
+            "Suspense"
+        ],
+        "Theme": [
+            "High Stakes Game",
+            "Psychological",
+            "Strategy Game"
+        ],
+        "Cover": "119153l",
+        "Related": []
+    },
+    {
+        "Title": "Tondemo Skill de Isekai Hourou Meshi",
+        "AlternateTitles": [
+            "Campfire Cooking in Another World with My Absurd Skill",
+            "Regarding the Display of an Outrageous Skill Which Has Incredible Powers, Tonsuki",
+            "とんでもスキルで異世界放浪メシ"
+        ],
+        "Descriptions": [
+            "Salaryman Tsuyoshi Mukouda is accidentally summoned as a hero to the Kingdom of Reijseger in another world to help defend against their enemies. Wary of the royal family's true intentions, Mukouda is able to talk his way out of the situation due to his non-combat skill, \"Online Supermarket,\" which is deemed useless.",
+            "However, this power proves to be anything but useless. With this ability, Mukouda is able to cheaply purchase food products and utensils from Japan—most of which are considered luxuries in this world. As Mukouda cooks up a storm using his ability, he catches the eye of the fearsome mythical wolf Fel. The legendary beast swiftly negotiates a contract to become Mukouda's familiar, unable to resist the delicious dishes. With Fel by his side, Mukouda travels the world, earning his keep as an adventurer and merchant all the while enjoying delectable meals."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 11, 2023 to Mar 29, 2023",
+        "Studios": [
+            "MAPPA"
+        ],
+        "Genre": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Gourmet"
+        ],
+        "Theme": [
+            "Isekai"
+        ],
+        "Cover": "132101l",
+        "Related": []
+    },
+    {
+        "Title": "Toradora!",
+        "AlternateTitles": [
+            "Toradora!",
+            "Tiger X Dragon",
+            "とらドラ！"
+        ],
+        "Descriptions": [
+            "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"",
+            "One day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!",
+            "Toradora! is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process."
+        ],
+        "Episodes": 25,
+        "Aired": "Oct 2, 2008 to Mar 26, 2009",
+        "Studios": [
+            "J.C.Staff"
+        ],
+        "Genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Theme": [
+            "Love Polygon",
+            "School"
+        ],
+        "Cover": "86891l",
+        "Related": []
+    },
+    {
+        "Title": "Touken Ranbu: Hanamaru",
+        "AlternateTitles": [
+            "Touken Ranbu - Hanamaru",
+            "刀剣乱舞-花丸-"
+        ],
+        "Descriptions": [
+            "In the year 2205, a special sage known as Saniwa has the ability to breathe life into inanimate objects. At the same time, dark forces have initiated a plot to travel back in time and change the course of history—and the only ones capable of stopping them are the Saniwa and their strongest animations: historical Japanese swords, in the form of handsome young men.",
+            "Touken Ranbu: Hanamaru opens on the life of Yamatonokami Yasusada, Souji Okita's beloved uchigatana, as he begins his first day at the Saniwa's citadel. Soon reuniting with his old friend, Kashuu Kiyomitsu, the two are caught up in the daily antics of their fellow sword warriors. They never miss an opportunity to have fun, whether it be through wild snowball fights or introducing their newest comrades to the citadel. Of course, when the government calls, the swords are always ready to fulfill their mission of protecting history."
+        ],
+        "Episodes": 12,
+        "Aired": "Oct 3, 2016 to Dec 19, 2016",
+        "Studios": [
+            "Doga Kobo"
+        ],
+        "Genre": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Anthropomorphic",
+            "Historical"
+        ],
+        "Cover": "82276l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Zoku Touken Ranbu: Hanamaru`
+            }
+        ]
+    },
+    {
+        "Title": "Zoku Touken Ranbu: Hanamaru",
+        "AlternateTitles": [
+            "Touken Ranbu - Hanamaru 2",
+            "Touken Ranbu: Hanamaru Second Season",
+            "続 刀剣乱舞-花丸-"
+        ],
+        "Descriptions": [
+            "Sequel of Touken Ranbu: Hanamaru."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 8, 2018 to Mar 26, 2018",
+        "Studios": [
+            "Doga Kobo"
+        ],
+        "Genre": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Anthropomorphic",
+            "Historical"
+        ],
+        "Cover": "89579l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Touken Ranbu: Hanamaru`
+            }
+        ]
+    },
+    {
+        "Title": "Druaga no Tou: The Aegis of Uruk",
+        "AlternateTitles": [
+            "Tower of Druaga: The Aegis of Uruk",
+            "Druaga no Tou: The Aegis of Uruk",
+            "ドルアーガの塔 〜the Aegis of URUK〜"
+        ],
+        "Descriptions": [
+            "It is said that every few years, there is what's known as the \"Summer of Anu.\" During that summer, thanks to the divine protection of the sky-god Anu, all of the demons in the tower lose their power. The country of Uruk has begun an invasion of the tower in order to suppress the demons. They've built up positions inside the tower, with their sights set on getting to the upper levels. The Uruk army knows that this is the third Summer of Anu-a perfect time to launch a mission to suppress the monster Druaga once and for all. The army soldiers aren't the only ones in the tower, though. An enitre city called Meskia has formed inside the tower's first floor. It plays host not just to soldiers, but also to adventurers who have heard rumors about a legendary treasure called the Blue Crystal Rod, which is said to rest at the very top of the tower. With all these different groups in the mix, each with its own agenda, one can only guess how things will play out during this unusual summer.",
+            "(Source: Newtype Magazine)"
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 5, 2008 to Jun 21, 2008",
+        "Studios": [
+            "Gonzo"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Theme": [],
+        "Cover": "75646l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Druaga no Tou: The Sword of Uruk`
+            }
+        ]
+    },
+    {
+        "Title": "Druaga no Tou: The Sword of Uruk",
+        "AlternateTitles": [
+            "Tower of Druaga: The Sword of Uruk",
+            "ドルアーガの塔 ～the Sword of URUK～"
+        ],
+        "Descriptions": [
+            "With broken spirits and enigmatic questions that hold no answers lingering, Jil is still trying to figure everything out. Then, a mysterious girl named Kai appears before him and says: \"Take me to the top of the tower.\"",
+            "Kai's request shrouded in ambiguity, Jil will have another chance to work towards completing his destiny and ascend the Tower. With his hopes and aspirations seemingly slipping out of his hands, Jil must rise to the challenge once again on this never-ending adventure.",
+            "(Source: Crunchyroll)"
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 9, 2009 to Mar 27, 2009",
+        "Studios": [
+            "Gonzo"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Theme": [],
+        "Cover": "11669l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Druaga no Tou: The Aegis of Uruk`
+            }
+        ]
+    },
+    {
+        "Title": "Triage X",
+        "AlternateTitles": [
+            "Triage X",
+            "トリアージX"
+        ],
+        "Descriptions": [
+            "In a deadly terrorist attack, Arashi Mikami narrowly escapes death but loses everything in the process, including his family and best friend. However, the surgeon that rescues him is far from just an ordinary doctor—he commands a strike team known as Black Label whose task is to exterminate deadly criminals who have fallen too far. Filled with a new determination, Arashi joins the ranks of the vigilante organization.",
+            "Black Label's targets are aplenty, as evil scum lurks everywhere—dangerous arms dealers, corrupt politicians, and shady gangsters all find themselves hunted by the extermination team. Although haunted by their dark and sinister past, all of the hunters are highly skilled at slaying their targets. In spite of the perilous lives the members live, Arashi and the gorgeous ladies surrounding him still manage to get caught up in a variety of sultry moments and racy hijinks. Though they face strong opposition, nothing can stop Black Label's objective of cleansing the world of ghastly evil."
+        ],
+        "Episodes": 10,
+        "Aired": "Apr 9, 2015 to Jun 11, 2015",
+        "Studios": [
+            "Xebec"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Ecchi"
+        ],
+        "Theme": [],
+        "Cover": "73598l",
+        "Related": []
+    },
+    {
+        "Title": "Trigun Stampede",
+        "AlternateTitles": [
+            "Trigun Stampede",
+            "TRIGUN STAMPEDE"
+        ],
+        "Descriptions": [
+            "On the planet Noman's Land, reporters Meryl Stryfe and Roberto De Niro traverse the desert in search of the infamous outlaw Vash the Stampede. But the man they find near the desolate town of Jeneora Rock is a far cry from the lethal terrorist they expect. In reality, Vash is a passive and carefree drifter; he is a proponent of peace, beloved by the residents of the town. His inaccurate reputation actually stems from the widespread atrocities committed by his twin brother Knives Millions. Still, Vash is dubbed \"The Humanoid Typhoon'' due to the tendency for violent chaos to follow in his wake.",
+            "Chaos soon arrives in the form of bounty hunters seeking the high price on Vash's head, and their violent pursuit poses great danger to the town and its precious power plant. Thanks to his gunslinging prowess, Vash is able to resist most of these nefarious forces. Yet he must soon face off against the ultimate evil: the unstoppable destructive power of his malevolent brother."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 7, 2023 to Mar 25, 2023",
+        "Studios": [
+            "Orange"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "Adult Cast"
+        ],
+        "Cover": "132324l",
+        "Related": []
+    },
+    {
+        "Title": "Trinity Blood",
+        "AlternateTitles": [
+            "Trinity Blood",
+            "トリニティ・ブラッド"
+        ],
+        "Descriptions": [
+            "Following Armageddon, an apocalyptic war, mankind faces yet another menace: vampires. The continuous confrontations between the races have split the world into separate factions. The race of vampires, Methuselah, are affiliated with the New Human Empire; whereas the humans, deemed Terrans by the vampires, make up the Vatican Papal State. Furthermore, extremist groups like the Rosenkreuz Order strive to rekindle a war, despite the factions' attempts to avoid direct conflict.",
+            "To combat terrorist organizations, the Vatican has implemented the AX unit. Led by Cardinal Caterina Sforza, the AX agents investigate vampire-related disturbances with hopes that the Terrans and the Methuselah will one day achieve peaceful coexistence. Amongst the AX unit is priest Abel Nightroad—a seemingly disoriented but gentle-hearted fellow who is a fierce vampire slayer on the battlefield. Joining the unit as his partner is agent Sister Esther Blanchett, a brave and gentle young nun troubled with a tragic past.",
+            "As the two grow closer, they begin to uncover signs of malicious schemes and dark forces working in the shadows. But the path they walk is riddled with misfortune that might just force them to confront the memories that plague their hearts."
+        ],
+        "Episodes": 24,
+        "Aired": "Apr 29, 2005 to Oct 28, 2005",
+        "Studios": [
+            "Gonzo"
+        ],
+        "Genre": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "Theme": [
+            "Vampire"
+        ],
+        "Cover": "92699l",
+        "Related": []
+    },
+    {
+        "Title": "True Tears",
+        "AlternateTitles": [
+            "True Tears",
+            "true tears"
+        ],
+        "Descriptions": [
+            "Shinichirou Nakagami was living the life other boys from his grade could only dream of—staying under the same roof as prodigal student Hiromi Yuasa. However, the bright and cheerful Hiromi has been depressed and cold at home ever since her mother passed away. While he is the subject of the ignorant jealousy of his peers, rumors begin to spread when Shinichirou meets Noe Isurugi—a girl known for cursing classmates, curses which always end up becoming reality.",
+            "Noe curses Shinichirou as well, but two pits are created when you curse someone, and her curse on Shinichirou comes back to bite her in the form of a raccoon to her beloved chicken, Raigomaru. Despite this, she does not shed a single tear; Noe had had her tears stolen. For Noe to be able to cry again, she would need the tears of another, and Shinichirou knows a person whose tears he wants to take away."
+        ],
+        "Episodes": 13,
+        "Aired": "Jan 6, 2008 to Mar 30, 2008",
+        "Studios": [
+            "P.A. Works"
+        ],
+        "Genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Theme": [
+            "Love Polygon",
+            "School"
+        ],
+        "Cover": "134118l",
+        "Related": []
+    },
+    {
+        "Title": "Tsugumomo",
+        "AlternateTitles": [
+            "Tsugumomo",
+            "つぐもも"
+        ],
+        "Descriptions": [
+            "In Japanese folklore, a \"tsukumogami\" is an object that has gained a soul, becoming alive and self-aware. There are two types of tsukumogami: the mature \"tsugumomo,\" who have developed through long years of harmony with their owners, and the aberrant \"amasogi,\" premature spirits that are only born to grant the destructive wishes of certain people.",
+            "Kazuya Kagami has never gone without his mother's obi after her death. Be it at home or school, he keeps it safe with him at all times. One day, he nearly loses his life when a wig amasogi attacks him. When all seems to be over, his treasured obi defends him, transforming into a beautiful girl. She introduces herself as Kiriha, a tsugumomo owned by Kazuya's mother.",
+            "With Kiriha's arrival, Kazuya enters a reality he has never seen before, a world with gods and tsukumogami."
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 2, 2017 to Jun 18, 2017",
+        "Studios": [
+            "Zero-G"
+        ],
+        "Genre": [
+            "Action",
+            "Comedy",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem",
+            "Mythology",
+            "School"
+        ],
+        "Cover": "84461l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Tsugu Tsugumomo`
+            }
+        ]
+    },
+    {
+        "Title": "Tsugu Tsugumomo",
+        "AlternateTitles": [
+            "継つぐもも"
+        ],
+        "Descriptions": [
+            "When \"ordinary boy\" Kagami Kazuya meets the beautiful tsukumogami Kiriha, his life gets turned upside-down. As a \"Taboo Child\" who draws the supernatural towards him, he receives orders from the God of the Land, Kukuri, to become an exorcist and defeat these evil forces. And so, he and Kiriha do battle.",
+            "To find out information on these supernatural beings, Kazuya and his friends set up a counselor's club at school. But behind the typical-seeming troubles he hears about, he uncovers a major plot to target Kukuri...",
+            "In addition to the sadistic-yet-beautiful tsukumogami Kiriha, the situation draws other girls to Kazuya to join the fray!",
+            "(Source: Crunchyroll)"
+        ],
+        "Episodes": 12,
+        "Aired": "Apr 5, 2020 to Jun 21, 2020",
+        "Studios": [
+            "Zero-G"
+        ],
+        "Genre": [
+            "Action",
+            "Comedy",
+            "Supernatural",
+            "Ecchi"
+        ],
+        "Theme": [
+            "Harem",
+            "Mythology",
+            "School"
+        ],
+        "Cover": "106185l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Tsugumomo`
+            }
+        ]
+    },
+    {
+        "Title": "Tsuki ga Michibiku Isekai Douchuu",
+        "AlternateTitles": [
+            "Tsukimichi -Moonlit Fantasy-",
+            "Moon-led Journey Across Another World",
+            "月が導く異世界道中"
+        ],
+        "Descriptions": [
+            "As part of a mysterious contract agreed upon by a goddess and his parents years ago, Makoto Misumi finds himself sent to another world to meet the goddess and become the hero. However, the deity deems Makoto to be \"hideous,\" refusing to even lay eyes upon him and revokes his heroic title. Disdainfully giving him the ability to understand all languages except the human language as compensation, the goddess drives Makoto off to the farthest edges of the wasteland, far from human civilization.",
+            "Due to the disparity between Earth and this new world, Makoto's inherent physical and magical capabilities awaken, making him extremely powerful. He meets various demihumans and mythical beings who all end up being captivated with his characteristics and join Makoto in building a new community where all of them can peacefully coexist.",
+            "Nevertheless, despite this success, Makoto still yearns to meet fellow humans. In a world where the goddess herself has barred him from interacting with his kind, it is up to Makoto and his companions to fulfill his desire—and perhaps reform society along the way."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 7, 2021 to Sep 22, 2021",
+        "Studios": [
+            "C2C"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Isekai"
+        ],
+        "Cover": "116474l",
+        "Related": [
+            {
+                Type: `Sequel (TV)`,
+                Title: `Tsuki ga Michibiku Isekai Douchuu 2nd Season`
+            }
+        ]
+    },
+    {
+        "Title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+        "AlternateTitles": [
+            "Tsukimichi -Moonlit Fantasy- Season 2",
+            "月が導く異世界道中 第二幕"
+        ],
+        "Descriptions": [
+            "Despite a rough start, Makoto Misumi's life in another world takes a positive turn when he meets more demihumans who recognize his presence. Now as the leader of a fast-growing demihuman community, Makoto wishes to make human society more accepting of them and thus builds a business showcasing the demihumans' abilities. To extend his reach further, Makoto enrolls at the Rotsgard Academy to learn magic and expand his business venture there.",
+            "Meanwhile, the goddess who summoned and forsaken Makoto had brought two other people to her world shortly after sending him away, making them heroes of their respective nations. Given enough time, Makoto's path will intertwine with both of these heroes, which may cause the world to take a drastic direction."
+        ],
+        "Episodes": 25,
+        "Aired": "Jan 8, 2024 to Jun 24, 2024",
+        "Studios": [
+            "J.C.Staff"
+        ],
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "Theme": [
+            "Isekai"
+        ],
+        "Cover": "142621l",
+        "Related": [
+            {
+                Type: `Prequel (TV)`,
+                Title: `Tsuki ga Michibiku Isekai Douchuu`
+            }
+        ]
+    },
+    {
+        "Title": "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
+        "AlternateTitles": [
+            "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte",
+            "Tsunlise",
+            "ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん"
+        ],
+        "Descriptions": [
+            "Broadcasting club member Shihono Kobayashi always gushes to her friend Aoto Endou about MagiKoi, an otome game where protagonist Fiene attends the Royal Academy of Magic. But despite the colorful cast, the one character Kobayashi is most obsessed with is the villainess Lieselotte Riefenstahl. Contrary to her rude remarks toward Fiene, Lieselotte longs to be her friend. Lieselotte is also deeply in love with her own fiancé, Prince Siegwald Fitzenhagen—the game's main love interest. Unfortunately, in almost every route, Lieselotte is doomed to a tragic end.",
+            "Kobayashi manages to convince Endou to play MagiKoi to practice his speaking skills. What begins as a normal playthrough turns extraordinary when Siegwald suddenly hears the players' voices inside the game! Now labeled as \"gods,\" Endou and Kobayashi use their comments and analyses to save their beloved tsundere villainess from her fated demise."
+        ],
+        "Episodes": 12,
+        "Aired": "Jan 7, 2023 to Mar 25, 2023",
+        "Studios": [
+            "Tezuka Productions"
+        ],
+        "Genre": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+        ],
+        "Theme": [
+            "Video Game",
+            "Villainess"
+        ],
+        "Cover": "125409l",
+        "Related": []
+    },
+    {
+        "Title": "Tsurezure Children",
+        "AlternateTitles": [
+            "Tsuredure Children",
+            "徒然チルドレン"
+        ],
+        "Descriptions": [
+            "Young love—it takes many unique and fascinating forms that flourish as children begin to mature into adults. From being unable to confess to not knowing what real love actually feels like, various obstacles can arise when learning about romantic attraction for the first time. But underneath all that, young love is something truly beautiful to behold, leading to brand new experiences for those young and in love.",
+            "Tsurezure Children depicts various scenarios of young love coming to fruition, along with the struggles and joys that it entails."
+        ],
+        "Episodes": 12,
+        "Aired": "Jul 4, 2017 to Sep 19, 2017",
+        "Studios": [
+            "Studio Gokumi"
+        ],
+        "Genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "Theme": [
+            "School"
+        ],
+        "Cover": "112110l",
+        "Related": []
+    },
 ].reverse();//.sort((a, b) => a.Title.localeCompare(b.Title)); 

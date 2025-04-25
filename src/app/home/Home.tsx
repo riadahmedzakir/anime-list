@@ -28,10 +28,26 @@ const Home = (): JSX.Element => {
       <TopBar />
 
       <Grid container sx={{ p: 2 }}>
-        <Grid item xs={2} sx={{ borderRight: '1px solid #c8d1e0', height: '92vh' }}>
+        <Grid
+          item
+          xs={12}
+          md={2}
+          sx={{
+            borderRight: { xs: 'none', md: '1px solid #c8d1e0' },
+            borderBottom: { xs: '1px solid #c8d1e0', md: 'none' },
+            height: { md: '92vh' },
+            mb: { xs: 2, md: 0 }
+          }}
+        >
           <SearchableList onSelect={handleSelect} />
         </Grid>
-        <Grid item xs={10} sx={{ px: 2 }}>
+
+        <Grid
+          item
+          xs={12}
+          md={10}
+          sx={{ px: { xs: 0, md: 2 } }}
+        >
           <Details item={selected} type={type} handleRelated={handleRelated} />
         </Grid>
       </Grid>

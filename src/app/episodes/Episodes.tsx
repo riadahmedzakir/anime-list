@@ -1,4 +1,4 @@
-import { styled } from "@mui/material";
+import { Box, styled } from "@mui/material";
 import { DataGrid } from "@mui/x-data-grid";
 import { JSX, useEffect, useState } from "react";
 import { IEpisodeList } from "src/list-db/db.model";
@@ -80,39 +80,60 @@ const Episodes = (props: EpisodesProps): JSX.Element => {
         }
     }, [type])
 
-    return <StyledDataGrid
-        sx={{
-            width: '100%',
-            '& .super-app-theme--header': {
-                backgroundColor: '#000000',
-                color: '#ffffff'
-            },
-            '& .MuiDataGrid-cell': {
-                fontSize: { xs: '0.75rem', sm: '0.875rem', md: '1rem' },
-                padding: { xs: '4px', sm: '8px' },
-            },
-        }}
-        rows={rows}
-        columns={columns}
-        initialState={{
-            pagination: {
-                paginationModel: {
-                    pageSize: 13
-                },
-            },
-        }}
-        getRowHeight={() => 'auto'}
-        disableRowSelectionOnClick
-        disableColumnSorting
-        disableColumnResize
-        disableColumnMenu
-        hideFooterSelectedRowCount
-        density={"compact"}
-        isCellEditable={(params) => params.row.id !== rows.length}
-        getRowClassName={(params) =>
-            params.row.id === rows.length ? 'episode-list-table-row-last' : 'episode-list-table-row'
-        }
-    />
+    return (
+        <Box
+            sx={{
+                width: '100%',
+                overflowX: { xs: 'auto', md: 'visible' },
+                overflowY: { xs: 'auto', md: 'visible' },
+            }}
+        >
+            <StyledDataGrid
+                autoHeight
+                sx={{
+                    width: '100%',
+                    minWidth: '600px', // optional: sets a baseline for scroll
+                    '& .super-app-theme--header': {
+                        backgroundColor: '#000000',
+                        color: '#ffffff',
+                        fontSize: { xs: '0.75rem', sm: '0.875rem', md: '1rem' },
+                    },
+                    '& .MuiDataGrid-cell': {
+                        fontSize: { xs: '0.75rem', sm: '0.875rem', md: '1rem' },
+                        padding: { xs: '4px', sm: '6px', md: '8px' },
+                        wordBreak: 'break-word',
+                        whiteSpace: 'normal',
+                    },
+                    '& .MuiDataGrid-row': {
+                        maxHeight: 'none !important',
+                    },
+                }}
+                rows={rows}
+                columns={columns}
+                initialState={{
+                    pagination: {
+                        paginationModel: {
+                            pageSize: 13,
+                        },
+                    },
+                }}
+                getRowHeight={() => 'auto'}
+                disableRowSelectionOnClick
+                disableColumnSorting
+                disableColumnResize
+                disableColumnMenu
+                hideFooterSelectedRowCount
+                density="compact"
+                isCellEditable={(params) => params.row.id !== rows.length}
+                getRowClassName={(params) =>
+                    params.row.id === rows.length
+                        ? 'episode-list-table-row-last'
+                        : 'episode-list-table-row'
+                }
+            />
+        </Box>
+
+    )
 }
 
 export default Episodes;

@@ -1,7 +1,7 @@
 // import styles from './app.module.scss';
 
 import SearchIcon from '@mui/icons-material/Search';
-import { Box, Chip, FormControl, IconButton, InputAdornment, InputLabel, ListItem, ListItemButton, ListItemText, OutlinedInput, ToggleButton, ToggleButtonGroup, Typography } from "@mui/material";
+import { Box, Chip, FormControl, IconButton, InputAdornment, InputLabel, ListItem, ListItemButton, ListItemText, OutlinedInput, ToggleButton, ToggleButtonGroup, Tooltip, Typography } from "@mui/material";
 import { JSX, useState } from "react";
 import { FixedSizeList, ListChildComponentProps } from 'react-window';
 import { useContainerHeight } from './../../hooks/useContainerHeight';
@@ -97,18 +97,32 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
 
         return (
             <ListItem style={style} key={index} component="div" disablePadding>
-                <ListItemButton
-                    selected={selectedItem?.Title === item?.Title}
-                    onClick={() => handleSelect(item)}
+                <Tooltip title={item?.Title || ''} arrow>
+                    <ListItemButton
+                        selected={selectedItem?.Title === item?.Title}
+                        onClick={() => handleSelect(item)}
 
-                >
-                    <ListItemText primary={item?.Title} />
+                    >
 
-                    {
-                        item?.OnDvd ?
-                            <Chip size='small' label="DVD" color="primary" variant="outlined" /> : null
-                    }
-                </ListItemButton>
+                        <ListItemText primary={<Typography
+                            noWrap
+                            sx={{
+                                overflow: 'hidden',
+                                textOverflow: 'ellipsis',
+                                whiteSpace: 'nowrap',
+                                maxWidth: '100%',
+                            }}
+                        >
+                            {item?.Title}
+                        </Typography>} />
+
+                        {
+                            item?.OnDvd ?
+                                <Chip size='small' label="DVD" color="primary" variant="outlined" /> : null
+                        }
+
+                    </ListItemButton>
+                </Tooltip>
             </ListItem>
         );
     }
@@ -117,33 +131,41 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
         <>
             <PopOverFilter type={listType} onFilter={handleFilter} />
 
-            <ToggleButtonGroup exclusive size="small" color="primary" sx={{ width: '95%', m: 1 }} value={listType} onChange={handleListTypeChange}>
-                <ToggleButton value="anime" sx={{ flex: 1 }}>
-                    Anime
-                </ToggleButton>
-                <ToggleButton value="hentai" sx={{ flex: 1 }}>
-                    Hentai
-                </ToggleButton>
-                <ToggleButton value="3d" sx={{ flex: 1 }}>
-                    3D
-                </ToggleButton>
-                <ToggleButton value="games" sx={{ flex: 1 }}>
-                    Games
-                </ToggleButton>
+            <ToggleButtonGroup
+                exclusive
+                size="small"
+                color="primary"
+                value={listType}
+                onChange={handleListTypeChange}
+                sx={{
+                    width: '96.5%',
+                    my: 1,
+                    flexWrap: 'wrap',
+                    '& .MuiToggleButton-root': {
+                        flex: 1,
+                        minWidth: '25%',
+                    },
+                }}
+            >
+                <ToggleButton value="anime">Anime</ToggleButton>
+                <ToggleButton value="hentai">Hentai</ToggleButton>
+                <ToggleButton value="3d">3D</ToggleButton>
+                <ToggleButton value="games">Games</ToggleButton>
             </ToggleButtonGroup>
 
-            <FormControl sx={{ m: 1, width: '95%' }} variant="outlined">
+            <FormControl
+                variant="outlined"
+                size="small"
+                sx={{ width: '96.5%', my: 1 }}
+            >
                 <InputLabel htmlFor="anime-search">Search</InputLabel>
                 <OutlinedInput
                     id="anime-search"
-                    type={'text'}
-                    size="small"
+                    type="text"
                     onChange={handleSearch}
                     startAdornment={
                         <InputAdornment position="start">
-                            <IconButton
-                                edge="end"
-                            >
+                            <IconButton edge="end">
                                 <SearchIcon fontSize="small" />
                             </IconButton>
                         </InputAdornment>
@@ -151,17 +173,25 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
                     label="Search"
                 />
             </FormControl>
+
             <Typography sx={{ width: '96%', display: 'block' }} variant='caption' align='right'>
                 Total {list.length} items found
             </Typography>
+
             <Box
                 ref={containerRef}
-                sx={{ height: '80vh', width: '100%', bgcolor: 'background.paper' }}
+                sx={{
+                    height: { xs: 'calc(100vh - 500px)', md: '80vh' },
+                    width: '100%',
+                    mt: 1,
+                    overflow: 'auto',
+                    bgcolor: 'background.paper',
+                }}
             >
                 {containerHeight > 0 && (
                     <FixedSizeList
                         height={containerHeight}
-                        width="97%"
+                        width="96.5%"
                         itemSize={60}
                         itemCount={list.length}
                         itemData={list}
