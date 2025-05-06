@@ -2,13 +2,16 @@
 
 import { Grid } from "@mui/material";
 import { JSX, useState } from "react";
+import { AnimeList } from "../../list-db/anime-list.db";
+import { IList } from "../../list-db/db.model";
+import Details from "../details/Details";
 import SearchableList from "../searchable-list/SearchableList";
 import TopBar from "../top-bar/TopBar";
-import Details from "../details/Details";
-import { IList } from "../../list-db/db.model";
-import { AnimeList } from "../../list-db/anime-list.db";
+import { useLock } from "./../../hooks/useLockContext";
 
 const Home = (): JSX.Element => {
+  const { locked } = useLock();
+
   const [selected, setSelected] = useState<IList>();
   const [type, setType] = useState<string>('anime');
 
@@ -39,7 +42,7 @@ const Home = (): JSX.Element => {
             mb: { xs: 2, md: 0 }
           }}
         >
-          <SearchableList onSelect={handleSelect} />
+          <SearchableList onSelect={handleSelect} locked={locked} />
         </Grid>
 
         <Grid

@@ -88,16 +88,18 @@ const Details = (props: DetailstProps): JSX.Element => {
                                 <Typography variant="button" display="block" gutterBottom>
                                     Related items
                                 </Typography>
-                                {item.Related.map((x) => (
-                                    <Card key={x.Title} sx={{ mb: 1 }} onClick={() => handleRelated(x.Title)}>
-                                        <CardActionArea>
-                                            <CardContent>
-                                                <Typography variant="caption">{x.Type}</Typography>
-                                                <Typography variant="subtitle1">{x.Title}</Typography>
-                                            </CardContent>
-                                        </CardActionArea>
-                                    </Card>
-                                ))}
+                                {
+                                    item.Related.map((x) => (
+                                        <Card key={x.Title} sx={{ mb: 1 }} onClick={() => handleRelated(x.Title)}>
+                                            <CardActionArea>
+                                                <CardContent>
+                                                    <Typography variant="caption">{x.Type}</Typography>
+                                                    <Typography variant="subtitle1">{x.Title}</Typography>
+                                                </CardContent>
+                                            </CardActionArea>
+                                        </Card>
+                                    ))
+                                }
                             </Grid>
                         ) : (
                             <Grid item xs={false} md={3} sx={{ order: { xs: 1, md: 2 } }}></Grid>

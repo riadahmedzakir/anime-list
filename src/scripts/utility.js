@@ -24,7 +24,7 @@ const genres = [...document.querySelectorAll(".tags a")]
     .filter(genre =>
         !excludedGenres.includes(genre) &&  // Exclude specified genres
         !/^\d{4}$/.test(genre) // Exclude years (e.g., 1999, 2024)
-    );
+    ).sort();
 
 const jsonString = JSON.stringify(genres, null);
 console.log(jsonString);

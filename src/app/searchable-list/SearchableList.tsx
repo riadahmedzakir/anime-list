@@ -4,17 +4,17 @@ import SearchIcon from '@mui/icons-material/Search';
 import { Box, Chip, FormControl, IconButton, InputAdornment, InputLabel, ListItem, ListItemButton, ListItemText, OutlinedInput, ToggleButton, ToggleButtonGroup, Tooltip, Typography } from "@mui/material";
 import { JSX, useState } from "react";
 import { FixedSizeList, ListChildComponentProps } from 'react-window';
-import { useContainerHeight } from './../../hooks/useContainerHeight';
 import { EdList } from "../../list-db/3d-list.db";
 import { AnimeList } from "../../list-db/anime-list.db";
 import { IList } from "../../list-db/db.model";
 import { GameList } from "../../list-db/games-list.db";
 import { HentaiList } from "../../list-db/hentai-list.db";
+import { useContainerHeight } from './../../hooks/useContainerHeight';
 import PopOverFilter from './PopOverFilter';
 import { SearchableListProps } from './SearchableList.props';
 
 const SearchableList = (props: SearchableListProps): JSX.Element => {
-    const { onSelect } = props;
+    const { locked, onSelect } = props;
 
     const [selectedList, setSelectedList] = useState<Array<IList>>(AnimeList);
     const [list, setList] = useState<Array<IList>>(selectedList);
@@ -97,7 +97,7 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
 
         return (
             <ListItem style={style} key={index} component="div" disablePadding>
-                <Tooltip title={item?.Title || ''} arrow>
+                <Tooltip title={item?.Title || ''} placement='top-start' arrow>
                     <ListItemButton
                         selected={selectedItem?.Title === item?.Title}
                         onClick={() => handleSelect(item)}
@@ -147,10 +147,16 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
                     },
                 }}
             >
-                <ToggleButton value="anime">Anime</ToggleButton>
-                <ToggleButton value="hentai">Hentai</ToggleButton>
-                <ToggleButton value="3d">3D</ToggleButton>
-                <ToggleButton value="games">Games</ToggleButton>
+                {
+                    !locked ?
+                        <>
+                            <ToggleButton value="anime">Anime</ToggleButton>
+                            <ToggleButton value="hentai">Hentai</ToggleButton>
+                            <ToggleButton value="3d">3D</ToggleButton>
+                            <ToggleButton value="games">Games</ToggleButton>
+                        </> : null
+                }
+
             </ToggleButtonGroup>
 
             <FormControl
