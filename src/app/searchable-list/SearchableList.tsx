@@ -7,7 +7,7 @@ import { FixedSizeList, ListChildComponentProps } from 'react-window';
 import { EdList } from "../../list-db/3d-list.db";
 import { AnimeList } from "../../list-db/anime-list.db";
 import { IList } from "../../list-db/db.model";
-import { GameList } from "../../list-db/games-list.db";
+import { AnimationList } from "../../list-db/animation-list.db";
 import { HentaiList } from "../../list-db/hentai-list.db";
 import { useContainerHeight } from './../../hooks/useContainerHeight';
 import PopOverFilter from './PopOverFilter';
@@ -78,10 +78,10 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
                 setList(EdList);
                 setListType(`3d`);
                 break;
-            case 'games':
-                setSelectedList(GameList);
-                setList(GameList);
-                setListType(`games`);
+            case 'animation':
+                setSelectedList(AnimationList);
+                setList(AnimationList);
+                setListType(`animation`);
                 break;
             default:
                 setSelectedList(AnimeList);
@@ -131,33 +131,32 @@ const SearchableList = (props: SearchableListProps): JSX.Element => {
         <>
             <PopOverFilter type={listType} onFilter={handleFilter} />
 
-            <ToggleButtonGroup
-                exclusive
-                size="small"
-                color="primary"
-                value={listType}
-                onChange={handleListTypeChange}
-                sx={{
-                    width: '96.5%',
-                    my: 1,
-                    flexWrap: 'wrap',
-                    '& .MuiToggleButton-root': {
-                        flex: 1,
-                        minWidth: '25%',
-                    },
-                }}
-            >
-                {
-                    !locked ?
-                        <>
-                            <ToggleButton value="anime">Anime</ToggleButton>
-                            <ToggleButton value="hentai">Hentai</ToggleButton>
-                            <ToggleButton value="3d">3D</ToggleButton>
-                            <ToggleButton value="games">Games</ToggleButton>
-                        </> : null
-                }
+            {
+                !locked ?
+                    <ToggleButtonGroup
+                        exclusive
+                        size="small"
+                        color="primary"
+                        value={listType}
+                        onChange={handleListTypeChange}
+                        sx={{
+                            width: '96.5%',
+                            my: 1,
+                            flexWrap: 'wrap',
+                            '& .MuiToggleButton-root': {
+                                flex: 1,
+                                minWidth: '25%',
+                            },
+                        }}
+                    >
 
-            </ToggleButtonGroup>
+                        <ToggleButton value="anime">Anime</ToggleButton>
+                        <ToggleButton value="hentai">Hentai</ToggleButton>
+                        <ToggleButton value="3d">3D</ToggleButton>
+                        <ToggleButton value="animation">Animation</ToggleButton>
+
+                    </ToggleButtonGroup> : null
+            }
 
             <FormControl
                 variant="outlined"

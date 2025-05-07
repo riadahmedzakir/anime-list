@@ -5,7 +5,7 @@ import { Button, ButtonGroup, Chip, Divider, Fade, Grid, IconButton, Paper, Popp
 import { JSX, useEffect, useState } from "react";
 import { EdList } from '../../list-db/3d-list.db';
 import { AnimeList } from '../../list-db/anime-list.db';
-import { GameList } from '../../list-db/games-list.db';
+import { AnimationList } from '../../list-db/animation-list.db';
 import { HentaiList } from '../../list-db/hentai-list.db';
 import { PopOverFilterProps } from './PopOverFilter.props';
 
@@ -55,9 +55,9 @@ const PopOverFilter = (props: PopOverFilterProps): JSX.Element => {
                 setGenres([...new Set(EdList.flatMap(anime => anime.Genre))].sort());
                 setThemes([...new Set(EdList.flatMap(anime => anime.Theme))].sort());
                 break;
-            case 'games':
-                setGenres([...new Set(GameList.flatMap(anime => anime.Genre))].sort());
-                setThemes([...new Set(GameList.flatMap(anime => anime.Theme))].sort());
+            case 'animation':
+                setGenres([...new Set(AnimationList.flatMap(anime => anime.Genre))].sort());
+                setThemes([...new Set(AnimationList.flatMap(anime => anime.Theme))].sort());
                 break;
             default:
                 setGenres([...new Set(AnimeList.flatMap(anime => anime.Genre))].sort());
@@ -150,31 +150,36 @@ const PopOverFilter = (props: PopOverFilterProps): JSX.Element => {
                                         </Grid>
                                     </Grid>
 
-                                    <Typography variant='body2' fontWeight={'bold'} sx={{ mt: 1 }}>
-                                        Filter by Genre
-                                    </Typography>
-                                    <Divider sx={{ mb: 1 }} />
+                                    {
+                                        type == 'anime' || type == 'hentai' ?
+                                            <>
+                                                <Typography variant='body2' fontWeight={'bold'} sx={{ mt: 1 }}>
+                                                    Filter by Genre
+                                                </Typography>
+                                                <Divider sx={{ mb: 1 }} />
 
-                                    <Grid container spacing={1}>
-                                        {
-                                            genres.map(x => (
-                                                <Grid key={x} item>
-                                                    <Chip
-                                                        size="small"
-                                                        label={x}
-                                                        variant="outlined"
-                                                        sx={{
-                                                            height: 30,
-                                                            minWidth: 60,
-                                                            borderRadius: 0,
-                                                            fontSize: '0.875rem',
-                                                        }}
-                                                        onClick={() => handleFilter(`genre`, x)}
-                                                    />
+                                                <Grid container spacing={1}>
+                                                    {
+                                                        genres.map(x => (
+                                                            <Grid key={x} item>
+                                                                <Chip
+                                                                    size="small"
+                                                                    label={x}
+                                                                    variant="outlined"
+                                                                    sx={{
+                                                                        height: 30,
+                                                                        minWidth: 60,
+                                                                        borderRadius: 0,
+                                                                        fontSize: '0.875rem',
+                                                                    }}
+                                                                    onClick={() => handleFilter(`genre`, x)}
+                                                                />
+                                                            </Grid>
+                                                        ))
+                                                    }
                                                 </Grid>
-                                            ))
-                                        }
-                                    </Grid>
+                                            </> : null
+                                    }
 
                                     {
                                         type == 'anime' ?

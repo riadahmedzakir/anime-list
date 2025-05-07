@@ -12,3 +12,10 @@ body {
 ::-webkit-scrollbar {
     display: none;
 }
+
+.slider-wrapper {
+    img {
+        height: 78vh !important;
+        object-fit: fill;
+    }
+}

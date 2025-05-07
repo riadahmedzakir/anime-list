@@ -8,6 +8,7 @@ export interface IList {
     Genre: Array<string>;
     Theme: Array<string>;
     Cover: string;
+    ScreenShots?: Array<string>;
     IsAdultRated?: boolean;
     OnDvd?: boolean;
     Related: Array<IRelatedAnime>;
