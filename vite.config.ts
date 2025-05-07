@@ -22,6 +22,7 @@ export default defineConfig({
   // },
   build: {
     outDir: './docs',
+    minify: 'terser',
     emptyOutDir: true,
     reportCompressedSize: true,
     commonjsOptions: {
