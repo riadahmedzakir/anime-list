@@ -26,7 +26,7 @@ const Details = (props: DetailstProps): JSX.Element => {
                                 </Grid>
                                 {item.IsAdultRated && (
                                     <Grid item>
-                                        <Avatar sx={{ width: 30, height: 30 }} src="18-plus.svg" />
+                                        <Avatar sx={{ width: 30, height: 30 }} src={`./${import.meta.env.BASE_URL}/18-plus.svg`} />
                                     </Grid>
                                 )}
                             </Grid>
